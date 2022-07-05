@@ -32,3 +32,9 @@ The younger siblings to the Lecture Theatre, Seminar rooms 1 & 2 are finished wi
 Each room comes equipped with a Multimedia LCD projector on a 2-metre wide projection screen that can be synchronised when used as a larger room for 160 pax. 1 wired microphone on a 4-channel integrated mixer with ceiling speakers is also included in each room.
 
 **Cinnamon, Nutmeg & Tamarind Rooms (affectionately known as Spice Rooms)**
+
+![](/images/Cinnamon.jpg)
+
+dining spaces for families, or exhibition spaces for corporate gatherings. For a small group event of about 20 to 30 pax, the operable walls can be drawn to divide the rooms so that the other rooms can be used by others at the same time. These dividers are sound-proofed to provide a conducive meeting place for friends and families.
+
+Each room is equipped with a ceiling-mounted LCD projector combined with a concealed projection screen. Wireless mics and portable p.a. systems are also available upon request.
