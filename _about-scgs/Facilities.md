@@ -136,3 +136,13 @@ The Hall can also be converted into 3 number of competition standard badminton c
 **Sports Facilities**
 
 **Gymnasium**
+
+![](/images/Rhythmic-Gym-Floor.jpg)
+
+The grand Gymnastic Hall is the perfect arena for all your sporting event! Robustly constructed with cushioned hardwood flooring for maximum lower body protection to the gymnasts. Fully equipped to meet all your needs for a multitude of floor disciplines. It is replete with trampolines, horizontal bars, uneven bars, vault, elevated mats and balance beams.
+
+_Bookings shall be for exclusive usage of the whole gymnastic hall and not per apparatus._
+
+**Indoor Sports Hall**
+
+![](/images/ISH.jpg)
