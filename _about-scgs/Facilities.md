@@ -65,3 +65,9 @@ Not to be outdone by her sister, the Dance Studio 2 beauty with a floor area of 
 
 **Dance Studio 3**
 
+![](/images/Dance-Studio-3.jpg)
+
+The little sister of the Dance Studio 1 and 2, this quaint lass of a floor area of 42m2 provides the perfect intimate rehearsal space for a small group private individual coaching. Like Dance Studio 1 and 2, she is fully equipped with full length mirrors with ballet barres mounted on the 2 walls, hardwood sprung flooring and a baby grand piano.
+
+**Khoo Auditorium**
+
