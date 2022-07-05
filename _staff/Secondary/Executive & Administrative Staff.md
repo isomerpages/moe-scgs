@@ -25,14 +25,14 @@ third_nav_title: Secondary
 | **Counsellor** 	|  	|
 | School Counsellor 	| [Miss Julie Wee](mailto:counsellor@sec.scgs.edu.sg)<br><br>[Ms Charissa Tan](mailto:tan_mao_ning_charissa@moe.edu.sg)<br><br>[Ms Teo Bee Khim](mailto:teo_bee_khim_a@moe.edu.sg) 	|
 | **Finance** 	|  	|
-| Senior Manager (Finance) 	| Ms Amber Chan 	|
-| Assistant Manager (Finance) 	| Miss Regina Ong 	|
-| Executive (Finance) 	| Mdm Irene Tan<br><br>Ms Irene Soh 	|
+| Senior Manager (Finance) 	| [Ms Amber Chan](mailto:chen_you_amber@moe.edu.sg) 	|
+| Assistant Manager (Finance) 	| [Miss Regina Ong](mailto:regina_ong_hui_kheng@moe.edu.sg) 	|
+| Executive (Finance) 	| [Mdm Irene Tan](mailto:tan_boon_hong@moe.edu.sg)<br><br>[Ms Irene Soh](mailto:cosic_soh_irene@moe.edu.sg)|
 | **ICT** 	|  	|
-| Manager (ICT) 	| Mr Zheng Minghui 	|
-| Educator (ICT) 	| Miss Rosziana Rossley 	|
-| Specialist (ICT) 	| Mr Wong Hong Yeow 	|
-| Technical Officer (ICT) 	| Ms Premla Devi 	|
+| Manager (ICT) 	| [Mr Zheng Minghui](mailto:zheng_minghui_a@moe.edu.sg) 	|
+| Educator (ICT) 	| [Miss Rosziana Rossley](mailto:rosziana_bibi_rossley@moe.edu.sg) 	|
+| Specialist (ICT) 	| [Mr Wong Hong Yeow](mailto:wong_hong_yeow@moe.edu.sg) 	|
+| Technical Officer (ICT) 	| [Ms Premla Devi](mailto:Premladevir@ncs.com.Sg) 	|
 | **Library** 	|  	|
 | Senior Librarian 	| Mrs Florence Phuah 	|
 | Librarian 	| Miss Jesmine Goh 	|
@@ -49,4 +49,4 @@ third_nav_title: Secondary
 
 
 
-*Aesthetics / PE / CCA**Subject Head (Dance)[Ms Vanessa Dewi](mailto:harijanto_vanessa_dewi@moe.edu.sg)Dance Administrative Executive[Ms Rebekah Yeo](mailto:rebekah_yeo@moe.edu.sg)**Counsellor**School Counsellor[Miss Julie Wee](mailto:counsellor@sec.scgs.edu.sg)[Ms Charissa Tan](mailto:tan_mao_ning_charissa@moe.edu.sg)[Ms Teo Bee Khim](mailto:teo_bee_khim_a@moe.edu.sg)**Finance**Senior Manager (Finance)[Ms Amber Chan](mailto:chen_you_amber@moe.edu.sg)Assistant Manager (Finance)[Miss Regina Ong](mailto:regina_ong_hui_kheng@moe.edu.sg)Executive (Finance)[Mdm Irene Tan](mailto:tan_boon_hong@moe.edu.sg)[Ms Irene Soh](mailto:cosic_soh_irene@moe.edu.sg)**ICT**Manager (ICT)[Mr Zheng Minghui](mailto:zheng_minghui_a@moe.edu.sg)Educator (ICT)[Miss Rosziana Rossley](mailto:rosziana_bibi_rossley@moe.edu.sg)Specialist (ICT)[Mr Wong Hong Yeow](mailto:wong_hong_yeow@moe.edu.sg)Technical Officer (ICT)[Ms Premla Devi](mailto:Premladevir@ncs.com.Sg)**Library**Senior Librarian[Mrs Florence Phuah](mailto:florence_phuah@moe.edu.sg)Librarian[Miss Jesmine Goh](mailto:ChengHoon.Goh@staff.spydus.com.sg)**Operations**Senior Manager (Operations)[Mrs Elaine Tan](mailto:ee_chwee_ming_elaine@moe.edu.sg)Senior Technical Specialist (Operations)[Mr Md Mulyani](mailto:mohamed_mulyani_samuri@moe.edu.sg)[Mr Kelvin Tan](mailto:kelvin_tan_chin_wee@moe.edu.sg)**Science Lab**Senior Specialist (Science Lab)[Miss Lee Yee Mei](mailto:lee_yee_mei@moe.edu.sg)Specialist (Science Lab)[Mr Andy Long](mailto:long_shijun_andy@moe.edu.sg)[Miss Lee Si Kai](mailto:lee_si_kai@moe.edu.sg)[Miss Aidah](mailto:%20nuraidah_abdul_rahim@moe.edu.sg)Attendant (Science Lab)[Mdm Lim Bee Lean](mailto:lim_bee_lean@sec.scgs.edu.sg)**Teacher Aides**Teacher Aide[Ms Rose Wisidagama](mailto:rose_wisidagama@moe.edu.sg)[Miss Koh Hwee Koon](mailto:koh_hwee_koon_a@moe.edu.sg)
+Senior Librarian[Mrs Florence Phuah](mailto:florence_phuah@moe.edu.sg)Librarian[Miss Jesmine Goh](mailto:ChengHoon.Goh@staff.spydus.com.sg)**Operations**Senior Manager (Operations)[Mrs Elaine Tan](mailto:ee_chwee_ming_elaine@moe.edu.sg)Senior Technical Specialist (Operations)[Mr Md Mulyani](mailto:mohamed_mulyani_samuri@moe.edu.sg)[Mr Kelvin Tan](mailto:kelvin_tan_chin_wee@moe.edu.sg)**Science Lab**Senior Specialist (Science Lab)[Miss Lee Yee Mei](mailto:lee_yee_mei@moe.edu.sg)Specialist (Science Lab)[Mr Andy Long](mailto:long_shijun_andy@moe.edu.sg)[Miss Lee Si Kai](mailto:lee_si_kai@moe.edu.sg)[Miss Aidah](mailto:%20nuraidah_abdul_rahim@moe.edu.sg)Attendant (Science Lab)[Mdm Lim Bee Lean](mailto:lim_bee_lean@sec.scgs.edu.sg)**Teacher Aides**Teacher Aide[Ms Rose Wisidagama](mailto:rose_wisidagama@moe.edu.sg)[Miss Koh Hwee Koon](mailto:koh_hwee_koon_a@moe.edu.sg)
