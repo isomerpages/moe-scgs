@@ -9,3 +9,6 @@ description: ""
 
 #### **Shaky but Courageous Beginnings (1899-1939)**
 
+
+<img src="/images/1-2.jpg" 
+     style="width:25%">
