@@ -54,16 +54,16 @@ third_nav_title: Primary
 |  	| Courage 	| [Miss Marina Saruwan](mailto:marina_saruwan@moe.edu.sg) 	| [Miss Ko Guat Hua](mailto:ko_guat_hua@moe.edu.sg) 	|
 |  	| Generosity 	| [Mrs Kristene Ong](mailto:kristene_chan_yan_jun@moe.edu.sg) 	| [Mrs Lee Xiang Jun](mailto:heng_xiang_jun@moe.edu.sg) 	|
 |  	| Service 	| [Mrs Angelina Eu](mailto:low_shu_ling_angelina@moe.edu.sg) 	| [Miss Chua Voon Siew](mailto:chua_voon_siew@moe.edu.sg) 	|
-|  	| Prudence 	| Mrs Eng Ke-Ying 	| Miss Wong See Wan 	|
-| **Primary 6** 	| Sincerity 	| Mrs Sheralyn Lim 	| Ms Leng Yip, Jean 	|
-|  	| Courage 	| Mdm Faridah Yunos 	| Mdm Gao Ru 	|
-|  	| Generosity 	| Ms Durrat Salleh 	| Miss Tan Mei Yin 	|
-|  	| Service 	| Miss Koh Yee Sung 	| Mdm Xiang Wenjuan 	|
-|  	| Prudence 	| Mrs Marion Tan 	| Mdm Prema Suresh 	|
-| **Learning Support<br>Co-ordinator** 	|  	| Mrs Marion Tan 	|  	|
-| **Counsellor** 	|  	| Ms Lee Guat Keow 	| Ms Yeow Mei Mei Susan 	|
-| **AED (Learning & Behavioural Support)** 	|  	| Miss Tay Shi Li<br><br>Mdm Jasima Afreen<br>Miss Lim Jing Fen 	|  	|
-| **AED (Teaching & Learning)** 	|  	| Mdm Sarimah Sarif<br><br>Mdm Nurhafizah Fadzilah 	|  	|
+|  	| Prudence 	| [Mrs Eng Ke-Ying](mailto:chua_ke_ying@moe.edu.sg) 	| [Miss Wong See Wan](mailto:wong_see_wan@moe.edu.sg) 	|
+| **Primary 6** 	| Sincerity 	| [Mrs Sheralyn Lim](mailto:koo_lu-ming_sheralyn@moe.edu.sg) 	| [Ms Leng Yip, Jean](mailto:leng_yip_jean@moe.edu.sg) 	|
+|  	| Courage 	| [Mdm Faridah Yunos](mailto:faridah_yunos@moe.edu.sg) 	| [Mdm Gao Ru](mailto:gao_ru@moe.edu.sg) 	|
+|  	| Generosity 	| [Ms Durrat Salleh](mailto:durrat_salleh@moe.edu.sg) 	| [Miss Tan Mei Yin](mailto:tan_mei_yin_a@moe.edu.sg) 	|
+|  	| Service 	| [Miss Koh Yee Sung](mailto:koh_yee_sung@moe.edu.sg) 	| [Mdm Xiang Wenjuan](mailto:xiang_wenjuan@moe.edu.sg) 	|
+|  	| Prudence 	|[Mrs Marion Tan](mailto:marion_winings@moe.edu.sg) 	| [Mdm Prema Suresh](mailto:prema_prabhakaran@moe.edu.sg) 	|
+| **Learning Support<br>Co-ordinator** 	|  	| [Mrs Marion Tan](mailto:marion_winings@moe.edu.sg) 	|  	|
+| **Counsellor** 	|  	| [Ms Lee Guat Keow](mailto:lee_guat_keow@moe.edu.sg) 	| [Ms Yeow Mei Mei Susan](mailto:yeow_mei_mei_susan@moe.edu.sg) 	|
+| **AED (Learning & Behavioural Support)** 	|  	| [Miss Tay Shi Li](mailto:tay_shi_li@moe.edu.sg)<br><br>[Mdm Jasima Afreen](mailto:jasima_afreen@moe.edu.sg)<br><br>[Miss Lim Jing Fen](mailto:lim_jing_fen@moe.edu.sg) 	|  	|
+| **AED (Teaching & Learning)** 	|  	| [Mdm Sarimah Sarif](mailto:sarimah_sarif@moe.edu.sg)<br><br>[Mdm Nurhafizah Fadzilah](mailto:nurhafizah_haris_fadzilah@moe.edu.sg) 	|  	|
 
 
 mailto:lim_xue_li_sandy@moe.edu.sg
