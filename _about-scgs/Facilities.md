@@ -59,3 +59,9 @@ Styled after the Greek open air theatre, the SCGS amphitheatre is a favourite ve
 
 **Dance Studio 2**
 
+![](/images/Dance-Studio-2-5.jpg)
+
+Not to be outdone by her sister, the Dance Studio 2 beauty with a floor area of 397 m2 boasts of a panoramic view looking out to the school grounds to see lush rows of pine trees and the endearing sights of the primary school girls through the full length French bay windows. Be enlivened by the warm shafts of light that stream in to the room to render an enchanting ambience for your dance classes of that invigorating workout session. She comes fully replete with a baby grand piano, a PA system with wall mounted full range speakers and CD/DVD player.
+
+**Dance Studio 3**
+
