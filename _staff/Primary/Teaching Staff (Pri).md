@@ -64,3 +64,9 @@ third_nav_title: Primary
 | **Counsellor** 	|  	| [Ms Lee Guat Keow](mailto:lee_guat_keow@moe.edu.sg) 	| [Ms Yeow Mei Mei Susan](mailto:yeow_mei_mei_susan@moe.edu.sg) 	|
 | **AED (Learning & Behavioural Support)** 	|  	| [Miss Tay Shi Li](mailto:tay_shi_li@moe.edu.sg)<br><br>[Mdm Jasima Afreen](mailto:jasima_afreen@moe.edu.sg)<br><br>[Miss Lim Jing Fen](mailto:lim_jing_fen@moe.edu.sg) 	|  	|
 | **AED (Teaching & Learning)** 	|  	| [Mdm Sarimah Sarif](mailto:sarimah_sarif@moe.edu.sg)<br><br>[Mdm Nurhafizah Fadzilah](mailto:nurhafizah_haris_fadzilah@moe.edu.sg) 	|  	|
+
+
+| NON-FORM TEACHERS 	|
+|---	|
+| [Mrs Cindy Teo](mailto:cindy_thia_lay_ting@moe.edu.sg)<br>[Mrs Wendy Chin](mailto:quek_siew_cheng@moe.edu.sg)<br>[Ms Susanne Loh](mailto:hee_seok_lan@moe.edu.sg)<br>[Mrs Maran]("mailto:sokumaran_marimuthu@moe.edu.sg) 	|
+
