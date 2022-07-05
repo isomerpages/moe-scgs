@@ -23,3 +23,50 @@ third_nav_title: Achievements
 | Wong Huiwen Denise (Sec) 	| 2000 	|
 | Ko Qianwen Stephanie (Sec) 	| 2007 	|
 | Gan Su Yi (Sec) 	| 2009 	|
+
+### Past Scholars (Local & Overseas)
+
+| Name 	| Year 	|
+|---	|---	|
+| Lim Hoon Geok (Sec) 	| 1977 	|
+| Koh Cheng Kim Karen (Sec) 	| 1979 	|
+| Owi Beng Ki Nee Lim (Sec) 	| 1979 	|
+| Cheong Lai Leng (Sec) 	| 1980 	|
+| Goh Soon Poh (Sec) 	| 1981 	|
+| Liew Gek Lian Carol Lynn (Sec) 	| 1981 	|
+| Tan Sian Ann (Sec) 	| 1981 	|
+| Lim Siu Tin Serene (Sec) 	| 1981 	|
+| Leong Kum Mei Susan (Sec) 	| 1982 	|
+| Chia Peck Kit Peggy (Sec) 	| 1982 	|
+| Yong Ying-I (Sec) 	| 1982 	|
+| Ow Foong Pheng (Sec) 	| 1983 	|
+| Goh Lai Yan. Andress (Sec) 	| 1983 	|
+| Tan Chiu Ching, Nina (Sec) 	| 1984 	|
+| Chong Suet Ling (Sec) 	| 1987 	|
+| Thean Pik Yuen, Valerie (Sec) 	| 1988 	|
+| Yip Li-Yan Dawn (Sec) 	| 1990 	|
+| Khoo Ming Fern (Sec) 	| 1992 	|
+| Poh Mae-Jean, Jacqueline (Sec) 	| 1994 	|
+| Lye Wei Fang (Sec) 	| 1997 	|
+| Quek Su Ying (Sec) 	| 1997 	|
+| Kwok Yuen Fong, Sabrina (Sec) 	| 1998 	|
+| Tang Gek Hsien (Sec) 	| 1988 	|
+| Khoo Ming Melissa (Sec) 	| 1999 	|
+| Wong Hui Wen Denis (Sec) 	| 2000 	|
+| Leong Oi Kheng, Adeline (Sec) 	| 2000 	|
+| Ho Su Mei (Sec) 	| 2001 	|
+| Tan Yi-Lui Diane (Sec) 	| 2001 	|
+| Shum Pei Ling Sheryl (Sec) 	| 2001 	|
+| Lee Pei San Pamela (Sec) 	| 2001 	|
+| Lee Cher Farn (Sec) 	| 2002 	|
+| Tee Evelyn (Sec) 	| 2002 	|
+| Yuan Jiayu Daphne (Sec) 	| 2003 	|
+| Chin Siew Ling April (Sec) 	| 2005 	|
+| Tan Hui Xin (Sec) 	| 2005 	|
+| Ko Qianwen Stephanie (Sec) 	| 2007 	|
+| Pang Xueqin Jasmine (Sec) 	| 2007 	|
+| Loh Hui Min (Sec) 	| 2008 	|
+| Gan Su Yi (Sec) 	| 2009 	|
+| Poh Jia Yin Nicole Evangeline (Sec) 	| 2010 	|
+| Lim Wan Rong Cheryl (Sec) 	| 2012 	|
+| Quek Jia Hui (Sec) 	| 2013 	|
