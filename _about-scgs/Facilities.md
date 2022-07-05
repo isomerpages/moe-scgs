@@ -92,3 +92,22 @@ The Sound Reinforcement System is also newly upgraded with 2 wall-mounted front 
 Other accessories such as wireless handheld mics, clip-on mics, head-worn mics, pcc boundary mics, hanging condenser mics, etc. are available upon request.
 
 **Serai Rooms 1,2 & 3**
+
+![](/images/Serai-1-4.jpg)
+
+![](/images/Serai-2.jpg)
+
+![](/images/Serai-3.jpg)
+
+The youngest additions to the family – Serai Rooms 1, 2 and 3 are quaint, intimate spaces in the Creative Arts Hub. Beautifully finished in hardwood sprung floor and equipped with mirrors and ballet barres mounted on 1 side of the walls, these rooms are ideal for dance or aerobics classes. The operable walls dividing these rooms can be folded to accommodate 130 to 160 pax with a total area of 462 m2 for large group events/activities. These 3 creative spaces can seat the following capacity.
+
+Serai Rm 1 is 93 m2 (30 pax max capacity)
+
+Serai Rm 2 is 144 m2 (40 pax max capacity)
+
+Serai Rm 3 is 225 m2 (60 pax max capacity)
+
+**HALIA ROOMS 1, 2 & 3**
+
+These are newly built fully air-conditioned rooms in the Creative Arts Hub that are beautifully finished in hardwood sprung floor and equipped with mirrors and ballet barres mounted on 1 side of the walls suitable for dance or aerobics classes. The operable walls dividing these rooms can be folded to accommodate 100 to 115 pax with a total area of 470 m2 for a large group events/activities. For small group activities, please refer to list below:
+
