@@ -2,6 +2,7 @@ collections:
   about-scgs:
     output: true
     order:
+      - Achievements/Secondary.md
       - Achievements/Achievements.md
       - Achievements/.keep
       - Schools Rules and Regulations.md
