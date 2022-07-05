@@ -3,4 +3,10 @@ title: Board of Directors
 permalink: /our-people/board-of-directors/
 description: ""
 ---
+# **Board of Directors**
 
+### **Chairman:**
+
+<img src="/images/Ms-Jennie-Chua-200x300.jpg" 
+     style="width:25%">
+<center> Ms Jennie Chua</center>
