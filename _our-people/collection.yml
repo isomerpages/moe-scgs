@@ -2,4 +2,5 @@ collections:
   our-people:
     output: true
     order:
+      - Parents/Parent Volunteer Application Form 2022.md
       - Parents/.keep
