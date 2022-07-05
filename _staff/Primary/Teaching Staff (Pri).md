@@ -28,9 +28,9 @@ third_nav_title: Primary
 
 | **LEVEL** 	| CLASS 	| FORM TEACHERS 	| CO-FORM TEACHERS 	|
 |---	|---	|---	|---	|
-| **Primary 1** 	| Sincerity 	| Miss Sandy Lim 	| Miss Yeo Pei Kei 	|
-|  	| Courage 	| Miss Valerie Ng Suying 	| Mrs Cleo Ng 	|
-|  	| Generosity 	| Miss Alice Sit Yim Hwa 	| Mdm Norhariya Bte Anizar 	|
+| **Primary 1** 	| Sincerity 	| [Miss Sandy Lim](mailto:lim_xue_li_sandy@moe.edu.sg) 	| [Miss Yeo Pei Kei](mailto:yeo_pei_kei@moe.edu.sg) 	|
+|  	| Courage 	| [Miss Valerie Ng Suying](mailto:valerie_ng_suying@moe.edu.sg) 	| [Mrs Cleo Ng](mailto:wong_yuin_ping_cleo@moe.edu.sg) 	|
+|  	| Generosity 	| [Miss Alice Sit Yim Hwa](mailto:sit_yim_hwa@moe.edu.sg) 	| [Mdm Norhariya Bte Anizar](mailto:norhariya_anizar@moe.edu.sg) 	|
 |  	| Service 	| Mdm Tan Bee Yong 	| Ms Zhang_Mengjie 	|
 |  	| Prudence 	| Mrs Tan Yan Ping 	| Mdm Liu Ting Ting<br>Mrs Gina Lim 	|
 |  	| Grace 	| Miss Nur Nadiah 	| Miss Chong Wei Yan 	|
