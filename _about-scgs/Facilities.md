@@ -3,7 +3,6 @@ title: Facilities
 permalink: /about-scgs/facilities/
 description: ""
 ---
-
 # **Facilities**
 
 Enter into the unique world of Singapore Chinese Girls’ School. Experience this special place and relish the rich and glorious heritage of all of its 121 years – be charmed by the vibrant floral-motif Peranakan tiles, the inviting swings, a Peranakan Spice Garden and be inspired by the majestic blocks named after our founding fathers.
@@ -54,4 +53,9 @@ Styled after the Greek open air theatre, the SCGS amphitheatre is a favourite ve
 
  **Dance Studio 1**
  
+ ![](/images/Dance-Stuio-1.jpg)
  
+ Replete with full length mirrors with ballet barres mounted on all her walls, this lovely Dance Studio lass provides 216m2 of hardwood sprung flooring with lay-on Harlequin dance mats to provide any ballerina the perfect pit to do her _pirouette_ to the tinkling of melodious strains that can be played on a baby grand piano. She is also the perfect practice room for either dance or aerobics lessons where the pulsating beat can be projected through the PA system with wall-mounted full range speakers or through the CD/DVD player.
+
+**Dance Studio 2**
+
