@@ -2,6 +2,7 @@ collections:
   about-scgs:
     output: true
     order:
+      - Achievements/Achievements.md
       - Achievements/.keep
       - Schools Rules and Regulations.md
       - Financial Information/Audited Information.md
