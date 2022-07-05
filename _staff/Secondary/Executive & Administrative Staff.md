@@ -45,3 +45,4 @@ third_nav_title: Secondary
 | Attendant (Science Lab) 	| [Mdm Lim Bee Lean](mailto:lim_bee_lean@sec.scgs.edu.sg) 	|
 | **Teacher Aides** 	|  	|
 | Teacher Aide 	| [Ms Rose Wisidagama](mailto:rose_wisidagama@moe.edu.sg)<br><br>[Miss Koh Hwee Koon](mailto:koh_hwee_koon_a@moe.edu.sg) 	|
+
