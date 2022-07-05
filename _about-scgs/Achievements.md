@@ -3,3 +3,16 @@ title: Achievements
 permalink: /about-scgs/achievements/
 description: ""
 ---
+# **Achievements**
+
+### FULL SCHOOL
+
+![](/images/Awards.jpg)
+
+### PRIMARY DIVISION
+
+<img src="/images/pridiv_1.png" 
+     style="width:25%">
+
+
+### SECONDARY DIVISION
