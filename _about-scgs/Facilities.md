@@ -145,4 +145,18 @@ _Bookings shall be for exclusive usage of the whole gymnastic hall and not per a
 
 **Indoor Sports Hall**
 
+![](/images/ISH-1.jpg)
+
 ![](/images/ISH.jpg)
+
+![](/images/ISH-2.jpg)
+
+Boasting a state of the art design, the Indoor Sports Hall (ISH) the energetic younger brother of the grand Gymnasium is constructed with cushioned hardwood flooring for lower body protection is equipped with 4 ceiling-mounted giant ‘Spacefans’ and wall fans along the walls for optimum cooling and ventilation.
+
+The versatile space can be configured to any way of the following combinations to the sporting delight of fitness enthusiasts:
+
+1.  A 2 competition standard basketball courts with side-folding basketball goals and an adjustable height tempered-glass goal boards or
+2.  A 2 competition standard netball courts with netball posts insert complete with foam paddings or to 2 competition standard volleyball courts with padded volleyball posts inserts.
+
+**Squash Courts**
+
