@@ -40,15 +40,15 @@ third_nav_title: Primary
 |  	| Service 	| [Mrs Emily Sng](mailto:Chua_Xing_Ting_Emily@moe.edu.sg) 	| [Mdm Priyalatha d/o Ganaysan](mailto:priyalatha_ganaysan@moe.edu.sg) 	|
 |  	| Prudence 	| Mrs Lim Li-Lien 	| [Miss Ng Li Nah](mailto:ng_li_nah@moe.edu.sg) 	|
 |  	| Grace 	| [Mrs Lim Yuet Leng](mailto:toh_yuet_leng@moe.edu.sg) 	| [Mrs Doris Lim](mailto:chng_kim_leng_doris@moe.edu.sg) 	|
-| **Primary 3** 	| Sincerity 	| Miss Katherine Chai 	| Ms Shirley Tan 	|
-|  	| Courage 	| Miss Margaret Ee 	| Mdm Cao Xueying 	|
-|  	| Generosity 	| Mdm Jill Yip Wei Wei 	| Miss Ng Poh Hoon 	|
-|  	| Service 	| Mdm Doreen Ting 	| Mdm Jennifer Koh 	|
-|  	| Prudence 	| Mdm Phua Ying-Li 	| Mrs Ng Wen Tirng 	|
-| **Primary 4** 	| Sincerity 	| Mdm Faith Shen Pei Pei 	| Mdm Chen Chao 	|
-|  	| Courage 	| Miss Corinna Tan 	| Ms Zhang Qiangsheng 	|
-|  	| Generosity 	| Mdm Doreen Sim 	| Miss Lee Lay Eng 	|
-|  	| Service 	| Miss Yap Hui Jie 	| Mdm Tan Khalidah Hani 	|
+| **Primary 3** 	| Sincerity 	| [Miss Katherine Chai](mailto:katherine_chai_kui_yi@moe.edu.sg) 	| [Ms Shirley Tan](mailto:tan_hong_peng_shirley@moe.edu.sg) 	|
+|  	| Courage 	| [Miss Margaret Ee](mailto:ee_swee_keow_margaret@moe.edu.sg) 	| [Mdm Cao Xueying](mailto:cao_xueying@moe.edu.sg) 	|
+|  	| Generosity 	| [Mdm Jill Yip Wei Wei](mailto:yip_wei_wei@moe.edu.sg) 	| [Miss Ng Poh Hoon](mailto:ng_poh_hoon@moe.edu.sg) 	|
+|  	| Service 	| [Mdm Doreen Ting](mailto:ting_sye_ying_doreen@moe.edu.sg) 	| [Mdm Jennifer Koh](mailto:koh_sze_inn_jennifer@moe.edu.sg) 	|
+|  	| Prudence 	| [Mdm Phua Ying-Li](mailto:phua_ying-li@moe.edu.sg) 	| [Mrs Ng Wen Tirng](mailto:yang_wen_tirng@moe.edu.sg) 	|
+| **Primary 4** 	| Sincerity 	| [Mdm Faith Shen Pei Pei](mailto:faith_shen_pei_pei@moe.edu.sg) 	| [Mdm Chen Chao](mailto:chen_chao_a@moe.edu.sg) 	|
+|  	| Courage 	| [Miss Corinna Tan](mailto:tan_cailing_corinna@moe.edu.sg) 	| [Ms Zhang Qiangsheng](mailto:zhang_qiangsheng@moe.edu.sg) 	|
+|  	| Generosity 	| [Mdm Doreen Sim](mailto:sim_ling_yim@moe.edu.sg) 	| [Miss Lee Lay Eng](mailto:lee_lay_eng_a@moe.edu.sg) 	|
+|  	| Service 	| [Miss Yap Hui Jie](mailto:yap_hui_jie@moe.edu.sg) 	| Mdm Tan Khalidah Hani 	|
 |  	| Prudence 	| Miss Loo Mee Lin 	| Mrs Wong Xin Ying 	|
 | **Primary 5** 	| Sincerity 	| Mrs Lau Ei Leen 	| Miss Cindy Woon 	|
 |  	| Courage 	| Miss Marina Saruwan 	| Miss Ko Guat Hua 	|
