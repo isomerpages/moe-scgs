@@ -2,4 +2,5 @@ collections:
   about-scgs:
     output: true
     order:
+      - Donations.md
       - SCGS Video.md
