@@ -35,6 +35,10 @@ Each room comes equipped with a Multimedia LCD projector on a 2-metre wide proje
 
 ![](/images/Cinnamon.jpg)
 
-dining spaces for families, or exhibition spaces for corporate gatherings. For a small group event of about 20 to 30 pax, the operable walls can be drawn to divide the rooms so that the other rooms can be used by others at the same time. These dividers are sound-proofed to provide a conducive meeting place for friends and families.
+![](/images/Nutmeg.jpg)
+
+![](/images/Tamarind.jpg)
+
+The iconic Spice girls – the Spice Rooms of Cinnamon, Nutmeg and Tamarind are intimate informal dining spaces for families, or exhibition spaces for corporate gatherings. For a small group event of about 20 to 30 pax, the operable walls can be drawn to divide the rooms so that the other rooms can be used by others at the same time. These dividers are sound-proofed to provide a conducive meeting place for friends and families.
 
 Each room is equipped with a ceiling-mounted LCD projector combined with a concealed projection screen. Wireless mics and portable p.a. systems are also available upon request.
