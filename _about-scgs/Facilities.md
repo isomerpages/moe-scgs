@@ -3,6 +3,7 @@ title: Facilities
 permalink: /about-scgs/facilities/
 description: ""
 ---
+
 # **Facilities**
 
 Enter into the unique world of Singapore Chinese Girls’ School. Experience this special place and relish the rich and glorious heritage of all of its 121 years – be charmed by the vibrant floral-motif Peranakan tiles, the inviting swings, a Peranakan Spice Garden and be inspired by the majestic blocks named after our founding fathers.
@@ -47,3 +48,10 @@ Each room is equipped with a ceiling-mounted LCD projector combined with a conce
 
 **Amphitheatre**
 
+![](/images/20201021_164501-1350x640.jpg)
+
+Styled after the Greek open air theatre, the SCGS amphitheatre is a favourite venue for all events exciting and exhilarating – from the rousing class cheer or fondly termed as The Spirit of the Class cheers to a cosy alternative venue for Garden Voices – a showcase of creative original work by our students, the Amphitheatre is definitely a place that is most viable for your medium scaled outdoor events to seat 200 audiences at any one time. The Black-boxed styled centre-stage, with all-around spotlights, provides the perfect place to stage a mini performance. There are 4 wall-mounted speakers with a 12-channel audio mixer. CD player and 2 wireless microphones are available upon request. Come and enjoy this multi-functional space!
+
+ **Dance Studio 1**
+ 
+ 
