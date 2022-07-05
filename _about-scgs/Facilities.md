@@ -15,4 +15,20 @@ For booking enquiries, please email to [mohamed\_mulyani\_samuri@moe.edu.sg](ma
 
 ### Learning Hub
 
-#### Lecture Theatre
+**Lecture Theatre**
+
+![](/images/20201023_070014.jpg)
+
+The intellectual cousin to the Shaw Hall Grand Dame, the Lecture Theatre is an excellent choice venue to engage your audience. With his efficacious design, the Lecture Theatre’s pitched floor maximises this instruction space for all. With a maximum capacity of 300 pax, the elevated seating is finished with carpeted flooring. Acoustically treated with beautiful panels on the walls and ceiling, this learning space provides optimum sound to draw your audience.
+
+The 300 lecture seats are individually fitted with foldable arm tablets for mostly right-handers, not forgetting left-handers. It also comes with a 12-channel audio mixer complete with ceiling-mounted and wall-mounted speakers for balanced sound distribution. Wireless microphones are also included. An LCD projector with a 4-metre wide projection screen is also available for presentation or lectures.
+
+**Seminar Rooms 1 & 2**
+
+![](/images/Seminar-rm-1.jpg)
+
+The younger siblings to the Lecture Theatre, Seminar rooms 1 & 2 are finished with Polyurethane laminated flooring and acoustically treated walls and ceiling. Each seminar room comfortably seats a maximum capacity of 80 pax on mobile lecture chairs with foldable arm tablets. Ever versatile, the operable walls can be folded to expand the room to seat 160 pax.
+
+Each room comes equipped with a Multimedia LCD projector on a 2-metre wide projection screen that can be synchronised when used as a larger room for 160 pax. 1 wired microphone on a 4-channel integrated mixer with ceiling speakers is also included in each room.
+
+**Cinnamon, Nutmeg & Tamarind Rooms (affectionately known as Spice Rooms)**
