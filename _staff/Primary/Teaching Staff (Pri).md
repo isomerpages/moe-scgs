@@ -6,8 +6,9 @@ third_nav_title: Primary
 ---
 # **Teaching Staff**
 
-| **Heads of Department** 	| Mrs Audrey Lee 	| English Language 	|
+| 	| 	|  	|
 |---	|---	|---	|
+| **Heads of Department** | Mrs Audrey Lee | English Language |
 |  	| Mrs Ming Loh 	| Mother Tongue Languages 	|
 |  	| Miss Jacqueline Tan 	| Science 	|
 |  	| Mrs Annie Tan 	| Mathematics 	|
