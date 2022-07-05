@@ -1,0 +1,4 @@
+collections:
+  about-scgs:
+    output: true
+    order: []
