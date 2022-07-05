@@ -2,6 +2,7 @@ collections:
   about-scgs:
     output: true
     order:
+      - Financial Information/Audited Information.md
       - Financial Information/.keep
       - Donations.md
       - SCGS Video.md
