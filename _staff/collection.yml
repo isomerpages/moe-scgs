@@ -3,5 +3,6 @@ collections:
     output: true
     order:
       - Primary/.keep
+      - Secondary/Executive & Administrative Staff.md
       - Secondary/Teaching Staff (Sec).md
       - Secondary/.keep
