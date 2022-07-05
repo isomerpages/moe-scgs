@@ -1,4 +1,5 @@
 collections:
   about-scgs:
     output: true
-    order: []
+    order:
+      - SCGS Video.md
