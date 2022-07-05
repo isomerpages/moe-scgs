@@ -34,14 +34,14 @@ third_nav_title: Secondary
 | Specialist (ICT) 	| [Mr Wong Hong Yeow](mailto:wong_hong_yeow@moe.edu.sg) 	|
 | Technical Officer (ICT) 	| [Ms Premla Devi](mailto:Premladevir@ncs.com.Sg) 	|
 | **Library** 	|  	|
-| Senior Librarian 	| Mrs Florence Phuah 	|
-| Librarian 	| Miss Jesmine Goh 	|
+| Senior Librarian 	| [Mrs Florence Phuah](mailto:florence_phuah@moe.edu.sg) 	|
+| Librarian 	| [Miss Jesmine Goh](mailto:ChengHoon.Goh@staff.spydus.com.sg) 	|
 | **Operations** 	|  	|
-| Senior Manager (Operations) 	| Mrs Elaine Tan 	|
-| Senior Technical Specialist (Operations) 	| Mr Md Mulyani<br><br>Mr Kelvin Tan 	|
+| Senior Manager (Operations) 	| [Mrs Elaine Tan](mailto:ee_chwee_ming_elaine@moe.edu.sg) 	|
+| Senior Technical Specialist (Operations) 	| [Mr Md Mulyani](mailto:mohamed_mulyani_samuri@moe.edu.sg)<br><br>[Mr Kelvin Tan](mailto:kelvin_tan_chin_wee@moe.edu.sg) 	|
 | **Science Lab** 	|  	|
-| Senior Specialist (Science Lab) 	| Miss Lee Yee Mei 	|
-| Specialist (Science Lab) 	| Mr Andy Long<br><br>Miss Lee Si Kai<br><br>Miss Aidah 	|
+| Senior Specialist (Science Lab) 	| [Miss Lee Yee Mei](mailto:lee_yee_mei@moe.edu.sg) 	|
+| Specialist (Science Lab) 	| [Mr Andy Long](mailto:long_shijun_andy@moe.edu.sg)<br><br>[Miss Lee Si Kai](mailto:lee_si_kai@moe.edu.sg)<br><br>[Miss Aidah](mailto:%20nuraidah_abdul_rahim@moe.edu.sg) 	|
 | Attendant (Science Lab) 	| Mdm Lim Bee Lean 	|
 | **Teacher Aides** 	|  	|
 | Teacher Aide 	| Ms Rose Wisidagama<br><br>Miss Koh Hwee Koon 	|
