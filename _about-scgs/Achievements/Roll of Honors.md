@@ -70,3 +70,19 @@ third_nav_title: Achievements
 | Poh Jia Yin Nicole Evangeline (Sec) 	| 2010 	|
 | Lim Wan Rong Cheryl (Sec) 	| 2012 	|
 | Quek Jia Hui (Sec) 	| 2013 	|
+
+### The Lee Kuan Yew Award for All-Round Excellence
+
+| Name 	| Year 	|
+|---	|---	|
+| Oh Rui Wen Sharmaine (Sec) 	| 2006 	|
+| Chan Ling Yi Eryn (Sec) 	| 2009 	|
+| Julia Shan-Wen Fung (Sec) 	| 2011 	|
+| Lee Rui (Sec) 	| 2012 	|
+| Cheang Kit Lea (Sec) 	| 2013 	|
+| Cheang Ko Lyn (Sec) 	| 2015 	|
+| Emma Beatrice Soh Yunwen (Sec) 	| 2016 	|
+| Isabel Hikaru Yamada (Pri) 	| 2016 	|
+| Lim Shi Pei (Sec) 	| 2020 	|
+| Celestine Ng Hui En 	| 2021 	|
+| Asia Tan Xiao Xuan 	| 2021 	|
