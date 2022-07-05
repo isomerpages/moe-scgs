@@ -177,3 +177,5 @@ This newly built competition standard tennis court that sits on the roof of the 
 These courts are equipped with spotlights for night sessions and the night view is even more appealing.
 
 **Indoor Basketball Court**
+
+![](/images/bb%20court.jpg)
