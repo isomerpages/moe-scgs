@@ -31,15 +31,15 @@ third_nav_title: Primary
 | **Primary 1** 	| Sincerity 	| [Miss Sandy Lim](mailto:lim_xue_li_sandy@moe.edu.sg) 	| [Miss Yeo Pei Kei](mailto:yeo_pei_kei@moe.edu.sg) 	|
 |  	| Courage 	| [Miss Valerie Ng Suying](mailto:valerie_ng_suying@moe.edu.sg) 	| [Mrs Cleo Ng](mailto:wong_yuin_ping_cleo@moe.edu.sg) 	|
 |  	| Generosity 	| [Miss Alice Sit Yim Hwa](mailto:sit_yim_hwa@moe.edu.sg) 	| [Mdm Norhariya Bte Anizar](mailto:norhariya_anizar@moe.edu.sg) 	|
-|  	| Service 	| Mdm Tan Bee Yong 	| Ms Zhang_Mengjie 	|
-|  	| Prudence 	| Mrs Tan Yan Ping 	| Mdm Liu Ting Ting<br>Mrs Gina Lim 	|
-|  	| Grace 	| Miss Nur Nadiah 	| Miss Chong Wei Yan 	|
-| **Primary 2** 	| Sincerity 	| Miss Candice Kong 	| Mdm Lai Huey Yuen 	|
-|  	| Courage 	| Mrs Siti Farid 	| Miss Shannon Oon 	|
-|  	| Generosity 	| Mrs Ethel See 	| Mdm Tan Pei Hoon Sharon 	|
-|  	| Service 	| Mrs Emily Sng 	| Mdm Priyalatha d/o Ganaysan 	|
-|  	| Prudence 	| Mrs Lim Li-Lien 	| Miss Ng Li Nah 	|
-|  	| Grace 	| Mrs Lim Yuet Leng 	| Mrs Doris Lim 	|
+|  	| Service 	| [Mdm Tan Bee Yong](mailto:tan_bee_yong@moe.edu.sg) 	| [Ms Zhang_Mengjie](mailto:zhang_mengjie@moe.edu.sg) 	|
+|  	| Prudence 	| [Mrs Tan Yan Ping](mailto:quek_yan_ping@moe.edu.sg) 	| [Mdm Liu Ting Ting](mailto:liu_ting_ting@moe.edu.sg)<br>[Mrs Gina Lim](mailto:poon_yoke_chee@moe.edu.sg) 	|
+|  	| Grace 	| [Miss Nur Nadiah](mailto:nur_nadiah_ahmad_jani@moe.edu.sg) 	| [Miss Chong Wei Yan](mailto:chong_wei_yan@moe.edu.sg) 	|
+| **Primary 2** 	| Sincerity 	| [Miss Candice Kong](mailto:kong_kaijun_candice@moe.edu.sg) 	| [Mdm Lai Huey Yuen](mailto:lai_huey_yuen@moe.edu.sg) 	|
+|  	| Courage 	| [Mrs Siti Farid](mailto:siti_rakhmayati@moe.edu.sg) 	| [Miss Shannon Oon](mailto:oon_qian_yi_shannon@moe.edu.sg) 	|
+|  	| Generosity 	| [Mrs Ethel See](mailto:teh_hua_sim@moe.edu.sg) 	| [Mdm Tan Pei Hoon Sharon](mailto:tan_pei_hoon_sharon@moe.edu.sg) 	|
+|  	| Service 	| [Mrs Emily Sng](mailto:Chua_Xing_Ting_Emily@moe.edu.sg) 	| [Mdm Priyalatha d/o Ganaysan](mailto:priyalatha_ganaysan@moe.edu.sg) 	|
+|  	| Prudence 	| Mrs Lim Li-Lien 	| [Miss Ng Li Nah](mailto:ng_li_nah@moe.edu.sg) 	|
+|  	| Grace 	| [Mrs Lim Yuet Leng](mailto:toh_yuet_leng@moe.edu.sg) 	| [Mrs Doris Lim](mailto:chng_kim_leng_doris@moe.edu.sg) 	|
 | **Primary 3** 	| Sincerity 	| Miss Katherine Chai 	| Ms Shirley Tan 	|
 |  	| Courage 	| Miss Margaret Ee 	| Mdm Cao Xueying 	|
 |  	| Generosity 	| Mdm Jill Yip Wei Wei 	| Miss Ng Poh Hoon 	|
