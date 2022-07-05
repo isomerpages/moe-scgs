@@ -167,3 +167,13 @@ The versatile space can be configured to any way of the following combinations t
 These 4 newly built squash courts are constructed with cushioned hardwood flooring for lower body protection and are equipped with 2 wall-mounted fans in each court for optimum cooling. The extractor fans in each court provide improved ventilation.
 
 **Tennis Courts**
+
+![](/images/org_2c3ff9b10e865ba7_1589512308000.jpg)
+
+![](/images/org_6e1ea8768ca91952_1589512426000.jpg)
+
+This newly built competition standard tennis court that sits on the roof of the ISH boasts a magnificent view of the Bukit Timah skyline.
+
+These courts are equipped with spotlights for night sessions and the night view is even more appealing.
+
+**Indoor Basketball Court**
