@@ -3,4 +3,5 @@ collections:
     output: true
     order:
       - Primary/.keep
+      - Secondary/Teaching Staff (Sec).md
       - Secondary/.keep
