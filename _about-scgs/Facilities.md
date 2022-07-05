@@ -71,6 +71,8 @@ The little sister of the Dance Studio 1 and 2, this quaint lass of a floor area 
 
 **Khoo Auditorium**
 
+![](/images/20201020_101703.jpg)
+
 ![](/images/20201020_101531.jpg)
 
 ![](/images/20201020_101937.jpg)
