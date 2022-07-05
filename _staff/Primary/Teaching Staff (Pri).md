@@ -6,6 +6,22 @@ third_nav_title: Primary
 ---
 # **Teaching Staff**
 
+| **Heads of Department** 	| Mrs Audrey Lee 	| English Language 	|
+|---	|---	|---	|
+|  	| Mrs Ming Loh 	| Mother Tongue Languages 	|
+|  	| Miss Jacqueline Tan 	| Science 	|
+|  	| Mrs Annie Tan 	| Mathematics 	|
+|  	| Mrs Boh Shiao Jean 	| Character and Citizenship Education 	|
+|  	| Mrs Lee Meng Choo 	| Information Technology /<br>Media Resource Library 	|
+|  	| Mrs Ng Tien Juan 	| PE / CCA / Aesthetics 	|
+|  	| Ms He Kangya 	| Special Projects 	|
+| **School Staff Developer** 	| Dr Jesmine Tan 	|  	|
+| **Level Head** 	| Miss Woon Li Rong Cindy<br><br>Miss Tan Hong Peng Shirley<br>Mrs Joyce Eio<br>Miss Tan Mei Yin 	| English Language<br><br>Mother Tongue Languages<br>Science<br>Mathematics 	|
+| **Subject Head** 	| Mrs Ng Wen Tirng<br><br>(vacant)<br>Mdm Prema Suresh<br>Miss Wong See Wan 	| Aesthetics<br><br>Information Technology<br>Discipline<br>Special Projects 	|
+| **Year Head** 	| Miss Goh Ai Ling<br><br>Mdm Shuhaila Sidik<br><br>Mdm Norrizaliani Jahari 	| Upper Primary<br><br>Mid Primary<br><br>Lower Primary 	|
+
+
+
 mailto:lim_ya_qi@moe.edu.sg 
 mailto:ming_loh@moe.edu.sg
 mailto:tan_shiow_yuen_jacqueline@moe.edu.sg
