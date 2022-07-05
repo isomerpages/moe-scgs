@@ -28,3 +28,36 @@ The SCGS identity started to take shape. A new school crest. A new uniform of wh
 So many firsts! Things were really looking up!
 
 The year 1936 saw another milestone, with SCGS becoming a “self-contained educational unit” with Junior and Senior Cambridge classes. The decade ended with yet another first in 1939 – Mrs Tan Swee Khin was appointed temporary acting Headmistress, the first time SCGS had a non-European in charge in any capacity.
+
+
+#### **Traumatic but Eventful Growing Years (1940-1969)**
+
+
+<img src="/images/2-1.jpg" 
+     style="width:25%">
+
+The Japanese invasion of Malaya and Singapore ushered in the darkest and most traumatic days of the school’s history. Everything came to a standstill.
+
+But with the Japanese surrender to the British in 1946, SCGS wobbled to its feet and slowly but surely regained its footing.
+
+The door was opened to girls of all races. Parents began to clamour to send their girls to the school. SCGS had 700 girls by 1950.
+
+Mrs Jessie Geake retired as Principal in 1951. In stepped Mrs Tan Swee Khin as the first Asian principal of SCGS. She appointed Miss Tan Sock Kern Principal of the Afternoon School.
+
+The numbers kept rising. SCGS had almost 900 girls by 1952
+
+In 1956, Miss Tan Sock Kern succeeded Mrs Tan Swee Khin as Principal. Forthright and fearless, she forged a formidable way forward for SCGS.
+
+The new school block called the Song Ong Siang Block was completed.
+
+The years rolled by eventfully. The girls continued to do well. In 1961, SCGS presented the School Certificate to 101 girls.
+
+With the changing times, there arose a changing of the guard. Some teachers retired, making way for new blood, including second language teachers for Malay and Mandarin.
+
+The decade ended with SCGS celebrating our 70th birthday in 1969.
+
+#### **Challenging but Ground-Breaking Years (1970-2005)**
+
+
+<img src="/images/3-1.jpg" 
+     style="width:25%">
