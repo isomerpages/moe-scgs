@@ -19,3 +19,5 @@ description: ""
 
 ### **Members:**
 
+![](/images/BOD-1.jpg)
+![](/images/BOD-2.jpg)
