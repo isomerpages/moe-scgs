@@ -160,3 +160,10 @@ The versatile space can be configured to any way of the following combinations t
 
 **Squash Courts**
 
+![](/images/Squash-courts-3-4-1-scaled.jpg)
+
+![](/images/Squash-Courts-Gallery-1-scaled.jpg)
+
+These 4 newly built squash courts are constructed with cushioned hardwood flooring for lower body protection and are equipped with 2 wall-mounted fans in each court for optimum cooling. The extractor fans in each court provide improved ventilation.
+
+**Tennis Courts**
