@@ -50,10 +50,10 @@ third_nav_title: Primary
 |  	| Generosity 	| [Mdm Doreen Sim](mailto:sim_ling_yim@moe.edu.sg) 	| [Miss Lee Lay Eng](mailto:lee_lay_eng_a@moe.edu.sg) 	|
 |  	| Service 	| [Miss Yap Hui Jie](mailto:yap_hui_jie@moe.edu.sg) 	| [Mdm Tan Khalidah Hani](mailto:tan_khalidah_hani@moe.edu.sg) 	|
 |  	| Prudence 	| [Miss Loo Mee Lin](mailto:loo_mee_lin@moe.edu.sg) 	| [Mrs Wong Xin Ying](mailto:ho_xin_ying@moe.edu.sg) 	|
-| **Primary 5** 	| Sincerity 	| Mrs Lau Ei Leen 	| Miss Cindy Woon 	|
-|  	| Courage 	| Miss Marina Saruwan 	| Miss Ko Guat Hua 	|
-|  	| Generosity 	| Mrs Kristene Ong 	| Mrs Lee Xiang Jun 	|
-|  	| Service 	| Mrs Angelina Eu 	| Miss Chua Voon Siew 	|
+| **Primary 5** 	| Sincerity 	| [Mrs Lau Ei Leen](mailto:tay_ei_leen@moe.edu.sg) 	| [Miss Cindy Woon](mailto:woon_li_rong_cindy@moe.edu.sg) 	|
+|  	| Courage 	| [Miss Marina Saruwan](mailto:marina_saruwan@moe.edu.sg) 	| [Miss Ko Guat Hua](mailto:ko_guat_hua@moe.edu.sg) 	|
+|  	| Generosity 	| [Mrs Kristene Ong](mailto:kristene_chan_yan_jun@moe.edu.sg) 	| [Mrs Lee Xiang Jun](mailto:heng_xiang_jun@moe.edu.sg) 	|
+|  	| Service 	| [Mrs Angelina Eu](mailto:low_shu_ling_angelina@moe.edu.sg) 	| [Miss Chua Voon Siew](mailto:chua_voon_siew@moe.edu.sg) 	|
 |  	| Prudence 	| Mrs Eng Ke-Ying 	| Miss Wong See Wan 	|
 | **Primary 6** 	| Sincerity 	| Mrs Sheralyn Lim 	| Ms Leng Yip, Jean 	|
 |  	| Courage 	| Mdm Faridah Yunos 	| Mdm Gao Ru 	|
