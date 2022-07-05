@@ -6,3 +6,7 @@ links:
     url: /contact-us/
   - title: Resources
     resource_room: true
+  - title: Our People
+    collection: our-people
+  - title: Staff
+    collection: staff
