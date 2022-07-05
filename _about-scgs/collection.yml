@@ -2,15 +2,15 @@ collections:
   about-scgs:
     output: true
     order:
-      - Facilities.md
       - Principal's Message.md
       - Our Beliefs.md
       - SCGS Milestone.md
+      - Achievements/.keep
       - Achievements/Secondary.md
       - Achievements/Achievements.md
-      - Achievements/.keep
       - Schools Rules and Regulations.md
-      - Financial Information/Audited Information.md
       - Financial Information/.keep
+      - Financial Information/Audited Information.md
+      - Facilities.md
       - Donations.md
       - SCGS Video.md
