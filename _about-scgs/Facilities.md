@@ -13,7 +13,6 @@ Home to our students, our _kim geks_ (‘gold’ and ‘jade’ in Hokkien), w
 
 For booking enquiries, please email to [mohamed\_mulyani\_samuri@moe.edu.sg](mailto:mohamed_mulyani_samuri@moe.edu.sg)
 
-**Learning Hub**
-----------------
+### Learning Hub
 
-**Lecture Theatre**
+#### Lecture Theatre
