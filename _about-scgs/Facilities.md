@@ -111,3 +111,28 @@ Serai Rm 3 is 225 m2 (60 pax max capacity)
 
 These are newly built fully air-conditioned rooms in the Creative Arts Hub that are beautifully finished in hardwood sprung floor and equipped with mirrors and ballet barres mounted on 1 side of the walls suitable for dance or aerobics classes. The operable walls dividing these rooms can be folded to accommodate 100 to 115 pax with a total area of 470 m2 for a large group events/activities. For small group activities, please refer to list below:
 
+![](/images/hallrooms.jpg)
+
+**Shaw Hall**
+
+![](/images/20201023_112727.jpg)
+
+![](/images/20201023_112626.jpg)
+
+![](/images/20201023_140844.jpg)
+
+The grand Dame stands regal and resplendent in all her glory. Decked in green brocade curtains and beech acoustics wall panels, the Shaw Hall is the perfect place for enthralling stage performances and formal dinners and presentations. With an area of 910 m2, she can easily house 1000 participants or 50 circular dinner tables with 10 chairs each. The 40 m2 performing stage area comes equipped with motorised main stage curtains and standard stage lights for performance. Ever versatile, this grand dame can easily transform herself into four competition standard badminton courts. She comes ready with portable badminton posts on castors with nets to support the courts.
+
+**ALICE LEE HALL**
+
+The Alice Lee Hall provides an ideal place for large gathering or events e.g. talk/concert performance/dinner.The total area of 1006 m2 includes the stage area and changing rooms.
+
+It can easily house 1000 participants or 50 circular dinner tables with 10 chairs each.
+
+The performing stage area comes equipped with motorised main stage curtains and standard stage lights for performance. The Hall can be easily transformed into a place for performances and Graduation nights.  
+
+The Hall can also be converted into 3 number of competition standard badminton courts. Portable badminton posts on castors with nets are provided to support the courts booking.
+
+**Sports Facilities**
+
+**Gymnasium**
