@@ -48,8 +48,8 @@ third_nav_title: Primary
 | **Primary 4** 	| Sincerity 	| [Mdm Faith Shen Pei Pei](mailto:faith_shen_pei_pei@moe.edu.sg) 	| [Mdm Chen Chao](mailto:chen_chao_a@moe.edu.sg) 	|
 |  	| Courage 	| [Miss Corinna Tan](mailto:tan_cailing_corinna@moe.edu.sg) 	| [Ms Zhang Qiangsheng](mailto:zhang_qiangsheng@moe.edu.sg) 	|
 |  	| Generosity 	| [Mdm Doreen Sim](mailto:sim_ling_yim@moe.edu.sg) 	| [Miss Lee Lay Eng](mailto:lee_lay_eng_a@moe.edu.sg) 	|
-|  	| Service 	| [Miss Yap Hui Jie](mailto:yap_hui_jie@moe.edu.sg) 	| Mdm Tan Khalidah Hani 	|
-|  	| Prudence 	| Miss Loo Mee Lin 	| Mrs Wong Xin Ying 	|
+|  	| Service 	| [Miss Yap Hui Jie](mailto:yap_hui_jie@moe.edu.sg) 	| [Mdm Tan Khalidah Hani](mailto:tan_khalidah_hani@moe.edu.sg) 	|
+|  	| Prudence 	| [Miss Loo Mee Lin](mailto:loo_mee_lin@moe.edu.sg) 	| [Mrs Wong Xin Ying](mailto:ho_xin_ying@moe.edu.sg) 	|
 | **Primary 5** 	| Sincerity 	| Mrs Lau Ei Leen 	| Miss Cindy Woon 	|
 |  	| Courage 	| Miss Marina Saruwan 	| Miss Ko Guat Hua 	|
 |  	| Generosity 	| Mrs Kristene Ong 	| Mrs Lee Xiang Jun 	|
