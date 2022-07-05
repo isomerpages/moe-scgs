@@ -38,7 +38,7 @@ third_nav_title: Primary
 |  	| Courage 	| [Mrs Siti Farid](mailto:siti_rakhmayati@moe.edu.sg) 	| [Miss Shannon Oon](mailto:oon_qian_yi_shannon@moe.edu.sg) 	|
 |  	| Generosity 	| [Mrs Ethel See](mailto:teh_hua_sim@moe.edu.sg) 	| [Mdm Tan Pei Hoon Sharon](mailto:tan_pei_hoon_sharon@moe.edu.sg) 	|
 |  	| Service 	| [Mrs Emily Sng](mailto:Chua_Xing_Ting_Emily@moe.edu.sg) 	| [Mdm Priyalatha d/o Ganaysan](mailto:priyalatha_ganaysan@moe.edu.sg) 	|
-|  	| Prudence 	| Mrs Lim Li-Lien 	| [Miss Ng Li Nah](mailto:ng_li_nah@moe.edu.sg) 	|
+|  	| Prudence 	| [Mrs Lim Li-Lien](mailto:nurhafizah_haris_fadzilah@moe.edu.sg) 	| [Miss Ng Li Nah](mailto:ng_li_nah@moe.edu.sg) 	|
 |  	| Grace 	| [Mrs Lim Yuet Leng](mailto:toh_yuet_leng@moe.edu.sg) 	| [Mrs Doris Lim](mailto:chng_kim_leng_doris@moe.edu.sg) 	|
 | **Primary 3** 	| Sincerity 	| [Miss Katherine Chai](mailto:katherine_chai_kui_yi@moe.edu.sg) 	| [Ms Shirley Tan](mailto:tan_hong_peng_shirley@moe.edu.sg) 	|
 |  	| Courage 	| [Miss Margaret Ee](mailto:ee_swee_keow_margaret@moe.edu.sg) 	| [Mdm Cao Xueying](mailto:cao_xueying@moe.edu.sg) 	|
@@ -64,5 +64,3 @@ third_nav_title: Primary
 | **Counsellor** 	|  	| [Ms Lee Guat Keow](mailto:lee_guat_keow@moe.edu.sg) 	| [Ms Yeow Mei Mei Susan](mailto:yeow_mei_mei_susan@moe.edu.sg) 	|
 | **AED (Learning & Behavioural Support)** 	|  	| [Miss Tay Shi Li](mailto:tay_shi_li@moe.edu.sg)<br><br>[Mdm Jasima Afreen](mailto:jasima_afreen@moe.edu.sg)<br><br>[Miss Lim Jing Fen](mailto:lim_jing_fen@moe.edu.sg) 	|  	|
 | **AED (Teaching & Learning)** 	|  	| [Mdm Sarimah Sarif](mailto:sarimah_sarif@moe.edu.sg)<br><br>[Mdm Nurhafizah Fadzilah](mailto:nurhafizah_haris_fadzilah@moe.edu.sg) 	|  	|
-
-
