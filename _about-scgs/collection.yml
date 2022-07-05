@@ -2,6 +2,7 @@ collections:
   about-scgs:
     output: true
     order:
+      - Our Beliefs.md
       - SCGS Milestone.md
       - Achievements/Secondary.md
       - Achievements/Achievements.md
