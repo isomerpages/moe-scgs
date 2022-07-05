@@ -104,3 +104,5 @@ Glad for the country lanes and the fall of dew;
 After the sun the rain, after the rain the sun;  
 This is the way of life till the work be done;  
 All that we need to do, be we low or high is to see that we grow nearer the sky.
+
+(School Song needs to be uploaded on YT)
