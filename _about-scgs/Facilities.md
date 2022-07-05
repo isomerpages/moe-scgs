@@ -71,3 +71,22 @@ The little sister of the Dance Studio 1 and 2, this quaint lass of a floor area 
 
 **Khoo Auditorium**
 
+![](/images/20201020_101531.jpg)
+
+![](/images/20201020_101937.jpg)
+
+The grand duke of all the special venues, newly refurbished Khoo Auditorium has elevated seating for 574 seats that are numbered for the convenience of locating the seats. Elegantly finished with carpeted flooring and an all-round acoustically treated wall panels and ceiling, the Khoo Auditorium is the ideal location for a formal occasion.
+
+The stage area is fitted with hardwood sprung-floor for protection against injuries to the dancers/performers. The performance stage area is 12 metre wide (from left border to right border curtains) by 4.8 metre deep (from the house curtains to the cyclorama) & a stage apron area is 13.25 metre wide (from the left proscenium to the right proscenium) by 2 metre deep (from edge of stage to house curtains).
+
+Equipped with motorised house curtains and middle-stage travellers’ curtains, the stage is the perfect performance space. Control buttons are located in the left wing of the backstage. 2 portable fold-back monitor speakers are also provided when required.
+
+The Green Room/holding room at backstage right comfortably accommodates 12 performers waiting to get on stage or to do a quick-change in between performances. Two changing rooms/restrooms available at backstage left & right are ideal rooms for a quick respite between performance items.
+
+With its newly upgraded 4 motorised lighting truss with spotlights, 6 moving-heads intelligent lights mounted on the lighting trusses and 2 pairs of side-booms fitted with 2 spotlights, the stage lighting systems is optimised to give the lighting designer flexibility to create magic on stage. This is enhanced by the Obsidian NX2 programmable console as the lighting controller.
+
+The Sound Reinforcement System is also newly upgraded with 2 wall-mounted front house speakers, 2 wall-mounted house delay speakers and a centre cluster speaker for an accurate distribution of high quality audio. The 32-channel Yamaha MGP32X audio mixer are powerful hardware to accommodate a live music performance.
+
+Other accessories such as wireless handheld mics, clip-on mics, head-worn mics, pcc boundary mics, hanging condenser mics, etc. are available upon request.
+
+**Serai Rooms 1,2 & 3**
