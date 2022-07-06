@@ -62,3 +62,6 @@ Talented students with excellent academic records or outstanding achievements in
 The SCGS Jinyu Meritorious Scholarship shall cover: (i) School fees as charged by SCGS for local students for the year. Should the scholar also be in receipt of any other scholarship or bursary covering all or part of such fees, the Scholarship will cover only the difference between the student’s school fees (local rate) and such other sum due to her under any other scholarship or bursary. (ii) A monthly award of $100 to cover educational expenses.
 
 Subject to the student’s academic performance, conduct and the conditions stated, the scholarship will be renewed yearly to allow the scholar to complete four years of study in Secondary School.
+
+[Click here](/files/Jinyu-Meritorious-Scholarship_Renewal_New_Terms-Conditions.pdf) for more information.     
+[Click here](/files/Jinyu_Student-Application-Form_NEW-AND-RENEW_2022.pdf) to download form.
