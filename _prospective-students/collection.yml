@@ -2,6 +2,7 @@ collections:
   prospective-students:
     output: true
     order:
+      - Primary Admission/Primary 1 Registration Data.md
       - Primary Admission/.keep
       - Secondary/Admission Procedures.md
       - Secondary/Direct School Admission.md
