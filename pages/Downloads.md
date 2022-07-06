@@ -30,3 +30,7 @@ description: ""
 * [Secondary 1 (IP) Booklist](/files/Sec-1IP_2022-1.pdf)
 * [Secondary 2 (O-Level) Booklist](/files/Sec-2OLP_2022.pdf)
 * [Secondary 2 (IP) Booklist](/files/Sec-2IP_2022.pdf)
+* [Secondary 3 (O-Level) Booklist](/files/Sec-3OLP_2022.pdf)
+* [Secondary 3 (IP) Booklist](/files/Sec-3IP_2022.pdf)
+* [Secondary 4 (O-Level) Booklist](/files/Sec-4OLP_2022.pdf)
+* [Secondary 4 (IP) Booklist](/files/Sec-4IP_2022.pdf)
