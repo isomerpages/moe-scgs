@@ -3,8 +3,7 @@ title: Scholarships
 permalink: /prospective-students/scholarships/
 description: ""
 ---
-Scholarships
-============
+# **Scholarships**
 
 **Edusave Scholarship for Primary Schools (ESPS)** 
 
@@ -76,3 +75,21 @@ Subject to performance and conduct and conditions stated, the scholarship will b
 
 * [SCCG Sports Scholarship Form](/files/2022-Sports-Scholarship-Application-Form.pdf)
 * [SCGS Sports Scholarship (Terms and Condition)](/files/2022-Sports-Scholarship-Terms-Conditions.pdf)
+
+**UPLIFT Scholarship**
+
+With effect from 1 April 2019, MOE has introduced the UPLIFT Scholarship to recognise the achievements of students in Independent Schools who have performed well academically or in specific talents areas, and are from lower-income families.
+
+The UPLIFT Scholarship is awarded to students who are:
+
+1.  Singapore Citizens attending Independent Schools;
+2.  Admitted to the school through Direct School Admission or qualified for the Edusave Scholarships for Independent Schools; and
+3.  From families with gross monthly household income (GHI) ≤ $2,750, or gross monthly household per capita income (PCI) ≤ $690 (PCI = GHI divided by number of household members).  (Note: these students qualify for 100% fee subsidy under the Independent School Bursary (ISB)).
+
+ISB recipients receiving 100% fee subsidy will be auto-awarded the UPLIFT Scholarship. To apply, please submit the completed [ISB application form](https://scgs.moe.edu.sg/downloads/) and all relevant documents to the school.
+
+**Other Scholarships**   
+There are several scholarships offered by large organisations and foundations. Students will be kept informed as and when applications are invited for scholarships.
+
+**Other Awards**  
+There are several SCGS awards to reward excellence and significant accomplishment of students in both academic and non-academic performance. Eligible students will be nominated and students meeting the selection criteria will be informed of the awards.
