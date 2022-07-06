@@ -93,3 +93,31 @@ Registration will begin in early May.
 | Leadership 	| ● Student leadership opportunities abound in SCGS, with positions such as Class Representatives, Peer Leaders, Youth Science Ambassadors and Young Docents. We seek to develop students to be leaders in any area they are committed to and to lead by example in bringing any group they are members of to a higher level of attainment.<br><br>● More outstanding students may be elected into positions such as the Prefectorial Board, or at the executive levels in their CCAs. All such potential nominees are subject to stringent criteria and an electoral process.<br><br>● For IP students at the Upper Secondary level, enrolment in the Leadership Academy is an option. 	|
 | Co-Curricular Activities (Sports, Performing Arts & Societies) 	| ● Sports and Performing Arts CCAs: students will work towards representing the school at zonal and national level competitions and events (eg: National School Games, Singapore Youth Festival Arts Presentations) as well as public performances<br><br>● Infocomm Club (Robotic section): students will work towards representing the school at zonal and national level competitions (eg. First Lego League (FLL), National Robotics Programming Competition (NRPC))<br>  	|
 | Academic Talents 	| ● Students will work towards representing the school at local programmes and competitions. Examples are as follows:<br><br>○ English Language: Programmes such as Future Problem Solving, the Creative Arts and Writing Mentorship Programmes.<br><br>○ Chinese Language: River Hongbao Docents Programme, Bicultural Studies Programme and Language Skills Competitions<br><br>○ Malay Language: Rakan Bahasa Ambassadors, Poetry Writing and Recital Competitions, National Malay Language Competitions<br><br>○ Tamil Language: National Elective Tamil Language Programme, Creative writing<br><br>○ Mathematics: Competitions such as the Singapore Mathematical Olympiad (SMO)<br><br>○ Science: Science mentorship programmes, Youth Science Ambassadors Programme, competitions and Olympiads 	|
+
+_In addition to the above, we constantly look for suitable platforms for students to participate in to develop and showcase their talents. Actual activities may vary according to opportunities and circumstances._
+
+**D. ELIGIBILITY**
+
+**WHO CAN APPLY?**
+
+a. **Applicants studying in MOE mainstream primary schools**  
+Parents may log in directly to DSA-Sec Portal. Only one parent’s Singpass is required. Parents/ guardians who are unable to apply online can approach their child’s primary school for assistance.
+
+b. **Applicants NOT studying in MOE mainstream primary schools**  
+A Registration Number (RGxxxxxxx) is required. This is applicable for homeschoolers, returning Singaporeans, religious school students, international students and other students not studying in Mainstream primary schools.
+
+Parents may apply for a Registration Number (RGxxxxxxx) to access the DSA-Sec Portal at the MOE website at: [https://go.gov.sg/nmsdsa-sec-application.](https://go.gov.sg/nmsdsa-sec-application.)
+
+**E. IMPORTANT REMINDERS:**
+
+1.  Once you are successfully allocated to **Singapore Chinese Girls’ School**, you will not be allowed to participate in the annual Secondary One Posting Exercise to opt for secondary schools after the release of the PSLE results. You will be expected to honour the commitment to SCGS for the entire duration of the programme you have been admitted into.
+    
+    You will also not be allowed to transfer to another school after the release of the PSLE results. If you are admitted based on a CCA, no change of CCA is allowed for 4 years unless there are extenuating medical reasons.
+    
+    If you are not able to fulfil the DSA commitment without valid reasons, you may be required to transfer out to another school.
+    
+2.  Successful applicants admitted into the Joint Integrated Programme at SCGS, must commit to 6 years with us, 4 years in SCGS and 2 years at Eunoia Junior College.
+    
+    Students admitted to the school via DSA are expected to honour their commitment to the school and programme and participate in the activities related to the talent they are selected for from year 1-4.
+    
+3.  **Scholarships & Financial Assistance.** No one deserving of a place in the school should be discouraged because of financial considerations. Financial assistance schemes and awards are in place to support talented students. All students interested in an SCGS education and who can see their talents advanced at SCGS should apply. Do not let fees deter you from applying to us for DSA or accepting an offer of admission.
