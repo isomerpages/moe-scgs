@@ -39,3 +39,51 @@ We seek to promote a culture of excellence in the holistic development of our st
 |---	|---	|
 | 4-year GCE O-Level Programme 	| <b>Leadership</b><br>Students who have excellent leadership skills and are leaders in their Primary School<br><br><b>CCAs</b>(Sports, Performing Arts, Clubs) <br><br>Students with talents in one of the fifteen DSA Co-Curricular Activities  	|
 | 6-year Integrated Programme with Eunoia Junior College (Years 1 – 4 in SCGS and  Years 5 – 6 at Eunoia Junior College) 	| <b>Leadership</b><br><br>Students who have excellent leadership skills and are leaders in their Primary School<br><br><b>CCAs</b> (Sports, Performing Arts, Clubs) <br><br>Students with talents in one of the fifteen DSA Co-Curricular Activities <br><br><b>Specific Academic Talents</b><br><br>Students who have specific academic talents may apply for DSA into the Integrated Programme.   	|
+
+
+**C. OUR TALENT AREAS**
+
+**LEADERSHIP**
+
+Students currently in leadership positions who can be further stretched. 
+
+**CLUBS & SOCIETIES**
+
+Robotics 
+
+**PERFORMING ARTS**
+
+1.  Chinese Drama
+2.  Choir
+3.  Concert Band \[Not Chinese Orchestra\]
+4.  English Drama
+5.  Handbell Ensemble
+6.  Modern Dance
+7.  String Ensemble 
+
+**SPORTS**
+
+1.  Artistic Gymnastics
+2.  Artistic Swimming
+3.  Badminton
+4.  Basketball
+5.  Netball
+6.  Squash
+7.  Swimming 
+8.  Tennis
+9.  Trampoline
+
+**ACADEMIC TALENTS (valid for entry into the Integrated Programme only)**
+
+1.  Chinese Language
+2.  English Language
+3.  Malay Language
+4.  Tamil Language
+5.  Mathematics
+6.   Science
+
+For more information on the Talent Areas and our CCAs, **please click [here](https://go.gov.sg/scgsdsahomepage) for our DSA microsite.**
+
+**Join us at our DSA Engagement Q&A session on 21 May 2022 (Sat).** 
+
+Registration will begin in early May.
