@@ -4,6 +4,8 @@ permalink: /our-people/staff/primary/exec-and-admin-staff/
 description: ""
 third_nav_title: Primary
 ---
+# **Executive & Administrative Staff**
+
 |  	|  	|
 |---	|---	|
 | **Principal** 	|  Mrs Linda Chan 	|
