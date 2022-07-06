@@ -45,3 +45,17 @@ description: ""
 * [Primary 5 (Foundation) Booklist](/files/Pri-5-Foundation-Booklist-and-School-Uniform-instruction.pdf)
 * [Primary 6 Booklist](/files/Pri-6-Booklist-and-School-Uniform-instruction.pdf)
 * [Primary 6 (Foundation) Booklist](/files/Pri-6-Foundation-Booklist-and-School-Uniform-instruction.pdf)
+
+### School Bus Booking Form & Regulations
+
+* [Click to download](/files/D3-2022_SCGS-Daily-School-Bus-Registration-Form.pdf)
+
+### Application for Car Decal and ID pass 
+
+* [Primary](https://form.gov.sg/#!/61a0393fafd2800012425278)
+* [Secondary](https://form.gov.sg/#!/61a085e1a342eb00124cd2ee)
+
+### Application for Parent Volunteer 
+
+* [Click Here To Download Form](https://form.gov.sg/616cf53fb89cba0012364533)
+
