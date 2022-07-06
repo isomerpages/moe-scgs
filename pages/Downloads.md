@@ -23,3 +23,10 @@ description: ""
 
 * [Sexuality Education Information (Primary)](/files/SED2022.pdf)
 * [Sexuality Education Information (Secondary)](/files/Info_on_SEd_for_SCGS_website_Sec_2022.pdf)
+
+### BOOKLIST – SECONDARY (Updated for Year 2022)
+
+* [Secondary 1 (O-Level) Booklist](/files/Sec-1OLP_2022.pdf)
+* [Secondary 1 (IP) Booklist](/files/Sec-1IP_2022-1.pdf)
+* [Secondary 2 (O-Level) Booklist](/files/Sec-2OLP_2022.pdf)
+* [Secondary 2 (IP) Booklist](/files/Sec-2IP_2022.pdf)
