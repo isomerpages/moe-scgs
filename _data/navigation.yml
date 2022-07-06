@@ -7,6 +7,13 @@ links:
   - title: Resources
     resource_room: true
   - title: Our People
-    collection: our-people
-  - title: Staff
-    collection: staff
+    url: /permalink
+    sublinks:
+      - title: Organisation Chart
+        url: /permalink
+      - title: Staff
+        url: /our-people/staff/primary/teaching-staffpri/
+      - title: Board of Directors
+        url: /our-people/board-of-directors/
+      - title: Parents
+        url: /our-people/parents/parent-volunteer/
