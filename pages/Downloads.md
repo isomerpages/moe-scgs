@@ -42,3 +42,6 @@ description: ""
 * [Primary 3 Booklist](/files/Pri-3-Booklist-and-School-Uniform-instruction.pdf)
 * [Primary 4 Booklist](/files/Pri-4-Booklist-and-School-Uniform-instruction.pdf)
 * [Primary 5 Booklist](/files/Pri-5-Booklist-and-School-Uniform-instruction.pdf)
+* [Primary 5 (Foundation) Booklist](/files/Pri-5-Foundation-Booklist-and-School-Uniform-instruction.pdf)
+* [Primary 6 Booklist](/files/Pri-6-Booklist-and-School-Uniform-instruction.pdf)
+* [Primary 6 (Foundation) Booklist](/files/Pri-6-Foundation-Booklist-and-School-Uniform-instruction.pdf)
