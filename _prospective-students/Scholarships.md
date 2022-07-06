@@ -3,3 +3,51 @@ title: Scholarships
 permalink: /prospective-students/scholarships/
 description: ""
 ---
+Scholarships
+============
+
+**Edusave Scholarship for Primary Schools (ESPS)** 
+
+The Edusave Scholarship Primary Schools (ESPS) are awarded on a yearly basis to the top 10% of Primary 5 and 6 students who are Singapore Citizens by level in all government and government-aided primary schools based on students’ school examination results for the year. These scholarships are to encourage students to excel in their studies and reward their efforts. The school will select students for these yearly awards at the end of the school year. The value of these scholarships is $350
+
+**Edusave Entrance Scholarship for Independent Schools (EESIS)**  
+The Edusave Entrance Scholarships for Independent Schools (EESIS) are awarded to the top one-third of the total number of Secondary 1 students based on their PSLE results. Singaporean students with outstanding performance in the PSLE will be invited to apply for the EESIS.
+
+The annual scholarship quantum is $2,400 less the annual amount of school and standard miscellaneous fees paid by students in government/ government-aided secondary schools, whichever is lower, less any other subsidies provided by MOE or the School for Independent School fees.
+
+**Edusave Merit Bursary (EMB)**  
+All Singaporean students in Government and Government-aided schools, junior colleges/centralised institute, independent schools or institutions, specialised schools or Institute of Technical Education  and Polytechnics who are not recipients of any Edusave Scholarship are eligible for the Edusave Merit Bursary if they are within the top 25% of each level and course in their schools and their monthly gross household does not exceed $6,900. To benefit students from bigger households, they also eligible if their per capita household income, ie gross household income divided by the number of household members, does not exceed $1,725.
+
+The values of the Edusave Merit Bursary for each level are as follows:
+
+$200 for Primary 1 to 3  
+$250 for Primary 4 to 6  
+$350 for Secondary 1 to 5  
+$400 for Pre-University 1 to 3  
+$500 for Institute of Technical Education | Specialised Schools | Polytechnics
+
+**Edusave Good Progress Awards (GPA)**  
+All Singaporean students from primary 2 onwards in Government and Government-aided schools, junior colleges/centralised institute, independent schools or institutions, specialised schools or Institute of Technical Education and Polytechnics (from year 2 onwards) who are not recipients of any Edusave Scholarship or Edusave Merit Bursary are eligible for the Edusave Good Progress Award if they are among the top 10% who have made significant improvement in their academic performance based on their overall examination results compared to the previous year.
+
+The value of this award is as follows:
+
+$100 for Primary 2 to 3  
+$150 for Primary 4 to 6  
+$200 for Secondary 1 to 5  
+$250 for Pre-University 1 to 3  
+$400 for Institute of Technical Education | Specialised Schools | Polytechnics Year 2 – 3
+
+**Edusave Award for Achievement, Good Leadership and Service (EAGLES)**  
+Singaporean students who show leadership and excel in nonacademic areas are eligible for the Edusave Award for Achievement, Good Leadership and Service (EAGLES). The award is given based on the student’s achievement in co-curricular activities and contribution to community services over a one-year period.
+
+The awards are given to a maximum of 10% of Singaporean students in every school selected by the school at the end of the year. The values of this award are as follows:
+
+$250 for Primary 4 to 6  
+$350 for Secondary 1 to 5  
+$400 for Pre-University 1 to 3  
+$500 for Institute of Technical Education | Specialised Schools
+
+**Edusave Character Award**     
+The ECHA is meant to recognise and affirm Singaporean student who demonstrated exemplary character and outstanding personal qualities through their behaviour and actions. The ECHA maximum quota for each school will be capped at 2% of the enrolment of Singaporean sudents.
+
+Similar to the practice for other Edusave awards, the ECHA awardees will receive a certificate and an award voucher.  The ECHA award quanta are as follows, depending on the level of study:
