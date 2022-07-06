@@ -2,10 +2,6 @@ logo: /images/SCGS logo.jpg
 links:
   - title: ABOUT SCGS
     collection: about-scgs
-  - title: Contact Us
-    url: /contact-us/
-  - title: Resources
-    resource_room: true
   - title: Our People
     url: /permalink
     sublinks:
@@ -21,3 +17,7 @@ links:
         url: https://www.scgspsg.com/
       - title: Alumni
         url: http://scgsalumni.com/
+  - title: Contact Us
+    url: /contact-us/
+  - title: Resources
+    resource_room: true
