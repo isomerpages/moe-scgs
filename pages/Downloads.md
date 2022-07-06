@@ -18,3 +18,8 @@ description: ""
 * [SCGS School-Based Financial Assistance Scheme](/files/SCGS-School-Based-FAS-2022.pdf)
 * [SCCG Sports Scholarship Form ](/files/2022-Sports-Scholarship-Application-Form.pdf)
 * [SCGS Sports Scholarship (Terms and Conditions)](/files/2022-Sports-Scholarship-Terms-Conditions.pdf)
+
+### Sexuality Education
+
+* [Sexuality Education Information (Primary)](/files/SED2022.pdf)
+* [Sexuality Education Information (Secondary)](/files/Info_on_SEd_for_SCGS_website_Sec_2022.pdf)
