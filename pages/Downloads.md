@@ -34,3 +34,11 @@ description: ""
 * [Secondary 3 (IP) Booklist](/files/Sec-3IP_2022.pdf)
 * [Secondary 4 (O-Level) Booklist](/files/Sec-4OLP_2022.pdf)
 * [Secondary 4 (IP) Booklist](/files/Sec-4IP_2022.pdf)
+
+### Booklist - Primary
+
+* [Primary 1 Booklist](/files/Pri-1-Booklist-and-School-Uniform-instruction.pdf)
+* [Primary 2 Booklist](/files/Pri-2-Booklist-and-School-Uniform-instruction.pdf)
+* [Primary 3 Booklist](/files/Pri-3-Booklist-and-School-Uniform-instruction.pdf)
+* [Primary 4 Booklist](/files/Pri-4-Booklist-and-School-Uniform-instruction.pdf)
+* [Primary 5 Booklist](/files/Pri-5-Booklist-and-School-Uniform-instruction.pdf)
