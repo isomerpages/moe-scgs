@@ -2,5 +2,6 @@ collections:
   prospective-students:
     output: true
     order:
+      - Fees.md
       - Scholarships.md
       - Financial Assistance.md
