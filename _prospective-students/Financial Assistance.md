@@ -36,7 +36,7 @@ Please refer to the Table below for the benefits under MOE FAS.
 
 **How to Apply?**
 
-Students who wish to apply for this scheme can obtain the application form from the school or download a copy of the [MOE FAS Application Form](https://scgs.moe.edu.sg/wp-content/uploads/2022/02/MOE-FAS-Application-Form.pdf). All applications forms must be submitted together with the relevant documents to the school directly.
+Students who wish to apply for this scheme can obtain the application form from the school or download a copy of the [MOE FAS Application Form](/files/MOE-FAS-Application-Form.pdf). All applications forms must be submitted together with the relevant documents to the school directly.
 
 **MOE INDEPENDENT SCHOOL BURSARY SCHEME**
 
