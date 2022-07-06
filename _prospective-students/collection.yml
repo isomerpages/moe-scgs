@@ -2,6 +2,7 @@ collections:
   prospective-students:
     output: true
     order:
+      - Secondary/Admission Procedures.md
       - Secondary/Direct School Admission.md
       - Secondary/.keep
       - Fees.md
