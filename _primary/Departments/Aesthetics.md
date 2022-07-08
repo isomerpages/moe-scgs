@@ -12,19 +12,21 @@ To nurture and encourage the joy of learning towards developing a life-long appr
 ### Vision:**  
 Every child, an engaged learner and informed audience of the Arts
 
+-----------------------------------------------------------------------
+
 ## Art
 
-**Philosophy:**
+### Philosophy:
 
 SCGS believes in cultivating an appreciation for aesthetics through our art programme. We aim to promote creativity, sensory perception and imagination through our broad-based art education that caters to students of different abilities and interests.
 
-**Programme:**
+### Programme:
 
 Our programme is designed to equip girls with the ability to create art forms using a variety of mediums such as ceramics, painting and 3D construction, and to help them gain a better understanding of the role of art in our society. Through the creation of visual art, we want to develop their ability to express themselves freely and creatively.
 
 Traditional art features as an important component of our art programme, with cultural art modules such as Chinese Calligraphy and Chinese Brush Painting introducing aspects of local heritage to the girls. Traditional techniques in art are complemented by digital media in our Art Programme.
 
-* * *
+-------------------------------------------------------------------------
 
 ### Music
 
