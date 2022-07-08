@@ -14,3 +14,6 @@ A key thrust of the programme is to equip all secondary students with a **perso
 ### Learning with a PLD @ SCGS
 
 At SCGS, our Desired Outcomes of Education (DOE) inform the development of NDLP vision and the outcomes of our kim geks. in getting them future-ready.
+
+![](/images/Getting-our-Kim-Gek-future-ready.jpg)
+_Illustrations by Melissa Tan_
