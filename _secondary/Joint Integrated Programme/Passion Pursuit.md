@@ -28,3 +28,6 @@ Sitting at the pinnacle of the Passion Pursuit framework, the **SCGS Academies*
 
 <img src="/images/PP-e1588899876727.png" 
      style="width:70%">
+		 
+		 
+As part of the JIP Passion Pursuit’s journey of _Diverge, Converge and Emerge_, SCGS thus offers a broad spectrum of diverse areas for students to explore and nurture their interests under the _Diverge_ phase of the broader six-year PP framework. As JIP students progress to EJC, they learn and discover more about their passion through the _Converge_ and _Emerge_ phases, driven by a zest for life and the aspiration to impact the community in positive and meaningful ways.
