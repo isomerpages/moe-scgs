@@ -6,6 +6,8 @@ third_nav_title: Departments
 ---
 # **CCE**
 
+![](/images/0137.jpg)
+
 ### Philosophy:
 
 In SCGS, we believe in the holistic development of a child. We nurture students of character and relevance through the provision of opportunities to inculcate values, skills and competencies in our students.
