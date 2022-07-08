@@ -6,7 +6,8 @@ third_nav_title: Departments
 ---
 # **Social Studies**
 ![](/images/SS-1.jpg)
-
+<img src="/images/principal.jpg" 
+     style="width:25%">
 
 ### Philosophy:
 
