@@ -39,8 +39,8 @@ third_nav_title: Secondary
 
 |   	| Clubs/Societies 	| Teacher-in-charge 	| Days 	| Time 	| Remarks 	|
 |---	|---	|---	|---	|---	|---	|
-| 1 	| Art Club 	| Mr Abdul Razak<br><br>Ms Low Kok Lang 	| Tuesday 	| 3.15 – 6.15pm 	| [abdul_razak@moe.edu.sg](mailto:abdul_razak@moe.edu.sg) 	|
-| 2 	| Debating Society 	| Mrs Swati Mukherji<br><br>Nur Ashiqin 	| Tuesday<br><br>Thursday 	| 3.15 – 6.15pm (Sch team)<br><br>3.15 – 6.15pm (Joint) 	| [swati_mukherji@moe.edu.sg](mailto:swati_mukherji@moe.edu.sg) 	|
+| 1 	| Art Club 	| **Mr Abdul Razak**<br><br>Ms Low Kok Lang 	| Tuesday 	| 3.15 – 6.15pm 	| [abdul_razak@moe.edu.sg](mailto:abdul_razak@moe.edu.sg) 	|
+| 2 	| Debating Society 	| **Mrs Swati Mukherji**<br><br>Nur Ashiqin 	| Tuesday<br><br>Thursday 	| 3.15 – 6.15pm (Sch team)<br><br>3.15 – 6.15pm (Joint) 	| [swati_mukherji@moe.edu.sg](mailto:swati_mukherji@moe.edu.sg) 	|
 | 3 	| Infocomm club<br><br>(Robotics/ Photography/ Animation) 	| Miss Kong Shiau Wei<br><br>Mr Lau Beng Hwee<br><br>Ms Roziana 	| Tuesday<br><br>Thursday 	| 3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| [kong_shiau_wei@moe.edu.sg](mailto:kong_shiau_wei@moe.edu.sg) 	|
-| 4 	| Library Society 	| Mrs Gloria Cheng<br><br>Mdm Loo Shek Kien<br><br>Mrs Florence Phuah 	| Mon – Fri<br><br>Thurs 	| 3.00 – 5.00pm (duty)<br><br>3.15 – 6.15pm 	| [kong_shiau_wei@moe.edu.sg](mailto:gloria_cheng@moe.edu.sg) 	|
-| 5 	| Science and Environment Club 	| Mrs Yeo Siew Li<br><br>Mrs Cha Wai Mun<br><br>Mrs Tan Beng Chiak 	| Tuesday<br><br>Thursday 	| 3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| [seow_siew_li@moe.edu.sg](mailto:seow_siew_li@moe.edu.sg) 	|
+| 4 	| Library Society 	| **Mrs Gloria Cheng**<br><br>Mdm Loo Shek Kien<br><br>Mrs Florence Phuah 	| Mon – Fri<br><br>Thurs 	| 3.00 – 5.00pm (duty)<br><br>3.15 – 6.15pm 	| [kong_shiau_wei@moe.edu.sg](mailto:gloria_cheng@moe.edu.sg) 	|
+| 5 	| Science and Environment Club 	| **Mrs Yeo Siew Li**<br><br>Mrs Cha Wai Mun<br><br>Mrs Tan Beng Chiak 	| Tuesday<br><br>Thursday 	| 3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| [seow_siew_li@moe.edu.sg](mailto:seow_siew_li@moe.edu.sg) 	|
