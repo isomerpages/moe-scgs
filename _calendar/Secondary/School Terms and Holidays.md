@@ -16,3 +16,7 @@ third_nav_title: Secondary
 |  	| Term 4: Monday 12 September to *Friday 18 November 	|
 
 _\* The last day of the final school term for schools which will be used as venues for the GCE O-Level written examinations will be Friday, 28 October 2022._
+
+### School Holidays for 2022
+
+
