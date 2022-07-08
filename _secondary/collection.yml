@@ -2,6 +2,7 @@ collections:
   secondary:
     output: true
     order:
+      - Departments/Physical Education & CCA.md
       - Departments/Science.md
       - Departments/.keep
       - Joint Integrated Programme/Overview.md
