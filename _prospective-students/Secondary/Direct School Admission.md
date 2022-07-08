@@ -4,10 +4,14 @@ permalink: /prospective-students/secondary-admission/direct-school-admission/
 description: ""
 third_nav_title: Secondary
 ---
-Direct School Admission
-=======================
+# **Direct School Admission**
 
 **[Introduction](/prospective-students/secondary-admission/direct-school-admission/#Introduction_DSA)**  |  **[DSA Options in SCGS](/prospective-students/secondary-admission/direct-school-admission/#DSA_Options)** | **[Talent Areas](/prospective-students/secondary-admission/direct-school-admission/#talent_area) **|**  [Eligibility](/prospective-students/secondary-admission/direct-school-admission/#Eligibility) | [Important Reminders](/prospective-students/secondary-admission/direct-school-admission/#reminders) |** 
+
+[Introduction](/prospective-students/secondary-admission/direct-school-admission/#Introduction)
+
+<a name="INTRODUCTION"></a>
+
 
 **DSA Engagement Talks 21 May 2022. Register here!**
 
