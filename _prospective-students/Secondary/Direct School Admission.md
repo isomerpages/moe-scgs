@@ -11,7 +11,7 @@ third_nav_title: Secondary
 
 Ignore the top row ^
 
-[INTRODUCTION](#INTRODUCTION)  |  [DSA OPTIONS IN SCGS](#DSAOPTIONSINSCGS) | [OUR TALENT AREAS](#OURTALENTAREAS) | [ELIGIBILITY](#ELIGIBILITY) |
+[INTRODUCTION](#INTRODUCTION)  |  [DSA OPTIONS IN SCGS](#DSAOPTIONSINSCGS) | [OUR TALENT AREAS](#OURTALENTAREAS) | [ELIGIBILITY](#ELIGIBILITY) | [IMPORTANT REMINDERS](#IMPORTANTREMINDERS) 
 
 errrrrrr
 
@@ -121,6 +121,8 @@ A Registration Number (RGxxxxxxx) is required. This is applicable for homeschool
 
 Parents may apply for a Registration Number (RGxxxxxxx) to access the DSA-Sec Portal at the MOE website at: [https://go.gov.sg/nmsdsa-sec-application.](https://go.gov.sg/nmsdsa-sec-application.)
 
+
+<a name="IMPORTANTREMINDERS"></a> 
 **E. IMPORTANT REMINDERS:**
 
 1.  Once you are successfully allocated to **Singapore Chinese Girls’ School**, you will not be allowed to participate in the annual Secondary One Posting Exercise to opt for secondary schools after the release of the PSLE results. You will be expected to honour the commitment to SCGS for the entire duration of the programme you have been admitted into.
@@ -134,3 +136,4 @@ Parents may apply for a Registration Number (RGxxxxxxx) to access the DSA-Sec Po
     Students admitted to the school via DSA are expected to honour their commitment to the school and programme and participate in the activities related to the talent they are selected for from year 1-4.
     
 3.  **Scholarships & Financial Assistance.** No one deserving of a place in the school should be discouraged because of financial considerations. Financial assistance schemes and awards are in place to support talented students. All students interested in an SCGS education and who can see their talents advanced at SCGS should apply. Do not let fees deter you from applying to us for DSA or accepting an offer of admission.
+
