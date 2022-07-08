@@ -36,7 +36,7 @@ Competition is strong and students entering through DSA are expected to be proac
 
 For details, please download the DSA Infosheet [here](/files/SCGS-DSA-Info-Sheet-2022_final.pdf).
 
-### <a name="DSAOPTIONSINSCGS"></a>
+<a name="DSAOPTIONSINSCGS"></a>
 **B. DSA OPTIONS IN SCGS**
 
 
