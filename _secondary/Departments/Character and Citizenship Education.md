@@ -30,9 +30,13 @@ A school programme which our students look forward to every year is the Outdoor 
 
 ![](/images/CCE-1.jpg)
 
+-------------------------------------------------------------------------
+
 **Leading Youths in Research & Inquiry Into Community & Society (LYRICS) Programme**
 
 ![](/images/CCE-2.jpg)
+
+-------------------------------------------------------------------------
 
 **Work Experience Programme**
 
@@ -48,9 +52,13 @@ Secondary 1 Melaka Trip
 
 ![](/images/CCE-4.jpg)
 
+-------------------------------------------------------------------------
+
 Secondary 2 Adventure Camp
 
 ![](/images/CCE-5.jpg)
+
+-------------------------------------------------------------------------
 
 Secondary 3 MOE-OBS Challenge Programme
 
