@@ -23,6 +23,8 @@ links:
     collection: ndlp
   - title: Calendar
     collection: calendar
+  - title: Pri
+    collection: primary
   - title: Secondary
     collection: secondary
   - title: Contact Us
