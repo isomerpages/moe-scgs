@@ -11,7 +11,7 @@ third_nav_title: Secondary
 
 Ignore the top row ^
 
-[INTRODUCTION](#INTRODUCTION) <a name="INTRODUCTION"></a>  |  [DSA OPTIONS IN SCGS](#DSAOPTIONSINSCGS) <a name="DSAOPTIONSINSCGS"></a>
+[INTRODUCTION](#INTRODUCTION)  |  [DSA OPTIONS IN SCGS](#DSAOPTIONSINSCGS) 
 
 errrrrrr
 
@@ -26,6 +26,8 @@ Session 2: [https://go.gov.sg/scgs-dsa2022-11am](https://go.gov.sg/scgs-dsa2022
 (For Admission into Secondary 1 in the year 2023)
 
  **A. INTRODUCTION**
+ 
+ <a name="INTRODUCTION"></a>
 
 The Direct School Admission Exercise allows students to seek admission into schools based on achievements and talents. SCGS seeks to admit such students based on a wide range of talents.  
 Competition is strong and students entering through DSA are expected to be proactive and sustain their interest to develop their talents through the opportunities offered. There is no priority through affiliation and all students seeking admission will be selected based on their achievements and talents in comparison to all applicants in the same category.  
@@ -34,6 +36,8 @@ Competition is strong and students entering through DSA are expected to be proac
 For details, please download the DSA Infosheet [here](/files/SCGS-DSA-Info-Sheet-2022_final.pdf).
 
 **B. DSA OPTIONS IN SCGS**
+
+<a name="DSAOPTIONSINSCGS"></a>
 
 Singapore Chinese Girls’ School is a dual-track school offering both the 4-year GCE O-Level Programme and the 6-year Integrated Programme in partnership with Eunoia Junior College.
 
