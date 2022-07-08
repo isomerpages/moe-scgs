@@ -1,0 +1,4 @@
+collections:
+  scgs-education:
+    output: true
+    order: []
