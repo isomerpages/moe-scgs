@@ -26,4 +26,5 @@ Sitting at the pinnacle of the Passion Pursuit framework, the **SCGS Academies*
 
 *   The **Business Academy** inspires the spirit of innovation and enterprise by imparting core knowledge on business principles and innovation protocol. Students, coached by business leaders from the real business world, apply their business acumen and entrepreneurial skills for positive social impact. Students have opportunities to visit various enterprises and engage in dialogue with businessmen and entrepreneurs.
 
-![](/images/PP-e1588899876727.png)
+<img src="/images/PP-e1588899876727.png" 
+     style="width:70%">
