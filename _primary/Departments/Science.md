@@ -6,6 +6,8 @@ third_nav_title: Departments
 ---
 # **Science**
 
+![](/images/0137.jpg)
+
 ### Philosophy:
 
 The word ‘Science’ comes from the Latin word ‘Scientia’ which means ‘knowledge’.  Science encompasses the organised body of empirical knowledge concerning the physical world as well as the attitudes and methods through which this body of knowledge is formed.
