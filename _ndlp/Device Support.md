@@ -45,7 +45,7 @@ Should you have any queries about the device and warranty, you may contact the d
 
 ![](/images/Screenshot-2021-08-20-1024x520.png)
 
-For insurance claim, please contact the Insurer <sup>B</sup> for the insurance form and cc pdlpapple@asiapac.com.sg. The contact details are as seen below:
+For insurance claim, please contact the Insurer <sup>B</sup> for the insurance form and cc [pdlpapple@asiapac.com.sg](mailto:pdlpapple@asiapac.com.sg). The contact details are as seen below:
 
 <img src="/images/Insurer-300x113.jpg" 
      style="width:50%">
