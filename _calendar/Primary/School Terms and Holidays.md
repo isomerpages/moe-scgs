@@ -6,7 +6,7 @@ third_nav_title: Primary
 ---
 # **School Terms and Holidays**
 
-**SCHOOL TERM FOR 2022**
+### SCHOOL TERM FOR 2022
 
 
 |  	|  	|  	|
@@ -16,7 +16,7 @@ third_nav_title: Primary
 
 \* SCGS Pri Last Day of school is 18 Nov 2022
 
-**SCHOOL HOLIDAYS FOR 2022**
+### SCHOOL HOLIDAYS FOR 2022
 
 
 |  	|  	|  	|
@@ -28,7 +28,7 @@ third_nav_title: Primary
 
 
 
-**SCHEDULED SCHOOL HOLIDAYS FOR 2022**
+### SCHEDULED SCHOOL HOLIDAYS FOR 2022
 
 |  	|  	|
 |---	|---	|
