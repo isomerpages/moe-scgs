@@ -23,6 +23,8 @@ links:
     collection: ndlp
   - title: Calendar
     collection: calendar
+  - title: Secondary
+    collection: secondary
   - title: Contact Us
     url: /contact-us/
   - title: Resources
