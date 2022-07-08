@@ -22,7 +22,8 @@ Session 2: [https://go.gov.sg/scgs-dsa2022-11am](https://go.gov.sg/scgs-dsa2022
 
  <a name="INTRODUCTION"></a>
  
- **A. INTRODUCTION**
+ **A. INTRODUCTION**    
+ [Back to Top](#Backtotop)
  
 The Direct School Admission Exercise allows students to seek admission into schools based on achievements and talents. SCGS seeks to admit such students based on a wide range of talents.  
 Competition is strong and students entering through DSA are expected to be proactive and sustain their interest to develop their talents through the opportunities offered. There is no priority through affiliation and all students seeking admission will be selected based on their achievements and talents in comparison to all applicants in the same category.  
@@ -31,7 +32,8 @@ Competition is strong and students entering through DSA are expected to be proac
 For details, please download the DSA Infosheet [here](/files/SCGS-DSA-Info-Sheet-2022_final.pdf).
 
 <a name="DSAOPTIONSINSCGS"></a>
-**B. DSA OPTIONS IN SCGS**
+**B. DSA OPTIONS IN SCGS**    
+[Back to Top](#Backtotop)
 
 
 Singapore Chinese Girls’ School is a dual-track school offering both the 4-year GCE O-Level Programme and the 6-year Integrated Programme in partnership with Eunoia Junior College.
@@ -46,7 +48,8 @@ We seek to promote a culture of excellence in the holistic development of our st
 | 6-year Integrated Programme with Eunoia Junior College (Years 1 – 4 in SCGS and  Years 5 – 6 at Eunoia Junior College) 	| <b>Leadership</b><br><br>Students who have excellent leadership skills and are leaders in their Primary School<br><br><b>CCAs</b> (Sports, Performing Arts, Clubs) <br><br>Students with talents in one of the fifteen DSA Co-Curricular Activities <br><br><b>Specific Academic Talents</b><br><br>Students who have specific academic talents may apply for DSA into the Integrated Programme.   	|
 
 <a name="OURTALENTAREAS"></a> 
-**C. OUR TALENT AREAS**
+**C. OUR TALENT AREAS**   
+[Back to Top](#Backtotop)
 
 **LEADERSHIP**
 
@@ -103,7 +106,8 @@ _In addition to the above, we constantly look for suitable platforms for student
 
 
  <a name="ELIGIBILITY"></a>
-**D. ELIGIBILITY**
+**D. ELIGIBILITY**    
+[Back to Top](#Backtotop)
 
 **WHO CAN APPLY?**
 
@@ -117,7 +121,8 @@ Parents may apply for a Registration Number (RGxxxxxxx) to access the DSA-Sec Po
 
 
 <a name="IMPORTANTREMINDERS"></a> 
-**E. IMPORTANT REMINDERS:**
+**E. IMPORTANT REMINDERS:**    
+[Back to Top](#Backtotop)
 
 1.  Once you are successfully allocated to **Singapore Chinese Girls’ School**, you will not be allowed to participate in the annual Secondary One Posting Exercise to opt for secondary schools after the release of the PSLE results. You will be expected to honour the commitment to SCGS for the entire duration of the programme you have been admitted into.
     
