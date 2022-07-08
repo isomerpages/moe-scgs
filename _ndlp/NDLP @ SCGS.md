@@ -17,3 +17,22 @@ At SCGS, our Desired Outcomes of Education (DOE) inform the development of NDLP 
 
 ![](/images/Getting-our-Kim-Gek-future-ready.jpg)
 _Illustrations by Melissa Tan_
+
+![](/images/NDLP.jpg)
+
+**Guidelines for Acceptable Use of Personal Learning Device (PLD) at SCGS**
+
+Learning with a Personal Learning Device (PLD) is a privilege. The guidelines, crafted with input and feedback from our _kim geks_ and staff, stem from our desire to see our _kim geks_ use their PLDs in balanced and healthy ways, embracing the joy of learning as we harness technology for learning. 
+
+Even as the PLDs extend and enrich our learning, these guidelines outline the responsible practices in using them in our SCGS community.  They may also apply to other devices considered by the school to fall under these guidelines. To facilitate the use of PLDs during lessons, teachers may also set routines and requirements in their lessons.
+
+There are four sections in the Guidelines: 
+
+1.  Responsible Care of your PLD
+2.  Cyber Security
+3.  Cyber Wellness
+4.  Discipline Guidelines Concerning PLDs
+
+As part of the NDLP, we will be encouraging our _kim geks_ to follow this set of guidelines on the safe and responsible practices of PLD use, to support daily teaching and learning in school. 
+
+Updated as of 20 August 2021
