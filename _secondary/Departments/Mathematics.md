@@ -21,4 +21,6 @@ SCGS values Mathematics as not only an essential academic subject, but also an i
 
 Our teachers endeavour to introduce mathematical concepts in a creative manner. The programme empowers students with problem-solving skills, and stimulates their interest and passion for the subject through an inquiry approach and applications of Mathematical concepts in real-world contexts. Students will also develop an understanding of the history and logic behind the Mathematical theorems.
 
-![](https://scgs.moe.edu.sg/wp-content/uploads/2021/11/WhatsApp-Image-2021-11-08-at-9.42.03-PM-300x225.jpeg)Students who demonstrate exceptional mathematical ability and have a strong interest in Mathematics will be given the opportunity to further develop their potential through Mathematics Olympiads, Local or International Mathematics Competitions and Research Projects.
+<img src="/images/WhatsApp-Image-2021-11-08-300x225.jpeg" style="width:183px;height:240px;margin-left:15px;" align = "right">
+
+Students who demonstrate exceptional mathematical ability and have a strong interest in Mathematics will be given the opportunity to further develop their potential through Mathematics Olympiads, Local or International Mathematics Competitions and Research Projects.
