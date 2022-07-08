@@ -51,10 +51,18 @@ third_nav_title: Secondary
 
 |  	| Performing Arts 	| Teacher-in-charge 	| Days 	| Time 	| Remarks / Email 	|
 |---	|---	|---	|---	|---	|---	|
-| 1 	| Band 	| Mr Ang Tee Koon<br><br>Miss Goh Lay Hoon<br><br>Mrs Wong Bee Ting 	| Tuesday<br><br>Thursday<br><br>Friday 	| 3.15 – 6.5pm<br><br>3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| ang_tee_koon@moe.edu.sg 	|
-| 2 	| Choir 	| Ms Beh Mui Leng<br><br>Mrs Vivian Tan<br><br>Mrs Angela Goh (Instructor) 	| Tuesday<br><br>Thursday<br><br>Friday* 	| 3.15 – 6.15pm<br><br>3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| beh_mui_leng@moe.edu.sg<br><br>*Concert /SYF season only 	|
-| 3 	| Dance 	| Mrs Lim Siew Joo<br><br>Mrs Chuah Shan Shan<br><br>Ms Vanessa Harijanto (instructor)<br><br>Mrs Jean Chan (Advisor) 	| Tuesday<br><br>Thursday<br><br>Friday 	| 3.15 – 6.15pm<br><br>3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| heng_siew_joo@moe.edu.sg<br><br>*Concert /SYF season only 	|
-| 4 	| Drama (CL) 	| Miss Lee Li Qun<br><br>Mdm Cui Hailan 	| Tuesday<br><br>Thursday<br><br>Friday* 	| 3.15 – 6.15m<br><br>3.15 – 6.15pm<br><br>3.15 – 6.15pm*<br> 	| lee_li_qun@moe.edu.sg<br><br>*Concert /SYF season only 	|
-| 5 	| Drama (EL) 	| Mrs Caruna Yogeeswaran<br><br>Ms Vivienne Pang<br><br>Mr Paul Cheong 	| Tuesday<br><br>Thursday<br><br>Friday* 	| 3.15 – 6.15m<br><br>3.15 – 6.15pm<br><br>3.15 – 6.15pm* 	| caruna_sothi@moe.edu.sg<br><br>*Concert /SYF season only 	|
-| 6 	| Handbell Ensemble 	| Ms Rina Lio<br><br>Mdm Phua Chia Ghee<br>  	| Tuesday<br><br>Thursday<br><br>Friday* 	| 3.15 – 6.15m<br><br>3.15 – 6.15pm<br><br>3.15 – 6.15pm* 	| lio_su-mein_rina@moe.edu.sg<br><br>*Concert /SYF season only 	|
-| 7 	| String Ensemble 	| Ms Deborah Gan<br><br>Mr Michael Chin 	| Tuesday<br><br>Thursday<br><br>Friday* 	| 3.15 – 6.15m<br><br>3.15 – 6.15pm<br><br>3.15 – 6.15pm* 	| deborah_gan_li_chuen@moe.edu.sg<br><br>*Concert /SYF season only 	|
+| 1 	| Band 	| Mr Ang Tee Koon<br><br>Miss Goh Lay Hoon<br><br>Mrs Wong Bee Ting 	| Tuesday<br><br>Thursday<br><br>Friday 	| 3.15 – 6.5pm<br><br>3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| [ang_tee_koon@moe.edu.sg](mailto:ang_tee_koon@moe.edu.sg) 	|
+| 2 	| Choir 	| Ms Beh Mui Leng<br><br>Mrs Vivian Tan<br><br>Mrs Angela Goh (Instructor) 	| Tuesday<br><br>Thursday<br><br>Friday* 	| 3.15 – 6.15pm<br><br>3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| [beh_mui_leng@moe.edu.sg](mailto:beh_mui_leng@moe.edu.sg)<br><br>*Concert /SYF season only 	|
+| 3 	| Dance 	| Mrs Lim Siew Joo<br><br>Mrs Chuah Shan Shan<br><br>Ms Vanessa Harijanto (instructor)<br><br>Mrs Jean Chan (Advisor) 	| Tuesday<br><br>Thursday<br><br>Friday 	| 3.15 – 6.15pm<br><br>3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| [heng_siew_joo@moe.edu.sg](mailto:heng_siew_joo@moe.edu.sg)<br><br>*Concert /SYF season only 	|
+| 4 	| Drama (CL) 	| Miss Lee Li Qun<br><br>Mdm Cui Hailan 	| Tuesday<br><br>Thursday<br><br>Friday* 	| 3.15 – 6.15m<br><br>3.15 – 6.15pm<br><br>3.15 – 6.15pm*<br> 	| [lee_li_qun@moe.edu.sg](mailto:lee_li_qun@moe.edu.sg)<br><br>*Concert /SYF season only 	|
+| 5 	| Drama (EL) 	| Mrs Caruna Yogeeswaran<br><br>Ms Vivienne Pang<br><br>Mr Paul Cheong 	| Tuesday<br><br>Thursday<br><br>Friday* 	| 3.15 – 6.15m<br><br>3.15 – 6.15pm<br><br>3.15 – 6.15pm* 	| [caruna_sothi@moe.edu.sg](mailto:caruna_sothi@moe.edu.sg)<br><br>*Concert /SYF season only 	|
+| 6 	| Handbell Ensemble 	| Ms Rina Lio<br><br>Mdm Phua Chia Ghee<br>  	| Tuesday<br><br>Thursday<br><br>Friday* 	| 3.15 – 6.15m<br><br>3.15 – 6.15pm<br><br>3.15 – 6.15pm* 	| [lio_su-mein_rina@moe.edu.sg](mailto:lio_su-mein_rina@moe.edu.sg)<br><br>*Concert /SYF season only 	|
+| 7 	| String Ensemble 	| Ms Deborah Gan<br><br>Mr Michael Chin 	| Tuesday<br><br>Thursday<br><br>Friday* 	| 3.15 – 6.15m<br><br>3.15 – 6.15pm<br><br>3.15 – 6.15pm* 	| [deborah_gan_li_chuen@moe.edu.sg](mailto:deborah_gan_li_chuen@moe.edu.sg)<br><br>*Concert /SYF season only 	|
+
+
+
+**Staff Overseeing CCA Development**
+
+*   HOD Aesthetics : [tan_li_jen_adeline@moe.edu.sg](mailto:tan_li_jen_adeline@moe.edu.sg)
+*   HOD CCA/ PE: [Khoo_beng_gek_linda@moe.edu.sg](mailto:Khoo_beng_gek_linda@moe.edu.sg)
+*   Dean Student Development: [wong_fei_may@moe.edu.sg](mailto:wong_fei_may@moe.edu.sg)
