@@ -4,9 +4,8 @@ permalink: /prospective-students/secondary-admission/direct-school-admission/
 description: ""
 third_nav_title: Secondary Admission
 ---
-
-# **Direct School Admission**
 <a name="Backtotop"></a>
+# **Direct School Admission**
 
 [INTRODUCTION](#INTRODUCTION)  |  [DSA OPTIONS IN SCGS](#DSAOPTIONSINSCGS) | [OUR TALENT AREAS](#OURTALENTAREAS) | [ELIGIBILITY](#ELIGIBILITY) | [IMPORTANT REMINDERS](#IMPORTANTREMINDERS) 
 
