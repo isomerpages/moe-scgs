@@ -23,12 +23,6 @@ sections:
         - title: Primary One Orientation
           description: Virtual Tour | First Day Exp
           url: /privacy/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
   - resources:
       title: Media
       subtitle: Learn more
