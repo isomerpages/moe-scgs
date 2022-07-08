@@ -6,6 +6,8 @@ third_nav_title: Departments
 ---
 # **Aesthetics**
 
+![](/images/SCGS-0159-e1494227755365.jpg)
+
 ### Philosophy:
 
 In SCGS, we believe that the pursuit of the arts is vital to one’s holistic development. Our programmes are centred on the belief that everyone can express themselves through the arts.  By nurturing essential artistic skills that enable our students to do so, we build a foundation for lifelong appreciation of the arts.
