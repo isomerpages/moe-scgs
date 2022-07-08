@@ -25,3 +25,14 @@ third_nav_title: Primary
 |  	| Term 2 	| Sat 28 May to Sun 26 Jun 	|
 | **Semester 2** 	| Term 3 	| Sat 3 Sep to Sun 11 Sep 	|
 |  	| Term 4 	| Sat 19 Nov to Fri 31 Dec 	|
+
+
+
+**SCHEDULED SCHOOL HOLIDAYS FOR 2022**
+
+|  	|  	|
+|---	|---	|
+| Youth Day 	| * Sun 3 Jul 	|
+| Day after National Day 	| Wed 10 Aug 	|
+| Teachers’ Day 	| # Fri 2 Sep 	|
+| Children’s Day 	| # Fri 7 Oct 	|
