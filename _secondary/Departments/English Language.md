@@ -6,6 +6,8 @@ third_nav_title: Departments
 ---
 # **English Language**
 
+![](/images/2017-EL-DEPT-WEBPAGE-BANNER-e1494228709781.jpg)
+
 ### Philosophy:
 
 At SCGS, we imbue our girls with a deep appreciation of the beauty of the English Language and Literature. English Language competency provides opportunities for personal development and promotes confidence in social interaction. Literature develops one’s sensitivity to how language can persuade and evoke emotions. Through Literature, girls learn to appreciate the human condition and in the process, understand life in all its multifaceted dimensions.
