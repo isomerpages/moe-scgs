@@ -9,7 +9,7 @@ third_nav_title: Departments
 ### Mission:
 To nurture and encourage the joy of learning towards developing a life-long appreciation in the Arts
 
-### Vision:**  
+### Vision:
 Every child, an engaged learner and informed audience of the Arts
 
 -----------------------------------------------------------------------
