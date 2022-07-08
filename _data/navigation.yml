@@ -21,6 +21,8 @@ links:
     collection: prospective-students
   - title: Ndlp
     collection: ndlp
+  - title: Calendar
+    collection: calendar
   - title: Contact Us
     url: /contact-us/
   - title: Resources
