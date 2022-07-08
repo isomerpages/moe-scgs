@@ -28,3 +28,12 @@ A school programme which our students look forward to every year is the Outdoor 
 
 **Values in Action Programmes**
 
+![](/images/CCE-1.jpg)
+
+**Leading Youths in Research & Inquiry Into Community & Society (LYRICS) Programme**
+
+![](/images/CCE-2.jpg)
+
+**Work Experience Programme**
+
+![](/images/CCE-3.jpg)
