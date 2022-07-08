@@ -2,4 +2,5 @@ collections:
   ndlp-at-scgs:
     output: true
     order:
+      - Resources for Parents.md
       - FAQs.md
