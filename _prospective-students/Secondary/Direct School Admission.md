@@ -11,7 +11,7 @@ third_nav_title: Secondary
 
 Ignore the top row ^
 
-[INTRODUCTION](#INTRODUCTION)  |  [DSA OPTIONS IN SCGS](#DSAOPTIONSINSCGS) 
+[INTRODUCTION](#INTRODUCTION)  |  [DSA OPTIONS IN SCGS](#DSAOPTIONSINSCGS) | 
 
 errrrrrr
 
@@ -25,9 +25,11 @@ Session 2: [https://go.gov.sg/scgs-dsa2022-11am](https://go.gov.sg/scgs-dsa2022
 
 (For Admission into Secondary 1 in the year 2023)
 
+
+ <a name="INTRODUCTION"></a>
+ 
  **A. INTRODUCTION**
  
- <a name="INTRODUCTION"></a>
 
 The Direct School Admission Exercise allows students to seek admission into schools based on achievements and talents. SCGS seeks to admit such students based on a wide range of talents.  
 Competition is strong and students entering through DSA are expected to be proactive and sustain their interest to develop their talents through the opportunities offered. There is no priority through affiliation and all students seeking admission will be selected based on their achievements and talents in comparison to all applicants in the same category.  
