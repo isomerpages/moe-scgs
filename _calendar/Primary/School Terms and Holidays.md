@@ -11,8 +11,8 @@ third_nav_title: Primary
 
 |  	|  	|  	|
 |---	|---	|---	|
-| Semester 1 	| Term 1: Mon 4 Jan to Fri 11 Mar 	| Term 2: Mon 21 Mar to Fri 27 May 	|
-| Semester 2 	| Term 3: Mon 27 Jun to Fri 2 Sep 	| Term 4: Mon 12 Sep to *Fri 18 Nov 	|
+| **Semester 1** 	| Term 1: Mon 4 Jan to Fri 11 Mar 	| Term 2: Mon 21 Mar to Fri 27 May 	|
+| **Semester 2** 	| Term 3: Mon 27 Jun to Fri 2 Sep 	| Term 4: Mon 12 Sep to *Fri 18 Nov 	|
 
 \* SCGS Pri Last Day of school is 18 Nov 2022
 
