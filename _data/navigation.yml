@@ -17,12 +17,6 @@ links:
         url: https://www.scgspsg.com/
       - title: Alumni
         url: http://scgsalumni.com/
-  - title: Prospective Students
-    collection: prospective-students
-  - title: Ndlp
-    collection: ndlp
-  - title: Calendar
-    collection: calendar
   - title: SCGS Education
     url: /scgs-education/overview/
     sublinks:
@@ -32,6 +26,12 @@ links:
         url: /scgs-education/primary/dept-pri/aesthetics/
       - title: Secondary
         url: /scgs-education/secondary/departments/aesthetics/
+  - title: Prospective Students
+    collection: prospective-students
+  - title: Ndlp
+    collection: ndlp
+  - title: Calendar
+    collection: calendar
   - title: Contact Us
     url: /contact-us/
   - title: Resources
