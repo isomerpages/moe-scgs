@@ -6,6 +6,8 @@ third_nav_title: Departments
 ---
 # **Mother Tongue Languages**
 
+![](/images/SCGS-0114-1.jpg)
+
 ### Philosophy:
 
 The bilingual policy is a cornerstone of our education system. At SCGS, we believe in nurturing every girl to be effectively bilingual in both English Language and her Mother Tongue Language (MTL). To ensure that our girls stay effective and relevant with the changing language environment in Singapore and around the world, our MTL curriculum aims to equip our students with the competencies required in using their MTL to communicate proficiently in everyday life. In addition, we want to help our students gain awareness of their cultural identity, find their roots as well as develop in them an appreciation for the richness of the culture and history of the respective MTL.
