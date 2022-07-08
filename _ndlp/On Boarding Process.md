@@ -7,7 +7,7 @@ description: ""
 
 As part of NDLP, the school&nbsp;will be making arrangements for 2022 Secondary One students to purchase their Personal Learning Device (PLD) by the first Semester.
 
-<img src="/images/IMG_3420-2-287x300.jpg" style="width:25%">
+<img style="width:25%" src="/images/IMG_3420-2-287x300.jpg">
 
 The PLD bundle purchased through the school will include the following:
 
@@ -52,3 +52,5 @@ Please refer to the estimated timeline below for the upcoming dates to note for 
 | 22 March 2022 	| • For students with existing devices, to bring the device to school for ICT Dept to perform the factory reset. 	|
 | 23 March 2022 	| • Collection and setup of Personal Learning Device<br><br>• Parents will receive the school’s guidelines on Acceptable Use of PLDs and suggested conversation questions for parents. These suggested questions aim to support parent-child conversations around healthy online learning habits and use of the PLD at home.<br>  	|
 | 23 – 24 March 2022 	| • Suppliers to paste screen protectors for students who have purchased the device through the school. <br><br>• PLDs will be collected during the day and returned to the students when completed. 	|
+
+Updated as of 9 March 2022
