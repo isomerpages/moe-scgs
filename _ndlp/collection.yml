@@ -1,5 +1,5 @@
 collections:
-  ndlp-at-scgs:
+  ndlp:
     output: true
     order:
       - Resources for Parents.md
