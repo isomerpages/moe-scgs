@@ -2,6 +2,7 @@ collections:
   secondary:
     output: true
     order:
+      - Departments/Home Economics.md
       - Departments/Humanities.md
       - Departments/Mathematics.md
       - Departments/Mother Tongue Languages.md
