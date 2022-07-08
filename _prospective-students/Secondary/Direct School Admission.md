@@ -11,7 +11,7 @@ third_nav_title: Secondary
 
 Ignore the top row ^
 
-[INTRODUCTION](#INTRODUCTION)  |  [DSA OPTIONS IN SCGS](#DSAOPTIONSINSCGS) | 
+[INTRODUCTION](#INTRODUCTION)  |  [DSA OPTIONS IN SCGS](#DSAOPTIONSINSCGS) | [OUR TALENT AREAS](#OURTALENTAREAS) | [ELIGIBILITY](#ELIGIBILITY) |
 
 errrrrrr
 
@@ -51,7 +51,7 @@ We seek to promote a culture of excellence in the holistic development of our st
 | 4-year GCE O-Level Programme 	| <b>Leadership</b><br>Students who have excellent leadership skills and are leaders in their Primary School<br><br><b>CCAs</b>(Sports, Performing Arts, Clubs) <br><br>Students with talents in one of the fifteen DSA Co-Curricular Activities  	|
 | 6-year Integrated Programme with Eunoia Junior College (Years 1 – 4 in SCGS and  Years 5 – 6 at Eunoia Junior College) 	| <b>Leadership</b><br><br>Students who have excellent leadership skills and are leaders in their Primary School<br><br><b>CCAs</b> (Sports, Performing Arts, Clubs) <br><br>Students with talents in one of the fifteen DSA Co-Curricular Activities <br><br><b>Specific Academic Talents</b><br><br>Students who have specific academic talents may apply for DSA into the Integrated Programme.   	|
 
-
+<a name="OURTALENTAREAS"></a> 
 **C. OUR TALENT AREAS**
 
 **LEADERSHIP**
@@ -107,6 +107,8 @@ Registration will begin in early May.
 
 _In addition to the above, we constantly look for suitable platforms for students to participate in to develop and showcase their talents. Actual activities may vary according to opportunities and circumstances._
 
+
+ <a name="ELIGIBILITY"></a>
 **D. ELIGIBILITY**
 
 **WHO CAN APPLY?**
