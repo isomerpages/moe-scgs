@@ -2,4 +2,5 @@ collections:
   calendar:
     output: true
     order:
+      - Secondary/School Terms and Holidays.md
       - Secondary/.keep
