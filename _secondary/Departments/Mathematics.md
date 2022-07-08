@@ -6,6 +6,7 @@ third_nav_title: Departments
 ---
 # **Mathematics**
 
+![](/images/Capture.png)
 
 
 ### Philosophy:
