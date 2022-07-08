@@ -6,6 +6,8 @@ third_nav_title: Departments
 ---
 # **Physical Education & CCA**
 
+![](/images/SCGS-PECCA-1.jpg)
+
 ### Philosophy:
 
 SCGS seeks to equip our students with skills and motivation to lead a well-balanced life in school and beyond. Through the Living and Lifeskill programme (LLP), PE curriculum and our Co-Curricular Activites, we strive to develop social and emotional skills which includes qualities such as teamwork, grit and perseverance.
