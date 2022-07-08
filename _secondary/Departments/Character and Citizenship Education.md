@@ -26,6 +26,9 @@ A school programme which our students look forward to every year is the Outdoor 
 | CCE Outcome 	| Confident Kim Gek who demonstrates pride in her identity 	| Concerned Kim Gek who demonstrates empathy towards her community in school 	| Self-directed Kim Gek who demonstrates responsible decision making for the community and beyond 	| Active Kim Gek who serves and contributes to the nation 	|
 | Programme 	| Melaka Trip 	| Adventure Camp ABBA 	| Sec 3 Service Learning Carnival for Senior Citizens and Leadership Camp 	| Class- initiated Values in Action and Level Bonding Activities 	|
 
+
+-------------------------------------------------------------------------
+
 **Values in Action Programmes**
 
 ![](/images/CCE-1.jpg)
