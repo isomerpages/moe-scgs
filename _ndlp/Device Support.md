@@ -36,3 +36,18 @@ If the device has a hardware issue, please make an appointment through [https:/
 | 4. 	| Apple Retail Store @ Jewel Changi Airport (220m from Changi Airport MRT) 	| 1800 186 1087 	| [https://getsupport.apple.com](https://getsupport.apple.com) 	| Mon – Thu: 1100 – 2100 Fri – Sun: 1100 – 2200 	|
 | 5. 	| Apple Retail Store @ Orchard Road (400m from Orchard MRT) 	| 1800 699 2824 	| [https://getsupport.apple.com](https://getsupport.apple.com) 	| Mon – Sun: 1000 – 2200 	|
 | 6. 	| Apple Retail Store @ Marina Bay Sands (220m from Bayfront MRT) 	| 1800 407 4949 	| [https://getsupport.apple.com](https://getsupport.apple.com) 	| Mon – Sun: 1000 – 2200 	|
+
+Devices sent by parents/students directly to the service centres will not be subjected to the same courier pickup services offered through the school’s service desk. 
+
+### **Device Contractor Information**
+
+Should you have any queries about the device and warranty, you may contact the device contractor directly.
+
+![](/images/Screenshot-2021-08-20-1024x520.png)
+
+For insurance claim, please contact the Insurer <sup>B</sup> for the insurance form and cc pdlpapple@asiapac.com.sg. The contact details are as seen below:
+
+<img src="/images/Insurer-300x113.jpg" 
+     style="width:50%">
+
+Updated as of 20 December 202
