@@ -19,7 +19,7 @@ sections:
           url: /prospective-students/secondary-admission/direct-school-admission/
         - title: 2021 GCE O Level Results
           description: Read More
-          url: https://gmail.com
+          url: /2021-gce-o-level-examination-results/
         - title: Primary One Orientation
           description: Virtual Tour | First Day Exp
           url: /privacy/
