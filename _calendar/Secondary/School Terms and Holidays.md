@@ -19,4 +19,10 @@ _\* The last day of the final school term for schools which will be used as venu
 
 ### School Holidays for 2022
 
-
+|  	|  	|  	|
+|---	|---	|---	|
+| **Semester 1** 	| Term 1 	| Saturday 12 March – Sunday 20 March 	|
+|  	| Term 2 	| Saturday 28 May to Sunday 26 June 	|
+| **Semester 2** 	| Term 3  	| Saturday 3 September - Sunday 11 September 	|
+|  	| Term 4 	| Saturday 19 November - Saturday 31 December 	|
+|  	|  	|  	|
