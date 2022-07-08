@@ -17,3 +17,11 @@ third_nav_title: Primary
 \* SCGS Pri Last Day of school is 18 Nov 2022
 
 **SCHOOL HOLIDAYS FOR 2022**
+
+
+|  	|  	|  	|
+|---	|---	|---	|
+| **Semester 1** 	| Term 1 	| Sat 12 Mar to Sun 20 Mar 	|
+|  	| Term 2 	| Sat 28 May to Sun 26 Jun 	|
+| **Semester 2** 	| Term 3 	| Sat 3 Sep to Sun 11 Sep 	|
+|  	| Term 4 	| Sat 19 Nov to Fri 31 Dec 	|
