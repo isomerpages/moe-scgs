@@ -6,6 +6,8 @@ third_nav_title: Departments
 ---
 # **Physical Education & CCA**
 
+![](/images/0042%20(1).jpg)
+
 ### Physical Education & CCA
 
 #### Philosophy:
