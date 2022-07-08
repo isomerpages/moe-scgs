@@ -6,6 +6,8 @@ third_nav_title: Departments
 ---
 # **Home Economics**
 
+![](/images/SCGS-0037-e1508224209499.jpg)
+
 ### Philosophy:
 
 The SCGS Home Economics Programme aims to develop students’ knowledge and attitudes in Home Economics for the well-being of self, family and the community.  We believe that such life-skills are an important aspect of a holistic education.
