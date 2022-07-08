@@ -2,6 +2,7 @@ collections:
   primary:
     output: true
     order:
+      - Departments/Mother Tongue Languages.md
       - Departments/Physical Education & CCA.md
       - Departments/Science.md
       - Departments/Social Studies.md
