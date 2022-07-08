@@ -8,13 +8,12 @@ third_nav_title: Departments
 
 ![](/images/0042%20(1).jpg)
 
-### Physical Education & CCA
 
-#### Philosophy:
+### Philosophy:
 
 SCGS believes in helping our students develop healthy habits for life. We recognise the value of Physical Education in a well-rounded education – we aim to impart knowledge on health and fitness, and to develop mental acuity through a better appreciation and understanding of games. Our Physical Education Programme is also focused on developing teamwork amongst the students.
 
-#### Programme:
+### Programme:
 
 We advocate a holistic and inter-disciplinary approach to learning. This is achieved through our broad-based P.E. curriculum which caters to students of different abilities and interests. Our lessons educate the students on healthy living and sports and expose them to a wide selection of fundamental movement, modified games, as well as ballet, Chinese dance and Jazz.
 
