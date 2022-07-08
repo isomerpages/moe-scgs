@@ -29,6 +29,14 @@ The DMA Parent Portal allows parents to regulate their child’s device after sc
 
 | Option 	| DMA Guides 	|
 |---	|---	|
-| Default Option 	| Click Here 	|
-| Option A 	| Click Here 	|
-| Option B 	| Click Here 	|
+| Default Option 	| Click[Here](/files/DMA-Parent-Guide-v2-Default-iPadOS.pdf) 	|
+| Option A 	| Click[Here](/files/DMA-Parent-Guide-v2-Option-A-iPadOS.pdf) 	|
+| Option B 	| Click[Here](/files/DMA-Parent-Guide-v2-Option-B-iPadOS.pdf) 	|
+
+### **Cyber Wellness Education** 
+
+In SCGS, we believe in the holistic development of a child. We nurture students of character and relevance through the provision of opportunities to inculcate values, skills and competencies in our students.
+
+The Cyber Wellness lessons in CCE focus on the positive physical and psychological well-being of students as they navigate the cyber world. It involves the understanding of the norms of responsible behaviour regarding technology use as well as knowledge, skills, values and attitudes on how to protect oneself and other users in the cyber world. 
+
+Updated as of 23 April 2021
