@@ -1,4 +1,6 @@
 collections:
   primary:
     output: true
-    order: []
+    order:
+      - SCGS Education Primary Applied Learning Programme (ALP) Applied Learning
+        Programme (ALP).md
