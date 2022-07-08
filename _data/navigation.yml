@@ -23,14 +23,6 @@ links:
     collection: ndlp
   - title: Calendar
     collection: calendar
-  - title: Pri
-    collection: primary
-  - title: Secondary
-    collection: secondary
-  - title: Contact Us
-    url: /contact-us/
-  - title: Resources
-    resource_room: true
   - title: SCGS Education
     url: /scgs-education/overview/
     sublinks:
@@ -38,3 +30,9 @@ links:
         url: /scgs-education/overview/
       - title: Primary
         url: /scgs-education/primary/dept-pri/aesthetics/
+      - title: Secondary
+        url: /scgs-education/secondary/departments/aesthetics/
+  - title: Contact Us
+    url: /contact-us/
+  - title: Resources
+    resource_room: true
