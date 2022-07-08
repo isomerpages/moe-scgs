@@ -25,4 +25,13 @@ _\* The last day of the final school term for schools which will be used as venu
 |  	| Term 2 	| Saturday 28 May to Sunday 26 June 	|
 | **Semester 2** 	| Term 3  	| Saturday 3 September - Sunday 11 September 	|
 |  	| Term 4 	| Saturday 19 November - Saturday 31 December 	|
+
+
+
+### Scheduled School Holidays for 2022
+
 |  	|  	|  	|
+|---	|---	|---	|
+| **Youth Day** 	| Sunday 3 July (The following Monday, 4 Jul will be a scheduled school holiday.) 	|  	|
+| **Day after National Day** 	| Wednesday 10 August 	|  	|
+| **Teachers’ Day (School Holiday)** 	| Friday 2 September 	|  	|
