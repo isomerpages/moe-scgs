@@ -44,3 +44,17 @@ third_nav_title: Secondary
 | 3 	| Infocomm club<br><br>(Robotics/ Photography/ Animation) 	| Miss Kong Shiau Wei<br><br>Mr Lau Beng Hwee<br><br>Ms Roziana 	| Tuesday<br><br>Thursday 	| 3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| [kong_shiau_wei@moe.edu.sg](mailto:kong_shiau_wei@moe.edu.sg) 	|
 | 4 	| Library Society 	| **Mrs Gloria Cheng**<br><br>Mdm Loo Shek Kien<br><br>Mrs Florence Phuah 	| Mon – Fri<br><br>Thurs 	| 3.00 – 5.00pm (duty)<br><br>3.15 – 6.15pm 	| [kong_shiau_wei@moe.edu.sg](mailto:gloria_cheng@moe.edu.sg) 	|
 | 5 	| Science and Environment Club 	| **Mrs Yeo Siew Li**<br><br>Mrs Cha Wai Mun<br><br>Mrs Tan Beng Chiak 	| Tuesday<br><br>Thursday 	| 3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| [seow_siew_li@moe.edu.sg](mailto:seow_siew_li@moe.edu.sg) 	|
+
+
+
+### Performing Arts
+
+|  	| Performing Arts 	| Teacher-in-charge 	| Days 	| Time 	| Remarks / Email 	|
+|---	|---	|---	|---	|---	|---	|
+| 1 	| Band 	| Mr Ang Tee Koon<br><br>Miss Goh Lay Hoon<br><br>Mrs Wong Bee Ting 	| Tuesday<br><br>Thursday<br><br>Friday 	| 3.15 – 6.5pm<br><br>3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| ang_tee_koon@moe.edu.sg 	|
+| 2 	| Choir 	| Ms Beh Mui Leng<br><br>Mrs Vivian Tan<br><br>Mrs Angela Goh (Instructor) 	| Tuesday<br><br>Thursday<br><br>Friday* 	| 3.15 – 6.15pm<br><br>3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| beh_mui_leng@moe.edu.sg<br><br>*Concert /SYF season only 	|
+| 3 	| Dance 	| Mrs Lim Siew Joo<br><br>Mrs Chuah Shan Shan<br><br>Ms Vanessa Harijanto (instructor)<br><br>Mrs Jean Chan (Advisor) 	| Tuesday<br><br>Thursday<br><br>Friday 	| 3.15 – 6.15pm<br><br>3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| heng_siew_joo@moe.edu.sg<br><br>*Concert /SYF season only 	|
+| 4 	| Drama (CL) 	| Miss Lee Li Qun<br><br>Mdm Cui Hailan 	| Tuesday<br><br>Thursday<br><br>Friday* 	| 3.15 – 6.15m<br><br>3.15 – 6.15pm<br><br>3.15 – 6.15pm*<br> 	| lee_li_qun@moe.edu.sg<br><br>*Concert /SYF season only 	|
+| 5 	| Drama (EL) 	| Mrs Caruna Yogeeswaran<br><br>Ms Vivienne Pang<br><br>Mr Paul Cheong 	| Tuesday<br><br>Thursday<br><br>Friday* 	| 3.15 – 6.15m<br><br>3.15 – 6.15pm<br><br>3.15 – 6.15pm* 	| caruna_sothi@moe.edu.sg<br><br>*Concert /SYF season only 	|
+| 6 	| Handbell Ensemble 	| Ms Rina Lio<br><br>Mdm Phua Chia Ghee<br>  	| Tuesday<br><br>Thursday<br><br>Friday* 	| 3.15 – 6.15m<br><br>3.15 – 6.15pm<br><br>3.15 – 6.15pm* 	| lio_su-mein_rina@moe.edu.sg<br><br>*Concert /SYF season only 	|
+| 7 	| String Ensemble 	| Ms Deborah Gan<br><br>Mr Michael Chin 	| Tuesday<br><br>Thursday<br><br>Friday* 	| 3.15 – 6.15m<br><br>3.15 – 6.15pm<br><br>3.15 – 6.15pm* 	| deborah_gan_li_chuen@moe.edu.sg<br><br>*Concert /SYF season only 	|
