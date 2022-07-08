@@ -8,6 +8,9 @@ third_nav_title: Secondary
 
 **[Introduction](/prospective-students/secondary-admission/direct-school-admission/#Introduction_DSA)**  |  **[DSA Options in SCGS](/prospective-students/secondary-admission/direct-school-admission/#DSA_Options)** | **[Talent Areas](/prospective-students/secondary-admission/direct-school-admission/#talent_area) **|**  [Eligibility](/prospective-students/secondary-admission/direct-school-admission/#Eligibility) | [Important Reminders](/prospective-students/secondary-admission/direct-school-admission/#reminders) |** 
 
+
+Ignore the top row ^
+
 [INTRODUCTION](#INTRODUCTION) <a name="INTRODUCTION"></a>  |  [DSA OPTIONS IN SCGS](#DSAOPTIONSINSCGS) <a name="DSAOPTIONSINSCGS"></a>
 
 errrrrrr
