@@ -6,6 +6,8 @@ third_nav_title: Departments
 ---
 # **English Language**
 
+![](/images/Untitled-1.jpg)
+
 ### Mission:
 
 To lay a firm foundation of every child for the mastery of the English language so that each child can use it as the key to lifelong learning.
