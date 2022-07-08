@@ -5,6 +5,8 @@ description: ""
 ---
 # **Overview**
 
+![](/images/SCGS-0195.jpg)
+
 The SCGS education philosophy stems from our strong belief in providing a holistic and balanced education founded on a bedrock of timeless values and rich heritage. We are committed to nurturing every student to grow her interests and aptitude, to achieve her personal best.
 
 The school values of _Sincerity, Courage, Generosity_ and _Service_ anchor our vision and mission. They have given us a treasured heritage of more than 120 years and nurtured many outstanding women of character and relevance who are trailblazers in their respective fields.
