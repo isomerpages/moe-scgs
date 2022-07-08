@@ -8,3 +8,9 @@ third_nav_title: Secondary
 
 ### School Term for 2022
 
+|  	|  	|
+|---	|---	|
+| **Semester 1** 	| Term 1: Tuesday 4 January to Friday 11 March 	|
+|  	| Term 2: Monday 21 March to Friday 27 May 	|
+| **Semester 2** 	| Term 3: Monday 27 June to Friday 2 September 	|
+|  	| Term 4: Monday 12 September to *Friday 18 November 	|
