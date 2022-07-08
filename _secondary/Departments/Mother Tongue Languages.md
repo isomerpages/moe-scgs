@@ -6,6 +6,8 @@ third_nav_title: Departments
 ---
 # **Mother Tongue Languages**
 
+![](/images/WhatsApp-Image-2019-12-04.jpeg)
+
 ### Philosophy:
 
 At SCGS, we believe in helping every girl understand her historical and cultural identity. We want to help girls find their roots and master their Mother Tongue Language. In this age where the Mother Tongue Languages are those of the emerging economies, we aim to equip girls with skills in speaking and writing competently and confidently, and thus put them in good stead for future job opportunities and business collaboration.
