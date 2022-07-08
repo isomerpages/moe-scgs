@@ -1,4 +1,5 @@
 collections:
   calendar:
     output: true
-    order: []
+    order:
+      - Secondary/.keep
