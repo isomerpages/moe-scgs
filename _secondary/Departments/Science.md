@@ -6,6 +6,8 @@ third_nav_title: Departments
 ---
 # **Science**
 
+![](/images/SCGS-0078.jpg)
+
 ### Philosophy:
 
 Learning science and talent development in science is an integrated process in SCGS, encompassing a myriad of activities within and outside of school, building on and complementing one another. These activities include regular classroom lessons imparting foundational knowledge and skills, assembly talks providing exposure to new ideas and perspectives, enrichment workshops building specific expertise, competitions allowing for benchmarking with like-minded peers, as well as science research and attachment at scientific institutions proffering opportunities for authentic experiences and mentorships.
