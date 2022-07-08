@@ -8,19 +8,20 @@ notification: ""
 sections:
   - hero:
       title: Singapore Chinese Girls' School
-      subtitle: Hero subtitle
+      subtitle: Sincere collaborator, Courageous change maker, Generous contributor,
+        Servant leader
       background: /images/scgs.gif
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: DSA Exercise 2022
+          description: Interested in joining SCGS?
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: 2021 GCE O Level Results
+          description: Read More
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
+        - title: Primary One Orientation
+          description: Virtual Tour | First Day Exp
           url: /privacy/
   - infobar:
       title: Infobar title
