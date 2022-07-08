@@ -6,11 +6,6 @@ third_nav_title: Secondary
 ---
 # **Direct School Admission**
 
-**[Introduction](/prospective-students/secondary-admission/direct-school-admission/#Introduction_DSA)**  |  **[DSA Options in SCGS](/prospective-students/secondary-admission/direct-school-admission/#DSA_Options)** | **[Talent Areas](/prospective-students/secondary-admission/direct-school-admission/#talent_area) **|**  [Eligibility](/prospective-students/secondary-admission/direct-school-admission/#Eligibility) | [Important Reminders](/prospective-students/secondary-admission/direct-school-admission/#reminders) |** 
-
-
-Ignore the top row ^
-
 [INTRODUCTION](#INTRODUCTION)  |  [DSA OPTIONS IN SCGS](#DSAOPTIONSINSCGS) | [OUR TALENT AREAS](#OURTALENTAREAS) | [ELIGIBILITY](#ELIGIBILITY) | [IMPORTANT REMINDERS](#IMPORTANTREMINDERS) 
 
 **DSA Engagement Talks 21 May 2022. Register here!**
