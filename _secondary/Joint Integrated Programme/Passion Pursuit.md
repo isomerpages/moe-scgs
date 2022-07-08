@@ -4,6 +4,8 @@ permalink: /scgs-education/secondary/Integrated-Programme/passion-pursuit
 description: ""
 third_nav_title: Joint Integrated Programme
 ---
+![](/images/PP-copy-scaled-1.jpg)
+
 # **Passion Pursuit**
 
 ### _Passion to Pursue Hopes and Dreams_
