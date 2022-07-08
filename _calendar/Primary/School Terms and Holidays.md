@@ -36,3 +36,6 @@ third_nav_title: Primary
 | Day after National Day 	| Wed 10 Aug 	|
 | Teachers’ Day 	| # Fri 2 Sep 	|
 | Children’s Day 	| # Fri 7 Oct 	|
+
+\* _The following Monday, 4 Jul 2022 will be a scheduled school holiday_.  
+\# For primary schools and primary sections of full schools only. # As part of the nation-wide movement to promote family life, the Teachers’ Day and Children’s Day which have traditionally been celebrated in Singapore schools on Sep 1 and Oct 1 will be scheduled to the first Friday of September and October respectively.
