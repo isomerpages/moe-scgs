@@ -11,6 +11,7 @@ third_nav_title: Departments
 ### Philosophy:
 
 <img src="/images/Student-3-225x300.jpg" style="width:183px;height:240px;margin-left:15px;" align = "right">
+
 Mathematics, the language of nature, is a versatile tool that transcends different aspects of everyday life. Present in the environment around us, and employed in the study of various subjects such as economics, science and engineering, the learning of Mathematics involves an understanding of logical thinking and general problem solving strategies. It involves observing and investigating patterns and relationships in social and physical phenomena.
 
 
