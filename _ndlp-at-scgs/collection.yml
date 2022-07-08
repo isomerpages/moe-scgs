@@ -1,0 +1,4 @@
+collections:
+  ndlp-at-scgs:
+    output: true
+    order: []
