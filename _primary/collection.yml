@@ -2,6 +2,7 @@ collections:
   primary:
     output: true
     order:
+      - Departments/Science.md
       - Departments/Social Studies.md
       - Departments/.keep
       - Programme for Active Learning (PAL).md
