@@ -31,3 +31,10 @@ links:
     url: /contact-us/
   - title: Resources
     resource_room: true
+  - title: SCGS Education
+    url: /scgs-education/overview/
+    sublinks:
+      - title: Overview
+        url: /scgs-education/overview/
+      - title: Primary
+        url: /scgs-education/primary/dept-pri/aesthetics/
