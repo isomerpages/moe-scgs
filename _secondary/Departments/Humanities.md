@@ -6,6 +6,8 @@ third_nav_title: Departments
 ---
 # **Humanities**
 
+![](/images/SCGS%20-%20humanities.jpg)
+
 ### Philosophy:
 
 SCGS values the Humanities as a discipline that exposes one to the world and society – the issues explored promote the students’ sensitivities to their environment, and enable them to understand the physical and human environment in the 21st century. Through our Humanities Programme, we aim to inculcate in the students a sense of belonging to the community and country. Our approach to teaching endeavours to provide the students with valuable skills in interpreting the world around them, and to develop in them an appreciation for the local and global human experience.
