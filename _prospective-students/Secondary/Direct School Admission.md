@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Secondary
 ---
 # **Direct School Admission**
-<a name="IMPORTANTREMINDERS"></a>
+<a name="Backtotop"></a>
 
 [INTRODUCTION](#INTRODUCTION)  |  [DSA OPTIONS IN SCGS](#DSAOPTIONSINSCGS) | [OUR TALENT AREAS](#OURTALENTAREAS) | [ELIGIBILITY](#ELIGIBILITY) | [IMPORTANT REMINDERS](#IMPORTANTREMINDERS) 
 
