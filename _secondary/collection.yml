@@ -2,5 +2,6 @@ collections:
   secondary:
     output: true
     order:
+      - Joint Integrated Programme/World Readiness Programme.md
       - Joint Integrated Programme/Passion Pursuit.md
       - Joint Integrated Programme/.keep
