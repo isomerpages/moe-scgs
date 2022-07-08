@@ -22,7 +22,7 @@ sections:
           url: /2021-gce-o-level-examination-results/
         - title: Primary One Orientation
           description: Virtual Tour | First Day Exp
-          url: /privacy/
+          url: /primary-one-orientation/
   - resources:
       title: Media
       subtitle: Learn more
