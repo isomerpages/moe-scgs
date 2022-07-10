@@ -4,14 +4,13 @@ permalink: /scgs-education/secondary/departments/character-and-citizenship-educa
 description: ""
 third_nav_title: Departments
 ---
-
 # **Character and Citizenship Education**
 
-**Philosophy:**
+### Philosophy:
 
 In SCGS, we believe in the holistic development of a child. We nurture students of character and relevance through the provision of opportunities that inculcate values, skills and competencies in our students.
 
-**Programmes:**
+### Programmes:
 
 Our key programmes include Values In Action, Service Learning Carnival, Education and Career Guidance, Work Experience Programme, National Education, Outdoor Education Week, MOE-OBS Challenge Programme and [Sexuality Education](/files/Info_on_SEd_for_SCGS_website_Sec_2022.pdf). Through their involvement in Values in Action projects and the Service Learning Carnival, students develop knowledge and skills in in communicating with the public and in planning relevant and meaningful activities for the beneficiaries while developing empathy for others.  Our students also learn to understand situations from a wider perspective and play an active role in contributing to the society. A significant component of the school experience, which allows our students to benefit from and apply their learning from a values-driven education, is in their [Co-curricular Activities (CCA)](/scgs-education/secondary/secondary-division/physical-educationcca/).
 
