@@ -8,7 +8,10 @@ locations:
       - 190 Dunearn Road
       - Singapore 309437
       - ""
-    operating_hours: []
+    operating_hours:
+      - days: Mon-Fri
+        time: 7am-6pm
+        description: Closed on weekends and public holidays
     maps_link: https://goo.gl/maps/eRMjxWnADrUscYEn8
     title: Address
 contacts:
