@@ -2,7 +2,7 @@ collections:
   secondary:
     output: true
     order:
-      - Learning Beyond Our Borders.md
+      - Departments/.keep
       - Departments/Aesthetics.md
       - Departments/Character and Citizenship Education.md
       - Departments/English Language.md
@@ -12,9 +12,9 @@ collections:
       - Departments/Mother Tongue Languages.md
       - Departments/Physical Education & CCA.md
       - Departments/Science.md
-      - Departments/.keep
+      - Joint Integrated Programme/.keep
       - Joint Integrated Programme/Overview.md
       - Joint Integrated Programme/Core Academic Programmes.md
       - Joint Integrated Programme/World Readiness Programme.md
       - Joint Integrated Programme/Passion Pursuit.md
-      - Joint Integrated Programme/.keep
+      - Learning Beyond Our Borders.md
