@@ -43,3 +43,16 @@ In a global world, the ability to adapt to diverse cultures, communicate across 
 
 **English Literature Trip (United Kingdom)**
 
+![](/images/learning%20beyond%20our%20borders%206.jpg)
+
+* * *
+
+**Humanities Bi-cultural Exchange (South Korea)**
+
+![](/images/learning%20beyond%20our%20borders%207.jpg)
+
+ * * *
+ 
+ **Melaka Trip**
+
+Click [here](/scgs-education/secondary/departments/character-and-citizenship-education/) to view photos
