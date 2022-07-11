@@ -12,6 +12,7 @@ Our World Readiness Programme is an integral part of the JIP curriculum. Student
 
 The programme develops active citizenry through core modules like Political Studies, Current Affairs, Eco-literacy and Philosophy.  Through these, students will come to appreciate the importance of good governance, sound and critical thinking in decision making and adopt a balanced perspective on issues through the Eastern and Western lens.
 
+
 <img src="/images/WRP-e1588899758456-726x1024.png" 
      style="width:70%">
 
