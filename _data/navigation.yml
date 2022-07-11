@@ -3,7 +3,7 @@ links:
   - title: ABOUT SCGS
     collection: about-scgs
   - title: Our People
-    url: /permalink
+    url: /our-people/organisation-chart
     sublinks:
       - title: Organisation Chart
         url: /permalink
