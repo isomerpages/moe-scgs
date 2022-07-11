@@ -14,7 +14,7 @@ third_nav_title: Achievements
 
 3\. We would like to express our special appreciation to everyone who has guided our kim geks. Our team of dedicated and committed teaching and non-teaching staff have supported them with much care and love. We also deeply appreciate the unwavering partnership of our parents in supporting and nurturing them throughout this milestone journey.
 
-### Non-Academic (Secondary)
+## Non-Academic (Secondary)
 
 #### 2021
 
