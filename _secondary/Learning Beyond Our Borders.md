@@ -23,3 +23,23 @@ In a global world, the ability to adapt to diverse cultures, communicate across 
 
 * * *
 
+**Cambridge Winter Programme**
+
+![](/images/learning%20beyond%20our%20borders%203.jpg)
+
+* * * 
+
+**Chinese Language Bi-cultural Exchange (China)**
+
+![](/images/learning%20beyond%20our%20borders%204.jpg)
+
+* * *
+
+**Chinese Language Bi-cultural Exchange (Taiwan)**
+
+![](/images/learning%20beyond%20our%20borders%205.jpg)
+
+* * *
+
+**English Literature Trip (United Kingdom)**
+
