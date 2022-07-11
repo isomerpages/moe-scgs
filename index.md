@@ -16,7 +16,7 @@ sections:
       key_highlights:
         - title: DSA Exercise 2022
           description: Interested in joining SCGS?
-          url: /prospective-students/secondary-admission/direct-school-admission/
+          url: /direct-school-admission-exercise/
         - title: 2021 GCE O Level Results
           description: Read More
           url: /2021-gce-o-level-examination-results/
