@@ -23,8 +23,4 @@ sections:
         - title: Primary One Orientation
           description: Virtual Tour | First Day Exp
           url: /primary-one-orientation/
-  - resources:
-      title: Media
-      subtitle: Learn more
-      button: View More
 ---
