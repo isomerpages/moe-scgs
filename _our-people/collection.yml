@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - Organisation Chart.md
       - Board of Directors.md
       - Parents/Parent Volunteer Application Form 2022.md
       - Parents/.keep
