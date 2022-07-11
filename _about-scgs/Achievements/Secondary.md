@@ -4,9 +4,9 @@ permalink: /about-scgs/Achievements/secondary
 description: ""
 third_nav_title: Achievements
 ---
-# **Secondary Achievements**
+# **Achievements (Secondary)**
 
-### Academic Achievements – Secondary
+## Academic Achievements – Secondary
 
 1\. Our heartiest congratulations to the 2021 Secondary 4 cohort for their excellent performance in the GCE O-Level examinations!
 
