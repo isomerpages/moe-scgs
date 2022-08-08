@@ -25,5 +25,3 @@ Our teachers endeavour to introduce mathematical concepts in a creative manner. 
 <img src="/images/WhatsApp-Image-2021-11-08-300x225.jpeg" style="width:300px;height:225px;margin-left:15px;" align = "right">
 
 Students who demonstrate exceptional mathematical ability and have a strong interest in Mathematics will be given the opportunity to further develop their potential through Mathematics Olympiads, Local or International Mathematics Competitions and Research Projects.
-
-Maths is fun!
