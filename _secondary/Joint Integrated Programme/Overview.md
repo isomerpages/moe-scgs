@@ -4,7 +4,6 @@ permalink: /scgs-education/secondary/integrated-programme/overview/
 description: ""
 third_nav_title: Joint Integrated Programme
 ---
-
 ![](/images/IP-overview.jpg)
 # **Overview**
 
@@ -38,4 +37,4 @@ Our teachers are curriculum leaders who are solidly grounded in current trends a
 
 Students who are applying to the Joint Integrated Programme may wish to note that they will spend their first four years in SCGS before progressing to [Eunoia Junior College](http://eunoiajc.moe.edu.sg/)  to complete their six-year IP course. The JC will also admit O-Level applicants through the Joint Admission Exercise leading to the [GCE A-Level Examinations](https://eunoiajc.moe.edu.sg/2018-alevel/).
 
-Click [here](https://issuu.com/scgss/docs/jip-prospectus-4th-edition-2022_final_) to download a copy of the Joint Integrated Programme Prospectus.
+Click [here](https://issuu.com/scgss/docs/jip\_prospectus\_4th\_edition\_single\_page) to download a copy of the Joint Integrated Programme Prospectus.
