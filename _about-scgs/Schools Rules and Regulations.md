@@ -3,7 +3,7 @@ title: Schools Rules and Regulations
 permalink: /about-scgs/schools-rules-and-regulations/
 description: ""
 ---
-# **INTRODUCTION**
+# **School Rules**
 
 The SCGS Discipline Framework is part of the school’s total Character and Leadership Education, which aims to help our students to:
 
