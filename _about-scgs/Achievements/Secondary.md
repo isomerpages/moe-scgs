@@ -25,7 +25,29 @@ Alanis Neo Jia Rui (2PR)</td></tr><tr><td style="background-color:#FFF;border-co
 	Overall Champion</td></tr><tr></tr><tr></tr><td style="background-color:#E6E6E6;border-color:#343434;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal" rowspan="5"><span style="background-color:#E6E6E6">Science &amp; Environment Club</span></td><td style="background-color:#E6E6E6;border-color:#343434;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="background-color:#E6E6E6">Singapore Young Physicists’ Tournament 2022</span></td><td style="background-color:#E6E6E6;border-color:#343434;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="background-color:#E6E6E6">Certificate of Distinction</span></td></tr><tr><td style="background-color:#E6E6E6;border-color:#343434;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="background-color:#E6E6E6">The Chua Thian Poh Entrepreneurship Education Fund: 2nd Young Innovation Challenge – Grand Finals Competition</span></td><td style="background-color:#E6E6E6;border-color:#343434;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="background-color:#E6E6E6">Best Innovation Team Award</span></td></tr><tr><td style="background-color:#E6E6E6;border-color:#343434;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="background-color:#E6E6E6">Illustratum: A Hallway Physics Competition by NUS</span></td><td style="background-color:#E6E6E6;border-color:#343434;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="background-color:#E6E6E6">Team 2nd</br> 
 Kaylen  Chua Kai En (3DG)  
 Lai Jia  Ying (3CO)  
-Shanice Kwok En Qi (3DG)</span></td></tr><tr><td style="background-color:#E6E6E6;border-color:#343434;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="background-color:#E6E6E6">2nd International Sci-Teens Challenge 2021</span></td><td style="background-color:#E6E6E6;border-color:#343434;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:700">Merit Award</span><br><br><span>Chua Ying Kiat, Vikki (3PE)</span><br><span>Anjali Ravi (3SY)</span></td></tr><tr><td style="background-color:#E6E6E6;border-color:#343434;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="background-color:#E6E6E6">DSTA Brainhack 2021</span></td><td style="background-color:#E6E6E6;border-color:#343434;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="font-weight:700">Distinction Awards</span><br><span style="background-color:#E6E6E6">Liyana Ashif Koorimannil Pattiyil (1SE)</span><br>Calista Wan Si-Lin (1CO)<br><br><span style="font-weight:700">Merit Awards</span><br>Chua Ying Kiat, Vikki (3PE)<br>Lim Yun Shan Audrey (3GR)<br>Chua Lik Qun (3CO)<br>Kalmukale Anushka Ankush (1PR)</td></tr></tbody></table>
+Shanice Kwok En Qi (3DG)</span></td></tr><tr><td style="background-color:#E6E6E6;border-color:#343434;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="background-color:#E6E6E6">20th Elementz Science Competition Project (junior)</span></td><td style="background-color:#E6E6E6;border-color:#343434;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Team Silver:  </br>
+Elizabeth Wong Jean Ee (Huang Junyi) (1GR)  </br>
+Teo Suang Lee (Zhang Xuanli) (1PR)  </br>
+Wong Kai Xi, Adria (2CO)  </br>
+Chelsea Wong (2PR)  </br>
+Athena Lee Rae Ying (2SY)  </br>
+Amanda Ong Song Qi (1GR)  </br>
+Ruhi Kanade (1SE)  </br>
+Giselle Tay Shi Hui (2GR) </br>  
+Ananya Mahesh (2PR)  </br>
+Keryn Oon Tze Chee (2SE)</td></tr><tr><td style="background-color:#E6E6E6;border-color:#343434;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><span style="background-color:#E6E6E6">23rd International Elementz Fair (Senior)</span></td><td style="background-color:#E6E6E6;border-color:#343434;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">
+**Team Gold:  **</br>
+Anna Chia Yi He (3SE)</br>  
+Aparna Saravana Sankaran (3SY)  </br>
+Ravipudi Praseeda Chowdary (3CO)  </br>
+Soh Hing Wen Maegan (3GY)  </br>
+Tanish Sudha Sanjay (3GR)  </br>
+Anjali Ravi (4SY)  </br>
+BK Preethi (4SY)  </br>
+Chua Ying Kiat, Vikki (4PE)  </br>
+Sng Yu Xin (4PR) </br>
+</td></tr>
+</tbody></table>
 
 #### 2021
 
