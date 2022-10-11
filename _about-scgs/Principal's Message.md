@@ -6,7 +6,7 @@ description: ""
 # **Principal’s Message**
 
 <img src="/images/Mrs-linda-chan-233x300.png" 
-     style="width:40%">
+     style="width:40%; align:left">
 		 
 Developing capable women of character and relevance. This has been the endeavour of Singapore Chinese Girls’ School since its establishment in 1899.
 
