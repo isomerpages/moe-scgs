@@ -46,7 +46,7 @@ To develop strong moral fibre and integrity among our students and the school v
 **School Crest**
 
 <img src="/images/SCGS-version-3_3_2-final-1-300x300.png" 
-     style="width:30%">
+     style="width:40%">
 
 The colours of the school crest are jade and gold. This reflects our desire for every SCGS girl to develop the qualities of a _Kim Gek_ (‘gold’ and ‘jade’ in Hokkien)- a young lady who is the pride of her family because of the virtues she embodies. The Yin-Yang symbol in the crest is the traditional Chinese symbol for balance, representing how seemingly opposing elements can complement each other. The school motto is Sincerity, Courage, Generosity, Service. Taken together, the school crest symbolises the balanced, holistic education we provide to groom _Kim Geks_ who exemplify the values of sincerity, courage, generosity and service.
 
