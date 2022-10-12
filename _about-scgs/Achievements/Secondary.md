@@ -96,13 +96,13 @@ Kate Cheng Ee Ling (3GR)</span></td></tr>
 Individual Events:  <br>
 200m Individual Medley :  3rd  <br>
 Ong Zi Rui, Ricci  (2PR)<br>
-
 Team Events:  <br>
 4 x 50m free style relay : 4th  <br>
 4 x 50m medley relay : 4th</span></td></tr>
-
-
-
+<tr><td style="background-color:#FFFFFF;border-color:#000000;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal" rowspan="2"><span style="background-color:#FFFFFF"> Tennis</span></td><td style="background-color:#FFFFFF;border-color:#000000;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="background-color:#FFFFFF"> National School Games 'B' Division</span></td><td style="background-color:#FFFFFF;border-color:#000000;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="background-color:#FFFFFF">
+2nd National</span></td></tr>
+<td style="background-color:#FFFFFF;border-color:#000000;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="background-color:#FFFFFF"> National School Games 'C' Division</span></td><td style="background-color:#FFFFFF;border-color:#000000;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="background-color:#FFFFFF">
+3rd National</span></td>
 </tbody></table>
 
 
