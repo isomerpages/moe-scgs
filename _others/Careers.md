@@ -1,13 +1,13 @@
 ---
 title: Careers
-permalink: /Careers
+permalink: /Careers/
 description: ""
 ---
 # **Careers**
 
 Singapore Chinese Girls’ School is an independent school with a vision to be an asset to the country by developing capable women of character and relevance. We offer both GCE O-Level and Integrated Programmes.
 
-**We invite applications for the following position: English Literature Teacher (Secondary)**
+**We invite applications for the following position: Biology Teacher (Jan – April 2023)**
 
 **Key Responsibilities**
 
@@ -19,17 +19,16 @@ Singapore Chinese Girls’ School is an independent school with a vision to be a
 
 **Requirements**
 
-*   Recognised Degree of professional qualification in the chosen or related discipline
+*   Recognised Degree or professional qualification in the chosen or related discipline
 *   Formal teaching qualifications such as NIE Diploma will be an advantage
 *   At least 3 years of teaching experience at the Secondary level
-*   Experience in teaching Upper Secondary and Gifted Education Programme preferred
 *   Strong passion for helping students develop as confident and purposeful individuals
 *   Strong sense of integrity, personal drive and initiative, commitment and team spirit
 *   Caring, responsible, driven and innovative
 
 Please send application with resume to [recruitment@scgs.edu.sg](mailto:recruitment@scgs.edu.sg)
 
-We regret to inform that only shortlisted candidates will be notified.
+**We regret to inform that only shortlisted candidates will be notified.**
 
 **We invite applications for the following position: SCHOOL LABORATORY TECHNICIAN (Chemistry)**
 
@@ -67,24 +66,3 @@ Disclaimer
 The above statements are intended to describe the general nature and level of work being performed by people assigned to his classification. They are not to be construed as an exhaustive list of all responsibilities, duties and skills required of personnel so classified. All personnel may be required to perform duties outside of their normal responsibilities from time to time, as needed.
 
 Working hours are 7:15 am to 4:15 pm
-
-**We invite applications for the following position: LABORATORY ATTENDANT.**
-
-**Job Description**
-
-*   Assisting in the preparation of apparatus, equipment and reagents for laboratory lessons;
-*   Maintain tidiness and cleanliness of the Science lab at all times, such as keeping floors and sinks clean;
-*   Cleaning of lab equipment, science apparatus;
-*   Manage inventory of equipment for cleaning purposes;
-*   Assist in some garden plants used for lab lessons;
-*   Any other duties assigned by supervisor.
-
-**Job Requirements**
-
-*   Completed at least Sec education and speaks English
-*   Singaporean only
-
-**Please send application with resume to:**  
-[**recruitment@scgs.edu.sg**](mailto:recruitment@scgs.edu.sg)
-
-**We regret to inform that only shortlisted candidates will be notified.**
