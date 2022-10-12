@@ -7,13 +7,12 @@ third_nav_title: Secondary Admission
 <a name="Backtotop"></a>
 # **Direct School Admission**
 
-[INTRODUCTION](#INTRODUCTION)  |  [DSA OPTIONS IN SCGS](#DSAOPTIONSINSCGS) | [OUR TALENT AREAS](#OURTALENTAREAS) | [ELIGIBILITY](#ELIGIBILITY) | [IMPORTANT REMINDERS](#IMPORTANTREMINDERS) 
+[Introduction](#INTRODUCTION)  |  [DSA Options in SCGS](#DSAOPTIONSINSCGS) | [Talent Areas](#OURTALENTAREAS) | [Eligibility](#ELIGIBILITY) | [Important Reminders](#IMPORTANTREMINDERS) 
 
-**DSA Engagement Talks 21 May 2022. Register here!**
+The DSA Exercise 2022 is closed.  
+  
+Information on the DSA Exercise 2023, for entry into Sec 1 2024, will be published in April/May 2023.
 
-Session 1: [https://go.gov.sg/scgs-dsa2022-9am](https://go.gov.sg/scgs-dsa2022-9am)
-
-Session 2: [https://go.gov.sg/scgs-dsa2022-11am](https://go.gov.sg/scgs-dsa2022-11am)
 
 **DIRECT SCHOOL ADMISSION EXERCISE 2022**
 
