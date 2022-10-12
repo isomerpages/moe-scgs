@@ -6,9 +6,6 @@ third_nav_title: Departments
 ---
 # **Mathematics**
 
-![](/images/Capture.png)
-
-
 ### Philosophy:
 
 <img src="/images/Student-3-225x300.jpg" style="width:183px;height:240px;margin-left:15px;" align = "right">
