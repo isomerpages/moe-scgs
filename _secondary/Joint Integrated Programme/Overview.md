@@ -35,6 +35,6 @@ Our teachers are curriculum leaders who are solidly grounded in current trends a
 
 ![](/images/JIPCurriculum.png)
 
-Students who are applying to the Joint Integrated Programme may wish to note that they will spend their first four years in SCGS before progressing to [Eunoia Junior College](http://eunoiajc.moe.edu.sg/)  to complete their six-year IP course. The JC will also admit O-Level applicants through the Joint Admission Exercise leading to the [GCE A-Level Examinations](https://eunoiajc.moe.edu.sg/2018-alevel/).
+Students who are applying to the Joint Integrated Programme may wish to note that they will spend their first four years in SCGS before progressing to [Eunoia Junior College](http://eunoiajc.moe.edu.sg/)  to complete their six-year IP course. The JC will also admit O-Level applicants through the Joint Admission Exercise leading to the [GCE A-Level Examinations](https://eunoiajc.moe.edu.sg/2021-results/).
 
-Click [here](https://issuu.com/scgss/docs/jip\_prospectus\_4th\_edition\_single\_page) to download a copy of the Joint Integrated Programme Prospectus.
+Click [here](https://issuu.com/scgss/docs/jip_prospectus_4th_edition_single_page) to download a copy of the Joint Integrated Programme Prospectus.
