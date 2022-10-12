@@ -18,7 +18,7 @@ At SCGS, our Desired Outcomes of Education (DOE) inform the development of NDLP 
 ![](/images/Getting-our-Kim-Gek-future-ready.jpg)
 _Illustrations by Melissa Tan_
 
-![](/images/NDLP.jpg)
+![](/images/NDLP_Overview.jpg)
 
 **Guidelines for Acceptable Use of Personal Learning Device (PLD) at SCGS**
 
@@ -35,4 +35,4 @@ There are four sections in the Guidelines: 
 
 As part of the NDLP, we will be encouraging our _kim geks_ to follow this set of guidelines on the safe and responsible practices of PLD use, to support daily teaching and learning in school. 
 
-Updated as of 20 August 2021
+Updated as of 12 October 2022
