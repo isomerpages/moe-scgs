@@ -3,7 +3,6 @@ title: Donations
 permalink: /about-scgs/donations/
 description: ""
 ---
-
 # **Donations**
 
 Throughout its distinguished 122-year history, SCGS has pursued a vision of developing capable women of character and relevance who are assets to the community. The commitment towards delivering a holistic education that provides the perfect balance of academic excellence across a broad scope of disciplines coupled with character and leadership excellence, has been rigorously sustained by:
