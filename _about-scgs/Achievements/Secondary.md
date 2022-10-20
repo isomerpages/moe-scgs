@@ -4,9 +4,9 @@ permalink: /about-scgs/Achievements/secondary/
 description: ""
 third_nav_title: Achievements
 ---
-## **Achievements (Secondary)**
+<h1><b>Achievements (Secondary)</b></h1>
 
-## Academic Achievements – Secondary
+<h2>Academic Achievements – Secondary</h2>
 
 1\. Our heartiest congratulations to the 2021 Secondary 4 cohort for their excellent performance in the GCE O-Level examinations!
 
@@ -14,11 +14,11 @@ third_nav_title: Achievements
 
 3\. We would like to express our special appreciation to everyone who has guided our kim geks. Our team of dedicated and committed teaching and non-teaching staff have supported them with much care and love. We also deeply appreciate the unwavering partnership of our parents in supporting and nurturing them throughout this milestone journey.
 
-## Non-Academic (Secondary)
+<h2>Non-Academic (Secondary)</h2>
 
-#### 2022
+<h4>2022</h4>
 
-##### **Clubs and Societies**
+<h5><b>Clubs and Societies</b>
 
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:#343434;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:700">CCA </span></th><th style="background-color:#FFF;border-color:#343434;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:700">Competition </span></th><th style="background-color:#FFF;border-color:#343434;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:700">Achievements</span></th></tr></thead><tbody><tr><td style="background-color:#E6E6E6;border-color:#343434;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Debate</td><td style="background-color:#E6E6E6;border-color:#343434;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Mid Year Debate Invitational 2022</td><td style="background-color:#E6E6E6;border-color:#343434;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">9th best speaker  <br>
 Alanis Neo Jia Rui (2PR)</td></tr><tr><td style="background-color:#FFF;border-color:#343434;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal" rowspan="3"><span style="background-color:#FFF">Infocomm Club</span></td><td style="background-color:#FFF;border-color:#343434;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal" rowspan="2"><span style="background-color:#FFF">First Lego League Challenge 2022</span></td><td style="background-color:#FFF;border-color:#343434;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:700">Team:  
