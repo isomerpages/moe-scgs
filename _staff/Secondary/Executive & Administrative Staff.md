@@ -43,6 +43,6 @@ third_nav_title: Secondary
 | **Science Lab** 	|  	|
 | Senior Specialist (Science Lab) 	| [Miss Lee Yee Mei](mailto:lee_yee_mei@moe.edu.sg) 	|
 | Specialist (Science Lab) 	| [Mr Loh Meng Onn](mailto:loh_meng_onn@moe.edu.sg)<br><br>[Miss Aidah](mailto:%20nuraidah_abdul_rahim@moe.edu.sg) 	|
-| Attendant (Science Lab) 	| [Mrs Soh Lim Bee Lean](mailto:lim_bee_lean@sec.scgs.edu.sg) <br><br> [Mdm Chua Li Li](mailto:chua_li_li_1@moe.edu.sg)	|
+| Attendant (Science Lab) 	| [Mrs Soh Lim Bee Lean](mailto:lim_bee_lean@sec.scgs.edu.sg) 
 | **Teacher Aides** 	|  	|
 | Teacher Aide 	| [Ms Rose Wisidagama](mailto:rose_wisidagama@moe.edu.sg)<br><br>[Miss Koh Hwee Koon](mailto:koh_hwee_koon_a@moe.edu.sg) 	|
