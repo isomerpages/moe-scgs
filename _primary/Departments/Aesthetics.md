@@ -4,7 +4,6 @@ permalink: /scgs-education/primary/departments/aesthetics/
 description: ""
 third_nav_title: Departments
 ---
-
 # **Aesthetics**
 
 ### Mission:
@@ -25,7 +24,7 @@ SCGS believes in cultivating an appreciation for aesthetics through our art prog
 
 Our programme is designed to equip girls with the ability to create art forms using a variety of mediums such as ceramics, painting and 3D construction, and to help them gain a better understanding of the role of art in our society. Through the creation of visual art, we want to develop their ability to express themselves freely and creatively.
 
-Traditional art features as an important component of our art programme, with cultural art modules such as Chinese Calligraphy and Chinese Brush Painting introducing aspects of local heritage to the girls. Traditional techniques in art are complemented by digital media in our Art Programme.
+Traditional art features as an important component of our art programme, with cultural art modules that introduce aspects of local heritage to the girls. Traditional techniques in art are complemented by digital media in our Art Programme.
 
 -------------------------------------------------------------------------
 
