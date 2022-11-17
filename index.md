@@ -20,7 +20,4 @@ sections:
         - title: 2021 GCE O Level Results
           description: Read More
           url: /2021-gce-o-level-examination-results/
-        - title: Primary One Orientation
-          description: Virtual Tour | First Day Exp
-          url: /primary-one-orientation/
 ---
