@@ -14,7 +14,7 @@ third_nav_title: Primary
 | **Vice Principal (Academic)** 	| Mrs Har Ying Ying 	|
 | **Administration Manager** 	| Ms Poh lilin 	|
 | **Operations Manager** 	| Mr Rajanthran s/o Jayaraman 	|
-| **ICT Manager** 	| Mrs Lin Shu Rui 	|
+| **ICT Manager** 	| Ms Linda Lim	|
 | **Administrative Executive** 	| Mr Er Shun Lin 	|
 | **Management Support Officers** 	| Miss Chee Foong Sau<br><br>Mrs Judith Lee<br>Mrs Low Kay Mui<br>Mdm Indirani d/o Paspathy 	|
 | **Librarian** 	| Mdm Padmah Swaminathan 	|
