@@ -1,6 +1,6 @@
 ---
 title: Downloads
-permalink: /downloads
+permalink: /downloads/
 description: ""
 ---
 
