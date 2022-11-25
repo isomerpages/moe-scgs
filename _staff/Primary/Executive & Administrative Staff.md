@@ -4,7 +4,7 @@ permalink: /our-people/staff/primary/exec-and-admin-staff/
 description: ""
 third_nav_title: Primary
 ---
-[Mdm Ho Hui Ping](Ho_Hui_Ping@schools.gov.sg)# **Executive & Administrative Staff**
+# **Executive & Administrative Staff**
 
 |  	|  	|
 |---	|---	|
