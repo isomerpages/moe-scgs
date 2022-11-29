@@ -3,7 +3,6 @@ title: Downloads
 permalink: /downloads/
 description: ""
 ---
-
 # **Downloads**
 
 ### School Admission
@@ -29,7 +28,7 @@ description: ""
 
 * [Secondary 1 (O-Level) Booklist](/files/Sec-1OLP_2022.pdf)
 * [Secondary 1 (IP) Booklist](/files/Sec-1IP_2022-1.pdf)
-* [Secondary 2 (O-Level) Booklist](/files/Sec-2OLP_2022.pdf)
+* [Secondary 2 (O-Level) Booklist](/files/2023 Sec-2-OLP.pdf)
 * [Secondary 2 (IP) Booklist](/files/Sec-2IP_2022.pdf)
 * [Secondary 3 (O-Level) Booklist](/files/Sec-3OLP_2022.pdf)
 * [Secondary 3 (IP) Booklist](/files/Sec-3IP_2022.pdf)
@@ -59,4 +58,3 @@ description: ""
 ### Application for Parent Volunteer 
 
 * [Click Here To Download Form](https://form.gov.sg/616cf53fb89cba0012364533)
-
