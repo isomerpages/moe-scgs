@@ -10,8 +10,7 @@ third_nav_title: Departments
 
 ### Philosophy:
 
-Character and Citizenship Education (CCE) is integral to the holistic development of our students, leading  to positive life outcomes. It provides an integral approach to addressing our students’ development of  values, character, social-emotional well-being and citizenship dispositions in a coherent and holistic way.  
-The goals of the CCE syllabus aim to develop our students: Good character, Resilience and social-  emotional well-being, Future readiness and Active citizenship.
+Character and Citizenship Education (CCE) is integral to the holistic development of our students, leading  to positive life outcomes. It provides an integral approach to addressing our students’ development of  values, character, social-emotional well-being and citizenship dispositions in a coherent and holistic way.  The goals of the CCE syllabus aim to develop our students: Good character, Resilience and social-  emotional well-being, Future readiness and Active citizenship.
 
 ### Programmes:
 
