@@ -12,7 +12,7 @@ description: ""
 
 ### Scholarships/Bursary
 
-* [SCGS Jinyu Meritorious (SJM) Scholarship Form](/files/Jinyu_Student Application Form_NEW_2022_TEMPLATE_FOR_NEW_UPDATED_3_OCT_2022.pdf)
+* [SCGS Jinyu Meritorious (SJM) Scholarship Form](/files/Jinyu_Student%20Application%20Form_NEW_2022_TEMPLATE_FOR_NEW_UPDATED_3_OCT_2022.pdf)
 * [SCGS Jinyu Meritorious (SJM) Scholarship (Terms and Conditions)](/files/Jinyu-Meritorious-Scholarship_Renewal_New_Terms-Conditions.pdf)
 * [MOE Independent School Bursary (ISB) Scheme](/files/Appendix-B1-MOE-ISB-Application-Form.pdf)
 * [SCGS School-Based Financial Assistance Scheme](/files/SCGS-School-Based-FAS-2022.pdf)
