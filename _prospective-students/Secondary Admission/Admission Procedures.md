@@ -54,21 +54,21 @@ Information on the DSA Exercise 2023 will be published in April/May 2023.
 
 These are usually conducted in November of the year prior to admission for entry in January. Special arrangements may be made for Returning Singaporeans on a case by case basis.
 
-**ADMISSION TESTS FOR 2023 JANUARY ENROLMENT**
+**ADMISSION TESTS FOR 2024 JANUARY ENROLMENT**
 
-We wish to announce the start of Applications for Admission Tests 2022 for admission into SCGS in 2023.
+We wish to announce the start of Applications for Admission Tests 2023 for admission into SCGS in 2024.
 
 |  	|  	|
 |---	|---	|
-| Closing Date: 	| Friday 14 October 2022, 5.00pm 	|
+| Closing Date: 	| Friday 13 October 2023, 5.00pm 	|
 | Date of Test: 	| TBC 	|
 | Time of Test: 	| TBC 	|
 
 This admission exercise is only open to the following levels and Programmes:
 
-*   2023 Secondary 1 (O-Level Programme or Integrated Programme)\* (\*Only Returning Singaporeans who did not take the PSLE are eligible for admission into Secondary 1 through these tests.)
-*   2023 Secondary 2 (O-Level Programme)
-*   2023 Secondary 3 (O-Level Programme or Integrated Programme)
+*   2024 Secondary 1 (O-Level Programme or Integrated Programme)\* (\*Only Returning Singaporeans who did not take the PSLE are eligible for admission into Secondary 1 through these tests.)
+*   2024 Secondary 2 (O-Level Programme)
+*   2024 Secondary 3 (O-Level Programme or Integrated Programme)
 
 The school does not accept new students for entry to Secondary 4.
 
@@ -80,7 +80,7 @@ Important Note:
 
 Students admitted to schools through the DSA-Sec Exercise and International Students admitted to local schools through AEIS are not eligible for entry through this Admission Test.
 
-Students who are interested in seeking admission are to send their completed forms and supporting documents to the school by Friday 14 October 2022, 5.00pm.
+Students who are interested in seeking admission are to send their completed forms and supporting documents to the school by Friday 13 October 2023, 5.00pm.
 
 The date for the Admission Tests will be confirmed at a later date.
 
