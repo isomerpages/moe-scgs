@@ -31,10 +31,9 @@ description: ""
 * [Secondary 2 (O-Level) Booklist](/files/2023_Sec_2_OLP.pdf)
 * [Secondary 2 (IP) Booklist](/files/2023_Sec_2_IP.pdf)
 * [Secondary 3 (O-Level) Booklist](/files/2023_Sec_3_OLP.pdf)
-* [Secondary 3 (IP) Booklist](/files/Sec-3IP_2022.pdf)
-* [Secondary 4 (O-Level) Booklist](/files/Sec-4OLP_2022.pdf)
-* [Secondary 4 (IP) Booklist](/files/Sec-4IP_2022.pdf)
-
+* [Secondary 3 (IP) Booklist](/files/2023_Sec_3_IP.pdf)
+* [Secondary 4 (O-Level) Booklist](/files/2023_Sec_4_OLP.pdf)
+* [Secondary 4 (IP) Booklist](/files/2023_Sec_4_IP.pdf)
 ### Booklist - Primary
 
 * [Primary 1 Booklist](/files/Pri-1-Booklist-and-School-Uniform-instruction.pdf)
