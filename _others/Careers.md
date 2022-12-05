@@ -7,6 +7,31 @@ description: ""
 
 Singapore Chinese Girls’ School is an independent school with a vision to be an asset to the country by developing capable women of character and relevance. We offer both GCE O-Level and Integrated Programmes.
 
+**We invite applications for the following position: Home Economics Teacher **
+
+**Key Responsibilities**
+
+*   Plan and conduct lessons
+*   Monitor and evaluate the progress and overall development of the students
+*   Keep up with the developments of the subject area, new resources, pedagogies and assessment
+*   Teach, inspire and motivate students according to their individual pace and aspirations to their fullest potential
+*   To develop strong moral fibre and integrity among our students
+
+**Requirements**
+
+*   Recognised Degree or professional qualification in the chosen or related discipline
+*   Formal teaching qualifications such as NIE Diploma will be an advantage
+*   At least 3 years of teaching experience at the Secondary level
+*   Strong passion for helping students develop as confident and purposeful individuals
+*   Strong sense of integrity, personal drive and initiative, commitment and team spirit
+*   Caring, responsible, driven and innovative
+
+Please send application with resume to [recruitment@scgs.edu.sg](mailto:recruitment@scgs.edu.sg)
+
+**Successful candidates will be offered contract employment. Remuneration shall commensurate with qualification and experience**
+
+**We regret to inform that only shortlisted candidates will be notified.**
+
 **We invite applications for the following position: Biology Teacher (Jan – April 2023)**
 
 **Key Responsibilities**
