@@ -21,23 +21,20 @@ Eshop Website: [www.pacificeshop.com](http://www.pacificeshop.com/)
 
 ### Uniform
 
-Ready made school uniforms and PE attire can be purchased from:
+The school uniforms and PE attires are available from the school bookshop (during school terms) and online at www.khuniform.com
 
-**KAH HUAT DRESS MAKER**  
-Blk 115A #04-15/16, Commonwealth Drive  
+**KH Uniform Pte Ltd**  
+115A, Commonwealth Drive, #02-28
 Singapore 149596  
 Telephone: 64796811
+Email: sales@khuniform.com
 
 **Operating Hours:**  
-Mon – Fri  
-9am to 5pm (12.00nn – 1pm : closed for lunch)  
-Sat  
-9.00am – 1pm  
-Closed on Sun
+Monday – Friday. Closed on Saturday, Sunday and Public Holidays.  
+9am to 12pm / 1pm to 5pm  
+Please call or email for further enquiries.  
 
-Sale of uniform will be made available at the Pacific Bookstores in the school premises.
-
-An additional charge is payable for uniforms that are made-to-measure.
+Note: An additional charge is payable for uniforms that are made-to-measure.
 
 ### Transport
 
