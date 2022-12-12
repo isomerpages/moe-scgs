@@ -37,17 +37,17 @@ description: ""
 ### Booklist - Primary
 
 * [Primary 1 Booklist](/files/2023-P1-Textbook-and-Uniform.pdf)
-* [Primary 2 Booklist](/files/Pri-2-Booklist-and-School-Uniform-instruction.pdf)
-* [Primary 3 Booklist](/files/Pri-3-Booklist-and-School-Uniform-instruction.pdf)
-* [Primary 4 Booklist](/files/Pri-4-Booklist-and-School-Uniform-instruction.pdf)
-* [Primary 5 Booklist](/files/Pri-5-Booklist-and-School-Uniform-instruction.pdf)
-* [Primary 5 (Foundation) Booklist](/files/Pri-5-Foundation-Booklist-and-School-Uniform-instruction.pdf)
-* [Primary 6 Booklist](/files/Pri-6-Booklist-and-School-Uniform-instruction.pdf)
-* [Primary 6 (Foundation) Booklist](/files/Pri-6-Foundation-Booklist-and-School-Uniform-instruction.pdf)
+* [Primary 2 Booklist](/files/2023-P2-Textbook-and-Uniform.pdf)
+* [Primary 3 Booklist](/files/2023-P3-Textbook-and-Uniform.pdf)
+* [Primary 4 Booklist](/files/2023-P4-Textbook-and-Uniform.pdf)
+* [Primary 5 Booklist](/files/2023-P5-Textbook-and-Uniform.pdf)
+* [Primary 5 (Foundation) Booklist](/files/2023-P5(FDN)-Textbook-and-Uniform.pdf)
+* [Primary 6 Booklist](/files/2023-P6-Textbook-and-Uniform.pdf)
+* [Primary 6 (Foundation) Booklist](/files/2023-P6(FDN)-Textbook-and-Uniform.pdf)
 
 ### School Bus Booking Form & Regulations
 
-* [Click to download](/files/D3-2022_SCGS-Daily-School-Bus-Registration-Form.pdf)
+* [Click to download](/files/2023-SCGS-Daily-School-Bus-Registration-Form.pdf)
 
 ### Application for Car Decal and ID pass 
 
