@@ -36,7 +36,7 @@ description: ""
 * [Secondary 4 (IP) Booklist](/files/2023_Sec_4_IP.pdf)
 ### Booklist - Primary
 
-* [Primary 1 Booklist](/files/Pri-1-Booklist-and-School-Uniform-instruction.pdf)
+* [Primary 1 Booklist](/files/2023-P1-Textbook-and-Uniform.pdf)
 * [Primary 2 Booklist](/files/Pri-2-Booklist-and-School-Uniform-instruction.pdf)
 * [Primary 3 Booklist](/files/Pri-3-Booklist-and-School-Uniform-instruction.pdf)
 * [Primary 4 Booklist](/files/Pri-4-Booklist-and-School-Uniform-instruction.pdf)
