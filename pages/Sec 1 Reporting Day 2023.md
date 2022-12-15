@@ -36,11 +36,11 @@ Parents will receive notifications **at different times** as the options for s
 
 **Purchase of textbooks and uniforms:**
 
-**Sec 1 students only:** </br>
-21 Dec: from 12pm – 4pm </br>
+**Sec 1 students only:** <br>
+21 Dec: from 12pm – 4pm <br>
 22 & 23 Dec: from 9am – 4pm
 
-**All levels:** </br>
+**All levels:** <br>
 27 & 28 Dec: from 9am – 3pm
 <table>
 <thead>
