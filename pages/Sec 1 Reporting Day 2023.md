@@ -42,9 +42,27 @@ Parents will receive notifications **at different times** as the options for s
 
 **All levels:** </br>
 27 & 28 Dec: from 9am – 3pm
-
-|   | Textbooks | Uniforms |
-| --- | --- | --- | 
-| Online Purchase of books and uniforms | [Pacific Bookstores](https://www.pacificbookstores.com/) </br>[Sec 1IP Booklist (8a)](https://scgs.moe.edu.sg/wp-content/uploads/2022/12/8a-Sec-1-IP-booklist-w-instruction-sheet.pdf)   </br>[Sec 1OLP Booklist (8b)](https://scgs.moe.edu.sg/wp-content/uploads/2022/12/8b-Sec-1-OLP-booklist-w-instruction-sheet.pdf)| [https://www.khuniform.com](https://www.khuniform.com/) |
-|   | Instructions to order: Please refer to the booklists Annex 8a and Annex 8b
-| On-Site Purchase Dates | Strictly by Appointment: [https://www.picktime.com/scgs2022](https://www.picktime.com/scgs2022)  Please register your appointment.  </br>Kindly note that walk-in students will be served only after students with appointments have completed their purchases. |
+<table>
+<thead>
+  <tr>
+    <th> </th>
+    <th>Textbooks</th>
+    <th>Uniforms</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Online Purchase of books and uniforms</td>
+    <td><a href="https://www.pacificbookstores.com/">Pacific Bookstores</a><br><a href="https://scgs.moe.edu.sg/wp-content/uploads/2022/12/8a-Sec-1-IP-booklist-w-instruction-sheet.pdf">Sec 1IP Booklist (8a)</a><br><a href="https://scgs.moe.edu.sg/wp-content/uploads/2022/12/8b-Sec-1-OLP-booklist-w-instruction-sheet.pdf">Sec 1OLP Booklist (8b)</a><br></td>
+    <td><a href="https://www.khuniform.com/">https://www.khuniform.com</a></td>
+  </tr>
+  <tr>
+    <td> </td>
+    <td colspan="2">Instructions to order: Please refer to the booklists Annex 8a and Annex 8b</td>
+  </tr>
+  <tr>
+    <td>On-Site Purchase Dates</td>
+    <td colspan="2">Strictly by Appointment: <a href="https://www.picktime.com/scgs2022">https://www.picktime.com/scgs2022</a><br>Please register your appointment.<br>Kindly note that walk-in students will be served only after students with appointments have completed their purchases.</td>
+  </tr>
+</tbody>
+</table>
