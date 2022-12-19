@@ -6,36 +6,36 @@ third_nav_title: Primary
 ---
 # **School Terms and Holidays**
 
-### SCHOOL TERM FOR 2022
+### SCHOOL TERM FOR 2023
 
 
 |  	|  	|  	|
 |---	|---	|---	|
-| **Semester 1** 	| Term 1: Mon 4 Jan to Fri 11 Mar 	| Term 2: Mon 21 Mar to Fri 27 May 	|
-| **Semester 2** 	| Term 3: Mon 27 Jun to Fri 2 Sep 	| Term 4: Mon 12 Sep to *Fri 18 Nov 	|
+| **Semester 1** 	| Term 1: Tue 3 Jan to Fri 10 Mar 	| Term 2: Mon 20 Mar to Fri 26 May 	|
+| **Semester 2** 	| Term 3: Mon 26 Jun to Fri 1 Sep 	| Term 4: Mon 11 Sep to *Fri 17 Nov 	|
 
-\* SCGS Pri Last Day of school is 18 Nov 2022
+\* SCGS Pri Last Day of school is ?? Nov 2023
 
-### SCHOOL HOLIDAYS FOR 2022
+### SCHOOL HOLIDAYS FOR 2023
 
 
 |  	|  	|  	|
 |---	|---	|---	|
-| **Semester 1** 	| Term 1 	| Sat 12 Mar to Sun 20 Mar 	|
-|  	| Term 2 	| Sat 28 May to Sun 26 Jun 	|
-| **Semester 2** 	| Term 3 	| Sat 3 Sep to Sun 11 Sep 	|
-|  	| Term 4 	| Sat 19 Nov to Fri 31 Dec 	|
+| **Semester 1** 	| Term 1 	| Sat 11 Mar to Sun 19 Mar 	|
+|  	| Term 2 	| Sat 27 May to Sun 25 Jun 	|
+| **Semester 2** 	| Term 3 	| Sat 2 Sep to Sun 10 Sep 	|
+|  	| Term 4 	| Sat 18 Nov to Fri 31 Dec 	|
 
 
 
-### SCHEDULED SCHOOL HOLIDAYS FOR 2022
+### SCHEDULED SCHOOL HOLIDAYS FOR 2023
 
 |  	|  	|
 |---	|---	|
-| Youth Day 	| * Sun 3 Jul 	|
-| Day after National Day 	| Wed 10 Aug 	|
-| Teachers’ Day 	| # Fri 2 Sep 	|
-| Children’s Day 	| # Fri 7 Oct 	|
+| Youth Day 	| * Sun 2 Jul 	|
+| Day after National Day 	| Thu 10 Aug 	|
+| Teachers’ Day 	| # Fri 1 Sep 	|
+| Children’s Day 	| # Fri 6 Oct 	|
 
-\* _The following Monday, 4 Jul 2022 will be a scheduled school holiday_.  
+\* _The following Monday, 3 Jul 2023 will be a scheduled school holiday_.  
 \# For primary schools and primary sections of full schools only. # As part of the nation-wide movement to promote family life, the Teachers’ Day and Children’s Day which have traditionally been celebrated in Singapore schools on Sep 1 and Oct 1 will be scheduled to the first Friday of September and October respectively.
