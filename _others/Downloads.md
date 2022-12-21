@@ -26,8 +26,8 @@ description: ""
 
 ### BOOKLIST – SECONDARY (Updated for Year 2022)
 
-* [Secondary 1 (O-Level) Booklist - TO WAIT TILL SEC 1 POSTING IS ANNOUNCED
-* [Secondary 1 (IP) Booklist] - TO WAIT TILL SEC 1 POSTING IS ANNOUNCED
+* [Secondary 1 (O-Level) Booklist](/files/2023_Sec%201%20OLP%20Booklist.pdf)
+* [Secondary 1 (IP) Booklist](/files/2023_Sec%201%20IP%20Booklist.pdf)
 * [Secondary 2 (O-Level) Booklist](/files/2023_Sec_2_OLP.pdf)
 * [Secondary 2 (IP) Booklist](/files/2023_Sec_2_IP.pdf)
 * [Secondary 3 (O-Level) Booklist](/files/2023_Sec_3_OLP.pdf)
