@@ -68,7 +68,7 @@ third_nav_title: Primary
 |  	| Service 	| [Mrs Angelina Eu](mailto:low_shu_ling_angelina@moe.edu.sg) 	| [Miss Chua Voon Siew](mailto:chua_voon_siew@moe.edu.sg) 	|
 |  	| Prudence 	| [Mrs Eng Ke-Ying](mailto:chua_ke_ying@moe.edu.sg) 	| [Miss Wong See Wan](mailto:wong_see_wan@moe.edu.sg) 	|
 | **Learning Support<br>Co-ordinator** 	|  	| [Mrs Marion Tan](mailto:marion_winings@moe.edu.sg) 	|  	|
-| **Counsellor** 	|  	| [Ms Lee Guat Keow](mailto:lee_guat_keow@moe.edu.sg) 	| [Ms Yeow Mei Mei Susan](mailto:yeow_mei_mei_susan@moe.edu.sg) 	|
+| **Counsellor** 	|  	| [Ms Susan Yeow](mailto:yeow_mei_mei_susan@moe.edu.sg)<br><br>[Ms Lee Guat Keow](mailto:lee_guat_keow@moe.edu.sg) 	|  	|
 | **AED (Learning & Behavioural Support)** 	|  	| [Miss Tay Shi Li](mailto:tay_shi_li@moe.edu.sg)<br><br>[Mdm Jasima Afreen](mailto:jasima_afreen@moe.edu.sg)<br><br>[Miss Lim Jing Fen](mailto:lim_jing_fen@moe.edu.sg) 	|  	|
 | **AED (Teaching & Learning)** 	|  	| [Mdm Sarimah Sarif](mailto:sarimah_sarif@moe.edu.sg)<br><br>[Mdm Nurhafizah Fadzilah](mailto:nurhafizah_haris_fadzilah@moe.edu.sg) 	|  	|
 
