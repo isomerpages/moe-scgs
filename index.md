@@ -14,10 +14,7 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: DSA Exercise 2022
-          description: Interested in joining SCGS?
-          url: /direct-school-admission-exercise/
-        - title: 2021 GCE O Level Results
-          description: Read More
-          url: /2021-gce-o-level-examination-results/
+        - title: Sec 1 Reporting Day 2022
+          description: Thank you for choosing SCGS!
+          url: /sec-1-reporting-day-2022/
 ---
