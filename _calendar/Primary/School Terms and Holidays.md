@@ -14,7 +14,7 @@ third_nav_title: Primary
 | **Semester 1** 	| Term 1: Tue 3 Jan to Fri 10 Mar 	| Term 2: Mon 20 Mar to Fri 26 May 	|
 | **Semester 2** 	| Term 3: Mon 26 Jun to Fri 1 Sep 	| Term 4: Mon 11 Sep to *Fri 17 Nov 	|
 
-\* SCGS Pri Last Day of school is ?? Nov 2023
+\* SCGS Pri Last Day of school is 17 Nov 2023
 
 ### SCHOOL HOLIDAYS FOR 2023
 
