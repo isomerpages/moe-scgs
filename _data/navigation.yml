@@ -1,13 +1,36 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/SCGS website banner_4.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Resources
-    resource_room: true
+  - title: ABOUT SCGS
+    collection: about-scgs
+  - title: Our People
+    url: /our-people/organisation-chart
+    sublinks:
+      - title: Organisation Chart
+        url: /our-people/organisation-chart
+      - title: Staff
+        url: /our-people/staff/primary/teaching-staffpri/
+      - title: Board of Directors
+        url: /our-people/board-of-directors/
+      - title: Parents
+        url: /our-people/parents/parent-volunteer/
+      - title: Parents Support Group
+        url: https://www.scgspsg.com/
+      - title: Alumni
+        url: http://scgsalumni.com/
+  - title: SCGS Education
+    url: /scgs-education/overview/
+    sublinks:
+      - title: Overview
+        url: /scgs-education/overview/
+      - title: Primary
+        url: /scgs-education/primary/departments/aesthetics/
+      - title: Secondary
+        url: /scgs-education/secondary/departments/aesthetics/
+  - title: Prospective Students
+    collection: prospective-students
+  - title: Ndlp
+    collection: ndlp
+  - title: Calendar
+    collection: calendar
+  - title: Others
+    collection: others

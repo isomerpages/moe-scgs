@@ -1,0 +1,13 @@
+collections:
+  prospective-students:
+    output: true
+    order:
+      - Primary Admission/Admission Procedures.md
+      - Primary Admission/Primary 1 Registration Data.md
+      - Primary Admission/.keep
+      - Secondary Admission/Admission Procedures.md
+      - Secondary Admission/Direct School Admission.md
+      - Secondary Admission/.keep
+      - Fees.md
+      - Scholarships.md
+      - Financial Assistance.md

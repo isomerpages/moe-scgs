@@ -1,0 +1,18 @@
+collections:
+  primary:
+    output: true
+    order:
+      - Departments/.keep
+      - Departments/Aesthetics.md
+      - Departments/Character and Citizenship Education.md
+      - Departments/English Language.md
+      - Departments/ICT.md
+      - Departments/Mathematics.md
+      - Departments/Mother Tongue Languages.md
+      - Departments/Physical Education & CCA.md
+      - Departments/Science.md
+      - Departments/Social Studies.md
+      - Learning Beyond Our Borders.md
+      - Programme for Active Learning (PAL).md
+      - Learning For Life Programme (LLP).md
+      - Applied Learning Programme (ALP).md

@@ -1,0 +1,17 @@
+collections:
+  about-scgs:
+    output: true
+    order:
+      - Principal's Message.md
+      - Our Beliefs.md
+      - SCGS Milestone.md
+      - Achievements/.keep
+      - Achievements/Achievements.md
+      - Achievements/Roll of Honors.md
+      - Achievements/Primary.md
+      - Achievements/Secondary.md
+      - Schools Rules and Regulations.md
+      - Financial Information/.keep
+      - Financial Information/Audited Information.md
+      - Facilities.md
+      - SCGS Video.md
