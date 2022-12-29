@@ -63,7 +63,7 @@ The SCGS Jinyu Meritorious Scholarship shall cover: (i) School fees as charged b
 Subject to the student’s academic performance, conduct and the conditions stated, the scholarship will be renewed yearly to allow the scholar to complete four years of study in Secondary School.
 
 [Click here](/files/Jinyu-Meritorious-Scholarship_Renewal_New_Terms-Conditions.pdf) for more information.     
-[Click here](/files/Jinyu_Student%20Application%20Form_NEW_2022_TEMPLATE_FOR_NEW_UPDATED_3_OCT_2022.pdf) to download form.
+[Click here](/files/Jinyu_Student-Application-Form_NEW_2022_TEMPLATE_FOR_NEW_UPDATED_3_OCT_2022.pdf) to download form.
 
 **SCGS Sports Scholarship**   
 Talented sudents with outstanding achievements in sports and games and good academic records are welcome to apply for this scholarship to study in the Secondary School.
@@ -73,7 +73,7 @@ School fees as charged by SCGS for local students for the year. Should the scho
 
 Subject to performance and conduct and conditions stated, the scholarship will be renewed yearly to allow the scholar to complete four years of study in the Secondary School.
 
-* [SCCG Sports Scholarship Form](/files/2022-Sports-Scholarship-Application-Form.pdf)
+* [SCGS Sports Scholarship Form](/files/2023-Sports-Scholarship-Application-Form.pdf)
 * [SCGS Sports Scholarship (Terms and Condition)](/files/2022-Sports-Scholarship-Terms-Conditions.pdf)
 
 **UPLIFT Scholarship**
