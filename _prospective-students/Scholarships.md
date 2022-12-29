@@ -73,7 +73,7 @@ School fees as charged by SCGS for local students for the year. Should the scho
 
 Subject to performance and conduct and conditions stated, the scholarship will be renewed yearly to allow the scholar to complete four years of study in the Secondary School.
 
-* [SCCG Sports Scholarship Form](/files/2022-Sports-Scholarship-Application-Form.pdf)
+* [SCGS Sports Scholarship Form](/files/2023-Sports-Scholarship-Application-Form.pdf)
 * [SCGS Sports Scholarship (Terms and Condition)](/files/2022-Sports-Scholarship-Terms-Conditions.pdf)
 
 **UPLIFT Scholarship**
