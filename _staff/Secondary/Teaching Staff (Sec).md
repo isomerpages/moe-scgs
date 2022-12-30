@@ -79,8 +79,8 @@ third_nav_title: Secondary
 | Perseverance | [Miss Chang Wai Mun](mailto:chang_wai_mun@moe.edu.sg) | [Mdm Tan Poey Siang](mailto:tan_poey_siang@moe.edu.sg) |
 | Courage | [Miss Yeo Poh Tin](mailto:yeo_poh_tin@moe.edu.sg) | [Ms Fu Wei](mailto:fu_wei@moe.edu.sg) |
 | Dignity | [Miss Grace Tang](mailto:grace_tang@moe.edu.sg) | [Mrs Doreen Lee](mailto:lau_ying_ying@moe.edu.sg) |
-| Diligence | [Miss Beh Mui Leng](mailto:beh_mui_leng@moe.edu.sg) | [Mr Michael Chin](mailto:lau_ying_ying@moe.edu.sg) |
-| Grace | [Mr Ang Tee Koon](mailto:caruna_sothi@moe.edu.sg) | [Miss Lee Jo Ann](mailto:wong_shin_yee@moe.edu.sg) |
+| Diligence | [Miss Beh Mui Leng](mailto:beh_mui_leng@moe.edu.sg) | [Mr Michael Chin](mailto:chin_sian_woon_michael@moe.edu.sg) |
+| Grace | [Mr Ang Tee Koon](mailto:ang_tee_koon@moe.edu.sg) | [Miss Lee Jo Ann](mailto:wong_shin_yee@moe.edu.sg) |
 | Generosity | [Ms Rina Lio](mailto:lau_beng_hwee@moe.edu.sg) | [Mrs Michelle Ang](mailto:melissa_neo-ang@moe.edu.sg) |
 | **Non FT/CT** |  |  |  |
 |  | [Mrs Chua Poh Leng](mailto:oh_poh_leng_a@moe.edu.sg) | [Mrs Lee Puay Leng](mailto:ong_puay_leng@moe.edu.sg) |
