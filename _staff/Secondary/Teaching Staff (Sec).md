@@ -51,8 +51,8 @@ third_nav_title: Secondary
 | Perseverance | [Mrs Joan Yang](mailto:maryanty_mohtar@moe.edu.sg) | [Mr Abdul Razak](mailto:low_shu_jun_shirlyn@moe.edu.sg) |
 | Generosity | [Miss Kong Shiau Wei](mailto:kong_shiau_wei@moe.edu.sg) | [Ms Shirley Leung](mailto:nur-ashiqin_hasbollah@moe.edu.sg) |
 | Grace | [Mrs Sophia Wong](mailto:kong_shiau_wei@moe.edu.sg) |  [Ms Anisha Johnson](mailto:li_youjie@moe.edu.sg) |
-| Diligence | [Miss June Yap](mailto:yap_geok_ching_june@moe.edu.sg) | [Miss Lee Woon Yong](mailto:lee_woon_yong@moe.edu.sg)  |
-| Courage | [Miss Deborah Gan](mailto:deborah_gan_li_chuen@moe.edu.sg) | [Ms Esther Teo](mailto:esther_teo_lek_ong@moe.edu.sg)/[Mrs Rosemary Song](mailto:rosemary_tang@moe.edu.sg) |
+| Diligence | [Mr Zeng Wei](mailto:yap_geok_ching_june@moe.edu.sg) | [Mrs Audrey Wong](mailto:tan_mei_ling_audrey@moe.edu.sg)  |
+| Courage | [Mr Foo Chee Juan](mailto:deborah_gan_li_chuen@moe.edu.sg) | [Mrs Yeo Li Yong](mailto:esther_teo_lek_ong@moe.edu.sg) |
 | **Secondary 2** |    |    | 
 | Sincerity | [Mrs Cui Hailan](mailto:ng_shan_shan@moe.edu.sg) | [Mrs Dora Fernandez](mailto:dora_maria_choo@moe.edu.sg) |
 | Service | [Mrs Justina Gan](mailto:foo_ai_chien_justina@moe.edu.sg) | [Ms Irfana](mailto:irfana_begum_shaik_fareed@moe.edu.sg)/ [Miss Shahidna](mailto:raja_nurr_shahidna@moe.edu.sg) |
