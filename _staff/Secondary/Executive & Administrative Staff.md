@@ -21,7 +21,7 @@ third_nav_title: Secondary
 | Office Attendant (Admin) 	| [Ms Vanessa Dewi](mailto:harijanto_vanessa_dewi@moe.edu.sg) 	|
 | **Aesthetics / PE / CCA** 	|  	|
 | Subject Head (Dance) 	| [Ms Vanessa Dewi](mailto:harijanto_vanessa_dewi@moe.edu.sg) 	|
-| Dance Administrative Executive 	| [Ms Pereira Sherrielyn Naomi](mailto:pereira_sherrielyn_naomi@moe.edu.sg) 	|
+| Dance Administrative Executive 	| [Ms Shahella Binte Yussof](mailto:shahella_yussof@moe.edu.sg) 	|
 | **Counsellor** 	|  	|
 | School Counsellor 	| [Miss Julie Wee](mailto:counsellor@sec.scgs.edu.sg)<br><br>[Ms Charissa Tan](mailto:tan_mao_ning_charissa@moe.edu.sg)<br><br>[Ms Teo Bee Khim](mailto:teo_bee_khim_a@moe.edu.sg) 	|
 | **Finance** 	|  	|
