@@ -56,7 +56,7 @@ third_nav_title: Secondary
 | **Secondary 2** |    |    | 
 | Sincerity | [Mrs Cui Hailan](mailto:cui_hailan@moe.edu.sg) | [Mrs Dora Fernandez](mailto:dora_maria_choo@moe.edu.sg) |
 | Service | [Ms Bharathy](mailto:vijayabharathy_veeravarman@moe.edu.sg) | [Ms Adeline Tan](mailto:tan_li_jen_adeline@moe.edu.sg) |
-| Prudence | [Mrs Swati Mukherji](mailto:swati_mukherji@moe.edu.sg) | [Mdm Kala ](mailto:kavita_deep_kaur_hundal@moe.edu.sg) |
+| Prudence | [Mrs Swati Mukherji](mailto:swati_mukherji@moe.edu.sg) | [Mdm Kala ](mailto:kalavathi_sabapathy@moe.edu.sg) |
 | Perseverance | [Miss Maryanty Mohtar](mailto:maryanty_mohtar@moe.edu.sg) | [Miss Lee Li Qun](mailto:lee_li_qun@moe.edu.sg) |
 | Generosity | [Mr Liang Kok Ann](mailto:liang_kok_ann@moe.edu.sg) | [Miss Lim Zhi Yi](mailto:lim_zhi_yi@moe.edu.sg) |
 | Grace | [Mrs Tay-Ting Hui Lin](mailto:hui_lin_ting@moe.edu.sg) | [Mdm Mo Fengling](mailto:mo_feng_ling@moe.edu.sg) |
