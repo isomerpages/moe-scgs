@@ -59,9 +59,9 @@ third_nav_title: Secondary
 | Prudence | [Mrs Swati Mukherji](mailto:swati_mukherji@moe.edu.sg) | [Mdm Kala ](mailto:kavita_deep_kaur_hundal@moe.edu.sg) |
 | Perseverance | [Miss Maryanty Mohtar](mailto:maryanty_mohtar@moe.edu.sg) | [Miss Lee Li Qun](mailto:lee_li_qun@moe.edu.sg) |
 | Generosity | [Mr Liang Kok Ann](mailto:liang_kok_ann@moe.edu.sg) | [Miss Lim Zhi Yi](mailto:lim_zhi_yi@moe.edu.sg) |
-| Grace | [Mrs Tay-Ting Hui Lin](mailto:hui_lin_ting@moe.edu.sg) | [Mdm Mo Fengling](mailto:abdul_razak@moe.edu.sg) |
-| Diligence | [Ms Teo Wen Fei](mailto:LIOW_Liang_Fa@moe.edu.sg) | [Mdm Lim Chan Ching](mailto:hartini_hassan@moe.edu.sg) |
-| Courage | [Miss Deborah Gan](mailto:Phua_chia_ghee@moe.edu.sg) | [Miss Jace Yeoh](mailto:tan_li_jen_adeline@moe.edu.sg) |
+| Grace | [Mrs Tay-Ting Hui Lin](mailto:hui_lin_ting@moe.edu.sg) | [Mdm Mo Fengling](mailto:mo_feng_ling@moe.edu.sg) |
+| Diligence | [Ms Teo Wen Fei](mailto:LIOW_Liang_Fa@moe.edu.sg) | [Mdm Lim Chan Ching](mailto:lim_chan_ching@moe.edu.sg) |
+| Courage | [Miss Deborah Gan](mailto:deborah_gan_li_chuen@moe.edu.sg) | [Miss Jace Yeoh](mailto:tan_li_jen_adeline@moe.edu.sg) |
 | **Secondary 3** |     |      | 
 |Sincerity | [Mrs Vivian Tan](mailto:lim_mui_tiang@moe.edu.sg) | [Mdm Kavita Gill](mailto:pang_kailing_vivienne@moe.edu.sg) |
 | Service | [Mrs Jayne Tan](mailto:seow_siew_li@moe.edu.sg) | [Mrs Kho Chiou Yann](mailto:hu_yu_hua_diane@moe.edu.sg) |
