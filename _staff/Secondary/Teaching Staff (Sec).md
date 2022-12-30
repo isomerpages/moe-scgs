@@ -33,7 +33,7 @@ third_nav_title: Secondary
 | | [Mr Johari Bin Khalil](mailto:johari_khalil@moe.edu.sg) | Science |
 | | [Mr Michael Chin](mailto:chin_sian_woon_michael@moe.edu.sg) | Science |
 | | [Ms Diane Hu](mailto:hu_yu_hua_diane@moe.edu.sg) | Special Projects |
-| | [Miss Arlene Pang](mailto:pang_xuehui_arlene@moe.edu.sg) | Year 1 Head |
+| | [Ms Khadijah Binte Aziz Rahman](mailto:khadijah_aziz_rahman@moe.edu.sg) | Year 1 Head |
 | | [Mrs Kassey Gwee](mailto:kassey_heng@moe.edu.sg) | Year 2 Head (Acting) |
 | | [Mrs Grace Chui](mailto:grace_tan_kok_eng@moe.edu.sg) | Year 3 Head |
 | | [Mrs Parvathy Siva](mailto:parvathy_vegadasalam@moe.edu.sg) | Year 4 Head |
