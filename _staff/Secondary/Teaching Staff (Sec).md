@@ -71,7 +71,7 @@ third_nav_title: Secondary
 | Dignity | [Mr Chia Guo Hui](mailto:grace_tang@moe.edu.sg) | [Ms Zhou Liang](mailto:cheong_kam_seng_paul@moe.edu.sg) |
 | Diligence | [Mr Lau Beng Hwee](mailto:beh_mui_leng@moe.edu.sg) | [Mrs Lim Siew Joo](mailto:chin_sian_woon_michael@moe.edu.sg) |
 | Grace | [Ms Leong Hui Ran](mailto:ang_tee_koon@moe.edu.sg) | [Mr Ng Wen Jye](mailto:lee_jo_ann@moe.edu.sg) |
-| Generosity | [Ms Rina Lio](mailto:lio_su-mein_rina@moe.edu.sg) | [Mr Ng Wen Jye](mailto:Ng_wen_jye@moe.edu.sg) |
+| Generosity | [Mrs Caruna Yogeeswaran](mailto:lio_su-mein_rina@moe.edu.sg) | [Mrs Linda Lee](mailto:Ng_wen_jye@moe.edu.sg) |
 | **Secondary 4** |    |    |    
 | Sincerity | [Mrs Vivian Tan](mailto:low_vivian@moe.edu.sg) | [Mrs Linda Lee](mailto:khoo_beng_gek_linda@moe.edu.sg) |
 | Service | [Mrs Jayne Tan](mailto:jayne_ruth_lim_ying@moe.edu.sg) | [Mrs Kho Chiou Yann](mailto:lim_chiou_yann@moe.edu.sg) |
