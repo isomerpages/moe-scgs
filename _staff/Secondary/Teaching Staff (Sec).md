@@ -81,7 +81,7 @@ third_nav_title: Secondary
 | Dignity | [Miss Grace Tang](mailto:grace_tang@moe.edu.sg) | [Mrs Doreen Lee](mailto:lau_ying_ying@moe.edu.sg) |
 | Diligence | [Miss Beh Mui Leng](mailto:beh_mui_leng@moe.edu.sg) | [Mr Michael Chin](mailto:chin_sian_woon_michael@moe.edu.sg) |
 | Grace | [Mr Ang Tee Koon](mailto:ang_tee_koon@moe.edu.sg) | [Miss Lee Jo Ann](mailto:lee_jo_ann@moe.edu.sg) |
-| Generosity | [Ms Rina Lio](mailto:lau_beng_hwee@moe.edu.sg) | [Mrs Michelle Ang](mailto:melissa_neo-ang@moe.edu.sg) |
+| Generosity | [Ms Rina Lio](mailto:lio_su-mein_rina@moe.edu.sg) | [Mrs Michelle Ang](mailto:ng_mei_yin_michelle@moe.edu.sg) |
 | **Non FT/CT** |  |  |  |
 |  | [Mrs Chua Poh Leng](mailto:oh_poh_leng_a@moe.edu.sg) | [Mrs Lee Puay Leng](mailto:ong_puay_leng@moe.edu.sg) |
 |  | [Mrs Gloria Cheng](mailto:gloria_cheng@moe.edu.sg) | [Mrs Madeline Maas](mailto:yeo_beow_keat_madeline@moe.edu.sg) |
