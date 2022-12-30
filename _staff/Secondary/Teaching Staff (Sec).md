@@ -47,7 +47,7 @@ third_nav_title: Secondary
 | **Secondary 1** |     |     | 
 |Sincerity | [Mdm Phua Chia Ghee](mailto:phua_chia_ghee@moe.edu.sg) | [Mrs Parvathy Siva](mailto:parvathy_vegadasalam@moe.edu.sg) |
 |Service | [Mrs Fu Shin Yee](mailto:wong_shin_yee@moe.edu.sg) | [Mrs Chuah Shan Shan](mailto:ng_shan_shan@moe.edu.sg) |
-| Prudence | [Mrs Justina Gan](mailto:joan_chan_lee_hiang@moe.edu.sg) | [Mrs Cha Wai Mun](mailto:vijayabharathy_veeravarman@moe.edu.sg) |
+| Prudence | [Mrs Justina Gan](mailto:foo_ai_chien_justina@moe.edu.sg) | [Mrs Cha Wai Mun](mailto:vijayabharathy_veeravarman@moe.edu.sg) |
 | Perseverance | [Mrs Joan Yang](mailto:maryanty_mohtar@moe.edu.sg) | [Mr Abdul Razak](mailto:low_shu_jun_shirlyn@moe.edu.sg) |
 | Generosity | [Miss Kong Shiau Wei](mailto:kong_shiau_wei@moe.edu.sg) | [Ms Shirley Leung](mailto:nur-ashiqin_hasbollah@moe.edu.sg) |
 | Grace | [Mrs Sophia Wong](mailto:kong_shiau_wei@moe.edu.sg) |  [Ms Anisha Johnson](mailto:li_youjie@moe.edu.sg) |
