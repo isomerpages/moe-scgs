@@ -63,14 +63,14 @@ third_nav_title: Secondary
 | Diligence | [Ms Teo Wen Fei](mailto:LIOW_Liang_Fa@moe.edu.sg) | [Mdm Lim Chan Ching](mailto:hartini_hassan@moe.edu.sg) |
 | Courage | [Miss Deborah Gan](mailto:Phua_chia_ghee@moe.edu.sg) | [Miss Jace Yeoh](mailto:tan_li_jen_adeline@moe.edu.sg) |
 | **Secondary 3** |     |      | 
-|Sincerity | [Mrs Tan Mui Tiang](mailto:lim_mui_tiang@moe.edu.sg) | [Ms Vivienne Pang](mailto:pang_kailing_vivienne@moe.edu.sg) |
-| Service | [Mrs Yeo Siew Li](mailto:seow_siew_li@moe.edu.sg) | [Ms Diane Hu](mailto:hu_yu_hua_diane@moe.edu.sg) |
-| Prudence | [Miss Lim Ai Hong](mailto:lim_ai_hong@moe.edu.sg) | [Mr Tan Chee Wan](mailto:tan_chee_wan@moe.edu.sg) |
-| Perseverance | [Ms Ethel Chong](mailto:ethel_chong_ai_leng@moe.edu.sg) | [Mdm Tan Poey Siang](mailto:tan_poey_siang@moe.edu.sg) |
-| Courage | [Miss Yeo Poh Tin](mailto:yeo_poh_tin@moe.edu.sg) | [Miss Fu Wei](mailto:fu_wei@moe.edu.sg) |
-| Dignity | [Ms Grace Tang](mailto:grace_tang@moe.edu.sg) | [Mr Paul Cheong](mailto:cheong_kam_seng_paul@moe.edu.sg) |
-| Diligence | [Miss Beh Mui Leng](mailto:beh_mui_leng@moe.edu.sg) | [Mr Michael Chin](mailto:chin_sian_woon_michael@moe.edu.sg) |
-| Grace | [Mr Ang Tee Koon](mailto:ang_tee_koon@moe.edu.sg) | [Miss Lee Jo Ann](mailto:lee_jo_ann@moe.edu.sg) |
+|Sincerity | [Mrs Vivian Tan](mailto:lim_mui_tiang@moe.edu.sg) | [Mdm Kavita Gill](mailto:pang_kailing_vivienne@moe.edu.sg) |
+| Service | [Mrs Jayne Tan](mailto:seow_siew_li@moe.edu.sg) | [Mrs Kho Chiou Yann](mailto:hu_yu_hua_diane@moe.edu.sg) |
+| Prudence | [Ms Irfana](mailto:lim_ai_hong@moe.edu.sg) | [Mrs Rosemay Song](mailto:tan_chee_wan@moe.edu.sg) |
+| Perseverance | [Mrs Lena Low](mailto:ethel_chong_ai_leng@moe.edu.sg) | [Mdm Tan Hartini](mailto:tan_poey_siang@moe.edu.sg)/[Mr Johari Khalil](mailto:chang_wai_mun@moe.edu.sg) |
+| Courage | [Mr Samuel Lim](mailto:yeo_poh_tin@moe.edu.sg) | [Mrs Melissa Neo](mailto:fu_wei@moe.edu.sg) |
+| Dignity | [Mr Chia Guo Hui](mailto:grace_tang@moe.edu.sg) | [Ms Zhou Liang](mailto:cheong_kam_seng_paul@moe.edu.sg) |
+| Diligence | [Mr Lau Beng Hwee](mailto:beh_mui_leng@moe.edu.sg) | [Mrs Lim Siew Joo](mailto:chin_sian_woon_michael@moe.edu.sg) |
+| Grace | [Ms Leong Hui Ran](mailto:ang_tee_koon@moe.edu.sg) | [Mr Ng Wen Jye](mailto:lee_jo_ann@moe.edu.sg) |
 | Generosity | [Ms Rina Lio](mailto:lio_su-mein_rina@moe.edu.sg) | [Mr Ng Wen Jye](mailto:Ng_wen_jye@moe.edu.sg) |
 | **Secondary 4** |    |    |    
 | Sincerity | [Mrs Vivian Tan](mailto:low_vivian@moe.edu.sg) | [Mrs Linda Lee](mailto:khoo_beng_gek_linda@moe.edu.sg) |
