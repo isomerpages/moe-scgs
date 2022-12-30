@@ -21,9 +21,9 @@ third_nav_title: Secondary
 | Office Attendant (Admin) 	| [Ms Vanessa Dewi](mailto:harijanto_vanessa_dewi@moe.edu.sg) 	|
 | **Aesthetics / PE / CCA** 	|  	|
 | Subject Head (Dance) 	| [Ms Vanessa Dewi](mailto:harijanto_vanessa_dewi@moe.edu.sg) 	|
-| Dance Administrative Executive 	| [Ms Pereira Sherrielyn Naomi](mailto:pereira_sherrielyn_naomi@moe.edu.sg) 	|
+| Dance Administrative Executive 	| [Ms Shahella Binte Yussof](mailto:shahella_yussof@moe.edu.sg) 	|
 | **Counsellor** 	|  	|
-| School Counsellor 	| [Miss Julie Wee](mailto:counsellor@sec.scgs.edu.sg)<br><br>[Ms Charissa Tan](mailto:tan_mao_ning_charissa@moe.edu.sg)<br><br>[Ms Teo Bee Khim](mailto:teo_bee_khim_a@moe.edu.sg) 	|
+| School Counsellor 	| [Ms Charissa Tan](mailto:tan_mao_ning_charissa@moe.edu.sg)<br><br>[Ms Teo Bee Khim](mailto:teo_bee_khim_a@moe.edu.sg) 	|
 | **Finance** 	|  	|
 | Senior Manager (Finance) 	| [Mr Ted Choo](mailto:choo_tck_loong@moe.edu.sg) 	|
 | Assistant Manager (Finance) 	| [Miss Regina Ong](mailto:regina_ong_hui_kheng@moe.edu.sg) 	|
@@ -43,6 +43,6 @@ third_nav_title: Secondary
 | **Science Lab** 	|  	|
 | Senior Specialist (Science Lab) 	| [Miss Lee Yee Mei](mailto:lee_yee_mei@moe.edu.sg) 	|
 | Specialist (Science Lab) 	| [Mr Loh Meng Onn](mailto:loh_meng_onn@moe.edu.sg)<br><br>[Miss Aidah](mailto:%20nuraidah_abdul_rahim@moe.edu.sg) 	|
-| Attendant (Science Lab) 	| [Mrs Soh Lim Bee Lean](mailto:lim_bee_lean@sec.scgs.edu.sg) 
+| Attendant (Science Lab) 	| [Mrs Soh Lim Bee Lean](mailto:lim_bee_lean@sec.scgs.edu.sg) <br><br>[Ms Lim Ang Neo](mailto:lim_ang_neo@sec.scgs.edu.sg) 
 | **Teacher Aides** 	|  	|
 | Teacher Aide 	| [Ms Rose Wisidagama](mailto:rose_wisidagama@moe.edu.sg)<br><br>[Miss Koh Hwee Koon](mailto:koh_hwee_koon_a@moe.edu.sg) 	|
