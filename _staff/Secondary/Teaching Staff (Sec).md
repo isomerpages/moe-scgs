@@ -55,9 +55,9 @@ third_nav_title: Secondary
 | Courage | [Mr Foo Chee Juan](mailto:deborah_gan_li_chuen@moe.edu.sg) | [Mrs Yeo Li Yong](mailto:esther_teo_lek_ong@moe.edu.sg) |
 | **Secondary 2** |    |    | 
 | Sincerity | [Mrs Cui Hailan](mailto:ng_shan_shan@moe.edu.sg) | [Mrs Dora Fernandez](mailto:dora_maria_choo@moe.edu.sg) |
-| Service | [Mrs Justina Gan](mailto:foo_ai_chien_justina@moe.edu.sg) | [Ms Irfana](mailto:irfana_begum_shaik_fareed@moe.edu.sg)/ [Miss Shahidna](mailto:raja_nurr_shahidna@moe.edu.sg) |
-| Prudence | [Ms Lee Li Qun](mailto:lee_li_qun@moe.edu.sg) | [Mrs Kavita Gill](mailto:kavita_deep_kaur_hundal@moe.edu.sg) |
-| Perseverance | [Mdm Lim Chan Ching](mailto:lim_chan_ching@moe.edu.sg) | [Mrs Audrey Wong](mailto:tan_mei_ling_audrey@moe.edu.sg) |
+| Service | [Ms Bharathy](mailto:foo_ai_chien_justina@moe.edu.sg) | [Ms Adeline Tan](mailto:irfana_begum_shaik_fareed@moe.edu.sg) |
+| Prudence | [Mrs Swati Mukherji](mailto:lee_li_qun@moe.edu.sg) | [Mdm Kala ](mailto:kavita_deep_kaur_hundal@moe.edu.sg) |
+| Perseverance | [Miss Maryanty Mohtar](mailto:lim_chan_ching@moe.edu.sg) | [Miss Lee Li Qun](mailto:lee_li_qun@moe.edu.sg) |
 | Generosity | [Mr Foo Chee Juan](mailto:foo_chee_juan@moe.edu.sg) | [Miss Lim Zhi Yi](mailto:lim_zhi_yi@moe.edu.sg)/[Mrs Wong Bee Ting](mailto:lim_bee_ting@moe.edu.sg) |
 | Grace | [Mrs Sophia Wong](mailto:cheng_jin_ting_sophia@moe.edu.sg) | [Mr Abdul Razak](mailto:abdul_razak@moe.edu.sg)/[Ms Khadijah](mailto:khadijah_aziz_rahman@moe.edu.sg) |
 | Diligence | [Mr Liow Liang Fa](mailto:LIOW_Liang_Fa@moe.edu.sg) | [Mdm Hartini Bte Hassan](mailto:hartini_hassan@moe.edu.sg) |
