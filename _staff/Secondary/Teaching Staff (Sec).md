@@ -14,7 +14,7 @@ third_nav_title: Secondary
 | | [Mrs Fei May Bowness](mailto:wong_fei_may@moe.edu.sg) | Student Development |
 | **Heads of Department** | | | | 
 | | [Miss Adeline Tan](mailto:tan_li_jen_adeline@moe.edu.sg) | Aesthetics |
-| | [Mrs Madeline Maas](mailto:yeo_beow_keat_madeline@moe.edu.sg) | Character and Citizenship Education |
+| | [Mrs Grace Chui](mailto:grace_tan_kok_eng@moe.edu.sg) | Character and Citizenship Education |
 | | [Mrs Melissa Neo](mailto:melissa_neo-ang@moe.edu.sg) | English Language & Literature |
 | | [Miss Yeo Li Yong](mailto:Yeo_li_yong@moe.edu.sg) | Humanities |
 | | [Mrs Audrey Wong](mailto:tan_mei_ling_audrey@moe.edu.sg) | Infocomm Technology |
