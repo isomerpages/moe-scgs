@@ -48,11 +48,11 @@ third_nav_title: Secondary
 |Sincerity | [Mdm Phua Chia Ghee](mailto:phua_chia_ghee@moe.edu.sg) | [Mrs Parvathy Siva](mailto:parvathy_vegadasalam@moe.edu.sg) |
 |Service | [Mrs Fu Shin Yee](mailto:wong_shin_yee@moe.edu.sg) | [Mrs Chuah Shan Shan](mailto:ng_shan_shan@moe.edu.sg) |
 | Prudence | [Mrs Justina Gan](mailto:foo_ai_chien_justina@moe.edu.sg) | [Mrs Cha Wai Mun](mailto:vijayabharathy_veeravarman@moe.edu.sg) |
-| Perseverance | [Mrs Joan Yang](mailto:maryanty_mohtar@moe.edu.sg) | [Mr Abdul Razak](mailto:low_shu_jun_shirlyn@moe.edu.sg) |
+| Perseverance | [Mrs Joan Yang](mailto:joan_chan_lee_hiang@moe.edu.sg) | [Mr Abdul Razak](mailto:abdul_razak@moe.edu.sg) |
 | Generosity | [Miss Kong Shiau Wei](mailto:kong_shiau_wei@moe.edu.sg) | [Ms Shirley Leung](mailto:nur-ashiqin_hasbollah@moe.edu.sg) |
 | Grace | [Mrs Sophia Wong](mailto:kong_shiau_wei@moe.edu.sg) |  [Ms Anisha Johnson](mailto:li_youjie@moe.edu.sg) |
 | Diligence | [Mr Zeng Wei](mailto:yap_geok_ching_june@moe.edu.sg) | [Mrs Audrey Wong](mailto:tan_mei_ling_audrey@moe.edu.sg)  |
-| Courage | [Mr Foo Chee Juan](mailto:foo_chee_juan@moe.edu.sg) | [Mrs Yeo Li Yong](mailto:esther_teo_lek_ong@moe.edu.sg) |
+| Courage | [Mr Foo Chee Juan](mailto:foo_chee_juan@moe.edu.sg) | [Mrs Yeo Li Yong](mailto:yeo_li_yong@moe.edu.sg) |
 | **Secondary 2** |    |    | 
 | Sincerity | [Mrs Cui Hailan](mailto:ng_shan_shan@moe.edu.sg) | [Mrs Dora Fernandez](mailto:dora_maria_choo@moe.edu.sg) |
 | Service | [Ms Bharathy](mailto:vijayabharathy_veeravarman@moe.edu.sg) | [Ms Adeline Tan](mailto:irfana_begum_shaik_fareed@moe.edu.sg) |
