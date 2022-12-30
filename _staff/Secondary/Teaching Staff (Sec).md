@@ -75,7 +75,7 @@ third_nav_title: Secondary
 | **Secondary 4** |    |    |    
 | Sincerity | [Mrs Tan Mui Tiang](mailto:lim_mui_tiang@moe.edu.sg) | [Ms Vivienne Pang](mailto:pang_kailing_vivienne@moe.edu.sg) |
 | Service | [Mr Liow Liang Fa](mailto:liow_liang_fa@moe.edu.sg) | [Ms Diane Hu](mailto:hu_yu_hua_diane@moe.edu.sg) |
-| Prudence | [Miss Lim Ai Hong](mailto:heng_siew_joo@moe.edu.sg) | [Mr Tan Chee Wan](mailto:%20chia_guo_hui@moe.edu.sg) |
+| Prudence | [Miss Lim Ai Hong](mailto:lim_ai_hong@moe.edu.sg) | [Mr Tan Chee Wan](mailto:%20chia_guo_hui@moe.edu.sg) |
 | Perseverance | [Miss Chang Wai Mun](mailto:lena_lim_a@moe.edu.sg) | [Mdm Tan Poey Siang](mailto:swati_mukherji@moe.edu.sg) |
 | Courage | [Miss Yeo Poh Tin](mailto:leong_hui_ran@moe.edu.sg) | [Ms Fu Wei](mailto:fu_wei@moe.edu.sg) |
 | Dignity | [Miss Grace Tang](mailto:lim_ting_lih@moe.edu.sg) | [Mrs Doreen Lee](mailto:lau_ying_ying@moe.edu.sg) |
