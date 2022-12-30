@@ -70,8 +70,8 @@ third_nav_title: Secondary
 | Courage | [Mr Samuel Lim](mailto:lim_ting_lih@moe.edu.sg) | [Mrs Melissa Neo](mailto:melissa_neo-ang@moe.edu.sg) |
 | Dignity | [Mr Chia Guo Hui](mailto:chia_guo_hui@moe.edu.sg) | [Ms Zhou Liang](mailto:zhou_liang@moe.edu.sg) |
 | Diligence | [Mr Lau Beng Hwee](mailto:lau_beng_hwee@moe.edu.sg) | [Mrs Lim Siew Joo](mailto:heng_siew_joo@moe.edu.sg) |
-| Grace | [Ms Leong Hui Ran](mailto:ang_tee_koon@moe.edu.sg) | [Mr Ng Wen Jye](mailto:lee_jo_ann@moe.edu.sg) |
-| Generosity | [Mrs Caruna Yogeeswaran](mailto:lio_su-mein_rina@moe.edu.sg) | [Mrs Linda Lee](mailto:Ng_wen_jye@moe.edu.sg) |
+| Grace | [Ms Leong Hui Ran](mailto:leong_hui_ran@moe.edu.sg) | [Mr Ng Wen Jye](mailto:ng_wen_jye@moe.edu.sg) |
+| Generosity | [Mrs Caruna Yogeeswaran](mailto:caruna_sothi@moe.edu.sg) | [Mrs Linda Lee](mailto:khoo_beng_gek_linda@moe.edu.sg) |
 | **Secondary 4** |    |    |    
 | Sincerity | [Mrs Tan Mui Tiang](mailto:low_vivian@moe.edu.sg) | [Ms Vivienne Pang](mailto:khoo_beng_gek_linda@moe.edu.sg) |
 | Service | [Mr Liow Liang Fa](mailto:jayne_ruth_lim_ying@moe.edu.sg) | [Ms Diane Hu](mailto:lim_chiou_yann@moe.edu.sg) |
