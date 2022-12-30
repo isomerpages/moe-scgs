@@ -55,17 +55,17 @@ third_nav_title: Secondary
 | Courage | [Mr Foo Chee Juan](mailto:foo_chee_juan@moe.edu.sg) | [Miss Yeo Li Yong](mailto:yeo_li_yong@moe.edu.sg) |
 | **Secondary 2** |    |    | 
 | Sincerity | [Mrs Cui Hailan](mailto:cui_hailan@moe.edu.sg) | [Mrs Dora Fernandez](mailto:dora_maria_choo@moe.edu.sg) |
-| Service | [Ms Bharathy](mailto:vijayabharathy_veeravarman@moe.edu.sg) | [Ms Adeline Tan](mailto:irfana_begum_shaik_fareed@moe.edu.sg) |
-| Prudence | [Mrs Swati Mukherji](mailto:lee_li_qun@moe.edu.sg) | [Mdm Kala ](mailto:kavita_deep_kaur_hundal@moe.edu.sg) |
-| Perseverance | [Miss Maryanty Mohtar](mailto:lim_chan_ching@moe.edu.sg) | [Miss Lee Li Qun](mailto:lee_li_qun@moe.edu.sg) |
-| Generosity | [Mr Liang Kok Ann](mailto:foo_chee_juan@moe.edu.sg) | [Miss Lim Zhi Yi](mailto:lim_zhi_yi@moe.edu.sg) |
-| Grace | [Mrs Tay-Ting Hui Lin](mailto:cheng_jin_ting_sophia@moe.edu.sg) | [Mdm Mo Fengling](mailto:abdul_razak@moe.edu.sg) |
+| Service | [Ms Bharathy](mailto:vijayabharathy_veeravarman@moe.edu.sg) | [Ms Adeline Tan](mailto:tan_li_jen_adeline@moe.edu.sg) |
+| Prudence | [Mrs Swati Mukherji](mailto:swati_mukherji@moe.edu.sg) | [Mdm Kala ](mailto:kavita_deep_kaur_hundal@moe.edu.sg) |
+| Perseverance | [Miss Maryanty Mohtar](mailto:maryanty_mohtar@moe.edu.sg) | [Miss Lee Li Qun](mailto:lee_li_qun@moe.edu.sg) |
+| Generosity | [Mr Liang Kok Ann](mailto:liang_kok_ann@moe.edu.sg) | [Miss Lim Zhi Yi](mailto:lim_zhi_yi@moe.edu.sg) |
+| Grace | [Mrs Tay-Ting Hui Lin](mailto:hui_lin_ting@moe.edu.sg) | [Mdm Mo Fengling](mailto:abdul_razak@moe.edu.sg) |
 | Diligence | [Ms Teo Wen Fei](mailto:LIOW_Liang_Fa@moe.edu.sg) | [Mdm Lim Chan Ching](mailto:hartini_hassan@moe.edu.sg) |
 | Courage | [Miss Deborah Gan](mailto:Phua_chia_ghee@moe.edu.sg) | [Miss Jace Yeoh](mailto:tan_li_jen_adeline@moe.edu.sg) |
 | **Secondary 3** |     |      | 
 |Sincerity | [Mrs Vivian Tan](mailto:lim_mui_tiang@moe.edu.sg) | [Mdm Kavita Gill](mailto:pang_kailing_vivienne@moe.edu.sg) |
 | Service | [Mrs Jayne Tan](mailto:seow_siew_li@moe.edu.sg) | [Mrs Kho Chiou Yann](mailto:hu_yu_hua_diane@moe.edu.sg) |
-| Prudence | [Ms Irfana](mailto:lim_ai_hong@moe.edu.sg) | [Mrs Rosemay Song](mailto:tan_chee_wan@moe.edu.sg) |
+| Prudence | [Ms Irfana](mailto:irfana_begum_shaik_fareed@moe.edu.sg) | [Mrs Rosemay Song](mailto:tan_chee_wan@moe.edu.sg) |
 | Perseverance | [Mrs Lena Low](mailto:ethel_chong_ai_leng@moe.edu.sg) | [Mdm Tan Hartini](mailto:tan_poey_siang@moe.edu.sg)/[Mr Johari Khalil](mailto:chang_wai_mun@moe.edu.sg) |
 | Courage | [Mr Samuel Lim](mailto:yeo_poh_tin@moe.edu.sg) | [Mrs Melissa Neo](mailto:fu_wei@moe.edu.sg) |
 | Dignity | [Mr Chia Guo Hui](mailto:grace_tang@moe.edu.sg) | [Ms Zhou Liang](mailto:cheong_kam_seng_paul@moe.edu.sg) |
