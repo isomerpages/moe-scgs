@@ -69,7 +69,7 @@ third_nav_title: Secondary
 | Perseverance | [Mrs Lena Low](mailto:lena_lim_a@moe.edu.sg) | [Mdm Hartini Hassan](mailto:hartini_hassan@moe.edu.sg)/[Mr Johari Khalil](mailto:johari_khalil@moe.edu.sg) |
 | Courage | [Mr Samuel Lim](mailto:lim_ting_lih@moe.edu.sg) | [Mrs Melissa Neo](mailto:melissa_neo-ang@moe.edu.sg) |
 | Dignity | [Mr Chia Guo Hui](mailto:chia_guo_hui@moe.edu.sg) | [Ms Zhou Liang](mailto:zhou_liang@moe.edu.sg) |
-| Diligence | [Mr Lau Beng Hwee](mailto:beh_mui_leng@moe.edu.sg) | [Mrs Lim Siew Joo](mailto:chin_sian_woon_michael@moe.edu.sg) |
+| Diligence | [Mr Lau Beng Hwee](mailto:lau_beng_hwee@moe.edu.sg) | [Mrs Lim Siew Joo](mailto:heng_siew_joo@moe.edu.sg) |
 | Grace | [Ms Leong Hui Ran](mailto:ang_tee_koon@moe.edu.sg) | [Mr Ng Wen Jye](mailto:lee_jo_ann@moe.edu.sg) |
 | Generosity | [Mrs Caruna Yogeeswaran](mailto:lio_su-mein_rina@moe.edu.sg) | [Mrs Linda Lee](mailto:Ng_wen_jye@moe.edu.sg) |
 | **Secondary 4** |    |    |    
