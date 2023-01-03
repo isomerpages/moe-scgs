@@ -7,7 +7,7 @@ description: ""
 
 ### School Admission
 
-*   [2022 Waitlist Application Form (Primary School)](https://form.gov.sg/6125f37e93d3b900124e2374)
+*   [2022 Waitlist Application Form (Primary School)](https://form.gov.sg/#!/632bae0bfa18990012033943)
 *  [Application for Entry for Secondary School](/files/Sch-Application-Form_2022.pdf)
 
 ### Scholarships/Bursary
@@ -24,7 +24,7 @@ description: ""
 * [Sexuality Education Information (Primary)](/files/SED2022.pdf)
 * [Sexuality Education Information (Secondary)](/files/Info_on_SEd_for_SCGS_website_Sec_2022.pdf)
 
-### BOOKLIST – SECONDARY (Updated for Year 2022)
+### BOOKLIST – SECONDARY (Updated for Year 2023)
 
 * [Secondary 1 (O-Level) Booklist](/files/2023_Sec%201%20OLP%20Booklist.pdf)
 * [Secondary 1 (IP) Booklist](/files/2023_Sec%201%20IP%20Booklist.pdf)
