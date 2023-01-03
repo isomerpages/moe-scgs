@@ -29,9 +29,9 @@ third_nav_title: Secondary
 |  	| UGs 	| Teacher-in-charge 	| Days 	| Time 	| Remarks / Email 	|
 |---	|---	|---	|---	|---	|---	|
 | 1 	| Girls’ Brigade 	| **Ms Leong Hui Ran**<br><br>Ms Joan Yang<br><br>Ms Chang Wai Mun<br><br>Mrs Quek 	| Thursday 	| 3.15 – 6.15pm 	| [jayne_ruth_lim_ying@moe.edu.sg](mailto:jayne_ruth_lim_ying@moe.edu.sg) 	|
-| 2 	| Girl Guides 	| **Ms Lim Ai Hong**<br><br>Mrs Grace Chui<br><br>Mrs Tan Mui Tiang<br><br>Mrs Tay-Ting Hui Lin (maternity)<br><br>Miss Teo Wen Fei 	| Tuesday**<br><br>Thursday 	| 3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| [lim_ai_hong@moe.edu.sg](mailto:lim_ai_hong@moe.edu.sg) 	|
+| 2 	| Girl Guides 	| **Ms Lim Ai Hong**<br><br>Mrs Tan Mui Tiang<br><br>Mrs Tay-Ting Hui Lin <br><br>Ms Jace Yeoh 	| Tuesday**<br><br>Thursday 	| 3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| [lim_ai_hong@moe.edu.sg](mailto:lim_ai_hong@moe.edu.sg) 	|
 | 3 	| NCC 	| **Miss Lee Jo Ann**<br><br>Mrs  Doreen Lee 	| Tuesday**<br><br>Thursday 	| 3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| [lee_jo_ann@moe.edu.sg](mailto:lee_jo_ann@moe.edu.sg) 	|
-| 4 	| Red Cross 	| **Mdm Tan Poey Siang**<br><br>Ms Grace Tang<br><br>Ms Low Shujun<br><br>Mr Jack Li 	| Tuesday**<br><br>Thursday 	| 3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| [tan_poey_siang@moe.edu.sg](mailto:tan_poey_siang@moe.edu.sg) 	|
+| 4 	| Red Cross 	| **Ms Grace Tang**<br><br>Mdm Tan Poey Siang<br><br>Ms Bharathy<br> 	| Tuesday**<br><br>Thursday 	| 3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| [tan_poey_siang@moe.edu.sg](mailto:tan_poey_siang@moe.edu.sg) 	|
 
 ** for competitions/events
 
@@ -41,10 +41,10 @@ third_nav_title: Secondary
 |   	| Clubs/Societies 	| Teacher-in-charge 	| Days 	| Time 	| Remarks 	|
 |---	|---	|---	|---	|---	|---	|
 | 1 	| Art Club 	| **Mr Abdul Razak**<br><br>Ms Low Kok Lang 	| Tuesday 	| 3.15 – 6.15pm 	| [abdul_razak@moe.edu.sg](mailto:abdul_razak@moe.edu.sg) 	|
-| 2 	| Debating Society 	| **Mrs Swati Mukherji**<br><br>Nur Ashiqin 	| Tuesday<br><br>Thursday 	| 3.15 – 6.15pm (Sch team)<br><br>3.15 – 6.15pm (Joint) 	| [swati_mukherji@moe.edu.sg](mailto:swati_mukherji@moe.edu.sg) 	|
-| 3 	| Infocomm club<br><br>(Robotics/ Photography/ Animation) 	| Miss Kong Shiau Wei<br><br>Mr Lau Beng Hwee<br><br>Ms Roziana 	| Tuesday<br><br>Thursday 	| 3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| [kong_shiau_wei@moe.edu.sg](mailto:kong_shiau_wei@moe.edu.sg) 	|
-| 4 	| Library Society 	| **Mrs Gloria Cheng**<br><br>Mdm Loo Shek Kien<br><br>Mrs Florence Phuah 	| Mon – Fri<br><br>Thurs 	| 3.00 – 5.00pm (duty)<br><br>3.15 – 6.15pm 	| [kong_shiau_wei@moe.edu.sg](mailto:gloria_cheng@moe.edu.sg) 	|
-| 5 	| Science and Environment Club 	| **Mrs Yeo Siew Li**<br><br>Mrs Cha Wai Mun<br><br>Mrs Tan Beng Chiak 	| Tuesday<br><br>Thursday 	| 3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| [seow_siew_li@moe.edu.sg](mailto:seow_siew_li@moe.edu.sg) 	|
+| 2 	| Debating Society 	| **Mrs Swati Mukherji**<br><br>Ms Irfana Binte Begum 	| Tuesday<br><br>Thursday 	| 3.15 – 6.15pm (Sch team)<br><br>3.15 – 6.15pm (Joint) 	| [swati_mukherji@moe.edu.sg](mailto:swati_mukherji@moe.edu.sg) 	|
+| 3 	| Infocomm club<br><br>(Robotics/ Photography/ Animation) 	| Miss Kong Shiau Wei<br><br>Mr Lau Beng Hwee<br><br>Ms Rosziana Rossley 	| Tuesday<br><br>Thursday 	| 3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| [kong_shiau_wei@moe.edu.sg](mailto:kong_shiau_wei@moe.edu.sg) 	|
+| 4 	| Library Society 	| **Mrs Gloria Cheng**<br><br>Mdm Loo Shek Kien<br><br>	|Thurs 	| 3.15 – 6.15pm 	| [kong_shiau_wei@moe.edu.sg](mailto:gloria_cheng@moe.edu.sg) 	|
+| 5 	| Science and Environment Club 	| **Mrs Cha Wai Mun**<br><br>Mr Zeng Wei<br><br> 	| Tuesday<br><br>Thursday 	| 3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| [seow_siew_li@moe.edu.sg](mailto:seow_siew_li@moe.edu.sg) 	|
 
 
 
