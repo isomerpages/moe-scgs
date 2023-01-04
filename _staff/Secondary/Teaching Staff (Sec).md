@@ -84,8 +84,10 @@ third_nav_title: Secondary
 | Generosity | [Ms Rina Lio](mailto:lio_su-mein_rina@moe.edu.sg) | [Mrs Michelle Ang](mailto:ng_mei_yin_michelle@moe.edu.sg) |
 | **Non FT/CT** |  |  |  |
 |  | [Mrs Chua Poh Leng](mailto:oh_poh_leng_a@moe.edu.sg) | [Mrs Lee Puay Leng](mailto:ong_puay_leng@moe.edu.sg) |
-|  | [Mrs Gloria Cheng](mailto:gloria_cheng@moe.edu.sg)    |
-|  | [Mrs Low Wee Leng](mailto:sim_wee_leng@moe.edu.sg)   |
-|  | [Mdm Loo Shek Kien](mailto:loo_shek_kien@moe.edu.sg)  |
-|  | [Miss Rosziana Rossley](mailto:rosziana_bibi_rossley@moe.edu.sg) |  |
-|  |  |  |
+|  | [Mrs Gloria Cheng](mailto:gloria_cheng@moe.edu.sg)    | [Ms Koh Cixian Davilia](mailto:koh_cixian_davilia@moe.edu.sg) |
+|  | [Mrs Low Wee Leng](mailto:sim_wee_leng@moe.edu.sg)   | [Mdm Chong Jia Li](mailto:chong_jia_li@moe.edu.sg) |
+|  | [Mdm Loo Shek Kien](mailto:loo_shek_kien@moe.edu.sg)  | [Ms Chong Poh Yin Clara](mailto:chong_poh_yin_clara@moe.edu.sg) |
+|  | [Miss Rosziana Rossley](mailto:rosziana_bibi_rossley@moe.edu.sg) | [Ms Yea Jie'r](mailto:yea_jier@moe.edu.sg) | 
+|  |  [Mdm Zhang Lixin](mailto:zhang_lixin@moe.edu.sg) | [Ms Kek Ai Kiew](mailto:kek_ai_kiew@moe.edu.sg) | 
+|  |  [Mdm Molyyati Shahwan](mailto:molyyati_shahwan@moe.edu.sg) |
+|  |
