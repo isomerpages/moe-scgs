@@ -17,7 +17,7 @@ third_nav_title: Secondary
 | 3 	| Gymnastics 	| **Ms Lim Chan Ching**<br><br>Ms Zhou Liang<br><br>Miss Anisha Johnson 	| Tuesday<br><br>Thursday<br><br>Friday<br> 	| 3.15 – 6.15pm<br><br>3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| [lim_chan_ching@moe.edu.sg](mailto:lim_chan_ching@moe.edu.sg) 	|
 | 4 	| Netball 	| **Ms Teo Wen Fei**<br><br>Ms Lim Zhi Yi 	| Tuesday<br><br>Thursday<br><br>Friday 	| 3.15 – 6.15pm<br><br>3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| [teo_wen_fei@moe.edu.sg](mailto:teo_wen_fei@moe.edu.sg) 	|
 | 5 	| Squash 	| **Ms Mo Fengling**<br><br>Mr Ng Wen Jye<br><br> 	| Tuesday<br><br>Thursday<br><br>Friday 	| 3.15 – 6.15pm<br><br>3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| [mo_feng_ling@moe.edu.sg](mailto:mo_feng_ling@moe.edu.sg) 	|
-| 6 	| Swimming /<br><br>Artistic Swimming 	| **Mrs Low Wee Leng**<br><br> 	| Tuesday<br><br>Thursday 	| 3.15 – 6pm<br><br>3.15 – 6pm 	| [sim_wee_leng@moe.edu.sg](mailto:sim_wee_leng@moe.edu.sg) 	|
+| 6 	| Swimming /<br><br>Artistic Swimming 	| **Mrs Low Wee Leng**<br><br> 	| Tuesday<br><br>Thursday 	| 3.00 – 4.30pm<br><br>3.00 – 4.30pm 	| [sim_wee_leng@moe.edu.sg](mailto:sim_wee_leng@moe.edu.sg) 	|
 | 7 	| Tennis 	| Mrs Fu Shin Yee<br><br>Mr Foo Chee Juan 	| Tuesday<br><br>Thursday<br><br>Friday 	| 3.15 – 6.15pm<br><br>3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| [wong_shin_yee@moe.edu.sg](mailto:wong_shin_yee@moe.edu.sg) 	|
 | 8 	| Hockey 	| Mr Chia Guo Hui <br><br>Mrs Jayne Tan 	| Tuesday<br><br>Thursday<br><br>Friday 	| 3.00 – 5.00pm<br><br>3.00 – 5.00pm<br><br>4.00 – 6.00pm 	| [chia_guo_hui@moe.edu.sg](mailto:chia_guo_hui@moe.edu.sg) 	|
 
