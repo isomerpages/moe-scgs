@@ -75,4 +75,4 @@ third_nav_title: Primary
 
 | NON-FORM TEACHERS 	|
 |---	|
-| [Mrs Cindy Teo](mailto:cindy_thia_lay_ting@moe.edu.sg)<br>[Mrs Wendy Chin](mailto:quek_siew_cheng@moe.edu.sg)<br>[Ms Susanne Loh](mailto:hee_seok_lan@moe.edu.sg)<br>[Mrs Maran]("mailto:sokumaran_marimuthu@moe.edu.sg) 	|
+| [Mrs Wendy Chin](mailto:quek_siew_cheng@moe.edu.sg)<br>[Ms Susanne Loh](mailto:hee_seok_lan@moe.edu.sg) 	|
