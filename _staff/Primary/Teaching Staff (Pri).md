@@ -16,10 +16,10 @@ third_nav_title: Primary
 |  	| [Mrs Lee Meng Choo](mailto:lim_meng_choo_a@moe.edu.sg) 	| Information Technology /<br>Media Resource Library 	|
 |  	| [Mrs Ng Tien Juan](mailto:lim_tien_juan@moe.edu.sg) 	| PE / CCA / Aesthetics 	|
 | **School Staff Developer** 	| [Dr Jesmine Tan](mailto:jesmine_tan@moe.edu.sg) 	|  	|
-| **Level Head** 	| [Miss Woon Li Rong Cindy](mailto:woon_li_rong_cindy@moe.edu.sg) 	| English Language 	|
+| **Level Head** 	| [Mrs Cindy Liao](mailto:woon_li_rong_cindy@moe.edu.sg) 	| English Language 	|
 |  	| [Miss Tan Hong Peng Shirley](mailto:tan_hong_peng_shirley@moe.edu.sg) 	| Mother Tongue Languages 	|
 |  	| [Mrs Joyce Eio](mailto:zhuang_huining_joyce@moe.edu.sg) 	| Science 	|
-|  	| [Miss Tan Mei Yin](tan_mei_yin_a@moe.edu.sg) 	| Mathematics 	|
+|  	| [Mrs Sree-Tan Mei Yin](tan_mei_yin_a@moe.edu.sg) 	| Mathematics 	|
 | **Subject Head** 	| [Mrs Ng Wen Tirng](mailto:yang_wen_tirng@moe.edu.sg) 	| Aesthetics 	|
 |  	| [Ms Melissa Sin](mailto:sin_yue_ting_melissa@moe.edu.sg) 	| Information Technology 	|
 |  	| [Mdm Prema Suresh](mailto:prema_prabhakaran@moe.edu.sg) 	| Discipline 	|
@@ -33,7 +33,7 @@ third_nav_title: Primary
 
 
 
-| **LEVEL** 	| CLASS 	| FORM TEACHERS 	| CO-FORM TEACHERS 	|
+| **LEVEL** 	| CLASS 	| FORM TEACHERS 	|  	|
 |---	|---	|---	|---	|
 | **Primary 1** 	| Sincerity 	| [Mrs Doris Lim](mailto:chng_kim_leng_doris@moe.edu.sg) 	| [Mrs Siti Farid](mailto:siti_rakhmayati@moe.edu.sg) 	|
 |  	| Courage 	| [Miss Nur Nadiah](mailto:nur_nadiah_ahmad_jani@moe.edu.sg) 	| [Ms Zhang_Mengjie](mailto:zhang_mengjie@moe.edu.sg) 	|
@@ -75,4 +75,4 @@ third_nav_title: Primary
 
 | NON-FORM TEACHERS 	|
 |---	|
-| [Mrs Cindy Teo](mailto:cindy_thia_lay_ting@moe.edu.sg)<br>[Mrs Wendy Chin](mailto:quek_siew_cheng@moe.edu.sg)<br>[Ms Susanne Loh](mailto:hee_seok_lan@moe.edu.sg)<br>[Mrs Maran]("mailto:sokumaran_marimuthu@moe.edu.sg) 	|
+| [Mrs Wendy Chin](mailto:quek_siew_cheng@moe.edu.sg)<br>[Ms Susanne Loh](mailto:hee_seok_lan@moe.edu.sg) 	|
