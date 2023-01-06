@@ -56,14 +56,11 @@ Similar to the practice for other Edusave awards, the ECHA awardees will receive
 
 **SCGS Jinyu Meritorious Scholarship** 
 
-Talented students with excellent academic records or outstanding achievements in a field other than sports and games are welcomed to apply for this scholarship to study in the Secondary School upon admission at Secondary 1.
-
-The SCGS Jinyu Meritorious Scholarship shall cover: (i) School fees as charged by SCGS for local students for the year. Should the scholar also be in receipt of any other scholarship or bursary covering all or part of such fees, the Scholarship will cover only the difference between the student’s school fees (local rate) and such other sum due to her under any other scholarship or bursary. (ii) A monthly award of $100 to cover educational expenses.
+The SCGS Jinyu Meritorious Scholarship will be awarded to talented students with excellent academic records or outstanding achievements in a field other than sports and games. It shall cover: (i) School fees as charged by SCGS for local students for the year. Should the scholar also be in receipt of any other scholarship or bursary covering all or part of such fees, the Scholarship will cover only the difference between the student’s school fees (local rate) and such other sum due to her under any other scholarship or bursary. (ii) A monthly award of $100 to cover educational expenses.
 
 Subject to the student’s academic performance, conduct and the conditions stated, the scholarship will be renewed yearly to allow the scholar to complete four years of study in Secondary School.
 
-[Click here](/files/Jinyu-Meritorious-Scholarship_Renewal_New_Terms-Conditions.pdf) for more information.     
-[Click here](/files/Jinyu_Student-Application-Form_NEW_2022_TEMPLATE_FOR_NEW_UPDATED_3_OCT_2022.pdf) to download form.
+The School's decision on the award of the Scholarship is final and it will not enter into discussion or correspondence on the merits or otherwise of any award made.
 
 **SCGS Sports Scholarship**   
 Talented sudents with outstanding achievements in sports and games and good academic records are welcome to apply for this scholarship to study in the Secondary School.
@@ -73,7 +70,7 @@ School fees as charged by SCGS for local students for the year. Should the scho
 
 Subject to performance and conduct and conditions stated, the scholarship will be renewed yearly to allow the scholar to complete four years of study in the Secondary School.
 
-* [SCGS Sports Scholarship Form](/files/2023-Sports-Scholarship-Application-Form.pdf)
+* [2023 Sports Scholarship Form](/files/2023_Sports-Scholarship-Application-Form.pdf)
 * [SCGS Sports Scholarship Terms and Conditions](/files/2023-Sports-Scholarship-Terms-Conditions.pdf)
 
 **UPLIFT Scholarship**
