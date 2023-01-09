@@ -4,7 +4,6 @@ permalink: /scgs-education/secondary/departments/physical-educationcca/
 description: ""
 third_nav_title: Departments
 ---
-
 # **Physical Education & CCA**
 
 ![](/images/SCGS-PECCA-1.jpg)
@@ -19,6 +18,6 @@ With a broad-based curriculum that caters to students’ different abilities and
 
 Values education, social and character development have always been woven and reinforced in PE in SCGS. Inter-class games and friendly competitions are opportunities to en-culture students with positive sportsmanship and spectatorship, sense of creativity and fun and being inclusive in diversity which are all important 21CC life skills. Furthermore, PE is a rich ground for students to strengthen bonds, build lasting friendships and create fond memories of school life.
 
-Click[here](/files/CCA-Prospectus-2022.pdf) for CCA Prospectus 2022
+Click [here](/files/CCA%20Prospectus%202023%20School%20Website.pdf) for CCA Prospectus 2023
 
-Click[here](/files/leaps-2_School-website.pdf) to view LEAPS 2.0 Grading System
+Click [here](/files/leaps-2_School-website.pdf) to view LEAPS 2.0 Grading System
