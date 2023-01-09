@@ -25,7 +25,7 @@ third_nav_title: Secondary
 | | [Mrs Dora Fernandez](mailto:dora_maria_choo@moe.edu.sg) | School Staff Developer |
 | **Subject Heads/Year Heads** | | 
 | | [Miss Lee Jo Ann](mailto:lee_jo_ann@moe.edu.sg) | English Language & Literature |
-| | [Mrs Michelle Ang](mailto:Ng_mei_yin_michelle@moe.edu.sg) | Humanities (Acting) |
+| | [Mrs Michelle Ang](mailto:Ng_mei_yin_michelle@moe.edu.sg) | Humanities |
 | | [Ms Vivienne Pang](mailto:pang_kailing_vivienne@moe.edu.sg) | Integrated Programme |
 | | [Mr Ng Wen Jye](mailto:Ng_wen_jye@moe.edu.sg) | Infocomm Technology |
 | | [Mdm Tan Poey Siang](mailto:tan_poey_siang@moe.edu.sg) | Mother Tongue Languages |
