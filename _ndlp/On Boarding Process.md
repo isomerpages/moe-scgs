@@ -7,7 +7,7 @@ description: ""
 
 As part of NDLP, the school&nbsp;will be making arrangements for 2023 Secondary One students to purchase their Personal Learning Device (PLD) by the first Semester.
 
-<img style="width:30%" src="/images/IMG_3420-2-287x300.jpg">
+<img src="/images/IMG_3420-2-287x300.jpg" style="width:30%">
 
 The PLD bundle purchased through the school will include the following:
 
@@ -45,7 +45,5 @@ Please refer to the estimated timeline below for the upcoming dates to note for 
 | Time Frame 	| Activity 	|
 |---	|---	|
 | December 2022 till January 2023 	| • Parents to view the information on the website, including resources and FAQs, to find out more about NDLP@SCGS. 	|
-| January 2023 | • **Letter of Consent** will be sent via Parents Gateway after the Q&amp;A session.<br><br>• For those who intend to use their existing device as the PLD, they would need to bring the device to school, for the school to ascertain its compatibility to the DMA and Apple Pencil.<br><br>• Parents are to note that the device would be reset to factory setting when the DMA is installed.<br><br>• **Individualised letter** to inform parents of the amount to be deducted from Edusave / GIRO. 	|
-| January 2023 	| • **Selection of DMA Options** will be sent via Parents Gateway <br><br>• For students with existing devices to bring the device to school for ICT Dept to perform factory reset and DMA installation. 	|
-| March 2023 	| • Collection and setup of Personal Learning Device<br><br>• Parents will receive the school’s guidelines on Acceptable Use of PLDs and suggested conversation questions for parents. These suggested questions aim to support parent-child conversations around healthy online learning habits and use of the PLD at home.<br>  	|
-| March 2023 	| • Suppliers to paste screen protectors for students who have purchased the device through the school. <br><br>• PLDs will be collected during the day and returned to the students when completed. 	|
+| January 2023 | • **Letter of Consent** will be sent via Parents Gateway after the Q&amp;A session.<br><br>• For those who intend to use their existing device as the PLD, they would need to bring the device to school, for the school to ascertain its compatibility to the DMA and Apple Pencil.<br><br>• Parents are to note that the device would be reset to factory setting when the DMA is installed.<br><br>• **Individualised letter** to inform parents of the amount to be deducted from Edusave / GIRO. 	<br><br>• **Selection of DMA Options** will be sent via Parents Gateway	|
+| February 2023 	|  • For students with existing devices to bring the device to school for ICT Dept to perform factory reset and DMA installation. <br><br>• Collection and setup of Personal Learning Device<br><br>• Parents will receive the school’s guidelines on Acceptable Use of PLDs and suggested conversation questions for parents. These suggested questions aim to support parent-child conversations around healthy online learning habits and use of the PLD at home.<br><br> • Suppliers to paste screen protectors for students who have purchased the device through the school. <br><br>• PLDs will be collected during the day and returned to the students when completed. 	|
