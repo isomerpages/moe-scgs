@@ -7,7 +7,7 @@ description: ""
 
 As part of NDLP, the school&nbsp;will be making arrangements for 2023 Secondary One students to purchase their Personal Learning Device (PLD) by the first Semester.
 
-<img src="/images/IMG_3420-2-287x300.jpg" style="width:30%">
+<img style="width:30%" src="/images/IMG_3420-2-287x300.jpg">
 
 The PLD bundle purchased through the school will include the following:
 
@@ -33,8 +33,6 @@ To ensure the affordability of PLDs, MOE&nbsp;
 *   has provided another&nbsp;**Edusave top-up of $200 in May 2021**&nbsp;(as part of the Household Support Package announced in Budget 2021)
 
 to all eligible Singaporean students in primary and secondary schools. This is on top of the&nbsp;**annual $290**&nbsp;credited into the Edusave account for Secondary School students.
-
-All students will receive a personalised letter with details of Edusave / Giro deduction.&nbsp;
 
 ### Financial Assistance
 
