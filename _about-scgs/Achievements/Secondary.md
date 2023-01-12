@@ -7,12 +7,12 @@ third_nav_title: Achievements
 <h1><b>Achievements (Secondary)</b></h1>
 
 <h2>Academic Achievements – Secondary</h2>
+1.  Our heartiest congratulations to the 2022 Secondary 4 cohort for their excellent performance in the GCE ‘O’ Level examinations!
 
-1\. Our heartiest congratulations to the 2021 Secondary 4 cohort for their excellent performance in the GCE O-Level examinations!
+2\.  The Class of 2022 inspires us with their enthusiasm and energy. Their four-year journey is marked by constant changes and uncertainties brought on by the pandemic. Undeterred, they adapted quickly, and walked through the peaks and valleys holding close to their tenacity and optimism.   With their sense of adventure, our kim geks were courageous in charting new paths and innovative in shaping school-life positively through their leadership in significant school events and activities. Pivotal in uplifting school spirit, they set the tone and modelled the way as we transitioned out of the covid measures. With their eagerness to learn and explore new ideas and knowledge, we believe the class of 2022 will be in good stead as they move on to the next phase of their journey. 
+ 
+3\.  We would like to express our special appreciation to everyone who has guided our kim geks. Our team of dedicated and committed teaching and non-teaching staff have guided and supported our kim geks with much care and love.  We also deeply appreciate the unwavering partnership of our parents in supporting and nurturing them throughout this milestone journey.
 
-2\. The cohort of 2021 have journeyed through their O-Level course under volatile and unprecedented circumstances brought on by the pandemic. We are proud that they have taken on the challenges with resilience and resourcefulness. In the face of difficulties, they remained flexible and demonstrated creativity to seize upon opportunities that arose from the situation. With a spirit of service, they have also continued to reach out and engage the wider community.
-
-3\. We would like to express our special appreciation to everyone who has guided our kim geks. Our team of dedicated and committed teaching and non-teaching staff have supported them with much care and love. We also deeply appreciate the unwavering partnership of our parents in supporting and nurturing them throughout this milestone journey.
 
 <h2>Non-Academic (Secondary)</h2>
 <h4>2022</h4>
