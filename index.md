@@ -17,4 +17,7 @@ sections:
         - title: Sec 1 Reporting Day 2022
           description: Thank you for choosing SCGS!
           url: /sec-1-reporting-day-2022/
+        - title: Congratulations to our Class of 2022!
+          description: ""
+          url: /about-scgs/Achievements/secondary/
 ---
