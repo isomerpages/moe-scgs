@@ -14,7 +14,7 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Congratulations to our Class of 2022!
-          description: ""
+        - title: GCE O-Level Examination Results
+          description: Congratulations, Class of 2022
           url: /about-scgs/Achievements/secondary/
 ---
