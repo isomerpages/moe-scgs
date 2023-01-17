@@ -73,7 +73,13 @@ In the event that the device is damaged after your child graduates from the scho
 
 The operating systems in these devices have built-in security measures to defend against worms, viruses and similar malwares. DMA are installed in these devices to ensure that the security posture of these devices is maintained.
 
-**Q11: Will the devices be programmed to disallow students from downloading games?**
+**Q11. Which DMA Option should I choose for my child/ward? **
+
+The PLD is intended to be a device primarily for teaching and learning. The DMA restrictions create a safe and conducive digital environment, with fewer distractions such as social media and games, that might otherwise detract from students’ learning. This is distinct from students’ other devices, including mobile phones, which are more typically used for leisure purposes.
+
+While making a selection for the DMA Option, the school recommends that parents/guardians have conversations with their daughter/ward to understand their current device usage habits, and assess if she is able to regulate her device usage on her own. It may be prudent to start with the default setting first and switch to another setting at a later date.**
+
+**Q12: Will the devices be programmed to disallow students from downloading games?**
 
 As part of user management, DMA can determine the appropriate teaching and learning applications as well as security patches, to be installed into every student’s device. For example, inappropriate websites with adult or extremist content, as well as gaming and gaming websites or applications can be restricted.
 
@@ -81,10 +87,10 @@ For devices on default DMA settings, students can request for educational apps t
 
 The PLD is for the purpose of teaching and learning and parents and students are strongly encouraged to review the apps before they download them onto the device. 
 
-**Q12. What happens to the device after my child/ward graduates?**
+**Q13. What happens to the device after my child/ward graduates?**
 
 The school will uninstall the device management applications (DMA) from the devices upon students’ graduation, and students will have full control and personal ownership over their devices afterwards. If the student’s device needs to be installed with DMA in JC/MI, it can be reinstated. 
 
 **For more information please email us at [scgss@moe.edu.sg](mailto:scgss@moe.edu.sg)**
 
-Updated as of 20 December 2021
+Updated as of 17 January 2023
