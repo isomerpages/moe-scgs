@@ -47,7 +47,7 @@ Loss of the device due to negligence, is not covered under the insurance. Parent
 
 Parents would then have to purchase a new device on their own either through the Contractor’s Portal ([https://www.asiapac.com.sg/pld-apple/account/login](https://www.asiapac.com.sg/pld-apple/account/login)) or from other sources.The new device will then be enrolled within the DMA.  
 
-****Q6. How do I replace a missing accessory?****
+**Q6. How do I replace a missing accessory?**
 
 Parents can buy replacement accessories from the Contractor’s Portal [https://www.asiapac.com.sg/pld-apple/account/login](https://www.asiapac.com.sg/pld-apple/account/login). 
 
