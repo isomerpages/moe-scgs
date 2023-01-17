@@ -73,11 +73,11 @@ In the event that the device is damaged after your child graduates from the scho
 
 The operating systems in these devices have built-in security measures to defend against worms, viruses and similar malwares. DMA are installed in these devices to ensure that the security posture of these devices is maintained.
 
-**Q11. Which DMA Option should I choose for my child/ward? **
+**Q11. Which DMA Option should I choose for my child/ward?**
 
-The PLD is intended to be a device primarily for teaching and learning. The DMA restrictions create a safe and conducive digital environment, with fewer distractions such as social media and games, that might otherwise detract from students’ learning. This is distinct from students’ other devices, including mobile phones, which are more typically used for leisure purposes.
+The PLD is intended for teaching and learning. The DMA restrictions aim to create a safe and conducive digital environment to manage  distractions such as social media and games. 
 
-While making a selection for the DMA Option, the school recommends that parents/guardians have conversations with their daughter/ward to understand their current device usage habits, and assess if she is able to regulate her device usage on her own. It may be prudent to start with the default setting first and switch to another setting at a later date.**
+While making a selection for the DMA Option, the school recommends that parents/guardians have conversations with their daughter/ward to understand their current device usage habits, and assess if she is able to regulate her device usage on her own. It may be prudent to start with the default setting first, which could be reviewed subsequently.
 
 **Q12: Will the devices be programmed to disallow students from downloading games?**
 
