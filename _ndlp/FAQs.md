@@ -75,7 +75,7 @@ The operating systems in these devices have built-in security measures to defend
 
 **Q11. Which DMA Option should I choose for my child/ward?**
 
-The PLD is intended for teaching and learning. The DMA restrictions aim to create a safe and conducive digital environment to manage  distractions such as social media and games. 
+The PLD is intended for teaching and learning. The DMA restrictions are to help create a safe and conducive digital environment to manage  distractions such as social media and games. 
 
 While making a selection for the DMA Option, the school recommends that parents/guardians have conversations with their daughter/ward to understand their current device usage habits, and assess if she is able to regulate her device usage on her own. It may be prudent to start with the default setting first, which could be reviewed subsequently.
 
