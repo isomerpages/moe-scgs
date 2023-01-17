@@ -41,7 +41,7 @@ In the event that the device is damaged after your child graduates from the scho
 
 Insurance coverage is for the main device only and does not cover accessories e.g. stylus, keyboard, etc.
 
-**Q5. **What do I do if my device is lost? Does the insurance cover it?****
+**Q5. What do I do if my device is lost? Does the insurance cover it?**
 
 Loss of the device due to negligence, is not covered under the insurance. Parents and students need to make a police report as soon as possible, and inform the school of the loss as well. To inform the school, please  lodge a ‘New Support Ticket’ via the school’s Freshdesk.
 
@@ -53,7 +53,7 @@ Parents can buy replacement accessories from the Contractor’s Portal [https:/
 
 However, parents are not bound to purchasing accessories just from the portal. They may choose to purchase them from other sources.
 
-**Q7.** **Can students still send their devices to the contractor’s service centres for repairs after the end of the warranty period and how will the charges be imposed?**
+**Q7. Can students still send their devices to the contractor’s service centres for repairs after the end of the warranty period and how will the charges be imposed?**
 
 After the expiry of the device warranty period, students can still send their device to the contractor’s service centre for repair. A quotation for the charges will be provided by the contractor’s service centre and students/parents will have to assess the reasonableness of the charges and decide whether to take up the repair. Alternatively, students can consider going to other shops to perform the repairs after the warranty is over.
 
@@ -61,7 +61,7 @@ After the expiry of the device warranty period, students can still send their de
 
 Please keep the device original packaging box for at least 7 days in case of any 1-to-1 exchange.
 
-****Q9. If my child use her existing Apple iPad, is she able to send her devices to the school service desk for repair?****
+**Q9. If my child use her existing Apple iPad, is she able to send her devices to the school service desk for repair?**
 
 Technical support will be provided to students through a service-desk set up in school. Students can approach the service-desk for basic troubleshooting of device issues. This includes students who are using their existing Apple iPad PLD. 
 
@@ -73,7 +73,13 @@ In the event that the device is damaged after your child graduates from the scho
 
 The operating systems in these devices have built-in security measures to defend against worms, viruses and similar malwares. DMA are installed in these devices to ensure that the security posture of these devices is maintained.
 
-**Q11: Will the devices be programmed to disallow students from downloading games?**
+**Q11. Which DMA Option should I choose for my child/ward?**
+
+The PLD is intended for teaching and learning. The DMA restrictions are to help create a safe and conducive digital environment to manage  distractions such as social media and games. 
+
+While making a selection for the DMA Option, the school recommends that parents/guardians have conversations with their daughter/ward to understand their current device usage habits, and assess if she is able to regulate her device usage on her own. It may be prudent to start with the default setting first, which could be reviewed subsequently.
+
+**Q12: Will the devices be programmed to disallow students from downloading games?**
 
 As part of user management, DMA can determine the appropriate teaching and learning applications as well as security patches, to be installed into every student’s device. For example, inappropriate websites with adult or extremist content, as well as gaming and gaming websites or applications can be restricted.
 
@@ -81,10 +87,10 @@ For devices on default DMA settings, students can request for educational apps t
 
 The PLD is for the purpose of teaching and learning and parents and students are strongly encouraged to review the apps before they download them onto the device. 
 
-**Q12. What happens to the device after my child/ward graduates?**
+**Q13. What happens to the device after my child/ward graduates?**
 
 The school will uninstall the device management applications (DMA) from the devices upon students’ graduation, and students will have full control and personal ownership over their devices afterwards. If the student’s device needs to be installed with DMA in JC/MI, it can be reinstated. 
 
 **For more information please email us at [scgss@moe.edu.sg](mailto:scgss@moe.edu.sg)**
 
-Updated as of 20 December 2021
+Updated as of 17 January 2023

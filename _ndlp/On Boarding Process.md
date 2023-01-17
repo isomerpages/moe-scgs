@@ -11,16 +11,16 @@ As part of NDLP, the school&nbsp;will be making arrangements for 2023 Secondary 
 
 The PLD bundle purchased through the school will include the following:
 
-* Apple iPad (WIFI)
+* Apple iPad 9th Generation (Wi-Fi)
 * 3 years warranty and insurance
 * Device Management Application (DMA)
 * Apple Pencil (1st Generation)
 * Screen Protector
 * Book Cover with Pencil Holder
 
-Together with the device, your child will be provided with the following 2 accounts:
+Together with the device, your child will be provided with the following two accounts:
 
-1. Student iCON, your child will receive an MOE-issued email address. This is a service provided by Google as part of the Google Suite. With the student iCON, your child will have access to the G Suite services including storage in Google Drive, access to Microsoft ProPlus as well as Zoom.&nbsp;
+1. Student iCON, your child will receive an MOE-issued email address. This is a service provided by Google as part of the Google Suite. With the student iCON, your child will have access to the G Suite services including storage in Google Drive, access to Microsoft ProPlus as well as Zoom.
 2. Apple ID, the school will issue your child with an Apple ID managed by the school. This will come with 200GB of iCloud storage
 
 ### Use of Edusave
@@ -45,5 +45,10 @@ Please refer to the estimated timeline below for the upcoming dates to note for 
 | Time Frame 	| Activity 	|
 |---	|---	|
 | December 2022 till January 2023 	| • Parents to view the information on the website, including resources and FAQs, to find out more about NDLP@SCGS. 	|
-| January 2023 | • **Letter of Consent** will be sent via Parents Gateway after the Q&amp;A session.<br><br>• For those who intend to use their existing device as the PLD, they would need to bring the device to school, for the school to ascertain its compatibility to the DMA and Apple Pencil.<br><br>• Parents are to note that the device would be reset to factory setting when the DMA is installed.<br><br>• **Individualised letter** to inform parents of the amount to be deducted from Edusave / GIRO. 	<br><br>• **Selection of DMA Options** will be sent via Parents Gateway	|
-| February 2023 	|  • For students with existing devices to bring the device to school for ICT Dept to perform factory reset and DMA installation. <br><br>• Collection and setup of Personal Learning Device<br><br>• Parents will receive the school’s guidelines on Acceptable Use of PLDs and suggested conversation questions for parents. These suggested questions aim to support parent-child conversations around healthy online learning habits and use of the PLD at home.<br><br> • Suppliers to paste screen protectors for students who have purchased the device through the school. <br><br>• PLDs will be collected during the day and returned to the students when completed. 	|
+|20th January 2023 | • **Letter of Consent** will be sent via Parents Gateway after the Q&amp;A session.<br><br>• **Selection of DMA Options** will be sent via Parents Gateway	<br><br>
+|25th to 26th January 2023 | • For those who intend to use their existing device as the PLD, they would need to bring the device to school, for the school to ascertain its compatibility to the DMA and Apple Pencil.<br><br>• Parents are to note that the device would be reset to factory setting when the DMA is installed.	|
+| 6th February 2023 | • **Individualised letter** to inform parents of the amount to be deducted from Edusave / GIRO.	|
+| Mid-February 2023 	|  • Parents will receive the school’s guidelines on Acceptable Use of PLDs and suggested conversation questions for parents. These suggested questions aim to support parent-child conversations around healthy online learning habits and use of the PLD at home.|
+| End-February 2023 	|• Collection and setup of Personal Learning Device<br><br> • Suppliers to paste screen protectors for students who have purchased the device through the school. <br><br>• PLDs will be collected during the day and returned to the students when completed. 	|
+
+Updated as of 17 January 2023
