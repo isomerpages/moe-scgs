@@ -90,5 +90,5 @@ third_nav_title: Secondary
 |  | [Mdm Loo Shek Kien](mailto:loo_shek_kien@moe.edu.sg)  | [Ms Chong Poh Yin Clara](mailto:chong_poh_yin_clara@moe.edu.sg) |
 |  | [Miss Rosziana Rossley](mailto:rosziana_bibi_rossley@moe.edu.sg) | [Ms Yea Jie'r](mailto:yea_jier@moe.edu.sg) | 
 |  |  [Mdm Zhang Lixin](mailto:zhang_lixin@moe.edu.sg) | [Ms Kek Ai Kiew](mailto:kek_ai_kiew@moe.edu.sg) | 
-|  |  [Mdm Molyyati Shahwan](mailto:molyyati_shahwan@moe.edu.sg) |
+|  |  [Mdm Molyyati Shahwan](mailto:molyyati_shahwan@moe.edu.sg) |[Mrs Angela Goh](mailto:angela_Goh@moe.edu.sg)
 |  |
