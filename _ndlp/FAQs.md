@@ -13,10 +13,10 @@ If students have an existing device from the following list of compatible iPad D
 
 *   12.9-inch iPad Pro (1st generation) and later
 *   11-inch iPad Pro (1st generation) and later
-*   10.5-inch iPad Pro, 
-*   9.7-inch iPad Pro, 
-*   iPad (6th to 9th generation) 
-*   iPad mini (5th and 6th generation), 
+*   10.5-inch iPad Pro
+*   9.7-inch iPad Pro
+*   iPad (6th generation) and later
+*   iPad mini (5th and 6th generation)
 *   iPad Air (3rd and 4th generation)
 
 To identify your iPad Model, Go to Settings > General > About. To the right of Model Name , you’ll see the name of your ipad version.
