@@ -4,7 +4,6 @@ permalink: /our-people/parents/parent-volunteer/
 description: ""
 third_nav_title: Parents
 ---
-
 # **Parent Volunteer Application Form 2022**
 
 **Parent Volunteers (P1 Registration – Phase 2B)  
@@ -22,7 +21,7 @@ _Step 3:_ Click submit button. You will receive an auto acknowledgement
 | By 1 Nov 2022 	| Complete online application form with a copy of your child’s birth certificate attached 	|
 |  	| You will receive an immediate acknowledgement email upon successful submission of your application. 	|
 |  	|  	|
-| By 31 Jan 2023 	| Shortlisted applicants will be invited for an interview<br>Unsuccessful applicants will be notified via email 	|
+| By Mid Feb 2023 	| Shortlisted applicants will be invited for an interview<br>Unsuccessful applicants will be notified via email 	|
 |  	|  	|
 | Between July 2023<br>to June 2024 	| Commencement of PV services<br>(minimum of 40 hours or otherwise as required by school) 	|
 |  	|  	|
@@ -39,4 +38,3 @@ From the 2012 P1 Registration Exercise onwards, when balloting is necessary in a
 (c) Children living outside 2 km of the school of choice
 
 Should the number of SC applications be less than the number of vacancies in a specific phase, all SCs will be admitted first. The remaining vacancies in that phase will be balloted amongst the SPRs based on the above home-school distance categories.
-
