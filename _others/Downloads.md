@@ -20,7 +20,7 @@ description: ""
 ### Sexuality Education
 
 * [Sexuality Education Information (Primary)](/files/SED2023.pdf)
-* [Sexuality Education Information (Secondary)](/files/Info_on_SEd_for_SCGS_website_Sec_2022.pdf)
+* [Sexuality Education Information (Secondary)](/files/2023_MOE_Sexuality_Education_in_SCGS_Information_to_Parents.pdf)
 
 ### BOOKLIST – SECONDARY (Updated for Year 2023)
 

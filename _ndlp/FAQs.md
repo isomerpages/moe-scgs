@@ -21,7 +21,7 @@ To identify your iPad Model, Go to Settings > General > About. To the right of M
 
 ![](/images/IMG_C6AE91CD429B-1-1024x364.jpeg)
 
-&ast; Note that whilst the following iPad models are still compatible with the DMA, they may no longer be compatible in the near future (2024 onwards). Hence, we do not recommend using the following models even though they are currently compatible with the DMA:
+&#42; Note that whilst the following iPad models are still compatible with the DMA, they may no longer be compatible in the near future (2024 onwards). Hence, we do not recommend using the following models even though they are currently compatible with the DMA:
 *   iPad Pro 12.9-inch (1st generation) (2015)
 *   iPad Pro 9.7-inch (2016)
 *   iPad Pro 10.5-inch (2017)
