@@ -13,9 +13,9 @@ If a student has an existing device from the following list of compatible iPad D
 
 *   12.9-inch iPad Pro (3rd generation) and later
 *   11-inch iPad Pro (1st generation) and later
-*   iPad (6th generation) and later
+*   iPad (7th generation) and later
 *   iPad mini (5th generation) and later
-*   iPad Air (3rd generation) and later
+*   iPad Air (4th generation) and later
 
 To identify your iPad Model, Go to Settings > General > About. To the right of Model Name , you’ll see the name of your ipad version.
 
@@ -26,6 +26,8 @@ To identify your iPad Model, Go to Settings > General > About. To the right of M
 *   iPad Pro 9.7-inch (2016)
 *   iPad Pro 10.5-inch (2017)
 *   iPad Pro 12.9-inch (2nd generation) (2017)
+*   iPad Air (3rd generation) (2019)
+*   iPad (6th generation) (2018)
 
 
 **Q2. Will my child/ward need to purchase software for their devices? If so, can these be paid for with Edusave?**
