@@ -9,13 +9,14 @@ description: ""
 
 Every student is required to have a device for teaching and learning purposes and is encouraged to purchase one through the school via MOE’s bulk tender. Students are encouraged to use the device model prescribed by the school, as the uniformity of systems and software would ensure a smooth learning experience for everyone. The device purchased through the school will come with the necessary warranty and insurance as well.
 
-If a student has an existing device from the following list of compatible iPad Devices, please bring the device to school and let the school ascertain its compatibility with the DMA and Apple Pencil (1st Gen and above). Please note that the device will need to be dedicated for learning and will be installed with a Device Application Management (DMA) software to manage the student’s access and usage.  
-
+The following devices are recommended for NDLP:
 *   12.9-inch iPad Pro (3rd generation) and later
 *   11-inch iPad Pro (1st generation) and later
 *   iPad (7th generation) and later
 *   iPad mini (5th generation) and later
 *   iPad Air (4th generation) and later
+
+If a student has an existing device from the above list of compatible iPad Devices, please bring the device to school and let the school ascertain its compatibility with the DMA and Apple Pencil (1st Gen and above). Please note that the device will need to be dedicated for learning and will be installed with a Device Application Management (DMA) software to manage the student’s access and usage. The device will need to be erased before the DMA software can be installed.
 
 To identify your iPad Model, Go to Settings > General > About. To the right of Model Name , you’ll see the name of your ipad version.
 
@@ -50,7 +51,7 @@ Insurance coverage is for the main device only and does not cover accessories e.
 
 **Q5. What do I do if my device is lost? Does the insurance cover it?**
 
-Loss of the device due to negligence, is not covered under the insurance. Parents and students need to make a police report as soon as possible, and inform the school of the loss as well. To inform the school, please  lodge a ‘New Support Ticket’ via the school’s Freshdesk.
+Loss of the device due to negligence, is not covered under the insurance. Parents and students need to make a police report as soon as possible, and inform the school of the loss as well. To inform the school, please email [scgss@moe.edu.sg](mailto:scgss@moe.edu.sg)
 
 Parents would then have to purchase a new device on their own either through the Contractor’s Portal ([https://www.asiapac.com.sg/pld-apple/account/login](https://www.asiapac.com.sg/pld-apple/account/login)) or from other sources.The new device will then be enrolled within the DMA.  
 
