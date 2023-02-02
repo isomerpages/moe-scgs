@@ -15,7 +15,8 @@ Students are required to book a slot prior to attending the clinic. The device c
 
 | Device Clinic Hours 	| Days 	|
 |---	|---	|
-| 7.00am – 7.40am 	| Monday, Wednesday, Friday 	|
+|8.00am – 8.40am | Monday |
+| 7.00am – 7.40am 	| Wednesday, Friday 	|
 | 2.00pm – 2.50pm 	| Tuesday, Thursday 	|
 
 The device clinic hours will be reviewed and revised termly.
