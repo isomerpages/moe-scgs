@@ -53,4 +53,4 @@ For insurance claim, please contact the Insurer <sup>B</sup> for the insurance 
 <img src="/images/Insurer-300x113.jpg" 
      style="width:50%">
 
-Updated as of 20 December 2021
+Updated as of 2 February 2023
