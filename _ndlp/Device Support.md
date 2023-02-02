@@ -25,9 +25,13 @@ Should students need help outside device clinic hours for password reset and oth
 
 ### **Apple Authorized Service Centres** 
 
-There will be a fortnightly collection of faulty devices that will be sent via courier to the apple authorised service centres for repairs. The devices sent through the school may take between 1-3 weeks for repairs, depending on the extent of the damage. 
+There will be a fortnightly collection of faulty devices that will be sent via courier to Apple Authorised Service Centres for repairs. The devices sent through the school may take between 6-8 weeks for repairs, depending on the extent of the damage. 
 
-If the device has a hardware issue, please make an appointment through [https://getsupport.apple.com](https://getsupport.apple.com/). Below is the list of Apple Authorised Service Centres that you may visit if you need to send the device for immediate repairs.
+If the device has a hardware issue, do make a Device Clinic appointment first for our school staff to assess the device and advise on the best course of action.
+
+If needed, you may make an appointment with Apple directly through [https://getsupport.apple.com](https://getsupport.apple.com/).
+
+Below is the list of Apple Authorised Service Centres that you may visit if you need to send the device for immediate repairs.
 
 | No. 	| Service Centre Location 	| Service Centre Number 	| Service Centre Email 	| Service Centre Operating Hours 	|
 |---	|---	|---	|---	|---	|
