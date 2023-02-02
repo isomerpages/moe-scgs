@@ -30,14 +30,12 @@ If the device has a hardware issue, please make an appointment through [https:/
 
 | No. 	| Service Centre Location 	| Service Centre Number 	| Service Centre Email 	| Service Centre Operating Hours 	|
 |---	|---	|---	|---	|---	|
-| 1. 	| A.LAB @ Plaza Singapura (260m from Dhoby Ghaut MRT) 	| 6784 1318 	| [a.lab@alab.sg](a.lab@alab.sg) 	| Mon – Sat: 1100 – 1930<br>Sun: 1000 – 1800 (Collection till 1930) 	|
-| 2. 	| QCD Technology @ Wheelock (190m from Orchard MRT) 	| 6555 0500 	| [support_wheelock@qcd-tech.com](mailto:support_wheelock@qcd-tech.com) 	| Mon – Fri: 1100 – 1800 	|
-| 3. 	| QCD Technology @ Westgate (450m from Jurong East MRT) 	| 6515 2010 	| [support_westgate@qcd-tech.com](mailto:support_westgate@qcd-tech.com) 	| Mon – Fri: 1000 – 1800 	|
-| 4. 	| Apple Retail Store @ Jewel Changi Airport (220m from Changi Airport MRT) 	| 1800 186 1087 	| [https://getsupport.apple.com](https://getsupport.apple.com) 	| Mon – Thu: 1100 – 2100 Fri – Sun: 1100 – 2200 	|
-| 5. 	| Apple Retail Store @ Orchard Road (400m from Orchard MRT) 	| 1800 699 2824 	| [https://getsupport.apple.com](https://getsupport.apple.com) 	| Mon – Sun: 1000 – 2200 	|
-| 6. 	| Apple Retail Store @ Marina Bay Sands (220m from Bayfront MRT) 	| 1800 407 4949 	| [https://getsupport.apple.com](https://getsupport.apple.com) 	| Mon – Sun: 1000 – 2200 	|
+| 1. 	| QCD Technology @ Westgate (450m from Jurong East MRT) 	| 6515 2010 	| [support_westgate@qcd-tech.com](mailto:support_westgate@qcd-tech.com) 	| Mon – Fri: 1000 – 1800 	|
+| 2. 	| Apple Retail Store @ Jewel Changi Airport (220m from Changi Airport MRT) 	| 1800 186 1087 	| [https://getsupport.apple.com](https://getsupport.apple.com) 	| Mon – Thu: 1100 – 2100 Fri – Sun: 1100 – 2200 	|
+| 3. 	| Apple Retail Store @ Orchard Road (400m from Orchard MRT) 	| 1800 699 2824 	| [https://getsupport.apple.com](https://getsupport.apple.com) 	| Mon – Sun: 1000 – 2200 	|
+| 4. 	| Apple Retail Store @ Marina Bay Sands (220m from Bayfront MRT) 	| 1800 407 4949 	| [https://getsupport.apple.com](https://getsupport.apple.com) 	| Mon – Sun: 1000 – 2200 	|
 
-Devices sent by parents/students directly to the service centres will not be subjected to the same courier pickup services offered through the school’s service desk. 
+Devices sent by parents/students directly to the service centers will not be subjected to the same courier pickup services offered through the school’s service desk. 
 
 ### **Device Contractor Information**
 
