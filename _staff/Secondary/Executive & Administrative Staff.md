@@ -27,7 +27,7 @@ third_nav_title: Secondary
 | **Finance** 	|  	|
 | Senior Manager (Finance) 	| [Mr Ted Choo](mailto:choo_tck_loong@moe.edu.sg) 	|
 | Assistant Manager (Finance) 	| [Miss Regina Ong](mailto:regina_ong_hui_kheng@moe.edu.sg) 	|
-| Executive (Finance) 	| [Mdm Irene Soh](mailto:cosic_soh_irene@moe.edu.sg)<br><br>[Ms Teh Lee Ling](mailto:teh_lee_ling@moe.edu.sg)|
+| Executive (Finance) 	| [Miss Irene Soh](mailto:cosic_soh_irene@moe.edu.sg)<br><br>[Ms Teh Lee Ling](mailto:teh_lee_ling@moe.edu.sg)|
 | **ICT** 	|  	|
 | Manager (ICT) 	| [Mr Zheng Minghui](mailto:zheng_minghui_a@moe.edu.sg) 	|
 | Educator (ICT) 	| [Miss Rosziana Rossley](mailto:rosziana_bibi_rossley@moe.edu.sg) 	|
