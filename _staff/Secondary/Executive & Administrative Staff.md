@@ -25,7 +25,7 @@ third_nav_title: Secondary
 | **Counsellor** 	|  	|
 | School Counsellor 	| [Ms Charissa Tan](mailto:tan_mao_ning_charissa@moe.edu.sg)<br><br>[Ms Teo Bee Khim](mailto:teo_bee_khim_a@moe.edu.sg) 	|
 | **Finance** 	|  	|
-| Senior Manager (Finance) 	| [Mr Ted Choo](mailto:choo_tck_loong@moe.edu.sg) 	|
+| Senior Manager (Finance) 	| [Mr Ted Choo](mailto:choo_teck_loong@moe.edu.sg) 	|
 | Assistant Manager (Finance) 	| [Miss Regina Ong](mailto:regina_ong_hui_kheng@moe.edu.sg) 	|
 | Executive (Finance) 	| [Miss Irene Soh](mailto:cosic_soh_irene@moe.edu.sg)<br><br>[Ms Teh Lee Ling](mailto:teh_lee_ling@moe.edu.sg)|
 | **ICT** 	|  	|
