@@ -2,7 +2,6 @@ collections:
   calendar:
     output: true
     order:
-      - Calendar of Events.md
       - Primary/CCA Calendar.md
       - Primary/School Terms and Holidays.md
       - Primary/.keep
