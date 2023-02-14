@@ -7,7 +7,7 @@ description: ""
 
 As part of NDLP, the school&nbsp;will be making arrangements for 2023 Secondary One students to purchase their Personal Learning Device (PLD) by the first Semester.
 
-<img src="/images/IMG_3420-2-287x300.jpg" style="width:30%">
+<img style="width:30%" src="/images/IMG_3420-2-287x300.jpg">
 
 The PLD bundle purchased through the school will include the following:
 
