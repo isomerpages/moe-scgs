@@ -4,8 +4,7 @@ permalink: /our-people/parents/parent-volunteer/
 description: ""
 third_nav_title: Primary Admission
 ---
-
-# **Parent Volunteer**
+# **Parent Volunteers**
 
 **Parent Volunteers (P1 Registration – Phase 2B)  
 (For a child born on 2 Jan 2018 to 1 Jan 2019****)**
