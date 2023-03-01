@@ -2,6 +2,7 @@ collections:
   prospective-students:
     output: true
     order:
+      - Primary Admission/Parent Volunteer Application Form 2022.md
       - Primary Admission/Admission Procedures.md
       - Primary Admission/Primary 1 Registration Data.md
       - Primary Admission/.keep
