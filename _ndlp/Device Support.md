@@ -55,8 +55,8 @@ For insurance claim, please contact the Insurer <sup>B</sup> for the insurance 
 		 
 
 ### **Student Device Information Kit**
-
+[Click Here](/files/Student%20Device%20Information%20Kit_28%20Dec%2022.pdf) <br>
 This information kit contains useful information meant for parents/students pertaining to their PDLP devices procured from the PDLP device bulk tender <br>
-[Click Here](/files/Student%20Device%20Information%20Kit_28%20Dec%2022.pdf)
+
 
 Updated as of 2 February 2023
