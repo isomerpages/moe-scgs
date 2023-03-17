@@ -57,7 +57,7 @@ third_nav_title: Secondary
 | **Secondary 2** |    |    | 
 | Sincerity | [Mrs Cui Hailan](mailto:cui_hailan@moe.edu.sg) | [Mrs Dora Fernandez](mailto:dora_maria_choo@moe.edu.sg) |
 | Service | [Ms Bharathy](mailto:vijayabharathy_veeravarman@moe.edu.sg) | [Ms Adeline Tan](mailto:tan_li_jen_adeline@moe.edu.sg) |
-| Prudence | [Mrs Swati Mukherji](mailto:swati_mukherji@moe.edu.sg) | [Mdm Kala ](mailto:kalavathi_sabapathy@moe.edu.sg) |
+| Prudence | [Mrs Swati Mukherji](mailto:swati_mukherji@moe.edu.sg) | [Ms Yea Jie'r](mailto:yea_jier@moe.edu.sg) |
 | Perseverance | [Miss Maryanty Mohtar](mailto:maryanty_mohtar@moe.edu.sg) | [Miss Lee Li Qun](mailto:lee_li_qun@moe.edu.sg) |
 | Generosity | [Mr Liang Kok Ann](mailto:liang_kok_ann@moe.edu.sg) | [Miss Lim Zhi Yi](mailto:lim_zhi_yi@moe.edu.sg) |
 | Grace | [Mrs Tay-Ting Hui Lin](mailto:hui_lin_ting@moe.edu.sg) | [Mdm Mo Fengling](mailto:mo_feng_ling@moe.edu.sg) |
@@ -80,7 +80,7 @@ third_nav_title: Secondary
 | Perseverance | [Miss Chang Wai Mun](mailto:chang_wai_mun@moe.edu.sg) | [Mdm Tan Poey Siang](mailto:tan_poey_siang@moe.edu.sg) |
 | Courage | [Miss Yeo Poh Tin](mailto:yeo_poh_tin@moe.edu.sg) | [Ms Fu Wei](mailto:fu_wei@moe.edu.sg) |
 | Dignity | [Miss Grace Tang](mailto:grace_tang@moe.edu.sg) | [Mrs Doreen Lee](mailto:lau_ying_ying@moe.edu.sg) |
-| Diligence | [Miss Beh Mui Leng](mailto:beh_mui_leng@moe.edu.sg) | [Mr Michael Chin](mailto:chin_sian_woon_michael@moe.edu.sg) |
+| Diligence | [Miss Beh Mui Leng](mailto:beh_mui_leng@moe.edu.sg) | [Mr Michael Chin](mailto:chin_sian_woon_michael@moe.edu.sg)/[Mdm Noor Wahidah](mailto:noor_wahida_rusmani@moe.edu.sg) |
 | Grace | [Mr Ang Tee Koon](mailto:ang_tee_koon@moe.edu.sg) | [Miss Lee Jo Ann](mailto:lee_jo_ann@moe.edu.sg) |
 | Generosity | [Ms Rina Lio](mailto:lio_su-mein_rina@moe.edu.sg) | [Mrs Michelle Ang](mailto:ng_mei_yin_michelle@moe.edu.sg) |
 | **Non FT/CT** |  |  |  |
@@ -88,6 +88,5 @@ third_nav_title: Secondary
 |  | [Mrs Gloria Cheng](mailto:gloria_cheng@moe.edu.sg)    | [Ms Koh Cixian Davilia](mailto:koh_cixian_davilia@moe.edu.sg) |
 |  | [Mrs Low Wee Leng](mailto:sim_wee_leng@moe.edu.sg)   | [Mdm Chong Jia Li](mailto:chong_jia_li@moe.edu.sg) |
 |  | [Mdm Loo Shek Kien](mailto:loo_shek_kien@moe.edu.sg)  | [Ms Chong Poh Yin Clara](mailto:chong_poh_yin_clara@moe.edu.sg) |
-|  | [Miss Rosziana Rossley](mailto:rosziana_bibi_rossley@moe.edu.sg) | [Ms Yea Jie'r](mailto:yea_jier@moe.edu.sg) | 
-|  |  [Mdm Zhang Lixin](mailto:zhang_lixin@moe.edu.sg) | [Ms Kek Ai Kiew](mailto:kek_ai_kiew@moe.edu.sg) | 
-|  |  [Mdm Molyyati Shahwan](mailto:molyyati_shahwan@moe.edu.sg) |[Mrs Angela Goh](mailto:angela_Goh@moe.edu.sg)
+|  | [Miss Rosziana Rossley](mailto:rosziana_bibi_rossley@moe.edu.sg) |  [Mrs Angela Goh](mailto:angela_Goh@moe.edu.sg)| 
+|  |[Ms Kek Ai Kiew](mailto:kek_ai_kiew@moe.edu.sg) | |
