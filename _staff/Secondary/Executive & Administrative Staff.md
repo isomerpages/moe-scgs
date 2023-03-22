@@ -18,7 +18,7 @@ third_nav_title: Secondary
 | Executive (Admin) 	| [Ms Rae Chem](mailto:chem_yu_qiu@moe.edu.sg) 	|
 | Executive (HR) 	| [Mr Aaron Chai](mailto:aaron_chai@moe.edu.sg) 	|
 | Officer (Admin) 	| [Mrs Sandra Chandramohan](mailto:sandra_devi_nadarajan@moe.edu.sg) 	|
-| Office Attendant (Admin) 	| [Madam Sherilyn Ang ](mailto:sherilyn_ang@moe.edu.sg) 	|
+| Office Attendant (Admin) 	| [Madam Sherilyn Ang ](mailto:ang_poh_gek_sherilyn@moe.edu.sg) 	|
 | **Aesthetics / PE / CCA** 	|  	|
 | Subject Head (Dance) 	| [Ms Vanessa Dewi](mailto:harijanto_vanessa_dewi@moe.edu.sg) 	|
 | Dance Administrative Executive 	| 	|
