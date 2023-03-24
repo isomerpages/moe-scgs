@@ -11,7 +11,7 @@ Singapore Chinese Girls’ School is an independent school with a vision to be a
 
 **Job Specifications**
 
-1. To manage the preparation and use of practical resources, chiefly within the biology lab, which includes:
+1: To manage the preparation and use of practical resources, chiefly within the biology lab, which includes:
 
 * providing assistance and advice in meeting the practical needs of the biology curriculum related to the GCE O-level practical exam, as well as other school assessments and lab curriculum and activities;
 
@@ -25,7 +25,7 @@ Singapore Chinese Girls’ School is an independent school with a vision to be a
 
 * assisting teaching staff and students in practical classes & carrying out demonstrations.
 
-2. To work closely with the senior lab technician to ensure the maintenance of a safe working environment in the science labs and preparatory room through:
+2: To work closely with the senior lab technician to ensure the maintenance of a safe working environment in the science labs and preparatory room through:
 
 * carrying out risk assessments for technician activities;
 
@@ -41,7 +41,7 @@ Singapore Chinese Girls’ School is an independent school with a vision to be a
 
 * organising, storing and checking the condition of chemicals and equipment.
 
-3. Any other duties as required by the Head of Science, Senior Lab Technician or the school.
+3: Any other duties as required by the Head of Science, Senior Lab Technician or the school.
 
 **Requirements and Qualifications**
 
