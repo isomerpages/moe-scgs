@@ -14,7 +14,7 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Congratulations, Class of 2022!
-          description: GCE O-Level Examination
-          url: /about-scgs/Achievements/secondary/
+        - title: SCGS Honours Day 2023
+          description: Watch the livestream here!
+          url: https://go.gov.sg/scgss-honours-day-2023
 ---
