@@ -32,19 +32,10 @@ The JIP graduate is a Principled Leader of Tomorrow who possesses strength of ch
 In the JIP, students immerse themselves in an enriching, extensive and authentic six-year learning experience that effectively equips them to explore and further develop their personal strengths, passions and talents.
 JIP students from Catholic High School (CHS), CHIJ St Nicholas Girls’ School (SNGS) and Singapore Chinese Girls’ School (SCGS) will spend their first four years in their respective secondary schools before progressing to EJC and can look forward to the following Ministry of Education (MOE) special programmes that are tailor-made to cater to their learning passions and aspirations.  From Year 3, JIP students can offer the Bicultural Studies Programme, which is also offered in EJC. 
 
-### World Readiness Programme 
-
-_Beyond the Core Academic Programme, our unique World Readiness Programme (WRP) aims to develop our students’ ability to impact lives in positive, ethical and meaningful ways. The WRP prepares our students for the world by elevating them beyond the classroom and equipping them to understand Singapore’s role in the international arena. This programme will also give them exposure to both Eastern and Western perspectives of geopolitical, social, cultural, economic and technological issues and megatrends to give our students the edge as they step up onto the global stage._
-
-##### <u>Curriculum</u>
-
-From Years 1 to 4, modules offered under Philosophy of Knowledge and Emerging Asia ride on the existing strengths of our schools in nurturing bilingual and bicultural students. They also develop our JIP students to be well-versed in eastern and western perspectives on knowledge, reason and values. In turn, the Current Affairs modules are designed to promote an understanding of global issues and megatrends.
-From Years 1 to 4, the knowledge that our JIP students acquire in WRP will provide them with the foundational knowledge and skills that will put them in good stead for specific subjects and special programmes offered at EJC.
 
 
-**_This figure represents the spiral curriculum students experience in the <span style="colour: #1A582E;">World Readiness Programme</span>. Three key strands anchor the programme: <span style="colour: #1A582E;">Philosophy</span>, <span style="colour: #B6841B;">Emerging Asia</span>, and <span style="colour: #C31B22;">Current Affairs</span>. 21st Century Competencies are developed throughout the programme, across all three strands._**
 
-The WRP utilises a variety of learning platforms to engage students. In addition to lectures and tutorials in each school schools also engage or participate in programmes organized by external agencies (e.g. participation in Model United Nations Conferences).&nbsp; The three partner secondary schools also collaboratively organise annual **WRP Symposiums** where students are brought together to benefit from the synergistic sharing of ideas and perspectives.&nbsp; At these WRP Symposiums, our students interact with people across a broad spectrum of society, including research engineers, foreign diplomats, social entrepreneurs and thought leaders.
+
 
 Students who are applying to the Joint Integrated Programme may wish to note that they will spend their first four years in SCGS before progressing to&nbsp;[Eunoia Junior College](http://eunoiajc.moe.edu.sg/)&nbsp; to complete their six-year IP course.&nbsp;The JC will also admit O-Level applicants through the Joint Admission Exercise leading to the&nbsp;[GCE A-Level Examinations](https://eunoiajc.moe.edu.sg/2021-results/).
 
