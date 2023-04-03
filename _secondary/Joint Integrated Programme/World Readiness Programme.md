@@ -6,19 +6,15 @@ third_nav_title: Joint Integrated Programme
 ---
 # **World Readiness Programme**
 
-### World Ready for a Changing World
+_Beyond the Core Academic Programme, our unique World Readiness Programme (WRP) aims to develop our students’ ability to impact lives in positive, ethical and meaningful ways. The WRP prepares our students for the world by elevating them beyond the classroom and equipping them to understand Singapore’s role in the international arena. This programme will also give them exposure to both Eastern and Western perspectives of geopolitical, social, cultural, economic and technological issues and megatrends to give our students the edge as they step up onto the global stage._
 
-Our World Readiness Programme is an integral part of the JIP curriculum. Students are equipped to understand Singapore’s role in the international arena and are exposed to Asian and Western perspectives, against a dynamic political, social, cultural and religious backdrop.
+##### Curriculum
 
-The programme develops active citizenry through core modules like Political Studies, Current Affairs, Eco-literacy and Philosophy.  Through these, students will come to appreciate the importance of good governance, sound and critical thinking in decision making and adopt a balanced perspective on issues through the Eastern and Western lens.
+From Years 1 to 4, modules offered under Philosophy of Knowledge and Emerging Asia ride on the existing strengths of our schools in nurturing bilingual and bicultural students. They also develop our JIP students to be well-versed in eastern and western perspectives on knowledge, reason and values. In turn, the Current Affairs modules are designed to promote an understanding of global issues and megatrends.
+From Years 1 to 4, the knowledge that our JIP students acquire in WRP will provide them with the foundational knowledge and skills that will put them in good stead for specific subjects and special programmes offered at EJC.
 
+![](/images/WRP-e1588899758456-726x1024.png)
 
-<img src="/images/WRP-e1588899758456-726x1024.png" 
-     style="width:70%">
+**_This figure represents the spiral curriculum students experience in the <font color="#1A582E">World Readiness Programme</font>. Three key strands anchor the programme: <font color="#1A582E">Philosophy</font>, <font color="#B6841B">Emerging Asia</font>, and <font color="#C31B22">Current Affairs</font>. 21st Century Competencies are developed throughout the programme, across all three strands._**
 
-
-We collaborate with local organisations such as the United Nations Association of Singapore, National Heritage Board and overseas organizations such as the Dolphin Discovery Centre in Bunbury (Australia).
-
-The students also have the opportunity to attend Joint Symposiums with partner schools and the World Readiness Conversation Series where they can gain insights from experts of various fields to keep abreast with developments in current trends and concerns.
-
-Our World Readiness Programme nurtures adaptable and innovative leaders who seize new opportunities while guided by a strong sense of global consciousness and ethics. This places our principled leaders of tomorrow at the forefront of exploring new ideas, adapting to change and seizing new opportunities across diverse communities in a rapidly changing world.
+The WRP utilises a variety of learning platforms to engage students. In addition to lectures and tutorials in each school schools also engage or participate in programmes organized by external agencies (e.g. participation in Model United Nations Conferences).&nbsp; The three partner secondary schools also collaboratively organise annual **WRP Symposiums** where students are brought together to benefit from the synergistic sharing of ideas and perspectives.&nbsp; At these WRP Symposiums, our students interact with people across a broad spectrum of society, including research engineers, foreign diplomats, social entrepreneurs and thought leaders.

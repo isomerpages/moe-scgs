@@ -13,8 +13,4 @@ sections:
       background: /images/scgs.gif
       button: Contact Us
       url: /contact-us/
-      key_highlights:
-        - title: SCGS Honours Day 2023
-          description: Watch the livestream here!
-          url: https://go.gov.sg/scgss-honours-day-2023
 ---
