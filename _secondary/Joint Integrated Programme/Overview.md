@@ -13,13 +13,14 @@ The JIP is not merely a programme but a community anchored by a strong culture o
 
 ### The JIP Approach and the JIP Graduate
 
-##### <u>The JIP Approach</u>
+##### The JIP Approach
 
 The JIP approach for developing and nurturing Principled Leaders of Tomorrow consists of the three key pillars of **(1) character development**, **(2)&nbsp;cognitive development** and **(3) leadership development**. The outer portion of the diagram shows the knowledge, skills and attitudes that are embodied by our graduates.
 
 This approach is helmed by our team of dedicated and highly qualified professionals who ensure that students learn in a vibrant environment with state-of-the-art facilities. Unique to the JIP, our flagship _World Readiness Programme_ and _Passion Pursuit_ challenges students to examine world issues, consider multiple perspectives, seek opportunities beyond problems and embrace possibilities beyond risks. By providing a variety of learning experiences, including exciting collaborations with the larger community, students are empowered to find and hone diverse talents alongside like-minded peers. Voices are nurtured, self-confidence raised and curiosity piqued such that students are empowered to discover their passion for life and inspired them to make learning a lifelong endeavour.
 
-##### <u>The JIP Graduate</u>
+![](/images/the%20jip%20approach-2023.png)
+##### The JIP Graduate
 
 The JIP graduate is a Principled Leader of Tomorrow who possesses strength of character, a heart for service, with the wisdom and courage to chart tomorrow as leaders of their generation. They are discerning individuals who challenge themselves to think critically and make sound moral and ethical judgements. As persons of integrity with a passion for life, they also demonstrate high levels of distinction in their acquisition and mastery of 21st Century Competencies and dedicate their talents to impact lives in positive and ethical ways.
 
