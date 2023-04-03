@@ -8,28 +8,13 @@ third_nav_title: Joint Integrated Programme
 
 # **Passion Pursuit**
 
-### _Passion to Pursue Hopes and Dreams_
+_Guided by the firm belief that the joy of learning is integral to supporting future learning and igniting a zest for life, our Passion Pursuit (PP) programme offers customised opportunities for JIP students to pursue their learning at an extended or deeper level in both the academic and non-academic domains during their six-year journey with the JIP._
 
-It’s the journey that counts, not the destination. Our students are able to experience the joy of pursuing their passion through various opportunities.  It is through passionate exploration that they find their purpose and meaning for life’s journey, and discover their enduring hopes and dreams.
+<font color="#1E395F">Passion Pursuit</font> provides avenues for intellectual discovery, leadership excellence and extra-curricular exploration essential to lifelong learning, through an enriching journey of _Diverge_, _Converge_ and _Emerge_. Students get to explore a broad spectrum of interest areas under the _Diverge_ phase, understand what passion really means through the _Converge_ phase and eventually actualise it as part of purposeful living in the _Emerge_ phase. Our flagship programme will inspire our students to not simply discover their passions, but aspire to use that to positively impact others for the betterment of society.
 
-**Passion Pursuit** provides avenues for high academic achievement, intellectual discovery, leadership excellence and extra-curricular exploration essential to lifelong learning.
+<font color="#1E395F">Passion Pursuit</font> is implemented through _Platforms for Exploration_ and _Platforms for Pursuit_, and is further enriched by the strong partnership among the JIP schools and our networks of alumni and community partners.
+<img src="/images/PP-e1588899876727.png" style="width:70%">
 
-![](/images/passionpursuit.png)
+**_Students get to explore a broad spectrum of interest areas under the <font color="#B6841B">Diverge</font> phase, and discover their passion through the <font color="#1A582E">Converge</font> phase. They eventually actualise their areas of passion as part of purposeful living in the <font color="#C31B22">Emerge</font> phase, driven by a zest for life and the aspiration to impact the community in positive and meaningful ways._**
 
-SCGS provides an extensive range of activities that provides the breadth which spiral from short exploratory enrichment such as Art Electives and Sabbaticals to extended course of study in the **SCGS Academies** through Platforms for Exploration and Platforms for Pursuit.
-
-Sitting at the pinnacle of the Passion Pursuit framework, the **SCGS Academies** comprise the **Math and Science Academy**, **Liberal Arts Academy**, **Leadership Academy** and **Business Academy**.
-
-*   The **Math and Science Academy** addresses the intellectual spirit of those with brilliant aptitude and keen interest in the Sciences and Mathematics. The Academy provides a diversity of learning opportunities which includes Mentorship, Attachments and Advanced Elective Modules in related fields.
-
-*   The **Liberal Arts Academy** promotes the pursuit of disciplines such as the humanities and social sciences, enabling students to perceive the interconnectedness of knowledge, challenge assumptions and navigate the world of shifting borders and complex challenges. Students get to hone their academic writing skills through workshops by practitioners.
-
-*   The **Leadership Academy** is dedicated to nurturing women leaders of character and relevance, the cornerstone of the SCGS education. The Academy leverages on its vast network of former students from different fields to offer a myriad of leadership development opportunities including personal mentoring by accomplished leaders, where students are inspired to be world-ready leaders with empathy for the desire to serve.
-
-*   The **Business Academy** inspires the spirit of innovation and enterprise by imparting core knowledge on business principles and innovation protocol. Students get to apply their business acumen and entrepreneurial skills for positive social impact. Students have opportunities to visit various enterprises and engage in dialogue with businessmen and entrepreneurs.
-
-<img src="/images/PP-e1588899876727.png" 
-     style="width:70%">
-		 
-		 
-As part of the JIP Passion Pursuit’s journey of _Diverge, Converge and Emerge_, SCGS thus offers a broad spectrum of diverse areas for students to explore and nurture their interests under the _Diverge_ phase of the broader six-year PP framework. As JIP students progress to EJC, they learn and discover more about their passion through the _Converge_ and _Emerge_ phases, driven by a zest for life and the aspiration to impact the community in positive and meaningful ways.
+Our JIP schools work closely with our strong network of alumni, collaborating organisations and community partners to provide research and mentorship opportunities for our students.  Our broad base of partners include Agency for Science, Technology and Research, Changi General Hospital, National Heritage Board, Science Centre Singapore, Defence Science and Technology Agency, the Dolphin Discovery Centre in Australia and more. 
