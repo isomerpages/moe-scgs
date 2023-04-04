@@ -6,7 +6,7 @@ third_nav_title: Primary Admission
 ---
 # **Parent Volunteer**
 
-Parents of prospective students are welcome to apply and join SCGS as Parent Volunteers to learn more about the school while volunteering your time to support the school. Upon completion of at least 40 hours of voluntary service to the school by 30 June of the year of your child’s P1 registration, you would be eligible to register your child under Phase 2B. Please visit MOE website for more information of P1 registration process and Phase 2B eligibility.
+Parents of prospective students are welcome to apply and join SCGS as Parent Volunteers to learn more about the school while volunteering your time to support the school. Upon completion of at least 40 hours of voluntary service to the school by 30 June of the year of your child’s P1 registration, you would be eligible to register your child under Phase 2B. Please visit [MOE website](https://www.moe.gov.sg/primary/p1-registration/registration-phases-key-dates?pt=2B) for more information of P1 registration process and Phase 2B eligibility.
 
 **Parent Volunteers Application**
 
