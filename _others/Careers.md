@@ -7,7 +7,7 @@ description: ""
 
 Singapore Chinese Girls’ School is an independent school with a vision to be an asset to the country by developing capable women of character and relevance. We offer both GCE O-Level and Integrated Programmes.
 
-**We are looking School Laboratory Specialist (Biology)**
+**We are looking for School Laboratory Specialist (Biology)**
 
 **Job Specifications**
 
@@ -58,6 +58,42 @@ Singapore Chinese Girls’ School is an independent school with a vision to be a
 The above statements are intended to describe the general nature and level of work being performed by people assigned to his classification. They are not to be construed as an exhaustive list of all responsibilities, duties and skills required of personnel so classified. All personnel may be required to perform duties outside of their normal responsibilities from time to time, as needed.
 
 Working hours are 7:15 am to 4:15 pm
+
+
+**We are looking for Technical Specialist (Operations)**
+
+**Job Specifications**
+
+This role encompasses overseeing the day-to-day cleanliness and maintenance of the facilities and to provide operational support to ensure smooth and effective operations.
+
+**Responsibilities**
+
+* Provide support for events (including logistics, stage lighting and sound), routine operational tasks and perform general maintenance tasks;
+
+* Inspect and conduct periodic check on buildings, equipment, and systems to identify any issues;
+
+* Maintain inventory records for equipment and supplies;
+
+* Provide support in procurement operations to ensure the quality of products/services delivered is satisfactory;
+
+* Assist with the school safety, security and emergency preparedness activities;
+
+* Assist Operations Manager in general maintenance of school environment and upkeep of school facilities;
+
+* Perform any other ad-hoc duties and responsibilities that may be assigned;
+
+
+**Qualifications**
+
+* Nitec Certificate in Building Facilities Maintenance, Electrical/Electronics, Air-conditioning Servicing and /or Plumbing;
+
+* Minimum 2 years of relevant experience in a similar role;
+
+* Preferably prior experience in supporting stage performance;
+
+* Ability to work flexible hours and work around a changing schedule;
+
+* Ability to work independently without much supervision;
 
 _Successful candidates will be offered contract employment. Remuneration shall commensurate with qualification and experience._
 
