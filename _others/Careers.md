@@ -66,7 +66,7 @@ Working hours are 7:15 am to 4:15 pm
 
 This role encompasses overseeing the day-to-day cleanliness and maintenance of the facilities and to provide operational support to ensure smooth and effective operations.
 
-**Responsibilities **
+**Responsibilities**
 
 * Provide support for events (including logistics, stage lighting and sound), routine operational tasks and perform general maintenance tasks;
 
