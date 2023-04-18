@@ -7,7 +7,7 @@ third_nav_title: Secondary Admission
 <a name="Backtotop"></a>
 # **Direct School Admission**
 
-[Introduction](#INTRODUCTION)  |  [DSA Options in SCGS](#DSAOPTIONSINSCGS) | [Application Procedure](#APPLICATIONPROCEDURE) | [Eligibility](#ELIGIBILITY) | [Important Reminders](#IMPORTANTREMINDERS) | [Talent Areas](#OURTALENTAREAS) 
+[Introduction](#INTRODUCTION)  |  [DSA Options in SCGS](#DSAOPTIONSINSCGS) | [Talent Areas](#OURTALENTAREAS) | [Eligibility](#ELIGIBILITY) | [Application Procedure](#APPLICATIONPROCEDURE)  | [Important Reminders](#IMPORTANTREMINDERS)
 
 
 **DIRECT SCHOOL ADMISSION EXERCISE 2023**
@@ -41,27 +41,23 @@ We seek to promote a culture of excellence in the holistic development of our st
 
 ![](/images/dsa%202023.PNG)
 
-
-<a name="APPLICATIONPROCEDURE"></a>
-**C.&nbsp;APPLICATION PROCEDURE**    
+<a name="OURTALENTAREAS"></a> 
+**C.&nbsp;OUR TALENT AREAS**   
 [Back to Top](#Backtotop)
 
-**The DSA Exercise is centralised. All participants must be submitted through MOE's online DSA-Sec Portal. Wait for the official press release in early May.**
+We offer admission into SCGS through the following talents:
 
-Applicants are responsible for checking the criteria in the different schools before the submission of their applicants. Criteria will differ.
 
-**SUBMISSION OF APPLICATIONS**
+| Categories | Areas of Talent |
+| -------- | -------- | 
+| Academic     | Chinese Language<br>English Language<br> Malay Language<br> Mathematics<br>Science<br>Tamil Language
+| Clubs and Societies     | Robotics 
+| Sports     | Artistic Gymnastics<br>Artistic Swimming<br>Badminton<br>Basketball<br>Netball<br>Squash<br>Swimming<br>Tennis<br>Trampoline
+| Performing Arts    | Chinese Drama<br>Choir<br>Concert Band (not Chinese Orchestra)<br>English Drama<br>Handbell Ensemble<br>Modern Dance<br>String Ensemble 
+| Student Development    | Leadership
 
-1.  **Cost** - No Fees are charged
-2.  **Choices**
-- An applicant can indicate up to three choices
-- Each choice consists of a secondary school and a talent area offered by that secondary school.
 
-	**Maximum choices for each DSA-Sec school**
-- Of the three choices, an applicant may use a maximum of two choices to apply to the same school, for two different talent areas of that school.
-
-	**Dual-Track schools**
-- If a talent area is offered for both the O-Level and Integrated Programme (IP) is a dual-track school, applicants must indicate a preference for (i) the O-Level Programme, (ii) the Integrated Programmet, or (iii) no preference (open to both).
+**All applicants are responsible for checking the criteria in the different schools before the submission of their applications. Criteria will differ. Omission of items required may be detrimental to your application.**
 
 
 <a name="ELIGIBILITY"></a>
@@ -82,9 +78,31 @@ Competition is strong and we have received many queries on students' chances of 
 
 Applicants are responsible for checking the criteria in the different schools before the submission of their applications. Criteria will differ. 
 
+<a name="APPLICATIONPROCEDURE"></a>
+**E.&nbsp;APPLICATION PROCEDURE**    
+[Back to Top](#Backtotop)
+
+**The DSA Exercise is centralised. All participants must be submitted through MOE's online DSA-Sec Portal. Wait for the official press release in early May.**
+
+Applicants are responsible for checking the criteria in the different schools before the submission of their applicants. Criteria will differ.
+
+**SUBMISSION OF APPLICATIONS**
+
+1.  **Cost** - No Fees are charged
+2.  **Choices**
+- An applicant can indicate up to three choices
+- Each choice consists of a secondary school and a talent area offered by that secondary school.
+
+	**Maximum choices for each DSA-Sec school**
+- Of the three choices, an applicant may use a maximum of two choices to apply to the same school, for two different talent areas of that school.
+
+	**Dual-Track schools**
+- If a talent area is offered for both the O-Level and Integrated Programme (IP) is a dual-track school, applicants must indicate a preference for (i) the O-Level Programme, (ii) the Integrated Programmet, or (iii) no preference (open to both).
+
+
 
 <a name="IMPORTANTREMINDERS"></a> 
-**E.&nbsp;IMPORTANT REMINDERS:**    
+**F.&nbsp;IMPORTANT REMINDERS:**    
 [Back to Top](#Backtotop)
 
 1.  Once you are successfully allocated to&nbsp;**Singapore Chinese Girls’ School**, you will&nbsp;not&nbsp;be allowed to participate in the annual Secondary One Posting Exercise to opt for secondary schools after the release of the PSLE results. You will be expected to honour the commitment to SCGS for the&nbsp;entire duration&nbsp;of the programme you have been admitted into.
@@ -98,25 +116,6 @@ Applicants are responsible for checking the criteria in the different schools be
     Students admitted to the school via DSA are expected to honour their commitment to the school and programme and participate in the activities related to the talent they are selected for from year 1-4.
     
 3.  **Scholarships &amp; Financial Assistance.**&nbsp;No one deserving of a place in the school should be discouraged because of financial considerations. Financial assistance schemes and awards are in place to support talented students. All students interested in an SCGS education and who can see their talents advanced at SCGS should apply. Do not let fees deter you from applying to us for DSA or accepting an offer of admission.
-
-
-<a name="OURTALENTAREAS"></a> 
-**F.&nbsp;OUR TALENT AREAS**   
-[Back to Top](#Backtotop)
-
-We offer admission into SCGS through the following talents:
-
-
-| Categories | Areas of Talent |
-| -------- | -------- | 
-| Academic     | Chinese Language<br>English Language<br> Malay Language<br> Mathematics<br>Science<br>Tamil Language
-| Clubs and Societies     | Robotics 
-| Sports     | Artistic Gymnastics<br>Artistic Swimming<br>Badminton<br>Basketball<br>Netball<br>Squash<br>Swimming<br>Tennis<br>Trampoline
-| Performing Arts    | Chinese Drama<br>Choir<br>Concert Band (not Chinese Orchestra)<br>English Drama<br>Handbell Ensemble<br>Modern Dance<br>String Ensemble 
-| Student Development    | Leadership
-
-
-**All applicants are responsible for checking the criteria in the different schools before the submission of their applications. Criteria will differ. Omission of items required may be detrimental to your application.**
 
 
 
