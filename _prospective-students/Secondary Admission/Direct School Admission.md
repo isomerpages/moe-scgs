@@ -39,12 +39,7 @@ Students who are successfully admitted to the school via DSA are expected to hon
 We seek to promote a culture of excellence in the holistic development of our students. We offer admission through DSA into the following programmes:
 
 
-
-| GCE O-Level Programme<br>(Years 1 - 4 in SCGS) | Integrated Programme<br>(Years 1 - 4 in SCGS,<br>Years 5 - 6 in Eunoia Junior College) 
-| -------- | -------- |
-|     | Leadership     |
-|     | Co-Curricular Activities     |
-|     | Academic Talents     |
+![](/images/dsa%202023.PNG)
 
 
 <a name="APPLICATIONPROCEDURE"></a>
