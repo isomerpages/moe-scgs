@@ -27,7 +27,6 @@ Competition is strong and students entering through DSA are expected to be proac
 
 **Join us at our online DSA Engagement Q &amp; A session on Saturday 13 May at 9am or 11.15am. Register [here!](https://go.gov.sg/2023scgsdsaengagement)**
 
-**Please click&nbsp;[here](https://go.gov.sg/scgsdsahomepage)&nbsp;to visit our DSA microsite.**
 
 <a name="DSAOPTIONSINSCGS"></a>
 **B.&nbsp;DSA OPTIONS IN SCGS**    
