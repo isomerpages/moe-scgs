@@ -64,6 +64,38 @@ Applicants are responsible for checking the criteria in the different schools be
 - If a talent area is offered for both the O-Level and Integrated Programme (IP) is a dual-track school, applicants must indicate a preference for (i) the O-Level Programme, (ii) the Integrated Programmet, or (iii) no preference (open to both).
 
 
+<a name="ELIGIBILITY"></a>
+**D.&nbsp;ELIGIBILITY**    
+[Back to Top](#Backtotop)
+
+**WHO CAN APPLY?**
+
+a.&nbsp;**Applicants studying in MOE mainstream primary schools**  
+Parents may log in directly to DSA-Sec Portal. Only one parent’s Singpass is required. Parents/ guardians who are unable to apply online can approach their child’s primary school for assistance.
+
+b.&nbsp;**Applicants NOT studying in MOE mainstream primary schools**  
+A Registration Number (RGxxxxxxx) is required. This is applicable for homeschoolers, returning Singaporeans, religious school students, international students and other students not studying in Mainstream primary schools.
+
+Parents may apply for a Registration Number (RGxxxxxxx) to access the DSA-Sec Portal at the MOE website at:&nbsp;[https://go.gov.sg/nmsdsa-sec-application.](https://go.gov.sg/nmsdsa-sec-application.)
+
+
+
+<a name="IMPORTANTREMINDERS"></a> 
+**E.&nbsp;IMPORTANT REMINDERS:**    
+[Back to Top](#Backtotop)
+
+1.  Once you are successfully allocated to&nbsp;**Singapore Chinese Girls’ School**, you will&nbsp;not&nbsp;be allowed to participate in the annual Secondary One Posting Exercise to opt for secondary schools after the release of the PSLE results. You will be expected to honour the commitment to SCGS for the&nbsp;entire duration&nbsp;of the programme you have been admitted into.
+    
+    You will also&nbsp;not&nbsp;be allowed to transfer to another school after the release of the PSLE results. If you are admitted based on a CCA, no change of CCA is allowed for 4 years unless there are extenuating medical reasons.
+    
+    If you are not able to fulfil the DSA commitment without valid reasons, you may be required to transfer out to another school.
+    
+2.  Successful applicants admitted into the Joint Integrated Programme at SCGS, must commit to&nbsp;6 years with us, 4 years in SCGS and 2 years at Eunoia Junior College.
+    
+    Students admitted to the school via DSA are expected to honour their commitment to the school and programme and participate in the activities related to the talent they are selected for from year 1-4.
+    
+3.  **Scholarships &amp; Financial Assistance.**&nbsp;No one deserving of a place in the school should be discouraged because of financial considerations. Financial assistance schemes and awards are in place to support talented students. All students interested in an SCGS education and who can see their talents advanced at SCGS should apply. Do not let fees deter you from applying to us for DSA or accepting an offer of admission.
+
 
 <a name="OURTALENTAREAS"></a> 
 **D.&nbsp;OUR TALENT AREAS**   
@@ -121,37 +153,5 @@ Registration will begin in early May.
 | Academic Talents 	| ● Students will work towards representing the school at local programmes and competitions. Examples are as follows:<br><br>○ English Language: Programmes such as Future Problem Solving, the Creative Arts and Writing Mentorship Programmes.<br><br>○ Chinese Language: River Hongbao Docents Programme, Bicultural Studies Programme and Language Skills Competitions<br><br>○ Malay Language: Rakan Bahasa Ambassadors, Poetry Writing and Recital Competitions, National Malay Language Competitions<br><br>○ Tamil Language: National Elective Tamil Language Programme, Creative writing<br><br>○ Mathematics: Competitions such as the Singapore Mathematical Olympiad (SMO)<br><br>○ Science: Science mentorship programmes, Youth Science Ambassadors Programme, competitions and Olympiads 	|
 
 _In addition to the above, we constantly look for suitable platforms for students to participate in to develop and showcase their talents. Actual activities may vary according to opportunities and circumstances._
-
-
- <a name="ELIGIBILITY"></a>
-**D.&nbsp;ELIGIBILITY**    
-[Back to Top](#Backtotop)
-
-**WHO CAN APPLY?**
-
-a.&nbsp;**Applicants studying in MOE mainstream primary schools**  
-Parents may log in directly to DSA-Sec Portal. Only one parent’s Singpass is required. Parents/ guardians who are unable to apply online can approach their child’s primary school for assistance.
-
-b.&nbsp;**Applicants NOT studying in MOE mainstream primary schools**  
-A Registration Number (RGxxxxxxx) is required. This is applicable for homeschoolers, returning Singaporeans, religious school students, international students and other students not studying in Mainstream primary schools.
-
-Parents may apply for a Registration Number (RGxxxxxxx) to access the DSA-Sec Portal at the MOE website at:&nbsp;[https://go.gov.sg/nmsdsa-sec-application.](https://go.gov.sg/nmsdsa-sec-application.)
-
-
-<a name="IMPORTANTREMINDERS"></a> 
-**E.&nbsp;IMPORTANT REMINDERS:**    
-[Back to Top](#Backtotop)
-
-1.  Once you are successfully allocated to&nbsp;**Singapore Chinese Girls’ School**, you will&nbsp;not&nbsp;be allowed to participate in the annual Secondary One Posting Exercise to opt for secondary schools after the release of the PSLE results. You will be expected to honour the commitment to SCGS for the&nbsp;entire duration&nbsp;of the programme you have been admitted into.
-    
-    You will also&nbsp;not&nbsp;be allowed to transfer to another school after the release of the PSLE results. If you are admitted based on a CCA, no change of CCA is allowed for 4 years unless there are extenuating medical reasons.
-    
-    If you are not able to fulfil the DSA commitment without valid reasons, you may be required to transfer out to another school.
-    
-2.  Successful applicants admitted into the Joint Integrated Programme at SCGS, must commit to&nbsp;6 years with us, 4 years in SCGS and 2 years at Eunoia Junior College.
-    
-    Students admitted to the school via DSA are expected to honour their commitment to the school and programme and participate in the activities related to the talent they are selected for from year 1-4.
-    
-3.  **Scholarships &amp; Financial Assistance.**&nbsp;No one deserving of a place in the school should be discouraged because of financial considerations. Financial assistance schemes and awards are in place to support talented students. All students interested in an SCGS education and who can see their talents advanced at SCGS should apply. Do not let fees deter you from applying to us for DSA or accepting an offer of admission.
 
 [Back to Top](#Backtotop)
