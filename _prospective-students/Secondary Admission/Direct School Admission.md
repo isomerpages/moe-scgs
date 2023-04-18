@@ -101,6 +101,16 @@ Parents may apply for a Registration Number (RGxxxxxxx) to access the DSA-Sec Po
 **F.&nbsp;OUR TALENT AREAS**   
 [Back to Top](#Backtotop)
 
+We offer admission into SCGS through the following talents:
+
+
+| Categories | Areas of Talent |
+| -------- | -------- | 
+| Academic     | Chinese Language<br>English Language<br> Malay Language<br> Mathematics<br>Science<br>Tamil Language
+| Clubs and Societies     | Robotics
+
+
+
 **LEADERSHIP**
 
 Students currently in leadership positions who can be further stretched.&nbsp;
