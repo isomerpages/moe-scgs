@@ -7,7 +7,7 @@ third_nav_title: Secondary Admission
 <a name="Backtotop"></a>
 # **Direct School Admission**
 
-[Introduction](#INTRODUCTION)  |  [DSA Options in SCGS](#DSAOPTIONSINSCGS) | [Application Procedure](#DSAOPTIONSINSCGS) | [Talent Areas](#OURTALENTAREAS) | [Eligibility](#ELIGIBILITY) | [Important Reminders](#IMPORTANTREMINDERS) 
+[Introduction](#INTRODUCTION)  |  [DSA Options in SCGS](#DSAOPTIONSINSCGS) | [Application Procedure](#APPLICATIONPROCEDURE) | [Talent Areas](#OURTALENTAREAS) | [Eligibility](#ELIGIBILITY) | [Important Reminders](#IMPORTANTREMINDERS) 
 
 
 **DIRECT SCHOOL ADMISSION EXERCISE 2023**
@@ -24,7 +24,7 @@ The Direct School Admission Exercise allows students to seek admission into scho
 Competition is strong and students entering through DSA are expected to be proactive and sustain their interest to develop their talents through the opportunities offered. There is no priority through affiliation and all students seeking admission will be selected based on their achievements and talents in comparison to all applicants in the same category.  
 **Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ general academic and non-academic requirements, and the programmes available to develop the area of talent.**
 
-For details, please download the DSA Infosheet&nbsp;[here](/files/SCGS-DSA-Info-Sheet-2022_final.pdf).
+**Watch this site to register for our DSA Talks on Saturday 13 May!**
 
 <a name="DSAOPTIONSINSCGS"></a>
 **B.&nbsp;DSA OPTIONS IN SCGS**    
@@ -42,8 +42,31 @@ We seek to promote a culture of excellence in the holistic development of our st
 | 4-year GCE O-Level Programme 	| <b>Leadership</b><br>Students who have excellent leadership skills and are leaders in their Primary School<br><br><b>CCAs</b>(Sports, Performing Arts, Clubs) <br><br>Students with talents in one of the fifteen DSA Co-Curricular Activities  	|
 | 6-year Integrated Programme with Eunoia Junior College (Years 1 – 4 in SCGS and  Years 5 – 6 at Eunoia Junior College) 	| <b>Leadership</b><br><br>Students who have excellent leadership skills and are leaders in their Primary School<br><br><b>CCAs</b> (Sports, Performing Arts, Clubs) <br><br>Students with talents in one of the fifteen DSA Co-Curricular Activities <br><br><b>Specific Academic Talents</b><br><br>Students who have specific academic talents may apply for DSA into the Integrated Programme.   	|
 
+<a name="APPLICATIONPROCEDURE"></a>
+**C.&nbsp;APPLICATION PROCEDURE**    
+[Back to Top](#Backtotop)
+
+**The DSA Exercise is centralised. All participants must be submitted through MOE's online DSA-Sec Portal. Wait for the official press release in early May.**
+
+Applicants are responsible for checking the criteria in the different schools before the submission of their applicants. Criteria will differ.
+
+**SUBMISSION OF APPLICATIONS**
+
+1.  **Cost** - No Fees are charged
+2.  **Choices**
+- An applicant can indicate up to three choices
+- Each choice consists of a secondary school and a talent area offered by that secondary school.
+
+	**Maximum choices for each DSA-Sec school**
+- Of the three choices, an applicant may use a maximum of two choices to apply to the same school, for two different talent areas of that school.
+
+	**Dual-Track schools**
+- If a talent area is offered for both the O-Level and Integrated Programme (IP) is a dual-track school, applicants must indicate a preference for (i) the O-Level Programme, (ii) the Integrated Programmet, or (iii) no preference (open to both).
+
+
+
 <a name="OURTALENTAREAS"></a> 
-**C.&nbsp;OUR TALENT AREAS**   
+**D.&nbsp;OUR TALENT AREAS**   
 [Back to Top](#Backtotop)
 
 **LEADERSHIP**
