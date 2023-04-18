@@ -7,7 +7,7 @@ third_nav_title: Secondary Admission
 <a name="Backtotop"></a>
 # **Direct School Admission**
 
-[Introduction](#INTRODUCTION)  |  [DSA Options in SCGS](#DSAOPTIONSINSCGS) | [Application Procedure](#APPLICATIONPROCEDURE) | [Talent Areas](#OURTALENTAREAS) | [Eligibility](#ELIGIBILITY) | [Important Reminders](#IMPORTANTREMINDERS) 
+[Introduction](#INTRODUCTION)  |  [DSA Options in SCGS](#DSAOPTIONSINSCGS) | [Application Procedure](#APPLICATIONPROCEDURE) | [Eligibility](#ELIGIBILITY) | [Important Reminders](#IMPORTANTREMINDERS) | [Talent Areas](#OURTALENTAREAS) 
 
 
 **DIRECT SCHOOL ADMISSION EXERCISE 2023**
