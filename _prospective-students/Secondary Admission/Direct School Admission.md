@@ -72,11 +72,11 @@ Parents may log in directly to DSA-Sec Portal. Only one parent’s Singpass is r
 b.&nbsp;**Applicants NOT studying in MOE mainstream primary schools**  
 A Registration Number (RGxxxxxxx) is required. This is applicable for homeschoolers, returning Singaporeans, religious school students, international students and other students not studying in Mainstream primary schools.
 
-Parents may apply for a Registration Number (RGxxxxxxx) to access the DSA-Sec Portal at the MOE website at:&nbsp;[https://go.gov.sg/nmsdsa-sec-application.](https://go.gov.sg/nmsdsa-sec-application.)
+Parents may apply for a Registration Number (RGxxxxxxx) to access the DSA-Sec Portal at the MOE website. 
+Visit the MOE Website [FAQ Page.](https://www.moe.gov.sg/faq?categoryid=FD36A5CE93E74E11B907D5EB5954E676)
 
-Competition is strong and we have received many queries on students' chances of being selected. Students who do not have the experience and achievements specified may still apply, but chances of being shortlisted may be lower.
-
-Applicants are responsible for checking the criteria in the different schools before the submission of their applications. Criteria will differ. 
+Competition is strong and we have received many queries on students' chances of being selected. Meeting all the criteria does not guarantee the student will be shortlisted/given an offer.
+ 
 
 <a name="APPLICATIONPROCEDURE"></a>
 **E.&nbsp;APPLICATION PROCEDURE**    
