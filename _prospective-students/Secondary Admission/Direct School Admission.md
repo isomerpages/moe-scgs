@@ -22,6 +22,7 @@ third_nav_title: Secondary Admission
  
 The Direct School Admission Exercise allows students to seek admission into schools based on achievements and talents. SCGS seeks to admit such students based on a wide range of talents.  
 Competition is strong and students entering through DSA are expected to be proactive and sustain their interest to develop their talents through the opportunities offered. There is no priority through affiliation and all students seeking admission will be selected based on their achievements and talents in comparison to all applicants in the same category.  
+
 **Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ general academic and non-academic requirements, and the programmes available to develop the area of talent.**
 
 **Watch this site to register for our DSA Talks on Saturday 13 May!**
@@ -36,6 +37,15 @@ Singapore Chinese Girls’ School is a dual-track school offering both the 4-yea
 Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school and programme (4 years for the O-Level track or 6 years for the Integrated Programme) and participate in the activities related to the talent they are selected for from year 1-4.
 
 We seek to promote a culture of excellence in the holistic development of our students. We offer admission through DSA into the following programmes:
+
+
+
+| GCE O-Level Programme<br>(Years 1 - 4 in SCGS) | Integrated Programme<br>(Years 1 - 4 in SCGS,<br>Years 5 - 6 in Eunoia Junior College) | 
+| -------- | -------- |
+Leadership
+Co-Curricular Activities
+|     | Academic Talents
+
 
 | Programme 	| Areas of Talent 	|
 |---	|---	|
