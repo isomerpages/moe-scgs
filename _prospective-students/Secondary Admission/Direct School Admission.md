@@ -98,7 +98,7 @@ Parents may apply for a Registration Number (RGxxxxxxx) to access the DSA-Sec Po
 
 
 <a name="OURTALENTAREAS"></a> 
-**D.&nbsp;OUR TALENT AREAS**   
+**F.&nbsp;OUR TALENT AREAS**   
 [Back to Top](#Backtotop)
 
 **LEADERSHIP**
