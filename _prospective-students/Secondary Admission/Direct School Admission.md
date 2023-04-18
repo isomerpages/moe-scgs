@@ -25,7 +25,7 @@ Competition is strong and students entering through DSA are expected to be proac
 
 **Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ general academic and non-academic requirements, and the programmes available to develop the area of talent.**
 
-**Join us at our online DSA Engagement Q &amp; A session on Saturday 13 May at 9am or 11.15am. Register [here!](https://go.gov.sg/2023scgsengagement) **
+**Join us at our online DSA Engagement Q &amp; A session on Saturday 13 May at 9am or 11.15am. Register [here!](https://go.gov.sg/2023scgsdsaengagement) **
 
 <a name="DSAOPTIONSINSCGS"></a>
 **B.&nbsp;DSA OPTIONS IN SCGS**    
