@@ -40,17 +40,12 @@ We seek to promote a culture of excellence in the holistic development of our st
 
 
 
-| GCE O-Level Programme<br>(Years 1 - 4 in SCGS) | Integrated Programme<br>(Years 1 - 4 in SCGS,<br>Years 5 - 6 in Eunoia Junior College) | 
+| GCE O-Level Programme<br>(Years 1 - 4 in SCGS) | Integrated Programme<br>(Years 1 - 4 in SCGS,<br>Years 5 - 6 in Eunoia Junior College) 
 | -------- | -------- |
-Leadership
-Co-Curricular Activities
-|     | Academic Talents
+|     | Leadership     |
+|     | Co-Curricular Activities     |
+|     | Academic Talents     |
 
-
-| Programme 	| Areas of Talent 	|
-|---	|---	|
-| 4-year GCE O-Level Programme 	| <b>Leadership</b><br>Students who have excellent leadership skills and are leaders in their Primary School<br><br><b>CCAs</b>(Sports, Performing Arts, Clubs) <br><br>Students with talents in one of the fifteen DSA Co-Curricular Activities  	|
-| 6-year Integrated Programme with Eunoia Junior College (Years 1 – 4 in SCGS and  Years 5 – 6 at Eunoia Junior College) 	| <b>Leadership</b><br><br>Students who have excellent leadership skills and are leaders in their Primary School<br><br><b>CCAs</b> (Sports, Performing Arts, Clubs) <br><br>Students with talents in one of the fifteen DSA Co-Curricular Activities <br><br><b>Specific Academic Talents</b><br><br>Students who have specific academic talents may apply for DSA into the Integrated Programme.   	|
 
 <a name="APPLICATIONPROCEDURE"></a>
 **C.&nbsp;APPLICATION PROCEDURE**    
