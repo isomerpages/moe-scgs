@@ -107,61 +107,19 @@ We offer admission into SCGS through the following talents:
 | Categories | Areas of Talent |
 | -------- | -------- | 
 | Academic     | Chinese Language<br>English Language<br> Malay Language<br> Mathematics<br>Science<br>Tamil Language
-| Clubs and Societies     | Robotics
+| Clubs and Societies     | Robotics 
+| Sports     | Artistic Gymnastics<br>Artistic Swimming<br>Badminton<br>Basketball<br>Netball<br>Squash<br>Swimming<br>Tennis<br>Trampoline
+| Performing Arts    | Chinese Drama<br>Choir<br>Concert Band (not Chinese Orchestra)<br>English Drama<br>Handbell Ensemble<br>Modern Dance<br>String Ensemble 
+| Student Development    | Leadership
+
+
+**All applicants are responsible for checking the criteria in the different schools before the submission of their applications. Criteria will differ. Omission of items required may be detrimental to your application.**
 
 
 
-**LEADERSHIP**
+**Please click&nbsp;[here](https://go.gov.sg/scgsdsahomepage)&nbsp;to visit our DSA microsite.**
 
-Students currently in leadership positions who can be further stretched.&nbsp;
+**Watch this site to register for our DSA Talks on Saturday 13 May!**&nbsp;
 
-**CLUBS &amp; SOCIETIES**
-
-Robotics&nbsp;
-
-**PERFORMING ARTS**
-
-1.  Chinese Drama
-2.  Choir
-3.  Concert Band \[Not Chinese Orchestra\]
-4.  English Drama
-5.  Handbell Ensemble
-6.  Modern Dance
-7.  String Ensemble&nbsp;
-
-**SPORTS**
-
-1.  Artistic Gymnastics
-2.  Artistic Swimming
-3.  Badminton
-4.  Basketball
-5.  Netball
-6.  Squash
-7.  Swimming&nbsp;
-8.  Tennis
-9.  Trampoline
-
-**ACADEMIC TALENTS (valid for entry into the Integrated Programme only)**
-
-1.  Chinese Language
-2.  English Language
-3.  Malay Language
-4.  Tamil Language
-5.  Mathematics
-6.  &nbsp;Science
-
-For more information on the Talent Areas and our CCAs,&nbsp;**please click&nbsp;[here](https://go.gov.sg/scgsdsahomepage)&nbsp;for our DSA microsite.**
-
-**Join us at our DSA Engagement Q&amp;A session on 21 May 2022 (Sat).**&nbsp;
-
-Registration will begin in early May.
-
-| Areas of Talent 	| Key Opportunities for Students 	|
-|---	|---	|
-| Leadership 	| ● Student leadership opportunities abound in SCGS, with positions such as Class Representatives, Peer Leaders, Youth Science Ambassadors and Young Docents. We seek to develop students to be leaders in any area they are committed to and to lead by example in bringing any group they are members of to a higher level of attainment.<br><br>● More outstanding students may be elected into positions such as the Prefectorial Board, or at the executive levels in their CCAs. All such potential nominees are subject to stringent criteria and an electoral process.<br><br>● For IP students at the Upper Secondary level, enrolment in the Leadership Academy is an option. 	|
-| Co-Curricular Activities (Sports, Performing Arts &amp; Societies) 	| ● Sports and Performing Arts CCAs: students will work towards representing the school at zonal and national level competitions and events (eg: National School Games, Singapore Youth Festival Arts Presentations) as well as public performances<br><br>● Infocomm Club (Robotic section): students will work towards representing the school at zonal and national level competitions (eg. First Lego League (FLL), National Robotics Programming Competition (NRPC))<br>  	|
-| Academic Talents 	| ● Students will work towards representing the school at local programmes and competitions. Examples are as follows:<br><br>○ English Language: Programmes such as Future Problem Solving, the Creative Arts and Writing Mentorship Programmes.<br><br>○ Chinese Language: River Hongbao Docents Programme, Bicultural Studies Programme and Language Skills Competitions<br><br>○ Malay Language: Rakan Bahasa Ambassadors, Poetry Writing and Recital Competitions, National Malay Language Competitions<br><br>○ Tamil Language: National Elective Tamil Language Programme, Creative writing<br><br>○ Mathematics: Competitions such as the Singapore Mathematical Olympiad (SMO)<br><br>○ Science: Science mentorship programmes, Youth Science Ambassadors Programme, competitions and Olympiads 	|
-
-_In addition to the above, we constantly look for suitable platforms for students to participate in to develop and showcase their talents. Actual activities may vary according to opportunities and circumstances._
 
 [Back to Top](#Backtotop)
