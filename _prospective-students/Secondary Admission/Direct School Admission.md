@@ -78,6 +78,9 @@ A Registration Number (RGxxxxxxx) is required. This is applicable for homeschool
 
 Parents may apply for a Registration Number (RGxxxxxxx) to access the DSA-Sec Portal at the MOE website at:&nbsp;[https://go.gov.sg/nmsdsa-sec-application.](https://go.gov.sg/nmsdsa-sec-application.)
 
+Competition is strong and we have received many queries on students' chances of being selected. Students who do not have the experience and achievements specified may still apply, but chances of being shortlisted may be lower.
+
+Applicants are responsible for checking the criteria in the different schools before the submission of their applications. Criteria will differ. 
 
 
 <a name="IMPORTANTREMINDERS"></a> 
