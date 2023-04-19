@@ -120,8 +120,4 @@ Applicants are responsible for checking the criteria in the different schools be
 
 
 
-**Please click&nbsp;[here](https://go.gov.sg/scgsdsahomepage)&nbsp;to visit our DSA microsite.**
-
-
-
 [Back to Top](#Backtotop)
