@@ -22,7 +22,7 @@ third_nav_title: Primary
 |  	| [Mrs Sree-Tan Mei Yin](tan_mei_yin_a@moe.edu.sg) 	| Mathematics 	|
 | **Subject Head** 	| [Mrs Ng Wen Tirng](mailto:yang_wen_tirng@moe.edu.sg) 	| Aesthetics 	|
 |  	| [Ms Melissa Sin](mailto:sin_yue_ting_melissa@moe.edu.sg) 	| Information Technology 	|
-|  	| [Mdm Prema Suresh](mailto:prema_prabhakaran@moe.edu.sg) 	| Discipline 	|
+|  	| [Mdm Prema Suresh](mailto:prema_suresh@moe.edu.sg) 	| Discipline 	|
 |  	| [Miss Wong See Wan](mailto:wong_see_wan@moe.edu.sg) 	| Special Projects 	|
 | **Year Head** 	| [Miss Goh Ai Ling](mailto:goh_ai_ling@moe.edu.sg) 	| Upper Primary 	|
 |  	| [Mdm Shuhaila Sidik](mailto:shuhaila_sidik@moe.edu.sg) 	| Mid Primary 	|
@@ -69,8 +69,8 @@ third_nav_title: Primary
 |  	| Prudence 	| [Mrs Eng Ke-Ying](mailto:chua_ke_ying@moe.edu.sg) 	| [Miss Wong See Wan](mailto:wong_see_wan@moe.edu.sg) 	|
 | **Learning Support<br>Co-ordinator** 	|  	| [Mrs Marion Tan](mailto:marion_winings@moe.edu.sg) 	|  	|
 | **Counsellor** 	|  	| [Ms Susan Yeow](mailto:yeow_mei_mei_susan@moe.edu.sg)<br><br>[Ms Lee Guat Keow](mailto:lee_guat_keow@moe.edu.sg) 	|  	|
-| **AED (Learning & Behavioural Support)** 	|  	| [Miss Tay Shi Li](mailto:tay_shi_li@moe.edu.sg)<br><br>[Miss Lim Jing Fen](mailto:lim_jing_fen@moe.edu.sg) 	|  	|
-| **AED (Teaching & Learning)** 	|  	| [Mdm Sarimah Sarif](mailto:sarimah_sarif@moe.edu.sg)<br><br>[Mdm Nurhafizah Fadzilah](mailto:nurhafizah_haris_fadzilah@moe.edu.sg) 	|  	|
+| **AED (Learning &amp; Behavioural Support)** 	|  	| [Miss Tay Shi Li](mailto:tay_shi_li@moe.edu.sg)<br><br>[Miss Lim Jing Fen](mailto:lim_jing_fen@moe.edu.sg) 	|  	|
+| **AED (Teaching &amp; Learning)** 	|  	| [Mdm Sarimah Sarif](mailto:sarimah_sarif@moe.edu.sg)<br><br>[Mdm Nurhafizah Fadzilah](mailto:nurhafizah_haris_fadzilah@moe.edu.sg) 	|  	|
 
 
 | NON-FORM TEACHERS 	|
