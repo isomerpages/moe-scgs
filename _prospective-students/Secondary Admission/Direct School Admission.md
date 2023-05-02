@@ -138,8 +138,7 @@ Applicants are responsible for checking the criteria in the different schools be
 ![](/images/criteria%20-%2013%20performing%20arts.PNG)
 ![](/images/criteria%20-%2014%20performing%20arts.PNG)
 ![](/images/criteria%20-%2015%20academic%20talent.PNG)
-
-
+![](/images/criteria%20-%2016%20academic%20talent.PNG)
 
 
 
