@@ -7,8 +7,8 @@ third_nav_title: Secondary Admission
 <a name="Backtotop"></a>
 # **Direct School Admission**
 
-[Introduction](#INTRODUCTION)  |  [DSA Options in SCGS](#DSAOPTIONSINSCGS) | [Talent Areas](#OURTALENTAREAS) | [Eligibility](#ELIGIBILITY) | [Application Procedure](#APPLICATIONPROCEDURE)  | [Important Reminders](#IMPORTANTREMINDERS)
-
+[A. Introduction](#INTRODUCTION)  |  [B. DSA Options in SCGS](#DSAOPTIONSINSCGS) | [C. Talent Areas](#OURTALENTAREAS) | [D. Eligibility](#ELIGIBILITY) | [E. Application Procedure](#APPLICATIONPROCEDURE)  | [F. Important Reminders](#IMPORTANTREMINDERS)
+| [G. Criteria for our Talent Areas](#CRITERIAFOROURTALENTAREAS)
 
 **DIRECT SCHOOL ADMISSION EXERCISE 2023**
 
@@ -117,6 +117,11 @@ Applicants are responsible for checking the criteria in the different schools be
     Students admitted to the school via DSA are expected to honour their commitment to the school and programme and participate in the activities related to the talent they are selected for from year 1-4.
     
 3.  **Scholarships &amp; Financial Assistance.**&nbsp;No one deserving of a place in the school should be discouraged because of financial considerations. Financial assistance schemes and awards are in place to support talented students. All students interested in an SCGS education and who can see their talents advanced at SCGS should apply. Do not let fees deter you from applying to us for DSA or accepting an offer of admission.
+
+
+<a name="CRITERIAFOROURTALENTAREAS"></a> 
+**G.&nbsp;CRITERIA FOR OUR TALENT AREAS:**    
+[Back to Top](#Backtotop)
 
 
 
