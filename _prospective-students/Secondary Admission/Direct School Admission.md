@@ -128,6 +128,13 @@ Applicants are responsible for checking the criteria in the different schools be
 ![](/images/criteria%20-%203%20sports.PNG)
 ![](/images/criteria%20-%204%20performing%20arts.PNG)
 ![](/images/criteria%20-%205%20performing%20arts.PNG)
+![](/images/criteria%20-%206%20performing%20arts_1.PNG)
+![](/images/criteria%20-%207%20performing%20arts.PNG)
+![](/images/criteria%20-%208%20performing%20arts.PNG)
+![](/images/criteria%20-%209%20performing%20arts.PNG)
+![](/images/criteria%20-%2010%20performing%20arts.PNG)
+
+
 
 
 
