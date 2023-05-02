@@ -123,6 +123,10 @@ Applicants are responsible for checking the criteria in the different schools be
 **G.&nbsp;CRITERIA FOR OUR TALENT AREAS:**    
 [Back to Top](#Backtotop)
 
+![](/images/criteria%20-%201.PNG)
+![](/images/criteria%20-%202.PNG)
+![](/images/criteria%20-%203.PNG)
+
 
 
 [Back to Top](#Backtotop)
