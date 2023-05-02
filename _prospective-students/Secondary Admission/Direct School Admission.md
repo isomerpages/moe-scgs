@@ -150,5 +150,7 @@ Applicants are responsible for checking the criteria in the different schools be
 ![](/images/schedule%20-%203.PNG)
 ![](/images/schedule%20-%204.PNG)
 
+*Download the document here for your reference.*
+
 
 [Back to Top](#Backtotop)
