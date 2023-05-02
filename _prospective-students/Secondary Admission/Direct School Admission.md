@@ -145,6 +145,10 @@ Applicants are responsible for checking the criteria in the different schools be
 **H.&nbsp;SCHEDULE FOR TESTS, TRIALS AND AUDITIONS:**    
 [Back to Top](#Backtotop)
 
+![](/images/schedule%20-%201.PNG)
+![](/images/schedule%20-%202.PNG)
+![](/images/schedule%20-%203.PNG)
+![](/images/schedule%20-%204.PNG)
 
 
 [Back to Top](#Backtotop)
