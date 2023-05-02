@@ -8,7 +8,7 @@ third_nav_title: Secondary Admission
 # **Direct School Admission**
 
 [A. Introduction](#INTRODUCTION)  |  [B. DSA Options in SCGS](#DSAOPTIONSINSCGS) | [C. Talent Areas](#OURTALENTAREAS) | [D. Eligibility](#ELIGIBILITY) | [E. Application Procedure](#APPLICATIONPROCEDURE)  | [F. Important Reminders](#IMPORTANTREMINDERS)
-| [G. Criteria for our Talent Areas](#CRITERIAFOROURTALENTAREAS)
+| [G. Criteria for our Talent Areas](#CRITERIAFOROURTALENTAREAS) | [H. Schedule for Tests, Trials and Auditions](#SCHEDULEFORTESTSTRIALSAUDITIONS)
 
 **DIRECT SCHOOL ADMISSION EXERCISE 2023**
 
@@ -141,7 +141,9 @@ Applicants are responsible for checking the criteria in the different schools be
 ![](/images/criteria%20-%2016%20academic%20talent.PNG)
 
 
-
+<a name="SCHEDULEFORTESTSTRIALSAUDITIONS"></a> 
+**H.&nbsp;SCHEDULE FOR TESTS, TRIALS AND AUDITIONS:**    
+[Back to Top](#Backtotop)
 
 
 
