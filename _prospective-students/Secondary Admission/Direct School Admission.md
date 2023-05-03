@@ -150,7 +150,8 @@ Applicants are responsible for checking the criteria in the different schools be
 ![](/images/schedule%20-%203.PNG)
 ![](/images/schedule%20-%204.PNG)
 
-[![DSA Document](/images/schedule%20-%205_1.PNG)](/files/scgs%20dsa%20info%20sheet%202023.pdf)
+[![DSA Document](/images/schedule%20-%205_1.PNG)](/files/2023%20scgs%20dsa%20info%20sheet.pdf)
+[]
 
 
 
