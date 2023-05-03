@@ -7,8 +7,8 @@ third_nav_title: Secondary Admission
 <a name="Backtotop"></a>
 # **Direct School Admission**
 
-[Introduction](#INTRODUCTION)  |  [DSA Options in SCGS](#DSAOPTIONSINSCGS) | [Talent Areas](#OURTALENTAREAS) | [Eligibility](#ELIGIBILITY) | [Application Procedure](#APPLICATIONPROCEDURE)  | [Important Reminders](#IMPORTANTREMINDERS)
-
+[A. Introduction](#INTRODUCTION)  |  [B. DSA Options in SCGS](#DSAOPTIONSINSCGS) | [C. Talent Areas](#OURTALENTAREAS) | [D. Eligibility](#ELIGIBILITY) | [E. Application Procedure](#APPLICATIONPROCEDURE)  | [F. Important Reminders](#IMPORTANTREMINDERS)
+| [G. Criteria for our Talent Areas](#CRITERIAFOROURTALENTAREAS) | [H. Schedule for Tests, Trials and Auditions](#SCHEDULEFORTESTSTRIALSAUDITIONS)
 
 **DIRECT SCHOOL ADMISSION EXERCISE 2023**
 
@@ -117,6 +117,42 @@ Applicants are responsible for checking the criteria in the different schools be
     Students admitted to the school via DSA are expected to honour their commitment to the school and programme and participate in the activities related to the talent they are selected for from year 1-4.
     
 3.  **Scholarships &amp; Financial Assistance.**&nbsp;No one deserving of a place in the school should be discouraged because of financial considerations. Financial assistance schemes and awards are in place to support talented students. All students interested in an SCGS education and who can see their talents advanced at SCGS should apply. Do not let fees deter you from applying to us for DSA or accepting an offer of admission.
+
+
+<a name="CRITERIAFOROURTALENTAREAS"></a> 
+**G.&nbsp;CRITERIA FOR OUR TALENT AREAS:**    
+[Back to Top](#Backtotop)
+
+![](/images/criteria%20-%201.PNG)
+![](/images/criteria%20-%202.PNG)
+![](/images/criteria%20-%203%20sports.PNG)
+![](/images/criteria%20-%204%20performing%20arts.PNG)
+![](/images/criteria%20-%205%20performing%20arts.PNG)
+![](/images/criteria%20-%206%20performing%20arts_1.PNG)
+![](/images/criteria%20-%207%20performing%20arts.PNG)
+![](/images/criteria%20-%208%20performing%20arts.PNG)
+![](/images/criteria%20-%209%20performing%20arts.PNG)
+![](/images/criteria%20-%2010%20performing%20arts.PNG)
+![](/images/criteria%20-%2011%20performing%20arts.PNG)
+![](/images/criteria%20-%2012%20performing%20arts.PNG)
+![](/images/criteria%20-%2013%20performing%20arts.PNG)
+![](/images/criteria%20-%2014%20performing%20arts.PNG)
+![](/images/criteria%20-%2015%20academic%20talent.PNG)
+![](/images/criteria%20-%2016%20academic%20talent.PNG)
+
+
+<a name="SCHEDULEFORTESTSTRIALSAUDITIONS"></a> 
+**H.&nbsp;SCHEDULE FOR TESTS, TRIALS AND AUDITIONS:**    
+[Back to Top](#Backtotop)
+
+![](/images/schedule%20-%201.PNG)
+![](/images/schedule%20-%202.PNG)
+![](/images/schedule%20-%203.PNG)
+![](/images/schedule%20-%204.PNG)
+[![DSA Document](/images/schedule%20-%205_1.PNG)](/files/scgs%20dsa%20info%20sheet%202023%20(final).pdf)
+
+
+
 
 
 
