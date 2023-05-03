@@ -83,7 +83,7 @@ Competition is strong and we have received many queries on students' chances of 
 **E.&nbsp;APPLICATION PROCEDURE**    
 [Back to Top](#Backtotop)
 
-**The DSA Exercise is centralised. All participants must be submitted through MOE's online DSA-Sec Portal. Wait for the official press release in early May.**
+**The DSA Exercise is centralised. All participants must be submitted through [MOE's online DSA-Sec Portal.](https://www.moe.gov.sg/secondary/dsa/application) Wait for the official press release in early May.**
 
 Applicants are responsible for checking the criteria in the different schools before the submission of their applicants. Criteria will differ.
 
