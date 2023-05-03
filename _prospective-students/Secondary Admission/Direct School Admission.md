@@ -83,7 +83,7 @@ Competition is strong and we have received many queries on students' chances of 
 **E.&nbsp;APPLICATION PROCEDURE**    
 [Back to Top](#Backtotop)
 
-**The DSA Exercise is centralised. All participants must be submitted through MOE's online DSA-Sec Portal. Wait for the official press release in early May.**
+**The DSA Exercise is centralised. All participants must be submitted through [MOE's online DSA-Sec Portal.](https://www.moe.gov.sg/secondary/dsa/application) Wait for the official press release in early May.**
 
 Applicants are responsible for checking the criteria in the different schools before the submission of their applicants. Criteria will differ.
 
@@ -136,7 +136,7 @@ Applicants are responsible for checking the criteria in the different schools be
 ![](/images/criteria%20-%2011%20performing%20arts.PNG)
 ![](/images/criteria%20-%2012%20performing%20arts.PNG)
 ![](/images/criteria%20-%2013%20performing%20arts.PNG)
-![](/images/criteria%20-%2014%20performing%20arts.PNG)
+![](/images/string.PNG)
 ![](/images/criteria%20-%2015%20academic%20talent.PNG)
 ![](/images/criteria%20-%2016%20academic%20talent.PNG)
 
@@ -149,8 +149,8 @@ Applicants are responsible for checking the criteria in the different schools be
 ![](/images/schedule%20-%202.PNG)
 ![](/images/schedule%20-%203.PNG)
 ![](/images/schedule%20-%204.PNG)
-[![DSA Document](/images/schedule%20-%205_1.PNG)](/files/scgs%20dsa%20info%20sheet%202023%20(final).pdf)
 
+[![DSA Document](/images/schedule%20-%205_1.PNG)](/files/scgs%20dsa%20info%20sheet%202023.pdf)
 
 
 
