@@ -40,7 +40,8 @@ Students who are successfully admitted to the school via DSA are expected to hon
 We seek to promote a culture of excellence in the holistic development of our students. We offer admission through DSA into the following programmes:
 
 
-![](/images/dsa%202023.PNG)
+![](/images/dsafinal.PNG)
+
 
 <a name="OURTALENTAREAS"></a> 
 **C.&nbsp;OUR TALENT AREAS**   
