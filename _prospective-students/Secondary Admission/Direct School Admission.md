@@ -42,6 +42,8 @@ We seek to promote a culture of excellence in the holistic development of our st
 
 ![](/images/dsafinal.PNG)
 
+Find out more about our school and our programmes at our [DSA Microsite](https://go.gov.sg/2023dsamicrosite)!
+
 
 <a name="OURTALENTAREAS"></a> 
 **C.&nbsp;OUR TALENT AREAS**   
@@ -119,7 +121,6 @@ Applicants are responsible for checking the criteria in the different schools be
     
 3.  **Scholarships &amp; Financial Assistance.**&nbsp;No one deserving of a place in the school should be discouraged because of financial considerations. Financial assistance schemes and awards are in place to support talented students. All students interested in an SCGS education and who can see their talents advanced at SCGS should apply. Do not let fees deter you from applying to us for DSA or accepting an offer of admission.
 
-Find out more about our school and our programmes at our [DSA Microsite](https://go.gov.sg/2023dsamicrosite)!
 
 <a name="CRITERIAFOROURTALENTAREAS"></a> 
 **G.&nbsp;CRITERIA FOR OUR TALENT AREAS:**    
