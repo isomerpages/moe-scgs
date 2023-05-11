@@ -33,14 +33,15 @@ Competition is strong and students entering through DSA are expected to be proac
 [Back to Top](#Backtotop)
 
 
-Singapore Chinese Girls’ School is a dual-track school offering both the 4-year GCE O-Level Programme and the 6-year Integrated Programme in partnership with Eunoia Junior College.
+Singapore Chinese Girls’ School is a dual-track school offering both the 4-year SEC Programme and the 6-year Integrated Programme in partnership with Eunoia Junior College.
 
-Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school and programme (4 years for the O-Level track or 6 years for the Integrated Programme) and participate in the activities related to the talent they are selected for from year 1-4.
+Students who are successfully admitted to the school via DSA are expected to honour their commitment to the school and programme (4 years for the SEC Programme or 6 years for the Integrated Programme) and participate in the activities related to the talent they are selected for from year 1-4.
 
 We seek to promote a culture of excellence in the holistic development of our students. We offer admission through DSA into the following programmes:
 
 
-![](/images/dsa%202023.PNG)
+![](/images/dsafinal.PNG)
+
 
 <a name="OURTALENTAREAS"></a> 
 **C.&nbsp;OUR TALENT AREAS**   
@@ -98,7 +99,7 @@ Applicants are responsible for checking the criteria in the different schools be
 - Of the three choices, an applicant may use a maximum of two choices to apply to the same school, for two different talent areas of that school.
 
 	**Dual-Track schools**
-- If a talent area is offered for both the O-Level and Integrated Programme (IP) is a dual-track school, applicants must indicate a preference for (i) the O-Level Programme, (ii) the Integrated Programmet, or (iii) no preference (open to both).
+- If a talent area is offered for both the SEC and Integrated Programme (IP) is a dual-track school, applicants must indicate a preference for (i) the SEC Programme, (ii) the Integrated Programme, or (iii) no preference (open to both).
 
 
 
@@ -118,10 +119,13 @@ Applicants are responsible for checking the criteria in the different schools be
     
 3.  **Scholarships &amp; Financial Assistance.**&nbsp;No one deserving of a place in the school should be discouraged because of financial considerations. Financial assistance schemes and awards are in place to support talented students. All students interested in an SCGS education and who can see their talents advanced at SCGS should apply. Do not let fees deter you from applying to us for DSA or accepting an offer of admission.
 
+Find out more about our school and our programmes at our [DSA Microsite](https://go.gov.sg/2023dsamicrosite)!
 
 <a name="CRITERIAFOROURTALENTAREAS"></a> 
 **G.&nbsp;CRITERIA FOR OUR TALENT AREAS:**    
 [Back to Top](#Backtotop)
+
+Find out more about our school and our programmes at our [DSA Microsite](https://go.gov.sg/2023dsamicrosite)!
 
 ![](/images/criteria%20-%201.PNG)
 ![](/images/criteria%20-%202.PNG)
