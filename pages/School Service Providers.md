@@ -41,4 +41,4 @@ Note: An additional charge is payable for uniforms that are made-to-measure.
 Revolving Transport Pte Ltd  
 141 Middle Road #06-06 GSM Building  
 Singapore 188976  
-Kindly contact Mr Lawrence Saw at HP : 9747-3292 if you have queries.
+Kindly contact Ms Jeccy at HP : 9090-9277 if you have queries.
