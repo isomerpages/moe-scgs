@@ -4,7 +4,7 @@ permalink: /our-people/staff/primary/exec-and-admin-staff/
 description: ""
 third_nav_title: Primary
 ---
-# **Executive & Administrative Staff**
+# **Executive &amp; Administrative Staff**
 
 |  	|  	|
 |---	|---	|
@@ -18,5 +18,4 @@ third_nav_title: Primary
 | **Librarian** 	| Mdm Padmah Swaminathan 	|
 | **ICT Desktop Engineers** 	| Mdm Tan Xiao Ting<br>Mr Ruzaini 	|
 | **Teacher Aide**  	| Miss Visalatchi d/o Awani Paspathy 	|
-| **Office Attendant**  	| Mdm Linda Ooi 	|
 | **School Attendants**  	| Mdm Sahida Bee d/o Mydin Pitchay<br>Mdm Yeo Yeng Hoong<br>Ms Lim Poh Choo<br>Ms Ong Meow Tin Vicky 	|
