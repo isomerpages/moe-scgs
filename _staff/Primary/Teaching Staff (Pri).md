@@ -18,7 +18,6 @@ third_nav_title: Primary
 | **School Staff Developer** 	| [Dr Jesmine Tan](mailto:jesmine_tan@moe.edu.sg) 	|  	|
 | **Level Head** 	| [Mrs Cindy Liao](mailto:woon_li_rong_cindy@moe.edu.sg) 	| English Language 	|
 |  	| [Miss Tan Hong Peng Shirley](mailto:tan_hong_peng_shirley@moe.edu.sg) 	| Mother Tongue Languages 	|
-|  	| [Mrs Joyce Eio](mailto:zhuang_huining_joyce@moe.edu.sg) 	| Science 	|
 |  	| [Mrs Sree-Tan Mei Yin](tan_mei_yin_a@moe.edu.sg) 	| Mathematics 	|
 | **Subject Head** 	| [Mrs Ng Wen Tirng](mailto:yang_wen_tirng@moe.edu.sg) 	| Aesthetics 	|
 |  	| [Ms Melissa Sin](mailto:sin_yue_ting_melissa@moe.edu.sg) 	| Information Technology 	|

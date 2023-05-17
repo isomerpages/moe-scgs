@@ -2,5 +2,4 @@ collections:
   our-people:
     output: true
     order:
-      - Organisation Chart.md
       - Board of Directors.md
