@@ -41,8 +41,8 @@ third_nav_title: Secondary
 | Senior Manager (Operations) 	| [Mrs Elaine Tan](mailto:ee_chwee_ming_elaine@moe.edu.sg) 	|
 | Senior Technical Specialist (Operations) 	| [Mr Kelvin Tan](mailto:kelvin_tan_chin_wee@moe.edu.sg) 	|
 | **Science Lab** 	|  	|
-| Senior Specialist (Science Lab) 	| [Miss&nbsp;Lee Yee Mei](mailto:lee_yee_mei@moe.edu.sg) 	|
-| Specialist (Science Lab) 	| [Ms Wong Yim Ling](mailto:wong_yim_ling@moe.edu.sg) 	<br><br>[Miss Atiqah Bte Elmi](mailto:nur_atiqah_elmi@moe.edu.sg) |
+| Senior Specialist (Science Lab) 	| [Miss&nbsp;Lee Yee Mei](mailto:lee_yee_mei@moe.edu.sg) <br><br> [Ms Wong Yim Ling](mailto:wong_yim_ling@moe.edu.sg)	|
+| Specialist (Science Lab) 	| [Miss Atiqah Bte Elmi](mailto:nur_atiqah_elmi@moe.edu.sg) |
 | Attendant (Science Lab) 	| [Mrs Soh Lim Bee Lean](mailto:lim_bee_lean@sec.scgs.edu.sg) <br><br>[Ms Lim Ang Neo](mailto:lim_ang_neo@sec.scgs.edu.sg) 
 |
 | **Teacher Aides** 	|  	|
