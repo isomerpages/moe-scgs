@@ -11,7 +11,7 @@ third_nav_title: Secondary
 | **Deans** | [Miss Audrey Tan](mailto:tan_lee_lian_audrey@moe.edu.sg) | Student Services |
 | | [Mrs Chan Sock Har](mailto:lim_sock_har@moe.edu.sg) | Studies 1 |
 | | [Mrs Amanda Chia](mailto:Amanda_Sim@moe.edu.sg) | Studies 2 | 
-| | [Mrs Fei May Bowness](mailto:wong_fei_may@moe.edu.sg) | Student Development |
+| |  | Student Development |
 | **Heads of Department** | | | | 
 | | [Miss Adeline Tan](mailto:tan_li_jen_adeline@moe.edu.sg) | Aesthetics |
 | | [Mrs Grace Chui](mailto:grace_tan_kok_eng@moe.edu.sg) | Character and Citizenship Education |
