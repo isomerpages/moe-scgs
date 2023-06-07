@@ -64,7 +64,7 @@ third_nav_title: Secondary
 | Diligence | [Ms Teo Wen Fei](mailto:teo_wen_fei@moe.edu.sg) | [Mdm Lim Chan Ching](mailto:lim_chan_ching@moe.edu.sg) |
 | Courage | [Miss Deborah Gan](mailto:deborah_gan_li_chuen@moe.edu.sg) | [Miss Jace Yeoh](mailto:yeoh_wah_ping@moe.edu.sg) |
 | **Secondary 3** |     |      | 
-|Sincerity | [Mrs Vivian Tan](mailto:low_vivian@moe.edu.sg) | [Mdm Kavita Gill](mailto:kavita_deep_kaur_hundal@moe.edu.sg) |
+|Sincerity | [Mrs Vivian Tan](mailto:low_vivian@moe.edu.sg) | [Mdm Kavita Hundal](mailto:kavita_deep_kaur_hundal@moe.edu.sg) |
 | Service | [Mrs Jayne Tan](mailto:jayne_ruth_lim_ying@moe.edu.sg) | [Mrs Kho Chiou Yann](mailto:lim_chiou_yann@moe.edu.sg) |
 | Prudence | [Ms Irfana](mailto:irfana_begum_shaik_fareed@moe.edu.sg) | [Mrs Rosemay Song](mailto:rosemary_tang@moe.edu.sg) |
 | Perseverance | [Mrs Lena Low](mailto:lena_lim_a@moe.edu.sg) | [Mdm Hartini Hassan](mailto:hartini_hassan@moe.edu.sg)/[Mr Johari Khalil](mailto:johari_khalil@moe.edu.sg) |
