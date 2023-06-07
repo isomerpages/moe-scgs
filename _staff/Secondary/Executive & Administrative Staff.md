@@ -12,11 +12,11 @@ third_nav_title: Secondary
 | Vice Principal 	| [Mdm Ho&nbsp;Hui Ping](mailto:Ho_Hui_Ping@schools.gov.sg) 	|
 | Vice Principal (Administration) 	| [Mrs Shirlene Tieh](mailto:Shirlene_Kok@schools.gov.sg) 	|
 | **Admin/HR** 	|  	|
-| Manager (Admin &amp; HR) 	| [Ms Koh Bee Lian](mailto:koh_bee_lian_a@moe.edu.sg) 	|
+| Senior Manager (Admin) 	| [Ms Koh Bee Lian](mailto:koh_bee_lian_a@moe.edu.sg) 	|
 | Assistant Manager (Admin) 	| [Miss Rachel Lim](mailto:rachel_lim_hui_tin@moe.edu.sg) 	|
 | Executive (Admin) 	| [Ms Ang Baoying](mailto:ang_baoying@moe.edu.sg) 	|
 | Executive (Admin) 	| [Ms Rae Chem](mailto:chem_yu_qiu@moe.edu.sg) 	|
-| Executive (HR) 	| [Mr Aaron Chai](mailto:aaron_chai@moe.edu.sg) 	|
+| Senior Executive (HR) 	| [Mr Aaron Chai](mailto:aaron_chai@moe.edu.sg) 	|
 | Officer (Admin) 	| [Mrs Sandra Chandramohan](mailto:sandra_devi_nadarajan@moe.edu.sg) 	|
 | Office Attendant (Admin) 	| [Madam Sherilyn Ang ](mailto:ang_poh_gek_sherilyn@moe.edu.sg) 	|
 | **Aesthetics / PE / CCA** 	|  	|
