@@ -39,7 +39,7 @@ third_nav_title: Secondary
 | Librarian 	| [Miss Jesmine Goh](mailto:ChengHoon.Goh@staff.spydus.com.sg) 	|
 | **Operations** 	|  	|
 | Senior Manager (Operations) 	| [Mrs Elaine Tan](mailto:ee_chwee_ming_elaine@moe.edu.sg) 	|
-| Senior Technical Specialist (Operations) 	| [Mr Md Mulyani](mailto:mohamed_mulyani_samuri@moe.edu.sg)<br><br>[Mr Kelvin Tan](mailto:kelvin_tan_chin_wee@moe.edu.sg) 	|
+| Senior Technical Specialist (Operations) 	| [Mr Kelvin Tan](mailto:kelvin_tan_chin_wee@moe.edu.sg) 	|
 | **Science Lab** 	|  	|
 | Senior Specialist (Science Lab) 	| [Miss&nbsp;Lee Yee Mei](mailto:lee_yee_mei@moe.edu.sg) 	|
 | Specialist (Science Lab) 	| [Ms Wong Yim Ling](mailto:wong_yim_ling@moe.edu.sg) 	<br><br>[Miss Atiqah Bte Elmi](mailto:nur_atiqah_elmi@moe.edu.sg) |
