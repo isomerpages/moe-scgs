@@ -50,7 +50,7 @@ third_nav_title: Secondary
 |Service | [Mrs Fu Shin Yee](mailto:wong_shin_yee@moe.edu.sg) |  |
 | Prudence | [Mrs Justina Gan](mailto:foo_ai_chien_justina@moe.edu.sg) | [Mrs Cha Wai Mun](mailto:wong_wai_mun_a@moe.edu.sg) |
 | Perseverance | [Mrs Joan Yang](mailto:joan_chan_lee_hiang@moe.edu.sg) | [Mr Abdul Razak](mailto:abdul_razak@moe.edu.sg) |
-| Generosity | [Miss Kong Shiau Wei](mailto:kong_shiau_wei@moe.edu.sg) | [Ms Shirley Leung](mailto:shirley_leung_lai_ying@moe.edu.sg) |
+| Generosity | [Miss Kong Shiau Wei](mailto:kong_shiau_wei@moe.edu.sg) |  |
 | Grace | [Mrs Sophia Wong](mailto:cheng_jin_ting_sophia@moe.edu.sg) |  [Ms Anisha Johnson](mailto:anisha_anne_johnson@moe.edu.sg) |
 | Diligence | [Mr Zeng Wei](mailto:zeng_wei_1@moe.edu.sg) | [Mrs Audrey Wong](mailto:tan_mei_ling_audrey@moe.edu.sg)  |
 | Courage | [Mr Foo Chee Juan](mailto:foo_chee_juan@moe.edu.sg) | [Miss Yeo Li Yong](mailto:yeo_li_yong@moe.edu.sg) |
