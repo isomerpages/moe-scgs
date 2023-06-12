@@ -11,7 +11,7 @@ third_nav_title: Secondary
 | **Deans** | [Miss Audrey Tan](mailto:tan_lee_lian_audrey@moe.edu.sg) | Student Services |
 | | [Mrs Chan Sock Har](mailto:lim_sock_har@moe.edu.sg) | Studies 1 |
 | | [Mrs Amanda Chia](mailto:Amanda_Sim@moe.edu.sg) | Studies 2 | 
-| | [Mrs Fei May Bowness](mailto:wong_fei_may@moe.edu.sg) | Student Development |
+| |  | Student Development |
 | **Heads of Department** | | | | 
 | | [Miss Adeline Tan](mailto:tan_li_jen_adeline@moe.edu.sg) | Aesthetics |
 | | [Mrs Grace Chui](mailto:grace_tan_kok_eng@moe.edu.sg) | Character and Citizenship Education |
@@ -47,10 +47,10 @@ third_nav_title: Secondary
 |---	|---	|---	|
 | **Secondary 1** |     |     | 
 |Sincerity | [Mdm Phua Chia Ghee](mailto:phua_chia_ghee@moe.edu.sg) | [Mrs Parvathy Siva](mailto:parvathy_vegadasalam@moe.edu.sg) |
-|Service | [Mrs Fu Shin Yee](mailto:wong_shin_yee@moe.edu.sg) | [Mrs Chuah Shan Shan](mailto:ng_shan_shan@moe.edu.sg) |
+|Service | [Mrs Fu Shin Yee](mailto:wong_shin_yee@moe.edu.sg) |  |
 | Prudence | [Mrs Justina Gan](mailto:foo_ai_chien_justina@moe.edu.sg) | [Mrs Cha Wai Mun](mailto:wong_wai_mun_a@moe.edu.sg) |
 | Perseverance | [Mrs Joan Yang](mailto:joan_chan_lee_hiang@moe.edu.sg) | [Mr Abdul Razak](mailto:abdul_razak@moe.edu.sg) |
-| Generosity | [Miss Kong Shiau Wei](mailto:kong_shiau_wei@moe.edu.sg) | [Ms Shirley Leung](mailto:shirley_leung_lai_ying@moe.edu.sg) |
+| Generosity | [Miss Kong Shiau Wei](mailto:kong_shiau_wei@moe.edu.sg) |  |
 | Grace | [Mrs Sophia Wong](mailto:cheng_jin_ting_sophia@moe.edu.sg) |  [Ms Anisha Johnson](mailto:anisha_anne_johnson@moe.edu.sg) |
 | Diligence | [Mr Zeng Wei](mailto:zeng_wei_1@moe.edu.sg) | [Mrs Audrey Wong](mailto:tan_mei_ling_audrey@moe.edu.sg)  |
 | Courage | [Mr Foo Chee Juan](mailto:foo_chee_juan@moe.edu.sg) | [Miss Yeo Li Yong](mailto:yeo_li_yong@moe.edu.sg) |
@@ -64,7 +64,7 @@ third_nav_title: Secondary
 | Diligence | [Ms Teo Wen Fei](mailto:teo_wen_fei@moe.edu.sg) | [Mdm Lim Chan Ching](mailto:lim_chan_ching@moe.edu.sg) |
 | Courage | [Miss Deborah Gan](mailto:deborah_gan_li_chuen@moe.edu.sg) | [Miss Jace Yeoh](mailto:yeoh_wah_ping@moe.edu.sg) |
 | **Secondary 3** |     |      | 
-|Sincerity | [Mrs Vivian Tan](mailto:low_vivian@moe.edu.sg) | [Mdm Kavita Gill](mailto:kavita_deep_kaur_hundal@moe.edu.sg) |
+|Sincerity | [Mrs Vivian Tan](mailto:low_vivian@moe.edu.sg) | [Mdm Kavita Hundal](mailto:kavita_deep_kaur_hundal@moe.edu.sg) |
 | Service | [Mrs Jayne Tan](mailto:jayne_ruth_lim_ying@moe.edu.sg) | [Mrs Kho Chiou Yann](mailto:lim_chiou_yann@moe.edu.sg) |
 | Prudence | [Ms Irfana](mailto:irfana_begum_shaik_fareed@moe.edu.sg) | [Mrs Rosemay Song](mailto:rosemary_tang@moe.edu.sg) |
 | Perseverance | [Mrs Lena Low](mailto:lena_lim_a@moe.edu.sg) | [Mdm Hartini Hassan](mailto:hartini_hassan@moe.edu.sg)/[Mr Johari Khalil](mailto:johari_khalil@moe.edu.sg) |
@@ -88,5 +88,5 @@ third_nav_title: Secondary
 |  | [Mrs Gloria Cheng](mailto:gloria_cheng@moe.edu.sg)    | [Ms Koh Cixian Davilia](mailto:koh_cixian_davilia@moe.edu.sg) |
 |  | [Mrs Low Wee Leng](mailto:sim_wee_leng@moe.edu.sg)   | [Mdm Chong Jia Li](mailto:chong_jia_li@moe.edu.sg) |
 |  | [Mdm Loo Shek Kien](mailto:loo_shek_kien@moe.edu.sg)  | [Mrs Wong Bee Ting](mailto:lim_bee_ting@moe.edu.sg) |
-|  | [Ms Kek Ai Kiew](mailto:kek_ai_kiew@moe.edu.sg) |  [Mrs Angela Goh](mailto:angela_Goh@moe.edu.sg)| 
+|   |  [Mrs Angela Goh](mailto:angela_Goh@moe.edu.sg)| 
 |  || |
