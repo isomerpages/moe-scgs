@@ -14,7 +14,7 @@ The Parent Volunteer application window is currently closed.  If your child is b
 
 | TIMELINE 	| APPLICATION PROCEDURES 	|
 |---	|---	|
-| By 15 Nov 2023 	| Online Parent Volunteer application form for interested parents with child born between 2 Jan 2019 and 1 Jan 2020 will be made available via this webpage from mid-Jun 2023. 	|
+| By 15 Nov 2023 	| Complete online application form via this [link](https://form.gov.sg/634cacd60b8ff300120133f6). <br><br>You will receive an immediate acknowledgement email upon successful submission of your application. 	|
 | By End Feb 2024 	| Only shortlisted applicants will be contacted for an interview.<br><br>You may consider your application to be unsuccessful if you do not hear from us by then.  	|
 | Between Jul 2024<br>to Jun 2025 	| Parent Volunteers will commence their services of minimally 40 hours to the school. 	|
 | By Mid Jul 2025 	| An acknowledgement letter will be issued upon satisfactory completion of Parent Volunteer services. 	|
