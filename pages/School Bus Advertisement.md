@@ -12,7 +12,7 @@ To apply, please refer to the Service Requirements and the Application Procedure
 2. [Agreement for Appointment of School Bus Operator](/files/attachment%203%20agreement%20for%20appointment%20of%20school%20bus%20operator.pdf)
 
 **Application Procedure**
-1. Complete the [Call for Proposal - Annex A](files/attachment%202%20call%20for%20proposal%20-%20annex%20a.pdf)
+1. Complete the [Call for Proposal - Annex A](/files/attachment%202%20call%20for%20proposal%20-%20annex%20a.pdf)
 2. Submit the completed Call for Proposal – Annex A by closing date, 11 Jul 2023, to the School’s General Office.
 
 * Address: 190 Dunearn Road Singapore 309437
