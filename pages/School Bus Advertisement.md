@@ -9,7 +9,8 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
 **Service Requirements**
 1. [Call for Proposal](/files/attachment%201%20call%20for%20proposals%20by%20scgps.pdf)
-2. [Agreement for Appointment of School Bus Operator](/files/attachment%203%20agreement%20for%20appointment%20of%20school%20bus%20operator.pdf)
+2. [Agreement for Appointment of School Bus Operator](/files/attachment%203%20agreement%20for%20appointment%20of%20school%20bus%20operator.pdf)<br>[Appendix A Request for School Bus Services](/files/appendix%20a%20request%20for%20school%20bus%20services.pdf)
+
 
 **Application Procedure**
 1. Complete the [Call for Proposal - Annex A](/files/attachment%202%20call%20for%20proposal%20-%20annex%20a.pdf)
