@@ -20,7 +20,7 @@ third_nav_title: Primary
 |  	| [Miss Tan Hong Peng Shirley](mailto:tan_hong_peng_shirley@moe.edu.sg) 	| Mother Tongue Languages 	|
 |  	| [Mrs Sree-Tan Mei Yin](tan_mei_yin_a@moe.edu.sg) 	| Mathematics 	|
 | **Subject Head** 	| [Mrs Ng Wen Tirng](mailto:yang_wen_tirng@moe.edu.sg) 	| Aesthetics 	|
-|  	| [Ms Melissa Sin](mailto:sin_yue_ting_melissa@moe.edu.sg) 	| Information Technology 	|
+|  	| [Miss Melissa Sin](mailto:sin_yue_ting_melissa@moe.edu.sg) 	| Information Technology 	|
 |  	| [Mdm Prema Suresh](mailto:prema_suresh@moe.edu.sg) 	| Discipline 	|
 |  	| [Miss Wong See Wan](mailto:wong_see_wan@moe.edu.sg) 	| Special Projects 	|
 | **Year Head** 	| [Miss Goh Ai Ling](mailto:goh_ai_ling@moe.edu.sg) 	| Upper Primary 	|
