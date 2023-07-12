@@ -33,10 +33,10 @@ third_nav_title: Primary
 | **VISUAL AND PERFORMING ARTS** 	|  	|  	|  	|  	|
 | Art and Crafts Club (P3 &amp; P4) 	| Monday 	| 1400 – 1600 	| Mdm Doreen Sim(P3)<br>Miss Valerie Ng(P4) 	| Art Rooms 	|
 | Art and Crafts Club (P5 &amp; P6) 	| Friday 	| 1400 – 1600 	| Miss Shannon Oon (P5)<br>Mrs Tan Yan Ping (P6) 	| Art Rooms 	|
-| Choir 	| Monday<br>Friday 	| 1400 – 1530 	| Mdm Faith Shen 	| Halia 1 	|
+| Choir 	| Monday<br>Friday 	| 1400 – 1530 	| Mdm Tan Bee Yong 	| Halia 1 	|
 | Handbells Ensemble 	| Monday<br>Wednesday 	| 1400 – 1545<br>1400 – 1545 	| Mdm Jill Yip 	| Halia 2 	|
-| String Ensemble 	| Friday 	| 1400 – 1600 	| Mrs Marion Tan 	| Halia 2 	|
-| Modern Dance 	| Monday<br>Wednesday 	| 1400 – 1730<br>1400 – 1630 	| Mrs Joyce Eio 	| Secondary Division<br>Dance Studio 	|
+| String Ensemble 	| Friday 	| 1400 – 1600 	| Mdm G Priyalatha 	| Halia 2 	|
+| Modern Dance 	| Monday<br>Wednesday 	| 1400 – 1730<br>1400 – 1630 	| Miss Leng Yip, Jean 	| Secondary Division<br>Dance Studio 	|
 | Chinese Culture and Language<br>Club 	| Wednesday 	| 1400 – 1600 	| Miss Chua Voon Siew 	| PAL Rooms 	|
 | English Drama Club 	| Monday 	| 1400 – 1600 	| Ms Durrat Salleh 	| PAL Rooms 	|
 |  	|  	|  	|  	|  	|
