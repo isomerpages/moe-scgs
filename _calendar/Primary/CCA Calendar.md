@@ -37,6 +37,7 @@ third_nav_title: Primary
 | Handbells Ensemble 	| Monday<br>Friday 	| 1400 – 1600<br>1400 – 1500 	| Mdm Jill Yip 	| Halia 2 	|
 | String Ensemble 	| Friday 	| 1400 – 1600 	| Mdm G Priyalatha 	| Halia 2 	|
 | Modern Dance 	| Monday<br>Wednesday 	| 1400 – 1730<br>1400 – 1630 	| Miss Leng Yip, Jean 	| Secondary Division<br>Dance Studio 	|
+| Modern Dance (Chinese Dance)	| Monday 	| 1400 – 1700 	| Miss Leng Yip, Jean 	| Serai Room 	|
 | Chinese Culture and Language<br>Club 	| Wednesday 	| 1400 – 1600 	| Miss Chua Voon Siew 	| PAL Rooms 	|
 | English Drama Club 	| Monday 	| 1400 – 1600 	| Ms Durrat Salleh 	| PAL Rooms 	|
 |  	|  	|  	|  	|  	|
