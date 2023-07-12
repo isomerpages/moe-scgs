@@ -42,9 +42,9 @@ third_nav_title: Primary
 | English Drama Club 	| Monday 	| 1400 – 1600 	| Ms Durrat Salleh 	| PAL Rooms 	|
 |  	|  	|  	|  	|  	|
 | **CLUB AND SOCIETIES** 	|  	|  	|  	|  	|
-| Infocomm Club –<br>Robotics (Beginner) 	| Monday 	| 1400 – 1600 	| Miss Liu Ting Ting 	| Comp Lab 2 &amp; 3 	|
-| Infocomm Club –<br>Robotics (Intermediate) 	| Monday<br>Wednesday* 	| 1400 – 1600 	| Miss Liu Ting TIng 	| Comp Lab 2 &amp; 3<br>(*starts in Term 3) 	|
-| Infocomm Club –<br>Videography 	| Monday 	| 1400 – 1600 	| Miss Candice Kong 	| Comp Lab 1 	|
+| Infocomm Club –<br>Robotics (Beginner) 	| Monday 	| 1400 – 1600 	| Miss Lee Lay Eng 	| Comp Lab 1 	|
+| Infocomm Club –<br>Robotics (Intermediate) 	| Monday	| 1400 – 1600 	| Miss Lee Lay Eng 	| Comp Lab 1 	|
+| Infocomm Club –<br>Videography 	| Monday 	| 1400 – 1600 	| Miss Lee Lay Eng	| Comp Lab 1 	|
 | Infocomm Club –<br>Animation 	| Friday 	| 1400 – 1600 	| Miss Lee Lay Eng 	| Comp  Lab 2 	|
 |  	|  	|  	|  	|  	|
 | **UNIFORMED GROUP** 	|  	|  	|  	|  	|
