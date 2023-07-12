@@ -47,12 +47,12 @@ third_nav_title: Primary
 | Infocomm Club –<br>Animation 	| Friday 	| 1400 – 1600 	| Miss Lee Lay Eng 	| Comp  Lab 2 	|
 |  	|  	|  	|  	|  	|
 | **UNIFORMED GROUP** 	|  	|  	|  	|  	|
-| Brownies 	| Monday 	| 1400 – 1600 	| Miss Koh Yee Sung 	| Marigold Room 	|
+| Girl Guides(Brownies) 	| Monday 	| 1400 – 1600 	| Miss Koh Yee Sung 	| Marigold Room 	|
 |  	|  	|  	|  	|  	|
 | **LEADERSHIP** 	|  	|  	|  	|  	|
 | Prefectorial Board 	| Thursday 	| 1545 – 1700 	| Mdm Prema Suresh 	| PAL Rooms 	|
 |  	|  	|  	|  	|  	|
 | **ENRICHMENT** 	|  	|  	|  	|  	|
 | E2K – SCIENCE 	| Tuesday 	| 1400 – 1600 	| Mrs Kristene Ong 	| Science Rooms 	|
-| E2K – MATH (Sem 2) 	| Tuesday 	| 1400 – 1600 	| Miss Tan Mei Yin 	| Math Room 	|
+| E2K – MATH  	| Tuesday 	| 1400 – 1600 	| Miss Tan Mei Yin 	| Math Room 	|
 | Math Olympiad (Sem 1) 	| Tuesday 	| 1400 – 1600 	| Miss Tan Mei Yin 	| Math Room 	|
