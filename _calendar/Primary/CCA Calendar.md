@@ -42,10 +42,10 @@ third_nav_title: Primary
 | English Drama Club 	| Monday 	| 1400 – 1600 	| Ms Durrat Salleh 	| PAL Rooms 	|
 |  	|  	|  	|  	|  	|
 | **CLUB AND SOCIETIES** 	|  	|  	|  	|  	|
-| Infocomm Club –<br>Robotics (Beginner) 	| Monday 	| 1400 – 1600 	| Miss Lee Lay Eng 	| Comp Lab 1 	|
-| Infocomm Club –<br>Robotics (Intermediate) 	| Monday	| 1400 – 1600 	| Miss Lee Lay Eng 	| Comp Lab 1 	|
-| Infocomm Club –<br>Videography 	| Monday 	| 1400 – 1600 	| Miss Lee Lay Eng	| Comp Lab 2 	|
-| Infocomm Club –<br>Animation 	| Friday 	| 1400 – 1600 	| Miss Lee Lay Eng 	| Comp  Lab 2 	|
+| Infocomm Technology (Media Production) –<br>Robotics (Beginner) 	| Monday 	| 1400 – 1600 	| Miss Lee Lay Eng 	| Comp Lab 1 	|
+| Infocomm Technology (Media Production) –<br>Robotics (Intermediate) 	| Monday	| 1400 – 1600 	| Miss Lee Lay Eng 	| Comp Lab 1 	|
+| Infocomm Technology (Media Production) –<br>Videography 	| Monday 	| 1400 – 1600 	| Miss Lee Lay Eng	| Comp Lab 2 	|
+| Infocomm Technology (Media Production) –<br>Animation 	| Friday 	| 1400 – 1600 	| Miss Lee Lay Eng 	| Comp  Lab 2 	|
 |  	|  	|  	|  	|  	|
 | **UNIFORMED GROUP** 	|  	|  	|  	|  	|
 | Girl Guides(Brownies) 	| Monday 	| 1400 – 1600 	| Miss Koh Yee Sung 	| Marigold Room 	|
