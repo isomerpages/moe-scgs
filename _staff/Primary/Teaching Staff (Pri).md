@@ -20,7 +20,7 @@ third_nav_title: Primary
 |  	| [Miss Tan Hong Peng Shirley](mailto:tan_hong_peng_shirley@moe.edu.sg) 	| Mother Tongue Languages 	|
 |  	| [Mrs Sree-Tan Mei Yin](tan_mei_yin_a@moe.edu.sg) 	| Mathematics 	|
 | **Subject Head** 	| [Mrs Ng Wen Tirng](mailto:yang_wen_tirng@moe.edu.sg) 	| Aesthetics 	|
-|  	| [Ms Melissa Sin](mailto:sin_yue_ting_melissa@moe.edu.sg) 	| Information Technology 	|
+|  	| [Miss Melissa Sin](mailto:sin_yue_ting_melissa@moe.edu.sg) 	| Information Technology 	|
 |  	| [Mdm Prema Suresh](mailto:prema_suresh@moe.edu.sg) 	| Discipline 	|
 |  	| [Miss Wong See Wan](mailto:wong_see_wan@moe.edu.sg) 	| Special Projects 	|
 | **Year Head** 	| [Miss Goh Ai Ling](mailto:goh_ai_ling@moe.edu.sg) 	| Upper Primary 	|
@@ -36,20 +36,20 @@ third_nav_title: Primary
 |---	|---	|---	|---	|
 | **Primary 1** 	| Sincerity 	| [Mrs Doris Lim](mailto:chng_kim_leng_doris@moe.edu.sg) 	| [Mrs Siti Farid](mailto:siti_rakhmayati@moe.edu.sg) 	|
 |  	| Courage 	| [Miss Nur Nadiah](mailto:nur_nadiah_ahmad_jani@moe.edu.sg) 	| [Ms Zhang_Mengjie](mailto:zhang_mengjie@moe.edu.sg) 	|
-|  	| Generosity 	| [Mdm Priyalatha d/o Ganaysan](mailto:priyalatha_ganaysan@moe.edu.sg) 	| [Mdm Liu Ting Ting](mailto:liu_ting_ting@moe.edu.sg)<br>[Ms Ng Li Nah](mailto:ng_li_nah@moe.edu.sg) 	|
+|  	| Generosity 	| [Mdm Priyalatha d/o Ganaysan](mailto:priyalatha_ganaysan@moe.edu.sg) 	| [Mdm Liu Ting Ting](mailto:liu_ting_ting@moe.edu.sg) 	|
 |  	| Service 	| [Mrs Lim Li-Lien](mailto:cho_li-lien@moe.edu.sg) 	| [Mdm Tan Pei Hoon Sharon](mailto:tan_pei_hoon_sharon@moe.edu.sg) 	|
 |  	| Prudence 	| [Mdm Lai Huey Yuen](mailto:lai_huey_yuen@moe.edu.sg) 	| [Miss Shannon Oon](mailto:oon_qian_yi_shannon@moe.edu.sg) 	|
 |  	| Grace 	| [Mdm Cao Xueying](mailto:cao_xueying@moe.edu.sg) 	| [Mrs Ethel See](mailto:teh_hua_sim@moe.edu.sg) 	|
-| **Primary 2** 	| Sincerity 	| [Miss Sandy Lim](mailto:lim_xue_li_sandy@moe.edu.sg) 	| [Mdm Xiang Wenjuan](mailto:xiang_wenjuan@moe.edu.sg)<br>[Miss Yeo Pei Kei](mailto:yeo_pei_kei@moe.edu.sg) 	|
+| **Primary 2** 	| Sincerity 	| [Miss Sandy Lim](mailto:lim_xue_li_sandy@moe.edu.sg) 	|  	|
 |  	| Courage 	| [Mrs Cleo Ng](mailto:wong_yuin_ping_cleo@moe.edu.sg) 	| [Miss Valerie Ng Suying](mailto:valerie_ng_suying@moe.edu.sg) 	|
 |  	| Generosity 	| [Miss Alice Sit Yim Hwa](mailto:sit_yim_hwa@moe.edu.sg) 	| [Miss Candice Kong](mailto:kong_kaijun_candice@moe.edu.sg) 	|
 |  	| Service 	| [Mdm Amutha Dakshinamoorthy](mailto:amutha_dakshinamoorthy@moe.edu.sg) 	| [Mdm Tan Bee Yong](mailto:tan_bee_yong@moe.edu.sg) 	|
 |  	| Prudence 	| [Mrs Emily Sng](mailto:Chua_Xing_Ting_Emily@moe.edu.sg) 	| [Mrs Gina Lim](mailto:poon_yoke_chee@moe.edu.sg) 	|
-|  	| Grace 	| [Miss Chong Wei Yan](mailto:chong_wei_yan@moe.edu.sg) 	| [Mrs Ng Tien Juan](mailto:lim_tien_juan@moe.edu.sg)<br>Mdm Jaslin Ku 	|
-| **Primary 3** 	| Sincerity 	| [Mdm Doreen Sim](mailto:sim_ling_yim@moe.edu.sg) 	| [Mrs Joyce Eio](mailto:zhuang_huining_joyce@moe.edu.sg) 	|
+|  	| Grace 	| [Miss Chong Wei Yan](mailto:chong_wei_yan@moe.edu.sg) 	| [Mrs Ng Wen Tirng](mailto:yang_wen_tirng@moe.edu.sg) 	|
+| **Primary 3** 	| Sincerity 	| [Mdm Doreen Sim](mailto:sim_ling_yim@moe.edu.sg) 	| [Mrs Wendy Chin](mailto:quek_siew_cheng@moe.edu.sg) 	|
 |  	| Courage 	| [Ms Shirley Tan](mailto:tan_hong_peng_shirley@moe.edu.sg) 	| [Mdm Tan Khalidah Hani](mailto:tan_khalidah_hani@moe.edu.sg) 	|
 |  	| Generosity 	| [Miss Loo Mee Lin](mailto:loo_mee_lin@moe.edu.sg) 	| [Miss Yap Hui Jie](mailto:yap_hui_jie@moe.edu.sg) 	|
-|  	| Service 	| [Miss Corinna Tan](mailto:tan_cailing_corinna@moe.edu.sg) 	| [Ms Melissa Sin](mailto:sin_yue_ting_melissa@moe.edu.sg) 	|
+|  	| Service 	| [Miss Corinna Tan](mailto:tan_cailing_corinna@moe.edu.sg) 	| [Miss Melissa Sin](mailto:sin_yue_ting_melissa@moe.edu.sg) 	|
 |  	| Prudence 	| [Mdm Faith Shen Pei Pei](mailto:faith_shen_pei_pei@moe.edu.sg) 	| [Mrs Marion Tan](mailto:marion_winings@moe.edu.sg) 	|
 | **Primary 4** 	| Sincerity 	| [Miss Katherine Chai](mailto:katherine_chai_kui_yi@moe.edu.sg) 	| [Miss Ng Poh Hoon](mailto:ng_poh_hoon@moe.edu.sg) 	|
 |  	| Courage 	| [Mdm Chen Chao](mailto:chen_chao_a@moe.edu.sg) 	| [Miss Margaret Ee](mailto:ee_swee_keow_margaret@moe.edu.sg) 	|
