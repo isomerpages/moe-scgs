@@ -5,9 +5,10 @@ description: ""
 ---
 **School Bus Operator and Bus Fare**
 
-Revolving Transport Pte Ltd
-141 Middle Road #06-06 GSM Building
-Singapore 188976
+Revolving Transport Pte Ltd<br>
+141 Middle Road<br>
+#06-06 GSM Building<br>
+Singapore 188976<br>
 Kindly contact Ms Jeccy at HP : 9090-9277 if you have queries.
 
 [Current Bus Fare](/files/scgps-school-bus-services.pdf)<br>
