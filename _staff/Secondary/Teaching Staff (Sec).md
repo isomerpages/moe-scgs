@@ -49,7 +49,7 @@ third_nav_title: Secondary
 |Sincerity | [Mdm Phua Chia Ghee](mailto:phua_chia_ghee@moe.edu.sg) | [Mrs Parvathy Siva](mailto:parvathy_vegadasalam@moe.edu.sg) |
 |Service | [Mrs Fu Shin Yee](mailto:wong_shin_yee@moe.edu.sg) | [Mr Soo Kia Yong](mailto:soo_kia_yong@moe.edu.sg) |
 | Prudence | [Mrs Justina Gan](mailto:foo_ai_chien_justina@moe.edu.sg) | [Miss Evelyn Ku](mailto:ku_yin_ling_evelyn_a@moe.edu.sg)|
-| Perseverance | [Mrs Joan Yang](mailto:joan_chan_lee_hiang@moe.edu.sg) | [Miss Davilia Koh](mailto:koh_cixian_davilia@moe.edu.sg) /[Mrs Cha Wai Mun](mailto:wong_wai_mun_a@moe.edu.sg) |
+| Perseverance | [Miss Davilia Koh](mailto:koh_cixian_davilia@moe.edu.sg)  | [Mrs Cha Wai Mun](mailto:wong_wai_mun_a@moe.edu.sg)/[Mdm Kala](mailto:kalavathi_sabapathy@moe.edu.sg)  |
 | Generosity | [Miss Kong Shiau Wei](mailto:kong_shiau_wei@moe.edu.sg) | [Mr Kaddy Koh](mailto:koh_kaddy@moe.edu.sg) |
 | Grace | [Mrs Sophia Wong](mailto:cheng_jin_ting_sophia@moe.edu.sg) |  [Ms Anisha Johnson](mailto:anisha_anne_johnson@moe.edu.sg) |
 | Diligence | [Mr Zeng Wei](mailto:zeng_wei_1@moe.edu.sg) | [Mrs Audrey Wong](mailto:tan_mei_ling_audrey@moe.edu.sg)  |
@@ -88,4 +88,4 @@ third_nav_title: Secondary
 |  | [Mrs Gloria Cheng](mailto:gloria_cheng@moe.edu.sg)    | [Mrs Angela Goh](mailto:angela_Goh@moe.edu.sg) |
 |  | [Mrs Low Wee Leng](mailto:sim_wee_leng@moe.edu.sg)   | [Mdm Chong Jia Li](mailto:chong_jia_li@moe.edu.sg) |
 |  | [Mdm Loo Shek Kien](mailto:loo_shek_kien@moe.edu.sg)  | [Mrs Wong Bee Ting](mailto:lim_bee_ting@moe.edu.sg) |
-|   |  | 
+|   |  |
