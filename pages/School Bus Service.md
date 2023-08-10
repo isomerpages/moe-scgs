@@ -11,5 +11,5 @@ Revolving Transport Pte Ltd<br>
 Singapore 188976<br>
 Kindly contact Ms Jeccy at HP : 9090-9277 if you have queries.
 
-[Current Bus Fare](/files/scgps-school-bus-services.pdf)<br>
-[Bus fare with effect from 1 Jan 2024](/files/school_bus_operator_and_nte_price.pdf)
+[Bus Fare - Current](/files/scgps-school-bus-services.pdf)<br>
+[Bus Fare - with effect from 1 Jan 2024](/files/school_bus_operator_and_nte_price.pdf)
