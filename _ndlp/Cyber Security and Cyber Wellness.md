@@ -31,7 +31,6 @@ The DMA Parent Portal allows parents to regulate their child’s device after sc
 |---	|---	|
 | Default Option 	| Click [Here](/files/dma%20parent%20guide%20-%20default%20option%20.pdf)	|
 | Option A 	| Click [Here](/files/dma%20parent%20guide%20-%20option%20a_compressed.pdf)  	|
-| Additional guide for Option A to create and setup rules and reports 	| Click [here](/files/Creating_and_Setting_up_Rules_and_Reports.pdf) 	|
 | Option B 	| Click [Here](/files/dma%20parent%20guide%20-%20option%20b_compressed.pdf) 	|
 
 ### **Cyber Wellness Education** 
