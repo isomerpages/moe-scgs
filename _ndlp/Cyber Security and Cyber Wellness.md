@@ -33,6 +33,12 @@ The DMA Parent Portal allows parents to regulate their child’s device after sc
 | Option A 	| Click [Here](/files/dma%20parent%20guide%20-%20option%20a_compressed.pdf)  	|
 | Option B 	| Click [Here](/files/dma%20parent%20guide%20-%20option%20b_compressed.pdf) 	|
 
+| DMA Guides Videos 	|
+|---	|---	|
+| Default Option 	| Click [Here](https://vimeo.com/856998824/68e1abd442?share=copy)	|
+| Option A 	| Click [Here](/files/dma%20parent%20guide%20-%20option%20a_compressed.pdf)  	|
+| Option B 	| Click [Here](/files/dma%20parent%20guide%20-%20option%20b_compressed.pdf) 	|
+
 ### **Cyber Wellness Education** 
 
 In SCGS, we believe in the holistic development of a child. We nurture students of character and relevance through the provision of opportunities to inculcate values, skills and competencies in our students.
