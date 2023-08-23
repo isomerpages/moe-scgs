@@ -36,7 +36,7 @@ The DMA Parent Portal allows parents to regulate their child’s device after sc
 | DMA Guides Videos 	|
 |---	|---	|
 | Setting Rules to Restrict Usage  	| Click [Here](https://vimeo.com/856998824/68e1abd442?share=copy)	|
-| Overriding School Sleep Hours 	| Click [Here](/files/dma%20parent%20guide%20-%20option%20a_compressed.pdf)  	|
+| Overriding School Sleep Hours 	| Click [Here](https://vimeo.com/857001013/34dd51639a?share=copy)  	|
 | Parent Account Password Reset 	| Click [Here](https://vimeo.com/857000827/749ff4a2c4?share=copy) 	|
 
 ### **Cyber Wellness Education** 
