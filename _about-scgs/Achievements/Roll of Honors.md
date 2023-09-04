@@ -84,5 +84,6 @@ third_nav_title: Achievements
 | Emma Beatrice Soh Yunwen (Sec) 	| 2016 	|
 | Isabel Hikaru Yamada (Pri) 	| 2016 	|
 | Lim Shi Pei (Sec) 	| 2020 	|
-| Celestine Ng Hui En 	| 2021 	|
-| Asia Tan Xiao Xuan 	| 2021 	|
+| Celestine Ng Hui En (Pri)	| 2021 	|
+| Asia Tan Xiao Xuan 	(Sec) | 2021 	|
+| Nicole Tedja (Sec)	| 2023 	|
