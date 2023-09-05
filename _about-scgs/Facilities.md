@@ -11,7 +11,7 @@ Seated at the prime location of [190 Dunearn Road](https://www.google.com/maps/
 
 Home to our students, our _kim geks_ (‘gold’ and ‘jade’ in Hokkien), we welcome you to this precious space – replete with its refurbished facilities to provide a safe, comfortable and aesthetically pleasing experience!
 
-For booking enquiries, please email to [mohamed\_mulyani\_samuri@moe.edu.sg](mailto:mohamed_mulyani_samuri@moe.edu.sg)
+For booking enquiries, please email to [scgss@moe.edu.sg](mailto:scgss@moe.edu.sg)
 
 ### Learning Hub
 
