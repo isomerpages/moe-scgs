@@ -16,5 +16,3 @@ The SCGS Discipline Framework is part of the school’s total Character and Lead
 These goals are also guided by the Ministry of Education’s Social-Emotional Learning standards.
 
 To develop self-management skills, and imbibe a sense of accountability to self and others in the school and community, expectations on the decorum of our students are expressed in the following sections.
-
-Click [here](/files/School-Discipline-Guidelines-2022.pdf) for more information
