@@ -61,8 +61,8 @@ We wish to announce the start of Applications for Admission Tests 2023 for admis
 |  	|  	|
 |---	|---	|
 | Closing Date: 	| Friday 13 October 2023, 5.00pm 	|
-| Date of Test: 	| TBC 	|
-| Time of Test: 	| TBC 	|
+| Date of Test: 	| Thursday 2 November 2023 	|
+| Time of Test: 	| 08:30 AM - 03:00 PM 	|
 
 This admission exercise is only open to the following levels and Programmes:
 
@@ -82,7 +82,7 @@ Students admitted to schools through the DSA-Sec Exercise and International Stud
 
 Students who are interested in seeking admission are to send their completed forms and supporting documents to the school by Friday 13 October 2023, 5.00pm.
 
-The date for the Admission Tests will be confirmed at a later date.
+The date for the Admission Tests is on Thursday, 2 November 2023.
 
 Details regarding the admission test and test fees will be advised through a separate email.
 
