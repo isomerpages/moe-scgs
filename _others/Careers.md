@@ -7,45 +7,31 @@ description: ""
 
 Singapore Chinese Girls’ School is an independent school with a vision to be an asset to the country by developing capable women of character and relevance. We offer both GCE O-Level and Integrated Programmes.
 
+**We are currently looking for Education Officers to fill up the Mathematics Teacher position in the Mathematics Department.**
+
+**• 1 Full-Time Contract/Permanent Teacher (1 Jan 2024 – 31 Dec 2024)**
+
+**Key Areas of Responsibilities**
+
+* Plan and conduct lessons 
+* Monitor and evaluate the progress and overall development of the students 
+* Keep up with the developments of the subject area, new resources , pedagogies and assessment 
+* Teach, inspire and motivate students according to their individual pace and aspirations to their fullest potential
+* To develop strong moral fibre and integrity among our students 
+
+**Requirements**
+* Recognised Degree or professional qualification in the chosen or related discipline 
+* Formal teaching qualifications such as NIE Diploma will be an advantage 
+* At least 3 years of teaching experience at the Secondary level 
+* Experience in teaching Upper Secondary and Gifted Education Programme preferred 
+* Strong passion for helping students develop as confident and purposeful individuals 
+* Strong sense of integrity, personal drive and initiative, commitment and team spirit 
+* Caring, responsible, driven and innovative 
 
 
-**We are looking for Technical Specialist (Operations)**
+Successful candidates will be offered contract employment. 
+Remuneration shall commensurate with qualification and experience. 
 
-**Job Specifications**
+Interested candidates are invited to apply online. Only shortlisted candidates will be notified. 
 
-This role encompasses overseeing the day-to-day cleanliness and maintenance of the facilities and to provide operational support to ensure smooth and effective operations.
-
-**Responsibilities**
-
-* Provide support for events (including logistics, stage lighting and sound), routine operational tasks and perform general maintenance tasks;
-
-* Inspect and conduct periodic check on buildings, equipment, and systems to identify any issues;
-
-* Maintain inventory records for equipment and supplies;
-
-* Provide support in procurement operations to ensure the quality of products/services delivered is satisfactory;
-
-* Assist with the school safety, security and emergency preparedness activities;
-
-* Assist Operations Manager in general maintenance of school environment and upkeep of school facilities;
-
-* Perform any other ad-hoc duties and responsibilities that may be assigned;
-
-
-**Qualifications**
-
-* Nitec Certificate in Building Facilities Maintenance, Electrical/Electronics, Air-conditioning Servicing and /or Plumbing;
-
-* Minimum 2 years of relevant experience in a similar role;
-
-* Preferably prior experience in supporting stage performance;
-
-* Ability to work flexible hours and work around a changing schedule;
-
-* Ability to work independently without much supervision;
-
-_Successful candidates will be offered contract employment. Remuneration shall commensurate with qualification and experience._
-
-_Interested candidates are invited to apply online. Only shortlisted candidates will be notified._
-
-_Please fill up the Application Form and email it together with your resume and supporting documents (if any) to: recruitment@scgs.edu.sg_
+*Please fill up the Application Form and email it together with your resume and supporting documents (if any) to: recruitment@scgs.edu.sg*
