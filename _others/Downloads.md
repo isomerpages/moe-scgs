@@ -8,7 +8,7 @@ description: ""
 ### School Admission
 
 *   [2022 Waitlist Application Form (Primary School)](https://form.gov.sg/#!/632bae0bfa18990012033943)
-*  [Application for Entry for Secondary School](/files/Sch-Application-Form_2022.pdf)
+
 
 ### Scholarships/Bursary
 
