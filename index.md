@@ -13,10 +13,6 @@ sections:
       background: /images/scgs.gif
       button: Contact Us
       url: /contact-us/
-      key_highlights:
-        - title: SCGS Open House 2023
-          description: Sat 18th Nov 23 9am to 1pm
-          url: ""
   - infopic:
       title: SCGS Open House 2023
       subtitle: 18 November, Sat | 9am-1pm
