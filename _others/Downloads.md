@@ -26,12 +26,12 @@ description: ""
 
 * [Secondary 1 (O-Level) Booklist] - TO WAIT TILL SEC 1 POSTING IS ANNOUNCED 
 * [Secondary 1 (IP) Booklist] - TO WAIT TILL SEC 1 POSTING IS ANNOUNCED
-* [Secondary 2 (O-Level) Booklist](/files/2024%20s2%20(o-level).pdf)
-* [Secondary 2 (IP) Booklist](/files/2024%20s2%20(ip).pdf)
-* [Secondary 3 (O-Level) Booklist](/files/2024%20s3%20(o-level).pdf)
-* [Secondary 3 (IP) Booklist](/files/2024%20s3%20(ip).pdf)
-* [Secondary 4 (O-Level) Booklist](/files/2024%20s4%20(o-levle).pdf)
-* [Secondary 4 (IP) Booklist](/files/2024%20s4%20(ip).pdf)
+* [Secondary 2 (O-Level) Booklist](/files/2024_s2_olp.pdf)
+* [Secondary 2 (IP) Booklist](/files/2024_s2_ip.pdf)
+* [Secondary 3 (O-Level) Booklist](/files/2024_s3_olp.pdf)
+* [Secondary 3 (IP) Booklist](/files/2024_s3_ip.pdf)
+* [Secondary 4 (O-Level) Booklist](/files/2024_s4_olp.pdf)
+* [Secondary 4 (IP) Booklist](/files/2024_s4_ip.pdf)
 ### Booklist - Primary
 
 * [Primary 1 Booklist](/files/2023-P1-Textbook-and-Uniform.pdf)
