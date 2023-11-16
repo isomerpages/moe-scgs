@@ -6,13 +6,13 @@ variant: markdown
 ---
 # **Careers**
 
-Singapore Chinese Girls’ School is an independent school with a vision to be an asset to the country by developing capable women of character and relevance. We offer both GCE O-Level and Integrated Programmes.
+> Singapore Chinese Girls’ School is an independent school with a vision to be an asset to the country by developing capable women of character and relevance. We offer both GCE O-Level and Integrated Programmes.
 
 **We are currently looking for Education Officers to fill up the Mathematics Teacher position in the Mathematics Department.**
 
 * 1 Full-Time Contract (1 Jan 2024 - 31 May 2024) / Permanent Teacher
 
-**Key Areas of Responsibilities **
+***Key Areas of Responsibilities ***
 *  Plan for and conduct Mathematics lessons
 *  Form Teachership and CCA duties
 *  Monitor and evaluate the progress and overall development of the students
