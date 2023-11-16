@@ -33,4 +33,4 @@ Successful candidates will be offered contract employment. Remuneration shall co
 
 Interested candidates are invited to apply online. Only shortlisted candidates will be notified. 
 
-> *Please fill up the Application Form and email it together with your resume and supporting documents (if any) to : [recruitment@scgs.edu.sg](mailto:recruitment@scgs.edu.sg)
+> *Please fill up the Application Form and email it together with your resume and supporting documents (if any) to : recruitment@scgs.edu.sg
