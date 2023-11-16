@@ -12,7 +12,7 @@ variant: markdown
 
 * 1 Full-Time Contract (1 Jan 2024 - 31 May 2024) / Permanent Teacher
 
-***Key Areas of Responsibilities ***
+**Key Areas of Responsibilities**
 *  Plan for and conduct Mathematics lessons
 *  Form Teachership and CCA duties
 *  Monitor and evaluate the progress and overall development of the students
