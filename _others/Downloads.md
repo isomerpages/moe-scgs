@@ -2,6 +2,7 @@
 title: Downloads
 permalink: /downloads/
 description: ""
+variant: markdown
 ---
 # **Downloads**
 
@@ -24,8 +25,8 @@ description: ""
 
 ### BOOKLIST – SECONDARY (Updated for Year 2024)
 
-* [Secondary 1 (O-Level) Booklist] - TO WAIT TILL SEC 1 POSTING IS ANNOUNCED 
-* [Secondary 1 (IP) Booklist] - TO WAIT TILL SEC 1 POSTING IS ANNOUNCED
+* [Secondary 1 (O-Level) Booklist] 
+* [Secondary 1 (IP) Booklist] 
 * [Secondary 2 (O-Level) Booklist](/files/2024_s2_olp.pdf)
 * [Secondary 2 (IP) Booklist](/files/2024_s2_ip.pdf)
 * [Secondary 3 (O-Level) Booklist](/files/2024_s3_olp.pdf)
