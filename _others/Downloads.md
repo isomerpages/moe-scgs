@@ -25,8 +25,8 @@ variant: markdown
 
 ### BOOKLIST – SECONDARY (Updated for Year 2024)
 
-* [Secondary 1 (O-Level) Booklist] 
-* [Secondary 1 (IP) Booklist] 
+* [Secondary 1 (O-Level) Booklist](/files/2024_S1_OLP.pdf)
+* [Secondary 1 (IP) Booklist](/files/2024_S1_IP.pdf)
 * [Secondary 2 (O-Level) Booklist](/files/2024_s2_olp.pdf)
 * [Secondary 2 (IP) Booklist](/files/2024_s2_ip.pdf)
 * [Secondary 3 (O-Level) Booklist](/files/2024_s3_olp.pdf)
