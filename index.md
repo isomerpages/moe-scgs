@@ -13,10 +13,14 @@ sections:
       background: /images/scgs.gif
       button: Contact Us
       url: /contact-us/
-  - infopic:
-      title: SCGS Open House 2023
-      subtitle: 18 November, Sat | 9am-1pm
-      id: infopic
-      image: /images/2023-open-house-website.jpg
-      alt: Image alt text
+  - infobar:
+      title: Sec 1 Reporting Day 2023
+      id: infobar
+      button: Sec 1 Reporting Day 2023 (Click Here)
+      url: /prospective-students/secondary-admission/sec-1-reporting-day-2023/
+  - infobar:
+      title: PSLE Results Day
+      id: infobar
+      button: Admission to SCGS (Click here)
+      url: /prospective-students/secondary-admission/admission-procedure/
 ---
