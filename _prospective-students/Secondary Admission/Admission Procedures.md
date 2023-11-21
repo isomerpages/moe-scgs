@@ -3,6 +3,7 @@ title: Admission Procedures
 permalink: /prospective-students/secondary-admission/admission-procedure/
 description: ""
 third_nav_title: Secondary Admission
+variant: markdown
 ---
 # **Admission Procedures**
 
@@ -16,7 +17,7 @@ Admission into SCGS can be gained through:
 
 **1. Admission through the Secondary One Posting Exercise**
 
-For 2023 admission, eligible students who have sat for the PSLE in 2022 will receive a Secondary 1 Option Form during the collection of PSLE Results. Our school codes are:
+For 2024 admission, eligible students who have sat for the PSLE in 2023 will receive a Secondary 1 Option Form during the collection of PSLE Results. Our school codes are:
 
 Integrated Programme: 9132
 
@@ -40,15 +41,19 @@ Students who opt for SCGS (Integrated Programme) as their first choice must sele
 
 _**Unsuccessful Applicants**_
 
-Students who are unsuccessful in the posting exercise may appeal for entry into SCGS only if their PSLE scores meet the cut-off AL in the Posting Exercise.
+Students who are unsuccessful in the posting exercise may appeal for entry into SCGS only if their PSLE scores meet the cut-off AL in the Posting Exercise. Students who do not meet the cut-off AL on posting day are ineligible for appeal. 
+
+The appeal for entry form will be activated for download only on posting day.
 
 If you would like to appeal to join SCGS, please fill in this [online form](https://form.gov.sg/5fe0add0362d7b0012bf0393)
 
 **2\. Admission through the DSA Exercise**
 
-This exercise is conducted from May – August in the preceding year of Admission. Interested students apply through skills and talents specified by the school.
+Students admitted through the DSA Exercise 2023 will not receive the Option Form. 
 
-Information on the DSA Exercise 2023 will be published in April/May 2023.
+You will be posted to the school that you accepted the offer from.
+
+If you have accepted an offer from SCGS, you will receive a registration link on reporting day through the Parents Gateway Portal. Complete the registration process then.
 
 **3\. Admission Tests**
 
