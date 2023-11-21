@@ -13,10 +13,9 @@ sections:
       background: /images/scgs.gif
       button: Contact Us
       url: /contact-us/
-  - infopic:
+  - infobar:
       title: Sec 1 Reporting Day 2023
-      id: infopic
+      id: infobar
       button: Sec 1 Reporting Day 2023 (Click Here)
       url: /prospective-students/secondary-admission/sec-1-reporting-day-2023/
-      alt: Image alt text
 ---
