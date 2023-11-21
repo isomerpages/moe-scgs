@@ -14,9 +14,9 @@ sections:
       button: Contact Us
       url: /contact-us/
   - infopic:
-      title: SCGS Open House 2023
-      subtitle: 18 November, Sat | 9am-1pm
+      title: Sec 1 Reporting Day 2023
       id: infopic
-      image: /images/2023-open-house-website.jpg
+      button: Sec 1 Reporting Day 2023 (Click Here)
+      url: /prospective-students/secondary-admission/sec-1-reporting-day-2023/
       alt: Image alt text
 ---
