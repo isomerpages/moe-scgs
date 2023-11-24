@@ -33,16 +33,15 @@ variant: markdown
 * [Secondary 3 (IP) Booklist](/files/2024_s3_ip.pdf)
 * [Secondary 4 (O-Level) Booklist](/files/2024_s4_olp.pdf)
 * [Secondary 4 (IP) Booklist](/files/2024_s4_ip.pdf)
-### Booklist - Primary
+### Booklist - Primary (Year 2024)
 
-* [Primary 1 Booklist](/files/2023-P1-Textbook-and-Uniform.pdf)
-* [Primary 2 Booklist](/files/2023-P2-Textbook-and-Uniform.pdf)
-* [Primary 3 Booklist](/files/2023-P3-Textbook-and-Uniform.pdf)
-* [Primary 4 Booklist](/files/2023-P4-Textbook-and-Uniform.pdf)
-* [Primary 5 Booklist](/files/2023-P5-Textbook-and-Uniform.pdf)
-* [Primary 5 (Foundation) Booklist](/files/2023-P5(FDN)-Textbook-and-Uniform.pdf)
-* [Primary 6 Booklist](/files/2023-P6-Textbook-and-Uniform.pdf)
-* [Primary 6 (Foundation) Booklist](/files/2023-P6(FDN)-Textbook-and-Uniform.pdf)
+* [Primary 1 Booklist](/files/SCGSP_BOOKLIST_2024_P1.pdf)
+* [Primary 2 Booklist](/files/SCGSP_BOOKLIST_2024_P2.pdf)
+* [Primary 3 Booklist](/files/SCGSP_BOOKLIST_2024_P3.pdf)
+* [Primary 4 Booklist](/files/SCGSP_BOOKLIST_2024_P4.pdf)
+* [Primary 5 Booklist](/files/SCGSP_BOOKLIST_2024_P5.pdf)
+* [Primary 6 Booklist](/files/SCGSP-BOOKLIST-2024-P6.pdf)
+
 
 ### School Bus Booking Form & Regulations
 
