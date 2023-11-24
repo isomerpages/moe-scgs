@@ -37,7 +37,7 @@ variant: markdown
 * [Primary 3 Booklist](/files/SCGSP_BOOKLIST_2024_P3.pdf)
 * [Primary 4 Booklist](/files/SCGSP_BOOKLIST_2024_P4.pdf)
 * [Primary 5 Booklist](/files/SCGSP_BOOKLIST_2024_P5.pdf)
-* [Primary 6 Booklist](/files/SCGSP-BOOKLIST-2024-P6.pdf)
+* [Primary 6 Booklist](/files/SCGSP_BOOKLIST_2024_P6.pdf)
 
 
 ### School Bus Booking Form & Regulations
