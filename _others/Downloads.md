@@ -6,10 +6,7 @@ variant: markdown
 ---
 # **Downloads**
 
-### School Admission
-
-*   [2022 Waitlist Application Form (Primary School)](https://form.gov.sg/#!/632bae0bfa18990012033943)
-
+###
 
 ### Scholarships/Bursary
 
