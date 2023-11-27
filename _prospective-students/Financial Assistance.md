@@ -2,12 +2,13 @@
 title: Financial Assistance
 permalink: /prospective-students/financial-assistance/
 description: ""
+variant: markdown
 ---
 # **Financial Assistance**
 
 The Ministry of Education provides financial assistance to needy Singapore Citizen students in Government or Government-aided schools so that all Singaporeans, regardless of their financial background, can benefit from the best opportunities in education.
 
-**MOE FINANCIAL ASSISTANCE SCHEME (MOE FAS)**
+**MOE FINANCIAL ASSISTANCE SCHEME&nbsp;(MOE FAS)**
 
 **Primary Division**
 
@@ -17,11 +18,11 @@ Singapore Citizens in Government or Government-aided schools can apply for assis
 
 A student is eligible for MOE FAS if he or she meets either of the following criteria:
 
-Gross Household Income (GHI) not exceeding $3,000 per month.
+Gross&nbsp;Household Income (GHI) not exceeding $3,000 per month.
 
 OR
 
-Per Capita Income (PCI)  not exceeding $750 per month
+Per Capita Income (PCI) &nbsp;not exceeding $750 per month
 
 The introduction of PCI will enable students from larger families to benefit from financial assistance. PCI is computed by dividing the gross household income by the number of members in the household.
 
@@ -36,7 +37,7 @@ Please refer to the Table below for the benefits under MOE FAS.
 
 **How to Apply?**
 
-Students who wish to apply for this scheme can obtain the application form from the school or download a copy of the [MOE FAS Application Form](/files/MOE-FAS-Application-Form.pdf). All applications forms must be submitted together with the relevant documents to the school directly.
+Students who wish to apply for this scheme can obtain the application form from the school or download a copy of the&nbsp;[MOE FAS Application Form](/files/MOE-FAS-Application-Form.pdf). All applications forms must be submitted together with the relevant documents to the school directly.
 
 **MOE INDEPENDENT SCHOOL BURSARY SCHEME**
 
@@ -50,14 +51,14 @@ The MOE Independent School Bursary (ISB) Scheme, with revised income criteria an
 </td></tr><tr><td style="background-color:#E6E6E6;border-color:inherit;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">$4,401 – $7,500</td><td style="background-color:#E6E6E6;border-color:inherit;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">$1,101 – $1,875</td><td style="background-color:#E6E6E6;border-color:inherit;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">– Students will pay equivalent of 1.5x Government / Government Aided school fees – $37.50</td></tr><tr><td style="background-color:#FFF;border-color:inherit;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">$7,501 – $10,000</td><td style="background-color:#FFF;border-color:inherit;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">$1,875- $2,500</td><td style="background-color:#FFF;border-color:inherit;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">– 33% school fees and miscellaneous fees subsidy</td></tr></tbody></table>
 
 
-_Click [here](/files/Appendix%20B1%20-%20MOE%20ISB%20Application%20Form_Oct22.pdf) for details and application forms_
+_Click&nbsp;[here](/files/Appendix_B1___MOE_ISB_Application_Form_2024_final.pdf)&nbsp;for details and application forms_
 
 **SCGS FINANCIAL ASSISTANCE SCHEME**
 
 **Primary Division**
 
-The Primary Division has a School-based Financial Assistance scheme for students who require help but are not eligible for MOE FAS.  The assistance can take the form of miscellaneous fee and transport subsidies.
+The Primary Division has a School-based Financial Assistance scheme for students who require help but are not eligible for MOE FAS. &nbsp;The assistance can take the form of miscellaneous fee and transport subsidies.
 
-**Secondary Division** 
+**Secondary Division**&nbsp;
 
 The Secondary Division has a School-based Financial Assistance (SCGS Endowment Fund) for ISB recipients as well as students who require help but are not eligible. The assistance can take the form of school and miscellaneous fees, monthly allowance to provide for their pocket money, transport expenses, free textbooks, school attire, examination fees and compulsory enrichment.
