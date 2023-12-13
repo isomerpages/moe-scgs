@@ -52,3 +52,9 @@ variant: markdown
 ### Application for Parent Volunteer 
 
 * [Click Here To Download Form](https://form.gov.sg/616cf53fb89cba0012364533)
+
+### Payment via GIRO and Edusave
+
+* [GIRO Application Form](/files/SCGS_GIRO_FORM.pdf)
+* [Edusave Standing Order Form for Payment of Enrichment Programmes](/files/2024_Standing_Order_for_Edusave_Authorisation_Form_Website_Download.pdf)
+* [FAQ on Edusave Standing Order for Payment of Enrichment Programmes](/files/FAQ_on_Edusave_Standing_Order.pdf)
