@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Secondary Admission
 ---
-# **Sec 1 Reporting Day 2023 (TBC - The day after Posting Day**
+# **Sec 1 Reporting Day 2023 - 21st December 2023 - The day after Posting Day**
 
 **Mode of Registration & Notification**
 
