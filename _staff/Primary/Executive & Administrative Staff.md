@@ -11,7 +11,7 @@ variant: markdown
 |---	|---	|
 | **Principal** 	|  [Mrs Linda Chan](mailto:linda_m_m_chua@schools.gov.sg) 	|
 | **Vice Principal (Academic)** 	| [Mrs Har Ying Ying](mailto:lim_ying_ying@schools.gov.sg)<br>[Mdm Peh Tan Wee](mailto:peh_tan_wee@schools.gov.sg) 	|
-| **Vice Principal (Admin)** | [Ms Sandra Sia](mailto:sia_yan_san@schools.gov.sg) |
+| **Vice Principal (Admin)** | [Mrs Sandra Loh](mailto:sia_yan_san@schools.gov.sg) |
 | **Administration Manager** 	| [Mdm Poh Lilin](mailto:poh_lilin@schools.gov.sg) 	|
 | **Operations Manager** 	| [Mr Rajanthran Jayaraman](mailto:rajanthran_jayaraman@moe.edu.sg) |
 | **ICT Manager** 	| Ms Linda Lim	|
@@ -20,4 +20,4 @@ variant: markdown
 | **Librarian** 	| Mdm Padmah Swaminathan 	|
 | **ICT Desktop Engineers** 	| Mdm Tan Xiao Ting<br>Mr Ruzaini 	|
 | **Teacher Aide**  	| Miss Visalatchi d/o Awani Paspathy 	|
-| **School Attendants**  	| Mdm Sahida Bee d/o Mydin Pitchay<br>Mdm Yeo Yeng Hoong<br>Ms Lim Poh Choo 	|
+| **School Attendants**  	| Ms Lim Poh Choo<br>Mdm Sahida Bee d/o Mydin Pitchay<br>Mdm M Paulina d/o K Mariadass<br>Mdm Sandra Gilbert 	|
