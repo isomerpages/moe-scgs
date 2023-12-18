@@ -3,6 +3,7 @@ title: Teaching Staff (Pri)
 permalink: /our-people/staff/primary/teaching-staffpri/
 description: ""
 third_nav_title: Primary
+variant: markdown
 ---
 # **Teaching Staff**
 
@@ -10,11 +11,11 @@ third_nav_title: Primary
 |---	|---	|---	|
 | **Heads of Department** | [Mrs Audrey Lee](mailto:lim_ya_qi@moe.edu.sg) | English Language |
 |  	| [Mrs Ming Loh](mailto:ming_loh@moe.edu.sg) 	| Mother Tongue Languages 	|
-|  	| [Miss Jacqueline Tan](mailto:tan_shiow_yuen_jacqueline@moe.edu.sg) 	| Science 	|
+|  	| [Mdm Rachelle Tjhin](mailto:rachelle_tjhin_hui_ying@moe.edu.sg) 	| Science 	|
 |  	| [Mrs Annie Tan](mailto:tan_kim_neo_annie@moe.edu.sg) 	| Mathematics 	|
 |  	| [Mrs Boh Shiao Jean](mailto:lee_shiao_jean@moe.edu.sg) 	| Character and Citizenship Education 	|
 |  	| [Mrs Lee Meng Choo](mailto:lim_meng_choo_a@moe.edu.sg) 	| Information Technology /<br>Media Resource Library 	|
-|  	| [Mrs Ng Tien Juan](mailto:lim_tien_juan@moe.edu.sg) 	| PE / CCA / Aesthetics 	|
+|  	| - 	| PE / CCA / Aesthetics 	|
 | **School Staff Developer** 	| [Dr Jesmine Tan](mailto:jesmine_tan@moe.edu.sg) 	|  	|
 | **Level Head** 	| [Mrs Cindy Liao](mailto:woon_li_rong_cindy@moe.edu.sg) 	| English Language 	|
 |  	| [Miss Tan Hong Peng Shirley](mailto:tan_hong_peng_shirley@moe.edu.sg) 	| Mother Tongue Languages 	|
@@ -23,8 +24,7 @@ third_nav_title: Primary
 |  	| [Miss Melissa Sin](mailto:sin_yue_ting_melissa@moe.edu.sg) 	| Information Technology 	|
 |  	| [Mdm Prema Suresh](mailto:prema_suresh@moe.edu.sg) 	| Discipline 	|
 |  	| [Miss Wong See Wan](mailto:wong_see_wan@moe.edu.sg) 	| Special Projects 	|
-| **Year Head** 	| [Miss Goh Ai Ling](mailto:goh_ai_ling@moe.edu.sg) 	| Upper Primary 	|
-|  	| [Mdm Shuhaila Sidik](mailto:shuhaila_sidik@moe.edu.sg) 	| Mid Primary 	|
+| **Year Head** 	|  [Mdm Shuhaila Sidik](mailto:shuhaila_sidik@moe.edu.sg)	| Upper Primary 	|
 |  	| [Mdm Norrizaliani Jahari](mailto:norrizaliani_jahari@moe.edu.sg) 	| Lower Primary 	|
 
 -----------------------------------------------------------------------
