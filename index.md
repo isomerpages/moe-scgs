@@ -14,10 +14,10 @@ sections:
       button: Contact Us
       url: /contact-us/
   - infobar:
-      title: Sec 1 Reporting Day 2023
+      title: Sec 1 Posting Day 2023
       id: infobar
-      button: Sec 1 Reporting Day 2023 (Click Here)
-      url: /prospective-students/secondary-admission/sec-1-reporting-day-2023/
+      button: Sec 1 Posting Day (Click Here)
+      url: /prospective-students/secondary-admission/sec-1-posting-day-2023/
   - infobar:
       title: PSLE Results Day
       id: infobar
