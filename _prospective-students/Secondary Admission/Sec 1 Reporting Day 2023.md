@@ -1,35 +1,8 @@
 ---
 title: Sec 1 Reporting Day 2023
 permalink: /prospective-students/secondary-admission/sec-1-reporting-day-2023/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: Secondary Admission
 ---
-# **Sec 1 Reporting Day 2023 - 21st December 2023**
-
-**Mode of Registration & Notification**
-
-**Platform for Registration:** Online Registration Link sent via Parents' Gateway.
-
-**Purchase of textbooks and uniforms:** To be confirmed.
-
-**Registration**
-
-2024 Sec 1 students will **not** need to report physically to school on Sec 1 Reporting Day. 
-
-Parents will receive a message via Parents' Gateway (PG) to confirm acceptance of their daughter's posting to SCGS. Please ensure that you have registered and updated your password for access to PG.
-
-The message will contain:
-
-1. A unique link* for registration and acceptance of the offer of a place in SCGS.
-2. Documents giving general information about the school (School Hours, Time-table structure etc..)
-3. Information about the First Day of School and Orientation. (There will be no curricular lessons on first four days of school.)
-4. Administrative Instructions (eg: Application for Car Decal & ID passes etc...)
-
-*[  This **unique link** to a registration form will be sent to you. Each link contains information relevant only to your daughter. (eg: Eligibility for Third Language, Higher Mother Tongue etc...)]*
-
-Please **DO NOT SHARE** this link in your chat groups as students will receive different options. 
-
-Parents will receive notifications **at different times** as the options for students are different.
-
-All parents should receive notifications via PG by 2pm.
+<h1><strong>Sec 1 Posting Day 2023 - 20th December 2023</strong></h1><p><strong>Mode of Registration &amp; Notification</strong></p><p><strong>Platform for Registration:</strong> Online Registration Link sent via Parents' Gateway.</p><p><strong>Purchase of textbooks and uniforms:</strong> To be confirmed.</p><p><strong>Registration</strong></p><p>2024 Sec 1 students will <strong>not</strong> need to report physically to school on Sec 1 Reporting Day.</p><p>Parents will receive a message via Parents' Gateway (PG) to confirm acceptance of their daughter's posting to SCGS. Please ensure that you have registered and updated your password for access to PG.</p><p>The message will contain:</p><ol data-tight="true" class="tight"><li><p>A unique link* for registration and acceptance of the offer of a place in SCGS.</p></li><li><p>Documents giving general information about the school (School Hours, Time-table structure etc..)</p></li><li><p>Information about the First Day of School and Orientation. (There will be no curricular lessons on first four days of school.)</p></li><li><p>Administrative Instructions (eg: Application for Car Decal &amp; ID passes etc...)</p></li></ol><p><em>[ This </em><strong><em>unique link</em></strong><em> to a registration form will be sent to you. Each link contains information relevant only to your daughter. (eg: Eligibility for Third Language, Higher Mother Tongue etc...)]</em></p><p>Please <strong>DO NOT SHARE</strong> this link in your chat groups as students will receive different options.</p><p>Parents will receive notifications <strong>at different times</strong> as the options for students are different.</p><p>All parents should receive notifications via PG by 2pm.</p>
