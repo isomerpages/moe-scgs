@@ -47,7 +47,7 @@ variant: markdown
 
 * [Primary](https://form.gov.sg/#!/61a0393fafd2800012425278)
 * [Secondary](https://form.gov.sg/#!/61a085e1a342eb00124cd2ee)
-* [Only applicable for Sec 1 2023](https://go.gov.sg/sec1idpassandcardecal2023)
+* [Only applicable for Sec 1 2024](https://form.gov.sg/64d9bffc141a4600121b5572)
 
 ### Application for Parent Volunteer 
 
