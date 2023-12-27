@@ -61,13 +61,13 @@ These are usually conducted in November of the year prior to admission for entry
 
 **ADMISSION TESTS FOR 2024 JANUARY ENROLMENT**
 
-We wish to announce the start of Applications for Admission Tests 2023 for admission into SCGS in 2024.
+We wish to announce the start of Applications for Admission Tests 2024 for admission into SCGS in 2025.
 
 |  	|  	|
 |---	|---	|
-| Closing Date: 	| Friday 13 October 2023, 5.00pm 	|
-| Date of Test: 	| Thursday 2 November 2023 	|
-| Time of Test: 	| 08:30 AM - 03:00 PM 	|
+| Closing Date: 	| Friday 11 October 2024, 5.00pm 	|
+| Date of Test: 	| TBC	|
+| Time of Test: 	| TBC	|
 
 This admission exercise is only open to the following levels and Programmes:
 
@@ -79,15 +79,15 @@ The school does not accept new students for entry to Secondary 4.
 
 Students applying for admission will be assess on their English, Mathematics and Science. Do note that Physics, Chemistry and Biology will be tested for Science.
 
-Students seeking admission into SCGS need to complete and submit **APPLICATION FOR ENTRY FOR SECONDARY SCHOOL** form which can be downloaded from this site. [Entry Form Application is closed for 2023]
+Students seeking admission into SCGS need to complete and submit the **APPLICATION FOR ENTRY FOR SECONDARY SCHOOL** form which can be [downloaded](/files/3__Sch_Application_Form_2024_Edited.pdf) from this site. 
 
 Important Note:
 
 Students admitted to schools through the DSA-Sec Exercise and International Students admitted to local schools through AEIS are not eligible for entry through this Admission Test.
 
-Students who are interested in seeking admission are to send their completed forms and supporting documents to the school by Friday 13 October 2023, 5.00pm.
+Students who are interested in seeking admission are to send their completed forms and supporting documents to the school by Friday 11 October 2024, 5.00pm.
 
-The date for the Admission Tests is on Thursday, 2 November 2023.
+The date for the Admission Tests will be confirmed at a later date.
 
 Details regarding the admission test and test fees will be advised through a separate email.
 
