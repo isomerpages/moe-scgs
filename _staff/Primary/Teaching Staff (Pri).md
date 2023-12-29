@@ -44,8 +44,8 @@ variant: markdown
 |  	| Courage 	| [Miss Nur Nadiah](mailto:nur_nadiah_ahmad_jani@moe.edu.sg) 	| [Miss Jacqueline Tan](mailto:tan_shiow_yuen_jacqueline@moe.edu.sg) 	|
 |  	| Generosity 	| [Mdm Priyalatha d/o Ganaysan](mailto:priyalatha_ganaysan@moe.edu.sg) 	| [Miss Ko Guat Hua](mailto:ko_guat_hua@moe.edu.sg) 	|
 |  	| Service 	| [Mrs Lim Li-Lien](mailto:cho_li-lien@moe.edu.sg) 	| - 	|
-|  	| Prudence 	| [Mrs Emily Sng](mailto:Chua_Xing_Ting_Emily@moe.edu.sg) 	| [Mrs Gina Lim](mailto:poon_yoke_chee@moe.edu.sg) 	|
-|  	| Grace 	| [Miss Chong Wei Yan](mailto:chong_wei_yan@moe.edu.sg) 	| [Mrs Ng Wen Tirng](mailto:yang_wen_tirng@moe.edu.sg) 	|
+|  	| Prudence 	| [Miss Shannon Oon](mailto:oon_qian_yi_shannon@moe.edu.sg) 	| [Mdm Lai Huey Yuen](mailto:lai_huey_yuen@moe.edu.sg)	|
+|  	| Grace 	| [Mrs Ethel See](mailto:teh_hua_sim@moe.edu.sg)	| [Mdm Doreen Ting](mailto:ting_sye_ying_doreen@moe.edu.sg) 	|
 | **Primary 3** 	| Sincerity 	| [Mdm Doreen Sim](mailto:sim_ling_yim@moe.edu.sg) 	| [Mrs Wendy Chin](mailto:quek_siew_cheng@moe.edu.sg) 	|
 |  	| Courage 	| [Ms Shirley Tan](mailto:tan_hong_peng_shirley@moe.edu.sg) 	| [Mdm Tan Khalidah Hani](mailto:tan_khalidah_hani@moe.edu.sg) 	|
 |  	| Generosity 	| [Miss Loo Mee Lin](mailto:loo_mee_lin@moe.edu.sg) 	| [Miss Yap Hui Jie](mailto:yap_hui_jie@moe.edu.sg) 	|
