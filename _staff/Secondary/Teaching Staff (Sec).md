@@ -65,10 +65,10 @@ variant: markdown
 | Diligence | [Ms Yea Jie'er](mailto:yea_jier@moe.edu.sg) | [Mrs Audrey Wong](mailto:tan_mei_ling_audrey@moe.edu.sg) |
 | Courage | Ms Nurul Dini Binte Abdul Rahim | [Miss Yeo Li Yong](mailto:yeo_li_yong@moe.edu.sg) |
 | **Secondary 3** |     |      | 
-|Sincerity | [Mrs Vivian Tan](mailto:low_vivian@moe.edu.sg) | [Mdm Kavita Hundal](mailto:kavita_deep_kaur_hundal@moe.edu.sg) |
-| Service | [Mrs Jayne Tan](mailto:jayne_ruth_lim_ying@moe.edu.sg) | [Mrs Kho Chiou Yann](mailto:lim_chiou_yann@moe.edu.sg) |
-| Prudence | [Ms Irfana](mailto:irfana_begum_shaik_fareed@moe.edu.sg) | [Mrs Rosemay Song](mailto:rosemary_tang@moe.edu.sg) |
-| Perseverance | [Mrs Lena Low](mailto:lena_lim_a@moe.edu.sg) | [Mr Johari Khalil](mailto:johari_khalil@moe.edu.sg) |
+|Sincerity | [Ms Lim Ai Hong](mailto:lim_ai_hong@moe.edu.sg) | [Ms Vivienne Pang](mailto:pang_kailing_vivienne@moe.edu.sg) |
+| Service | [Ms Irfana](mailto:irfana_begum_shaik_fareed@moe.edu.sg) | [Mdm Tan Poey Siang](mailto:tan_poey_siang@moe.edu.sg) |
+| Prudence | [Ms Fu Wei](mailto:fu_wei@moe.edu.sg) | [Mrs Lee Puay Leng (YH)](mailto:ong_puay_leng@moe.edu.sg) |
+| Perseverance | [Mrs Justina Gan](mailto:foo_ai_chien_justina@moe.edu.sg) | [Mr Tan Chee Wan](mailto:tan_chee_wan@moe.edu.sg) |
 | Courage | [Mr Samuel Lim](mailto:lim_ting_lih@moe.edu.sg) | [Ms Bharathy](mailto:vijayabharathy_veeravarman@moe.edu.sg) [Mrs Melissa Neo](mailto:melissa_neo-ang@moe.edu.sg) |
 | Dignity | [Mr Chia Guo Hui](mailto:chia_guo_hui@moe.edu.sg) | [Ms Zhou Liang](mailto:zhou_liang@moe.edu.sg) |
 | Diligence | [Mr Lau Beng Hwee](mailto:lau_beng_hwee@moe.edu.sg) | [Mrs Lim Siew Joo](mailto:heng_siew_joo@moe.edu.sg) |
