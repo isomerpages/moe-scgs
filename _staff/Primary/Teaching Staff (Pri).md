@@ -46,11 +46,11 @@ variant: markdown
 |  	| Service 	| [Mrs Lim Li-Lien](mailto:cho_li-lien@moe.edu.sg) 	| - 	|
 |  	| Prudence 	| [Miss Shannon Oon](mailto:oon_qian_yi_shannon@moe.edu.sg) 	| [Mdm Lai Huey Yuen](mailto:lai_huey_yuen@moe.edu.sg)	|
 |  	| Grace 	| [Mrs Ethel See](mailto:teh_hua_sim@moe.edu.sg)	| [Mdm Doreen Ting](mailto:ting_sye_ying_doreen@moe.edu.sg) 	|
-| **Primary 3** 	| Sincerity 	| [Mdm Doreen Sim](mailto:sim_ling_yim@moe.edu.sg) 	| [Mrs Wendy Chin](mailto:quek_siew_cheng@moe.edu.sg) 	|
-|  	| Courage 	| [Ms Shirley Tan](mailto:tan_hong_peng_shirley@moe.edu.sg) 	| [Mdm Tan Khalidah Hani](mailto:tan_khalidah_hani@moe.edu.sg) 	|
-|  	| Generosity 	| [Miss Loo Mee Lin](mailto:loo_mee_lin@moe.edu.sg) 	| [Miss Yap Hui Jie](mailto:yap_hui_jie@moe.edu.sg) 	|
-|  	| Service 	| [Miss Corinna Tan](mailto:tan_cailing_corinna@moe.edu.sg) 	| [Miss Melissa Sin](mailto:sin_yue_ting_melissa@moe.edu.sg) 	|
-|  	| Prudence 	| [Mdm Faith Shen Pei Pei](mailto:faith_shen_pei_pei@moe.edu.sg) 	| [Mrs Marion Tan](mailto:marion_winings@moe.edu.sg) 	|
+| **Primary 3** 	| Sincerity 	| [Miss Margaret Ee](mailto:ee_swee_keow_margaret@moe.edu.sg) 	| [Miss Yap Hui Jie](mailto:yap_hui_jie@moe.edu.sg)	|
+|  	| Courage 	| [Ms Zhang_Mengjie](mailto:zhang_mengjie@moe.edu.sg) 	| [Mrs Angelina Eu](mailto:low_shu_ling_angelina@moe.edu.sg) 	|
+|  	| Generosity 	| [Miss Candice Kong](mailto:kong_kaijun_candice@moe.edu.sg)	| [Mdm Phua Ying-Li](mailto:phua_ying-li@moe.edu.sg) 	|
+|  	| Service 	| [Miss Katherine Chai](mailto:katherine_chai_kui_yi@moe.edu.sg) 	| [Miss Leong Kai Yun](mailto:sin_yue_ting_melissa@moe.edu.sg) 	|
+|  	| Prudence 	| [Ms Leng Yip, Jean](mailto:leng_yip_jean@moe.edu.sg) 	| [Mrs Cindy Liao](mailto:woon_li_rong_cindy@moe.edu.sg)	|
 | **Primary 4** 	| Sincerity 	| [Miss Katherine Chai](mailto:katherine_chai_kui_yi@moe.edu.sg) 	| [Miss Ng Poh Hoon](mailto:ng_poh_hoon@moe.edu.sg) 	|
 |  	| Courage 	| [Mdm Chen Chao](mailto:chen_chao_a@moe.edu.sg) 	| [Miss Margaret Ee](mailto:ee_swee_keow_margaret@moe.edu.sg) 	|
 |  	| Generosity 	| [Miss Lee Lay Eng](mailto:lee_lay_eng_a@moe.edu.sg) 	| [Mdm Jill Yip Wei Wei](mailto:yip_wei_wei@moe.edu.sg) 	|
