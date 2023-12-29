@@ -34,11 +34,11 @@ variant: markdown
 | | [Mr Johari Bin Khalil](mailto:johari_khalil@moe.edu.sg) | Science |
 | | [Mr Michael Chin](mailto:chin_sian_woon_michael@moe.edu.sg) | Science |
 | | [Ms Diane Hu](mailto:hu_yu_hua_diane@moe.edu.sg) | Special Projects |
-| | [Mrs Parvathy Siva](mailto:parvathy_vegadasalam@moe.edu.sg) | Student Management |
-| | [Ms Khadijah Binte Aziz Rahman](mailto:khadijah_aziz_rahman@moe.edu.sg) | Year 1 Head |
-| | [Mrs Lee Puay Leng](mailto:ong_puay_leng@moe.edu.sg) | Year 2 Head |
-| | [Mrs Kassey Gwee](mailto:kassey_heng@moe.edu.sg) | Year 3 Head |
-| | [Mrs Grace Chui](mailto:grace_tan_kok_eng@moe.edu.sg) | Year 4 Head |
+| |  | Student Management |
+| | [Ms Jace Yeoh Wah Ping](mailto:yeoh_wah_ping@moe.edu.sg) | Year 1 Head |
+| | [Ms Khadijah Binte Aziz Rahman](mailto:khadijah_aziz_rahman@moe.edu.sg) | Year 2 Head |
+| | [Mrs Lee Puay Leng](mailto:ong_puay_leng@moe.edu.sg) | Year 3 Head |
+| | [Mrs Kassey Gwee](mailto:kassey_heng@moe.edu.sg) | Year 4 Head |
 | **Dance Advisor** | [Mrs Jean Chan](mailto:Jean_Chan@moe.edu.sg) |
 
 --------------------------------------------------------------------
