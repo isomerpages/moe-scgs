@@ -15,12 +15,12 @@ variant: markdown
 |  	| [Mrs Annie Tan](mailto:tan_kim_neo_annie@moe.edu.sg) 	| Mathematics 	|
 |  	| [Mrs Boh Shiao Jean](mailto:lee_shiao_jean@moe.edu.sg) 	| Character and Citizenship Education 	|
 |  	| [Mrs Lee Meng Choo](mailto:lim_meng_choo_a@moe.edu.sg) 	| Information Technology /<br>Media Resource Library 	|
-|  	| - 	| PE / CCA / Aesthetics 	|
+|  	| [Mrs Ng Wen Tirng](mailto:yang_wen_tirng@moe.edu.sg)	| Aesthetics 	|
 | **School Staff Developer** 	| [Dr Jesmine Tan](mailto:jesmine_tan@moe.edu.sg) 	|  	|
 | **Level Head** 	| [Mrs Cindy Liao](mailto:woon_li_rong_cindy@moe.edu.sg) 	| English Language 	|
 |  	| [Miss Tan Hong Peng Shirley](mailto:tan_hong_peng_shirley@moe.edu.sg) 	| Mother Tongue Languages 	|
 |  	| [Mrs Sree-Tan Mei Yin](tan_mei_yin_a@moe.edu.sg) 	| Mathematics 	|
-| **Subject Head** 	| [Mrs Ng Wen Tirng](mailto:yang_wen_tirng@moe.edu.sg) 	| Aesthetics 	|
+| **Subject Head** 	| - 	| Aesthetics 	|
 |  	| [Miss Melissa Sin](mailto:sin_yue_ting_melissa@moe.edu.sg) 	| Information Technology 	|
 |  	| [Mdm Prema Suresh](mailto:prema_suresh@moe.edu.sg) 	| Discipline 	|
 |  	| [Miss Wong See Wan](mailto:wong_see_wan@moe.edu.sg) 	| Special Projects 	|
@@ -34,7 +34,7 @@ variant: markdown
 
 | **LEVEL** 	| CLASS 	| FORM TEACHERS 	|  	|
 |---	|---	|---	|---	|
-| **Primary 1** 	| Sincerity 	| [Mrs Doris Lim](mailto:chng_kim_leng_doris@moe.edu.sg) 	| [Mrs Siti Farid](mailto:siti_rakhmayati@moe.edu.sg) 	|
+| **Primary 1** 	| Sincerity 	| [Mdm Chen Chao](mailto:chen_chao_a@moe.edu.sg) 	| [Mrs Emily Sng](mailto:Chua_Xing_Ting_Emily@moe.edu.sg) 	|
 |  	| Courage 	| [Miss Nur Nadiah](mailto:nur_nadiah_ahmad_jani@moe.edu.sg) 	| [Ms Zhang_Mengjie](mailto:zhang_mengjie@moe.edu.sg) 	|
 |  	| Generosity 	| [Mdm Priyalatha d/o Ganaysan](mailto:priyalatha_ganaysan@moe.edu.sg) 	| [Mdm Liu Ting Ting](mailto:liu_ting_ting@moe.edu.sg) 	|
 |  	| Service 	| [Mrs Lim Li-Lien](mailto:cho_li-lien@moe.edu.sg) 	| [Mdm Tan Pei Hoon Sharon](mailto:tan_pei_hoon_sharon@moe.edu.sg) 	|
