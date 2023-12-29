@@ -38,8 +38,8 @@ variant: markdown
 |  	| Courage 	| [Miss Chong Wei Yan](mailto:chong_wei_yan@moe.edu.sg) 	| [Mrs Wong Xin Ying](mailto:ho_xin_ying@moe.edu.sg) 	|
 |  	| Generosity 	| [Mrs Gina Lim](mailto:poon_yoke_chee@moe.edu.sg) 	| [Mdm Jill Yip Wei Wei](mailto:yip_wei_wei@moe.edu.sg) 	|
 |  	| Service 	| [Mdm Amutha Dakshinamoorthy](mailto:amutha_dakshinamoorthy@moe.edu.sg) 	| [Mrs Cleo Ng](mailto:wong_yuin_ping_cleo@moe.edu.sg) 	|
-|  	| Prudence 	| [Mdm Lai Huey Yuen](mailto:lai_huey_yuen@moe.edu.sg) 	| [Miss Shannon Oon](mailto:oon_qian_yi_shannon@moe.edu.sg) 	|
-|  	| Grace 	| [Mdm Cao Xueying](mailto:cao_xueying@moe.edu.sg) 	| [Mrs Ethel See](mailto:teh_hua_sim@moe.edu.sg) 	|
+|  	| Prudence 	| [Mdm Tan Bee Yong](mailto:tan_bee_yong@moe.edu.sg) 	| [Mdm Tan Pei Hoon Sharon](mailto:tan_pei_hoon_sharon@moe.edu.sg)	|
+|  	| Grace 	| [Miss Alice Sit Yim Hwa](mailto:sit_yim_hwa@moe.edu.sg) 	| [Mdm Liu Ting Ting](mailto:liu_ting_ting@moe.edu.sg) 	|
 | **Primary 2** 	| Sincerity 	| [Miss Sandy Lim](mailto:lim_xue_li_sandy@moe.edu.sg) 	|  	|
 |  	| Courage 	| [Mrs Cleo Ng](mailto:wong_yuin_ping_cleo@moe.edu.sg) 	| [Miss Valerie Ng Suying](mailto:valerie_ng_suying@moe.edu.sg) 	|
 |  	| Generosity 	| [Miss Alice Sit Yim Hwa](mailto:sit_yim_hwa@moe.edu.sg) 	| [Miss Candice Kong](mailto:kong_kaijun_candice@moe.edu.sg) 	|
