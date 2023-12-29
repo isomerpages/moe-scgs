@@ -35,7 +35,7 @@ variant: markdown
 | **LEVEL** 	| CLASS 	| FORM TEACHERS 	|  	|
 |---	|---	|---	|---	|
 | **Primary 1** 	| Sincerity 	| [Mdm Chen Chao](mailto:chen_chao_a@moe.edu.sg) 	| [Mrs Emily Sng](mailto:Chua_Xing_Ting_Emily@moe.edu.sg) 	|
-|  	| Courage 	| [Miss Nur Nadiah](mailto:nur_nadiah_ahmad_jani@moe.edu.sg) 	| [Ms Zhang_Mengjie](mailto:zhang_mengjie@moe.edu.sg) 	|
+|  	| Courage 	| [Miss Chong Wei Yan](mailto:chong_wei_yan@moe.edu.sg) 	| [Mrs Wong Xin Ying](mailto:ho_xin_ying@moe.edu.sg) 	|
 |  	| Generosity 	| [Mdm Priyalatha d/o Ganaysan](mailto:priyalatha_ganaysan@moe.edu.sg) 	| [Mdm Liu Ting Ting](mailto:liu_ting_ting@moe.edu.sg) 	|
 |  	| Service 	| [Mrs Lim Li-Lien](mailto:cho_li-lien@moe.edu.sg) 	| [Mdm Tan Pei Hoon Sharon](mailto:tan_pei_hoon_sharon@moe.edu.sg) 	|
 |  	| Prudence 	| [Mdm Lai Huey Yuen](mailto:lai_huey_yuen@moe.edu.sg) 	| [Miss Shannon Oon](mailto:oon_qian_yi_shannon@moe.edu.sg) 	|
