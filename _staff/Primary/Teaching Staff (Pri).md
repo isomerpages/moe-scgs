@@ -21,6 +21,7 @@ variant: markdown
 |  	| [Miss Tan Hong Peng Shirley](mailto:tan_hong_peng_shirley@moe.edu.sg) 	| Mother Tongue Languages 	|
 |  	| [Mrs Sree-Tan Mei Yin](tan_mei_yin_a@moe.edu.sg) 	| Mathematics 	|
 | **Subject Head** 	| [Mdm Phua Ying-Li](mailto:phua_ying-li@moe.edu.sg)	|  PE &amp; CCA 	|
+|  	| [Miss Corinna Tan](mailto:tan_cailing_corinna@moe.edu.sg) 	| Science 	|
 |  	| [Miss Melissa Sin](mailto:sin_yue_ting_melissa@moe.edu.sg) 	| Information Technology 	|
 |  	| [Mdm Prema Suresh](mailto:prema_suresh@moe.edu.sg) 	| Discipline 	|
 |  	| [Miss Wong See Wan](mailto:wong_see_wan@moe.edu.sg) 	| Special Projects 	|
@@ -74,4 +75,4 @@ variant: markdown
 
 | NON-FORM TEACHERS 	|
 |---	|
-| [Mrs Wendy Chin](mailto:quek_siew_cheng@moe.edu.sg)<br>[Ms Susanne Loh](mailto:hee_seok_lan@moe.edu.sg) 	|
+| [Mrs Wendy Chin](mailto:quek_siew_cheng@moe.edu.sg)	|
