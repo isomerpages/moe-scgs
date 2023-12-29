@@ -24,6 +24,7 @@ variant: markdown
 | | [Mrs Dora Fernandez](mailto:dora_maria_choo@moe.edu.sg) | School Staff Developer |
 | **Subject Heads/Year Heads** | | 
 | | [Mr Ho Tze Liang Shaun](mailto:ho_tze_liang_shaun@moe.edu.sg) | Aesthetics |
+| | [Mrs Fu Shin Yee](mailto:wong_shin_yee@moe.edu.sg) | PE & CCA |
 | | [Miss Lee Jo Ann](mailto:lee_jo_ann@moe.edu.sg) | English Language & Literature |
 | | [Mrs Michelle Ang](mailto:Ng_mei_yin_michelle@moe.edu.sg) | Humanities |
 | | [Ms Vivienne Pang](mailto:pang_kailing_vivienne@moe.edu.sg) | Integrated Programme |
@@ -86,6 +87,11 @@ variant: markdown
 | **Non FT/CT** |  |  |  |
 |  | [Mrs Chua Poh Leng](mailto:oh_poh_leng_a@moe.edu.sg) | [Mrs Lee Puay Leng](mailto:ong_puay_leng@moe.edu.sg) |
 |  | [Mrs Gloria Cheng](mailto:gloria_cheng@moe.edu.sg)    | [Mrs Angela Goh](mailto:angela_Goh@moe.edu.sg) |
-|  | [Mrs Low Wee Leng](mailto:sim_wee_leng@moe.edu.sg)   | [Mdm Chong Jia Li](mailto:chong_jia_li@moe.edu.sg) |
-|  | [Mdm Loo Shek Kien](mailto:loo_shek_kien@moe.edu.sg)  | [Mrs Wong Bee Ting](mailto:lim_bee_ting@moe.edu.sg) |
+|  | [Mdm Loo Shek Kien](mailto:loo_shek_kien@moe.edu.sg)   | [Mrs Wong Bee Ting](mailto:lim_bee_ting@moe.edu.sg) |
+|  | [Miss Lee Jo Ann](mailto:lee_jo_ann@moe.edu.sg)  | [Miss Lim Zhi Yi](mailto:lim_zhi_yi@moe.edu.sg) |
+|  | [Ms Jace Yeoh Wah Ping](mailto:yeoh_wah_ping@moe.edu.sg)  | [Mrs Chan Sock Har](mailto:lim_sock_har@moe.edu.sg) |
+|  | [Ms Khadijah Binte Aziz Rahman](mailto:khadijah_aziz_rahman@moe.edu.sg)  | [Miss Audrey Tan](mailto:tan_lee_lian_audrey@moe.edu.sg) |
+|  | [Mr Oon Hock Leong](mailto:oon_hock_leong@moe.edu.sg)  | [Miss Goh Lay Hoon](mailto:goh_lay_hoon_b@moe.edu.sg) |
+|  | [Ms Agnes Goh](mailto:goh_seok_yee@moe.edu.sg)  | [Ms Shirley Leung](mailto:shirley_leung_lai_ying@moe.edu.sg) |
+|  | [Ms Wang Jinghong](mailto:wang_jing_hong@moe.edu.sg)  | [Ms Sim Wee Leng](mailto:sim_wee_leng@moe.edu.sg) |
 |   |  |
