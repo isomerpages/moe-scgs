@@ -79,7 +79,7 @@ variant: markdown
 | Service | [Miss Chang Wai Mun](mailto:chang_wai_mun@moe.edu.sg) | [Mrs Kho Chiou Yann](mailto:lim_chiou_yann@moe.edu.sg) |
 | Prudence | [Mrs Swati Mukherji](mailto:swati_mukherji@moe.edu.sg) | [Mrs Rosemary Song](mailto:rosemary_tang@moe.edu.sg) |
 | Perseverance | [Mrs Lena Low](mailto:lena_lim_a@moe.edu.sg) | [Ms Low Kok Lang](mailto:low_kok_lang@moe.edu.sg) |
-| Courage | Mr Samuel Lim | [Mrs Michelle Ang](mailto:ng_mei_yin_michelle@moe.edu.sg) |
+| Courage | [Mr Samuel Lim](mailto:lim_ting_lih@moe.edu.sg) | [Mrs Michelle Ang](mailto:ng_mei_yin_michelle@moe.edu.sg) |
 | Dignity | [Mr Chia Guo Hui](mailto:chia_guo_hui@moe.edu.sg) | [Ms Zhou Liang](mailto:zhou_liang@moe.edu.sg) |
 | Diligence | [Mr Lau Beng Hwee](mailto:lau_beng_hwee@moe.edu.sg) | [Mrs Lim Siew Joo](mailto:heng_siew_joo@moe.edu.sg) |
 | Grace | [Ms Diane Hu](mailto:hu_yu_hua_diane@moe.edu.sg) | [Mr Johari Khalil](mailto:johari_khalil@moe.edu.sg) |
