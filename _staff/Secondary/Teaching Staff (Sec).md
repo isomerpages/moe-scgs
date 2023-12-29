@@ -73,7 +73,7 @@ variant: markdown
 | Dignity | [Mrs Tan Mui Tiang](mailto:lim_mui_tiang@moe.edu.sg) | [Mdm Noor Wahida](mailto:noor_wahida_rusmani@moe.edu.sg) |
 | Diligence | [Ms Beh ML](mailto:beh_mui_leng@moe.edu.sg) | [Mdm Cui Hailan](mailto:cui_hailan@moe.edu.sg) |
 | Grace | [Mrs Johanna Chua](mailto:chua_lyn_lyn_johanna@moe.edu.sg) | [Mrs Melissa Neo](mailto:melissa_neo-ang@moe.edu.sg) |
-| Generosity | Mr Roger Tan | Mrs Doreen Lee |
+| Generosity | [Mr Roger Tan](mailto:tan_whye_kwang@moe.edu.sg) | [Mrs Doreen Lee](mailto:lau_ying_ying@moe.edu.sg) |
 | **Secondary 4** |    |    |    
 | Sincerity | [Mrs Vivian Tan](mailto:low_vivian@moe.edu.sg) | [Mr Michael Chin](mailto:chin_sian_woon_michael@moe.edu.sg) |
 | Service | [Miss Chang Wai Mun](mailto:chang_wai_mun@moe.edu.sg) | [Mrs Kho Chiou Yann](mailto:lim_chiou_yann@moe.edu.sg) |
