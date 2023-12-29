@@ -12,7 +12,6 @@ variant: markdown
 | **Deans** | [Miss Audrey Tan](mailto:tan_lee_lian_audrey@moe.edu.sg) | Student Services |
 | | [Mrs Chan Sock Har](mailto:lim_sock_har@moe.edu.sg) | Studies 1 |
 | | 
-| |  | Student Development |
 | **Heads of Department** | | | | 
 | |  | Character and Citizenship Education |
 | | [Mrs Melissa Neo](mailto:melissa_neo-ang@moe.edu.sg) | English Language & Literature |
