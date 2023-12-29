@@ -11,11 +11,10 @@ variant: markdown
 |---	|---	|---	|
 | **Deans** | [Miss Audrey Tan](mailto:tan_lee_lian_audrey@moe.edu.sg) | Student Services |
 | | [Mrs Chan Sock Har](mailto:lim_sock_har@moe.edu.sg) | Studies 1 |
-| | [Mrs Amanda Chia](mailto:Amanda_Sim@moe.edu.sg) | Studies 2 | 
+| | 
 | |  | Student Development |
 | **Heads of Department** | | | | 
-| | [Miss Adeline Tan](mailto:tan_li_jen_adeline@moe.edu.sg) | Aesthetics |
-| | [Mrs Grace Chui](mailto:grace_tan_kok_eng@moe.edu.sg) | Character and Citizenship Education |
+| |  | Character and Citizenship Education |
 | | [Mrs Melissa Neo](mailto:melissa_neo-ang@moe.edu.sg) | English Language & Literature |
 | | [Miss Yeo Li Yong](mailto:Yeo_li_yong@moe.edu.sg) | Humanities |
 | | [Mrs Audrey Wong](mailto:tan_mei_ling_audrey@moe.edu.sg) | Infocomm Technology |
@@ -25,6 +24,7 @@ variant: markdown
 | | [Mr Tan Chee Wan](mailto:tan_chee_wan@moe.edu.sg) | Science |
 | | [Mrs Dora Fernandez](mailto:dora_maria_choo@moe.edu.sg) | School Staff Developer |
 | **Subject Heads/Year Heads** | | 
+| | [Mr Ho Tze Liang Shaun](mailto:ho_tze_liang_shaun@moe.edu.sg) | Aesthetics |
 | | [Miss Lee Jo Ann](mailto:lee_jo_ann@moe.edu.sg) | English Language & Literature |
 | | [Mrs Michelle Ang](mailto:Ng_mei_yin_michelle@moe.edu.sg) | Humanities |
 | | [Ms Vivienne Pang](mailto:pang_kailing_vivienne@moe.edu.sg) | Integrated Programme |
@@ -61,7 +61,7 @@ variant: markdown
 | Prudence | [Ms Evelyn Ku](mailto:ku_yin_ling_evelyn_a@moe.edu.sg) | [Miss Maryanty Mohtar](mailto:maryanty_mohtar@moe.edu.sg) |
 | Perseverance | [Mr Abdul Razak](mailto:abdul_razak@moe.edu.sg) | [Mdm Lim Chan Ching](mailto:lim_chan_ching@moe.edu.sg) |
 | Generosity | [Miss Kong Shiau Wei ](mailto:kong_shiau_wei@moe.edu.sg) | [Mrs Thurai](mailto:thuraimanickam_jayajothi@moe.edu.sg) |
-| Grace | [Mrs Sophia Wong](mailto:cheng_jin_ting_sophia@moe.edu.sg) | [Mr Shaun Ho](mailto:shaun_ho@moe.edu.sg) |
+| Grace | [Mrs Sophia Wong](mailto:cheng_jin_ting_sophia@moe.edu.sg) | [Mr Shaun Ho](mailto:ho_tze_liang_shaun@moe.edu.sg) |
 | Diligence | [Ms Yea Jie'er](mailto:yea_jier@moe.edu.sg) | [Mrs Audrey Wong](mailto:tan_mei_ling_audrey@moe.edu.sg) |
 | Courage | [Ms Nurul Dini Binte Abdul Rahim](mailto:nurul_dini_abdul_rahim@moe.edu.sg) | [Miss Yeo Li Yong](mailto:yeo_li_yong@moe.edu.sg) |
 | **Secondary 3** |     |      | 
