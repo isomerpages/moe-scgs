@@ -56,7 +56,7 @@ variant: markdown
 | Courage | [Mr Ang Tee Koon](mailto:ang_tee_koon@moe.edu.sg) | [Mdm Mo Fengling](mailto:mo_feng_ling@moe.edu.sg) |
 | **Secondary 2** |    |    | 
 | Sincerity | [Mdm Phua Chia Ghee](mailto:phua_chia_ghee@moe.edu.sg) | [Mr Zeng Wei](mailto:zeng_wei_1@moe.edu.sg) |
-| Service | [Mrs Kavita Gill](mailto:kavita_deep_kaur_hundal@moe.edu.sg) | [Mrs Dora Fernandez (YH)]((mailto:dora_maria_choo@moe.edu.sg) |
+| Service | [Mrs Kavita Gill](mailto:kavita_deep_kaur_hundal@moe.edu.sg) | [Mrs Dora Fernandez (YH)](mailto:dora_maria_choo@moe.edu.sg) |
 | Prudence | [Ms Evelyn Ku](mailto:ku_yin_ling_evelyn_a@moe.edu.sg) | [Miss Maryanty Mohtar](mailto:maryanty_mohtar@moe.edu.sg) |
 | Perseverance | [Mr Abdul Razak](mailto:abdul_razak@moe.edu.sg) | [Mdm Lim Chan Ching](mailto:lim_chan_ching@moe.edu.sg) |
 | Generosity | [Miss Kong Shiau Wei ](mailto:kong_shiau_wei@moe.edu.sg) | [Mrs Thurai](mailto:thuraimanickam_jayajothi@moe.edu.sg) |
