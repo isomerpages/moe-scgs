@@ -69,9 +69,9 @@ variant: markdown
 | Service | [Ms Irfana](mailto:irfana_begum_shaik_fareed@moe.edu.sg) | [Mdm Tan Poey Siang](mailto:tan_poey_siang@moe.edu.sg) |
 | Prudence | [Ms Fu Wei](mailto:fu_wei@moe.edu.sg) | [Mrs Lee Puay Leng (YH)](mailto:ong_puay_leng@moe.edu.sg) |
 | Perseverance | [Mrs Justina Gan](mailto:foo_ai_chien_justina@moe.edu.sg) | [Mr Tan Chee Wan](mailto:tan_chee_wan@moe.edu.sg) |
-| Courage | [Mr Samuel Lim](mailto:lim_ting_lih@moe.edu.sg) | [Ms Bharathy](mailto:vijayabharathy_veeravarman@moe.edu.sg) [Mrs Melissa Neo](mailto:melissa_neo-ang@moe.edu.sg) |
-| Dignity | [Mr Chia Guo Hui](mailto:chia_guo_hui@moe.edu.sg) | [Ms Zhou Liang](mailto:zhou_liang@moe.edu.sg) |
-| Diligence | [Mr Lau Beng Hwee](mailto:lau_beng_hwee@moe.edu.sg) | [Mrs Lim Siew Joo](mailto:heng_siew_joo@moe.edu.sg) |
+| Courage | [Ms Rina Lio](mailto:lio_su-mein_rina@moe.edu.sg) | [Ms Bharathy](mailto:vijayabharathy_veeravarman@moe.edu.sg) |
+| Dignity | [Mrs Tan Mui Tiang](mailto:lim_mui_tiang@moe.edu.sg) | [Mdm Noor Wahida](mailto:noor_wahida_rusmani@moe.edu.sg) |
+| Diligence | [Ms Beh ML](mailto:beh_mui_leng@moe.edu.sg) | [Mdm Cui Hailan](mailto:cui_hailan@moe.edu.sg) |
 | Grace | [Ms Leong Hui Ran](mailto:leong_hui_ran@moe.edu.sg) | [Mr Ng Wen Jye](mailto:ng_wen_jye@moe.edu.sg) |
 | Generosity | [Mrs Caruna Yogeeswaran](mailto:caruna_sothi@moe.edu.sg) | [Mrs Linda Lee](mailto:khoo_beng_gek_linda@moe.edu.sg) |
 | **Secondary 4** |    |    |    
