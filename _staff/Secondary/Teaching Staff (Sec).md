@@ -48,11 +48,11 @@ variant: markdown
 |---	|---	|---	|
 | **Secondary 1** |     |     | 
 |Sincerity | [Miss Lee Li Qun](mailto:lee_li_qun@moe.edu.sg) | [Ms Ting Shi Yun](mailto:ting_shi_yun@moe.edu.sg)  |
-|Service | [Mr Ng Keng Yang](mailto:ng_keng_yang@moe.edu.sg) | Mrs Cha Wai Mun (mailto:soo_kia_yong@moe.edu.sg) |
-| Prudence | [Miss Yeo Poh Tin](mailto:yeo_poh_tin@moe.edu.sg) | Miss Shahidna (mailto:ku_yin_ling_evelyn_a@moe.edu.sg)|
-| Perseverance | [Miss Deborah Gan](mailto:deborah_gan_li_chuen@moe.edu.sg)  | Ms Cheyanne Koh (mailto:wong_wai_mun_a@moe.edu.sg)  |
-| Generosity | Ms Teo Wen Fei (mailto:kong_shiau_wei@moe.edu.sg) | Ms Davilia Koh (mailto:koh_kaddy@moe.edu.sg) |
-| Grace | [Ms Anisha Johnson](mailto:anisha_anne_johnson@moe.edu.sg) |  Mdm Hartini Bte Hassan (mailto:anisha_anne_johnson@moe.edu.sg) |
+|Service | [Mr Ng Keng Yang](mailto:ng_keng_yang@moe.edu.sg) | [Mrs Cha Wai Mun](mailto:wong_wai_mun_a@moe.edu.sg) |
+| Prudence | [Miss Yeo Poh Tin](mailto:yeo_poh_tin@moe.edu.sg) | [Miss Shahidna](mailto:raja_nurr_shahidna_a@moe.edu.sg) |
+| Perseverance | [Miss Deborah Gan](mailto:deborah_gan_li_chuen@moe.edu.sg)  | [Ms Cheyanne Koh](mailto:koh_sau_tiang_cheyanne@moe.edu.sg) |
+| Generosity | [Ms Teo Wen Fei](mailto:teo_wen_fei@moe.edu.sg) | [Ms Davilia Koh](mailto:koh_cixian_davilia@moe.edu.sg) |
+| Grace | [Ms Anisha Johnson](mailto:anisha_anne_johnson@moe.edu.sg) | [Mdm Hartini Bte Hassan](mailto:hartini_hassan@moe.edu.sg) |
 | Diligence | [Mr Liang Kok Ann](mailto:liang_kok_ann@moe.edu.sg) | [Miss Grace Tang](mailto:grace_tang@moe.edu.sg)  |
 | Courage | [Mr Ang Tee Koon](mailto:ang_tee_koon@moe.edu.sg) | [Mdm Mo Fengling](mailto:mo_feng_ling@moe.edu.sg) |
 | **Secondary 2** |    |    | 
