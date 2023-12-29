@@ -49,13 +49,13 @@ variant: markdown
 | **Primary 3** 	| Sincerity 	| [Miss Margaret Ee](mailto:ee_swee_keow_margaret@moe.edu.sg) 	| [Miss Yap Hui Jie](mailto:yap_hui_jie@moe.edu.sg)	|
 |  	| Courage 	| [Ms Zhang_Mengjie](mailto:zhang_mengjie@moe.edu.sg) 	| [Mrs Angelina Eu](mailto:low_shu_ling_angelina@moe.edu.sg) 	|
 |  	| Generosity 	| [Miss Candice Kong](mailto:kong_kaijun_candice@moe.edu.sg)	| [Mdm Phua Ying-Li](mailto:phua_ying-li@moe.edu.sg) 	|
-|  	| Service 	| [Miss Katherine Chai](mailto:katherine_chai_kui_yi@moe.edu.sg) 	| [Miss Leong Kai Yun](mailto:sin_yue_ting_melissa@moe.edu.sg) 	|
+|  	| Service 	| [Miss Katherine Chai](mailto:katherine_chai_kui_yi@moe.edu.sg) 	| [Ms Leong Kai Yun](mailto:sin_yue_ting_melissa@moe.edu.sg) 	|
 |  	| Prudence 	| [Ms Leng Yip, Jean](mailto:leng_yip_jean@moe.edu.sg) 	| [Mrs Cindy Liao](mailto:woon_li_rong_cindy@moe.edu.sg)	|
 | **Primary 4** 	| Sincerity 	| [Mdm Doreen Sim](mailto:sim_ling_yim@moe.edu.sg) 	| [Mdm Norhariya Bte Anizar](mailto:norhariya_anizar@moe.edu.sg) 	|
-|  	| Courage 	| [Mdm Chen Chao](mailto:chen_chao_a@moe.edu.sg) 	| [Miss Margaret Ee](mailto:ee_swee_keow_margaret@moe.edu.sg) 	|
-|  	| Generosity 	| [Miss Lee Lay Eng](mailto:lee_lay_eng_a@moe.edu.sg) 	| [Mdm Jill Yip Wei Wei](mailto:yip_wei_wei@moe.edu.sg) 	|
-|  	| Service 	| [Mdm Doreen Ting](mailto:ting_sye_ying_doreen@moe.edu.sg) 	| [Mdm Norhariya Bte Anizar](mailto:norhariya_anizar@moe.edu.sg) 	|
-|  	| Prudence 	| [Mdm Phua Ying-Li](mailto:phua_ying-li@moe.edu.sg) 	| [Mrs Wong Xin Ying](mailto:ho_xin_ying@moe.edu.sg) 	|
+|  	| Courage 	| [Mdm Tan Khalidah Hani](mailto:tan_khalidah_hani@moe.edu.sg) 	| [Mrs Lee Xiang Jun](mailto:heng_xiang_jun@moe.edu.sg) 	|
+|  	| Generosity 	| [Miss Loo Mee Lin](mailto:loo_mee_lin@moe.edu.sg) 	| [Miss Lee Lay Eng](mailto:lee_lay_eng_a@moe.edu.sg) 	|
+|  	| Service 	| [Miss Corinna Tan](mailto:tan_cailing_corinna@moe.edu.sg)	| [Miss Melissa Sin](mailto:sin_yue_ting_melissa@moe.edu.sg) 	|
+|  	| Prudence 	| [Mrs Marion Tan](mailto:marion_winings@moe.edu.sg) 	| [Mdm Faith Shen Pei Pei](mailto:faith_shen_pei_pei@moe.edu.sg) 	|
 | **Primary 5** 	| Sincerity 	| [Mdm Faridah Yunos](mailto:faridah_yunos@moe.edu.sg) 	| [Mrs Sree-Tan Mei Yin](mailto:tan_mei_yin_a@moe.edu.sg) 	|
 |  	| Courage 	| [Mrs Lau Ei Leen](mailto:tay_ei_leen@moe.edu.sg)	| [Ms Zhang Qiangsheng](mailto:zhang_qiangsheng@moe.edu.sg) 	|
 |  	| Generosity 	| [Ms Leng Yip, Jean](mailto:leng_yip_jean@moe.edu.sg) 	| [Mrs Sheralyn Lim](mailto:koo_lu-ming_sheralyn@moe.edu.sg) 	|
