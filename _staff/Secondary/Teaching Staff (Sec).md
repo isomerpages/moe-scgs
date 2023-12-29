@@ -90,7 +90,7 @@ variant: markdown
 |  | [Miss Lee Jo Ann](mailto:lee_jo_ann@moe.edu.sg)  | [Miss Lim Zhi Yi](mailto:lim_zhi_yi@moe.edu.sg) |
 |  | [Ms Jace Yeoh Wah Ping](mailto:yeoh_wah_ping@moe.edu.sg)  | [Mrs Chan Sock Har](mailto:lim_sock_har@moe.edu.sg) |
 |  | [Ms Khadijah Binte Aziz Rahman](mailto:khadijah_aziz_rahman@moe.edu.sg)  | [Miss Audrey Tan](mailto:tan_lee_lian_audrey@moe.edu.sg) |
-|  | [Mr Oon Hock Leong](mailto:oon_hock_leong@moe.edu.sg)  | [Ms Goh Lay Hoon](mailto:goh_lay_hoon_b@moe.edu.sg) |
+|  | [Mr Oon Hock Leong](mailto:oon_hock_leong@moe.edu.sg)  | [Miss Goh Lay Hoon](mailto:goh_lay_hoon_b@moe.edu.sg) |
 |  | [Ms Agnes Goh](mailto:goh_seok_yee@moe.edu.sg)  | [Ms Shirley Leung](mailto:shirley_leung_lai_ying@moe.edu.sg) |
-|  | [Mr Wang Jinghong](mailto:wang_jing_hong@moe.edu.sg)  | [Ms Sim Wee Leng](mailto:sim_wee_leng@moe.edu.sg) |
+|  | [Ms Wang Jinghong](mailto:wang_jing_hong@moe.edu.sg)  | [Ms Sim Wee Leng](mailto:sim_wee_leng@moe.edu.sg) |
 |   |  |
