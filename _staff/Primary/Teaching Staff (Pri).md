@@ -20,7 +20,7 @@ variant: markdown
 | **Level Head** 	| [Mrs Cindy Liao](mailto:woon_li_rong_cindy@moe.edu.sg) 	| English Language 	|
 |  	| [Miss Tan Hong Peng Shirley](mailto:tan_hong_peng_shirley@moe.edu.sg) 	| Mother Tongue Languages 	|
 |  	| [Mrs Sree-Tan Mei Yin](tan_mei_yin_a@moe.edu.sg) 	| Mathematics 	|
-| **Subject Head** 	| - 	| Aesthetics 	|
+| **Subject Head** 	| [Mdm Phua Ying-Li](mailto:phua_ying-li@moe.edu.sg)	|  PE &amp; CCA 	|
 |  	| [Miss Melissa Sin](mailto:sin_yue_ting_melissa@moe.edu.sg) 	| Information Technology 	|
 |  	| [Mdm Prema Suresh](mailto:prema_suresh@moe.edu.sg) 	| Discipline 	|
 |  	| [Miss Wong See Wan](mailto:wong_see_wan@moe.edu.sg) 	| Special Projects 	|
