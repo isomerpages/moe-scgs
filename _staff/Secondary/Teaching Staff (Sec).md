@@ -24,6 +24,7 @@ variant: markdown
 | | [Mrs Dora Fernandez](mailto:dora_maria_choo@moe.edu.sg) | School Staff Developer |
 | **Subject Heads/Year Heads** | | 
 | | [Mr Ho Tze Liang Shaun](mailto:ho_tze_liang_shaun@moe.edu.sg) | Aesthetics |
+| | [Mrs Fu Shin Yee](mailto:wong_shin_yee@moe.edu.sg) | PE & CCA |
 | | [Miss Lee Jo Ann](mailto:lee_jo_ann@moe.edu.sg) | English Language & Literature |
 | | [Mrs Michelle Ang](mailto:Ng_mei_yin_michelle@moe.edu.sg) | Humanities |
 | | [Ms Vivienne Pang](mailto:pang_kailing_vivienne@moe.edu.sg) | Integrated Programme |
