@@ -60,10 +60,10 @@ variant: markdown
 | Service | [Mrs Kavita Gill](mailto:kavita_deep_kaur_hundal@moe.edu.sg) | [Mrs Dora Fernandez (YH)]((mailto:dora_maria_choo@moe.edu.sg) |
 | Prudence | Ms Evelyn Ku (mailto:swati_mukherji@moe.edu.sg) | [Miss Maryanty Mohtar](mailto:maryanty_mohtar@moe.edu.sg) |
 | Perseverance | [Mr Abdul Razak](mailto:abdul_razak@moe.edu.sg) | [Mdm Lim Chan Ching](mailto:lim_chan_ching@moe.edu.sg) |
-| Generosity | [Mr Liang Kok Ann](mailto:liang_kok_ann@moe.edu.sg) | [Miss Lim Zhi Yi](mailto:lim_zhi_yi@moe.edu.sg) |
-| Grace | [Mrs Tay-Ting Hui Lin](mailto:hui_lin_ting@moe.edu.sg) | [Mdm Mo Fengling](mailto:mo_feng_ling@moe.edu.sg) |
-| Diligence | [Ms Teo Wen Fei](mailto:teo_wen_fei@moe.edu.sg) | [Mrs Audrey Wong](mailto:tan_mei_ling_audrey@moe.edu.sg) |
-| Courage | [Miss Deborah Gan](mailto:deborah_gan_li_chuen@moe.edu.sg) | [Miss Jace Yeoh](mailto:yeoh_wah_ping@moe.edu.sg) |
+| Generosity | [Miss Kong Shiau Wei ](mailto:kong_shiau_wei@moe.edu.sg) | Mrs Thurai |
+| Grace | Mrs Sophia Wong(mailto:hui_lin_ting@moe.edu.sg) | Mr Shaun Ho (mailto:mo_feng_ling@moe.edu.sg) |
+| Diligence | [Ms Yea Jie'er](mailto:yea_jier@moe.edu.sg) | [Mrs Audrey Wong](mailto:tan_mei_ling_audrey@moe.edu.sg) |
+| Courage | Ms Nurul Dini Binte Abdul Rahim | [Miss Yeo Li Yong](mailto:yeo_li_yong@moe.edu.sg) |
 | **Secondary 3** |     |      | 
 |Sincerity | [Mrs Vivian Tan](mailto:low_vivian@moe.edu.sg) | [Mdm Kavita Hundal](mailto:kavita_deep_kaur_hundal@moe.edu.sg) |
 | Service | [Mrs Jayne Tan](mailto:jayne_ruth_lim_ying@moe.edu.sg) | [Mrs Kho Chiou Yann](mailto:lim_chiou_yann@moe.edu.sg) |
