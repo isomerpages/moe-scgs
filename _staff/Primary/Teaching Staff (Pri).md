@@ -40,7 +40,7 @@ variant: markdown
 |  	| Service 	| [Mdm Amutha Dakshinamoorthy](mailto:amutha_dakshinamoorthy@moe.edu.sg) 	| [Mrs Cleo Ng](mailto:wong_yuin_ping_cleo@moe.edu.sg) 	|
 |  	| Prudence 	| [Mdm Tan Bee Yong](mailto:tan_bee_yong@moe.edu.sg) 	| [Mdm Tan Pei Hoon Sharon](mailto:tan_pei_hoon_sharon@moe.edu.sg)	|
 |  	| Grace 	| [Miss Alice Sit Yim Hwa](mailto:sit_yim_hwa@moe.edu.sg) 	| [Mdm Liu Ting Ting](mailto:liu_ting_ting@moe.edu.sg) 	|
-| **Primary 2** 	| Sincerity 	| [Miss Sandy Lim](mailto:lim_xue_li_sandy@moe.edu.sg) 	|  	|
+| **Primary 2** 	| Sincerity 	| [Mrs Siti Farid](mailto:siti_rakhmayati@moe.edu.sg) 	| [Mrs Doris Lim](mailto:chng_kim_leng_doris@moe.edu.sg) 	|
 |  	| Courage 	| [Mrs Cleo Ng](mailto:wong_yuin_ping_cleo@moe.edu.sg) 	| [Miss Valerie Ng Suying](mailto:valerie_ng_suying@moe.edu.sg) 	|
 |  	| Generosity 	| [Miss Alice Sit Yim Hwa](mailto:sit_yim_hwa@moe.edu.sg) 	| [Miss Candice Kong](mailto:kong_kaijun_candice@moe.edu.sg) 	|
 |  	| Service 	| [Mdm Amutha Dakshinamoorthy](mailto:amutha_dakshinamoorthy@moe.edu.sg) 	| [Mdm Tan Bee Yong](mailto:tan_bee_yong@moe.edu.sg) 	|
