@@ -20,13 +20,15 @@ variant: markdown
 | **Level Head** 	| [Mrs Cindy Liao](mailto:woon_li_rong_cindy@moe.edu.sg) 	| English Language 	|
 |  	| [Miss Tan Hong Peng Shirley](mailto:tan_hong_peng_shirley@moe.edu.sg) 	| Mother Tongue Languages 	|
 |  	| [Mrs Sree-Tan Mei Yin](tan_mei_yin_a@moe.edu.sg) 	| Mathematics 	|
-| **Subject Head** 	| [Mdm Phua Ying-Li](mailto:phua_ying-li@moe.edu.sg)	|  PE &amp; CCA 	|
-|  	| [Miss Corinna Tan](mailto:tan_cailing_corinna@moe.edu.sg) 	| Science 	|
+| **Subject Head** 	|  [Miss Corinna Tan](mailto:tan_cailing_corinna@moe.edu.sg) 	|  Science 	|
+|  	| [Miss Katherine Chai](mailto:katherine_chai_kui_yi@moe.edu.sg)	| SS &amp; NE 	|
 |  	| [Miss Melissa Sin](mailto:sin_yue_ting_melissa@moe.edu.sg) 	| Information Technology 	|
+|  	| [Mdm Phua Ying-Li](mailto:phua_ying-li@moe.edu.sg)	| PE &amp; CCA 	|
 |  	| [Mdm Prema Suresh](mailto:prema_suresh@moe.edu.sg) 	| Discipline 	|
 |  	| [Miss Wong See Wan](mailto:wong_see_wan@moe.edu.sg) 	| Special Projects 	|
-| **Year Head** 	|  [Mdm Shuhaila Sidik](mailto:shuhaila_sidik@moe.edu.sg)	| Upper Primary 	|
-|  	| [Mdm Norrizaliani Jahari](mailto:norrizaliani_jahari@moe.edu.sg) 	| Lower Primary 	|
+| **Year Head** 	|  [Mdm Shuhaila Sidik](mailto:shuhaila_sidik@moe.edu.sg)	| P5 &amp; P6 	|
+|  	| [Mrs Lee Meng Choo](mailto:lim_meng_choo_a@moe.edu.sg) 	| P4 	|
+|  	| [Mdm Norrizaliani Jahari](mailto:norrizaliani_jahari@moe.edu.sg) 	| P1, P2 &amp; P3 	|
 
 -----------------------------------------------------------------------
 
@@ -50,7 +52,7 @@ variant: markdown
 | **Primary 3** 	| Sincerity 	| [Miss Margaret Ee](mailto:ee_swee_keow_margaret@moe.edu.sg) 	| [Miss Yap Hui Jie](mailto:yap_hui_jie@moe.edu.sg)	|
 |  	| Courage 	| [Ms Zhang_Mengjie](mailto:zhang_mengjie@moe.edu.sg) 	| [Mrs Angelina Eu](mailto:low_shu_ling_angelina@moe.edu.sg) 	|
 |  	| Generosity 	| [Miss Candice Kong](mailto:kong_kaijun_candice@moe.edu.sg)	| [Mdm Phua Ying-Li](mailto:phua_ying-li@moe.edu.sg) 	|
-|  	| Service 	| [Miss Katherine Chai](mailto:katherine_chai_kui_yi@moe.edu.sg) 	| [Ms Leong Kai Yun](mailto:sin_yue_ting_melissa@moe.edu.sg) 	|
+|  	| Service 	| [Miss Katherine Chai](mailto:katherine_chai_kui_yi@moe.edu.sg) 	| [Ms Leong Kai Yun](mailto:leong_kai_yun@moe.edu.sg) 	|
 |  	| Prudence 	| [Ms Leng Yip, Jean](mailto:leng_yip_jean@moe.edu.sg) 	| [Mrs Cindy Liao](mailto:woon_li_rong_cindy@moe.edu.sg)	|
 | **Primary 4** 	| Sincerity 	| [Mdm Doreen Sim](mailto:sim_ling_yim@moe.edu.sg) 	| [Mdm Norhariya Bte Anizar](mailto:norhariya_anizar@moe.edu.sg) 	|
 |  	| Courage 	| [Mdm Tan Khalidah Hani](mailto:tan_khalidah_hani@moe.edu.sg) 	| [Mrs Lee Xiang Jun](mailto:heng_xiang_jun@moe.edu.sg) 	|
