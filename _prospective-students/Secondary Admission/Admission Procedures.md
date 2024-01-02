@@ -71,9 +71,9 @@ We wish to announce the start of Applications for Admission Tests 2024 for admis
 
 This admission exercise is only open to the following levels and Programmes:
 
-*   2024 Secondary 1 (O-Level Programme or Integrated Programme)\* (\*Only Returning Singaporeans who did not take the PSLE are eligible for admission into Secondary 1 through these tests.)
-*   2024 Secondary 2 (O-Level Programme)
-*   2024 Secondary 3 (O-Level Programme or Integrated Programme)
+*   2025 Secondary 1 (O-Level Programme or Integrated Programme)\* (\*Only Returning Singaporeans who did not take the PSLE are eligible for admission into Secondary 1 through these tests.)
+*   2025 Secondary 2 (O-Level Programme)
+*   2025 Secondary 3 (O-Level Programme or Integrated Programme)
 
 The school does not accept new students for entry to Secondary 4.
 
