@@ -2,6 +2,7 @@
 title: Scholarships
 permalink: /prospective-students/scholarships/
 description: ""
+variant: markdown
 ---
 # **Scholarships**
 
@@ -70,8 +71,8 @@ School fees as charged by SCGS for local students for the year.&nbsp;Should the 
 
 Subject to performance and conduct and conditions stated, the scholarship will be renewed yearly to allow the scholar to complete four years of study in the Secondary School.
 
-* [2023 Sports Scholarship Form](/files/2023_Sports-Scholarship-Application-Form.pdf)
-* [SCGS Sports Scholarship Terms and Conditions](/files/2023-Sports-Scholarship-Terms-Conditions.pdf)
+* [2024 Sports Scholarship Form](/files/2024_Sports_Scholarship_Application_Form_Editable.pdf)
+* [SCGS Sports Scholarship Terms and Conditions](/files/2024_Sports_Scholarship_Terms_Conditions.pdf)
 
 **UPLIFT Scholarship**
 
