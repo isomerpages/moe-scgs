@@ -62,7 +62,7 @@ variant: markdown
 | Perseverance | [Mr Abdul Razak](mailto:abdul_razak@moe.edu.sg) | [Mdm Lim Chan Ching](mailto:lim_chan_ching@moe.edu.sg) |
 | Generosity | [Miss Kong Shiau Wei ](mailto:kong_shiau_wei@moe.edu.sg) | [Mrs Thurai](mailto:thuraimanickam_jayajothi@moe.edu.sg) |
 | Grace | [Mrs Sophia Wong](mailto:cheng_jin_ting_sophia@moe.edu.sg) | [Mr Shaun Ho](mailto:ho_tze_liang_shaun@moe.edu.sg) |
-| Diligence | [Ms Yea Jie'er](mailto:yea_jier@moe.edu.sg) | [Mrs Audrey Wong](mailto:tan_mei_ling_audrey@moe.edu.sg) |
+| Diligence | [Ms Yea Jie'r](mailto:yea_jier@moe.edu.sg) | [Mrs Audrey Wong](mailto:tan_mei_ling_audrey@moe.edu.sg) |
 | Courage | [Ms Nurul Dini Binte Abdul Rahim](mailto:nurul_dini_abdul_rahim@moe.edu.sg) | [Miss Yeo Li Yong](mailto:yeo_li_yong@moe.edu.sg) |
 | **Secondary 3** |     |      | 
 |Sincerity | [Ms Lim Ai Hong](mailto:lim_ai_hong@moe.edu.sg) | [Ms Vivienne Pang](mailto:pang_kailing_vivienne@moe.edu.sg) |
