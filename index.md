@@ -13,4 +13,8 @@ sections:
       background: /images/scgs.gif
       button: Contact Us
       url: /contact-us/
+      key_highlights:
+        - title: CONGRATULATIONS, CLASS OF 2023!
+          description: GCE O-Level Examination
+          url: https://scgs.moe.edu.sg/about-scgs/achievements/secondary/
 ---
