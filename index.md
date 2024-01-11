@@ -16,5 +16,5 @@ sections:
       key_highlights:
         - title: CONGRATULATIONS, CLASS OF 2023!
           description: GCE O-Level Examination
-          url: ""
+          url: https://www.scgs.moe.edu.sg/about-scgs/Achievements/secondary/
 ---
