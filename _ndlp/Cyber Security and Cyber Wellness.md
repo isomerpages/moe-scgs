@@ -2,6 +2,7 @@
 title: Cyber Security and Cyber Wellness
 permalink: /ndlp/cyber-security-and-cyber-wellness/
 description: ""
+variant: markdown
 ---
 # **Cyber Security and Cyber Wellness**
 
@@ -45,4 +46,4 @@ In SCGS, we believe in the holistic development of a child. We nurture students 
 
 The Cyber Wellness lessons in CCE focus on the positive physical and psychological well-being of students as they navigate the cyber world. It involves the understanding of the norms of responsible behaviour regarding technology use as well as knowledge, skills, values and attitudes on how to protect oneself and other users in the cyber world. 
 
-Updated as of 22 February 2023
+Updated as of 12 January 2024
