@@ -16,16 +16,6 @@ locations:
     title: Address
 contacts:
   - content:
-      - phone: +65 6252 7966
-      - email: ""
-      - other: ""
-    title: "Telephone Number:"
-  - content:
-      - phone: +65 6252 3076
-      - email: ""
-      - other: ""
-    title: "Fax Number:"
-  - content:
       - phone: ""
       - email: scgps@moe.edu.sg
       - other: ""
@@ -35,4 +25,10 @@ contacts:
       - email: scgss@moe.edu.sg
       - other: ""
     title: Email (Secondary Division)
+  - content:
+      - phone: +65 6252 7966
+      - email: ""
+      - other: ""
+    title: "Telephone Number:"
+feedback: https://form.gov.sg/#!/5fab7aa35ba2e70011d79e17
 ---
