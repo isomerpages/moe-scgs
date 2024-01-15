@@ -16,7 +16,7 @@ variant: markdown
 
 ### Sexuality Education
 
-* [Sexuality Education Information (Primary)](/files/sexuality_education_information_primary.pdf)
+* [Sexuality Education Information (Primary)](/files/Sexuality_Education_Information_Primary.pdf)
 * [Sexuality Education Information (Secondary)](/files/2023_MOE_Sexuality_Education_in_SCGS_Information_to_Parents.pdf)
 
 ### BOOKLIST – SECONDARY (Updated for Year 2024)
