@@ -1,5 +1,5 @@
 ---
-title: SCGS Milestone
+title: SCGS Milestones
 permalink: /about-scgs/scgs-milestones/
 description: ""
 variant: markdown
