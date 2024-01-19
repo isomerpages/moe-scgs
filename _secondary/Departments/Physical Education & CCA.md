@@ -19,6 +19,6 @@ With a broad-based curriculum that caters to students’ different abilities and
 
 Values education, social and character development have always been woven and reinforced in PE in SCGS. Inter-class games and friendly competitions are opportunities to en-culture students with positive sportsmanship and spectatorship, sense of creativity and fun and being inclusive in diversity which are all important 21CC life skills. Furthermore, PE is a rich ground for students to strengthen bonds, build lasting friendships and create fond memories of school life.
 
-Click [here](/files/CCA_Schedule_2024.pdf) for CCA Schedule 2024
+Click [here](/files/CCA_Schedule_2024_updated.pdf) for CCA Schedule 2024
 
 Click [here](/files/leaps-2_School-website.pdf) to view LEAPS 2.0 Grading System
