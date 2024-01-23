@@ -69,4 +69,3 @@ variant: markdown
 
 *   HOD Aesthetics : [ho_tze_liang_shaun@moe.edu.sg](mailto:ho_tze_liang_shaun@moe.edu.sg)
 *   HOD CCA/ PE: [Khoo_beng_gek_linda@moe.edu.sg](mailto:Khoo_beng_gek_linda@moe.edu.sg)
-*   Dean Student Development: [wong_fei_may@moe.edu.sg](mailto:wong_fei_may@moe.edu.sg)
