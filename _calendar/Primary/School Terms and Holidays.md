@@ -38,4 +38,5 @@ variant: markdown
 | Children’s Day 	| # Fri 4 Oct 	|
 
 \* _The following Monday, 1 Jul 2024 will be a scheduled school holiday_.  
-\# For primary schools and primary sections of full schools only.  As part of the nation-wide movement to promote family life, the Teachers’ Day and Children’s Day which have traditionally been celebrated in Singapore schools on Sep 1 and Oct 1 will be scheduled to the first Friday of September and October respectively.
+\# For primary schools and primary sections of full schools only.
+
