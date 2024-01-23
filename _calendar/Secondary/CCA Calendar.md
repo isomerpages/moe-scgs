@@ -20,7 +20,7 @@ variant: markdown
 | 5 	| Squash 	| **Ms Mo Fengling**<br><br>Ms Johanna Chua<br><br> 	| Tuesday<br><br>Thursday<br><br>Friday 	| 3.15 – 6.15pm<br><br>3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| [mo_feng_ling@moe.edu.sg](mailto:mo_feng_ling@moe.edu.sg) 	|
 | 6 	| Tennis 	| Mr Johari Khalil<br><br>Mrs Jiang Jing Hong<br><br>Mr Navin Kumar Rai 	| Tuesday<br><br>Thursday<br><br>Friday 	| 3.15 – 6.15pm<br><br>3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| [johari_khalil@moe.edu.sg](mailto:johari_khalil@moe.edu.sg) 	|
 | 7 	| Hockey 	| Mr Chia Guo Hui <br><br>Ms Anisha Johnson 	| Tuesday<br><br>Thursday<br><br>Friday 	| 3.00 – 5.00pm<br><br>3.00 – 5.00pm<br><br>4.00 – 6.00pm 	| [chia_guo_hui@moe.edu.sg](mailto:chia_guo_hui@moe.edu.sg) 	|
-| 8 	| Girls Football Cluster CCA @ Yishun Secondary School 	| Coorcinating teacher: **Mrs Linda Lee**<br><br> 	| Wednesday<br><br>Friday 	| 3.30 – 6.00pm<br><br>3.30 – 6.00pm 	| [khoo_beng_gek_linda@moe.edu.sg](mailto:khoo_beng_gek_linda@moe.edu.sg) 	|
+| 8 	| Girls Football Cluster CCA @ Yishun Secondary School 	| Coordinating teacher: **Mrs Linda Lee**<br><br> 	| Wednesday<br><br>Friday 	| 3.30 – 6.00pm<br><br>3.30 – 6.00pm 	| [khoo_beng_gek_linda@moe.edu.sg](mailto:khoo_beng_gek_linda@moe.edu.sg) 	|
 
 
 
