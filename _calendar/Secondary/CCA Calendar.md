@@ -55,7 +55,7 @@ variant: markdown
 
 |  	| Performing Arts 	| Teacher-in-charge 	| Days 	| Time 	| Remarks / Email 	|
 |---	|---	|---	|---	|---	|---	|
-| 1 	| Band 	| **Mr Ang Tee Koon**<br><br>Miss Goh Lay Hoon<br><br>Mrs Wong Bee Ting 	| Tuesday<br><br>Thursday<br><br>Friday 	| 3.15 – 6.5pm<br><br>3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| [ang_tee_koon@moe.edu.sg](mailto:ang_tee_koon@moe.edu.sg) 	|
+| 1 	| Band 	| **Mr Shaun Ho**<br><br>Miss Goh Lay Hoon<br><br>Mrs Wong Bee Ting<br><br>Ms Yeo Li Yong (Advisor)	| Tuesday<br><br>Thursday<br><br>Friday 	| 3.15 – 6.5pm<br><br>3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| [ho_tze_liang_shaun@moe.edu.sg](mailto:ho_tze_liang-shaun@moe.edu.sg) 	|
 | 2 	| Choir 	| **Ms Beh Mui Leng**<br><br>Mrs Vivian Tan<br><br>Mrs Angela Goh (Instructor) 	| Tuesday<br><br>Thursday<br><br>Friday* 	| 3.15 – 6.15pm<br><br>3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| [beh_mui_leng@moe.edu.sg](mailto:beh_mui_leng@moe.edu.sg)<br><br>*Concert /SYF season only 	|
 | 3 	| Dance 	| **Mrs Lim Siew Joo**<br><br>Mrs Chuah Shan Shan<br><br>Ms Vanessa Harijanto (instructor)<br><br>Kek Ai Kiew 	| Tuesday<br><br>Thursday<br><br>Friday 	| 3.15 – 6.15pm<br><br>3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| [heng_siew_joo@moe.edu.sg](mailto:heng_siew_joo@moe.edu.sg)<br><br>*Concert /SYF season only 	|
 | 4 	| Drama (CL) 	| **Miss Lee Li Qun**<br><br>Mdm Cui Hailan 	| Tuesday<br><br>Thursday<br><br>Friday* 	| 3.15 – 6.15m<br><br>3.15 – 6.15pm<br><br>3.15 – 6.15pm*<br> 	| [lee_li_qun@moe.edu.sg](mailto:lee_li_qun@moe.edu.sg)<br><br>*Concert /SYF season only 	|
