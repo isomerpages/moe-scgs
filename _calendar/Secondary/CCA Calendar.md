@@ -29,10 +29,10 @@ variant: markdown
 
 |  	| UGs 	| Teacher-in-charge 	| Days 	| Time 	| Remarks / Email 	|
 |---	|---	|---	|---	|---	|---	|
-| 1 	| Girls’ Brigade 	| **Ms Leong Hui Ran**<br><br>Ms Joan Yang<br><br>Ms Chang Wai Mun<br><br>Mrs Quek 	| Thursday 	| 3.15 – 6.15pm 	| [leong_hui_ran@moe.edu.sg](mailto:leong_hui_ran@moe.edu.sg) 	|
-| 2 	| Girl Guides 	| **Ms Lim Ai Hong**<br><br>Mrs Tan Mui Tiang<br><br>Mrs Tay-Ting Hui Lin <br><br>Ms Jace Yeoh 	| Tuesday**<br><br>Thursday 	| 3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| [lim_ai_hong@moe.edu.sg](mailto:lim_ai_hong@moe.edu.sg) 	|
-| 3 	| NCC 	| **Miss Lee Jo Ann**<br><br>Mrs  Doreen Lee 	| Tuesday**<br><br>Thursday 	| 3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| [lee_jo_ann@moe.edu.sg](mailto:lee_jo_ann@moe.edu.sg) 	|
-| 4 	| Red Cross 	| **Ms Grace Tang**<br><br>Mdm Tan Poey Siang<br><br>Ms Bharathy<br> 	| Tuesday**<br><br>Thursday 	| 3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| [grace_tang@moe.edu.sg](mailto:grace_tang@moe.edu.sg) 	|
+| 1 	| Girls’ Brigade 	| **Ms Davilia Koh**<br><br>Ms Cheyanne Koh<br><br>Ms Chang Wai Mun 	| Thursday 	| 3.15 – 6.15pm 	| [koh_cixian_davilia@moe.edu.sg](mailto:koh_cixian_davilia@moe.edu.sg) 	|
+| 2 	| Girl Guides 	| **Ms Lim Ai Hong**<br><br>Mrs Tan Mui Tiang<br><br>Ms Tan Si Ying <br><br>Ms Nurul Dini 	| Tuesday**<br><br>Thursday 	| 3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| [lim_ai_hong@moe.edu.sg](mailto:lim_ai_hong@moe.edu.sg) 	|
+| 3 	| NCC 	| **Miss Lee Jo Ann**<br><br>Mrs Doreen Lee 	| Tuesday**<br><br>Thursday 	| 3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| [lee_jo_ann@moe.edu.sg](mailto:lee_jo_ann@moe.edu.sg) 	|
+| 4 	| Red Cross 	| **Ms Grace Tang**<br><br>Mdm Tan Poey Siang<br><br>Ms Evelyn Ku<br> 	| Tuesday**<br><br>Thursday 	| 3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| [grace_tang@moe.edu.sg](mailto:grace_tang@moe.edu.sg) 	|
 
 ** for competitions/events
 
