@@ -3,6 +3,7 @@ title: CCA Calendar
 permalink: /calendar/secondary/cca-secondary/
 description: ""
 third_nav_title: Secondary
+variant: markdown
 ---
 # **CCA Calendar**
 
@@ -13,13 +14,13 @@ third_nav_title: Secondary
 |  	| SPORTS 	| Teacher-in-charge 	| Days 	| Time 	| Remarks / Email 	|
 |---	|---	|---	|---	|---	|---	|
 | 1 	| Badminton 	| **Miss Maryanty Mohtar**<br><br>Mr Liang Kok Ann<br><br>	| Tuesday<br><br>Thursday<br><br>Friday 	| 3.15 – 6.15pm<br><br>3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| [maryanty_mohtar@moe.edu.sg](mailto:maryanty_mohtar@moe.edu.sg) 	|
-| 2 	| Basketball 	| **Dora Fernandez**<br><br>Mr Samuel Lim 	| Tuesday<br><br>Thursday<br><br>Friday 	| 3.15 – 6.15pm<br><br>3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| [dora_maria_choo@moe.edu.sg](mailto:dora_maria_choo@moe.edu.sg) 	|
-| 3 	| Gymnastics 	| **Ms Lim Chan Ching**<br><br>Ms Zhou Liang<br><br>Miss Anisha Johnson 	| Tuesday<br><br>Thursday<br><br>Friday<br> 	| 3.15 – 6.15pm<br><br>3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| [lim_chan_ching@moe.edu.sg](mailto:lim_chan_ching@moe.edu.sg) 	|
+| 2 	| Basketball 	| **Dora Fernandez**<br><br>Mr Samuel Lim 	<br><br>Ms Zhou Liang<br><br>| Tuesday<br><br>Thursday<br><br>Friday 	| 3.15 – 6.15pm<br><br>3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| [dora_maria_choo@moe.edu.sg](mailto:dora_maria_choo@moe.edu.sg) 	|
+| 3 	| Gymnastics 	| **Ms Lim Chan Ching**<br><br>Ms Vijayabharathy<br><br> 	| Tuesday<br><br>Thursday<br><br>Friday<br> 	| 3.15 – 6.15pm<br><br>3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| [lim_chan_ching@moe.edu.sg](mailto:lim_chan_ching@moe.edu.sg) 	|
 | 4 	| Netball 	| **Ms Teo Wen Fei**<br><br>Ms Lim Zhi Yi 	| Tuesday<br><br>Thursday<br><br>Friday 	| 3.15 – 6.15pm<br><br>3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| [teo_wen_fei@moe.edu.sg](mailto:teo_wen_fei@moe.edu.sg) 	|
-| 5 	| Squash 	| **Ms Mo Fengling**<br><br>Mr Ng Wen Jye<br><br> 	| Tuesday<br><br>Thursday<br><br>Friday 	| 3.15 – 6.15pm<br><br>3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| [mo_feng_ling@moe.edu.sg](mailto:mo_feng_ling@moe.edu.sg) 	|
+| 5 	| Squash 	| **Ms Mo Fengling**<br><br>Ms Johanna Chua<br><br> 	| Tuesday<br><br>Thursday<br><br>Friday 	| 3.15 – 6.15pm<br><br>3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| [mo_feng_ling@moe.edu.sg](mailto:mo_feng_ling@moe.edu.sg) 	|
 | 6 	| Swimming /<br><br>Artistic Swimming 	| **Mrs Low Wee Leng**<br><br> 	| Tuesday<br><br>Thursday 	| 3.00 – 4.30pm<br><br>3.00 – 4.30pm 	| [sim_wee_leng@moe.edu.sg](mailto:sim_wee_leng@moe.edu.sg) 	|
-| 7 	| Tennis 	| Mrs Fu Shin Yee<br><br>Mr Foo Chee Juan 	| Tuesday<br><br>Thursday<br><br>Friday 	| 3.15 – 6.15pm<br><br>3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| [wong_shin_yee@moe.edu.sg](mailto:wong_shin_yee@moe.edu.sg) 	|
-| 8 	| Hockey 	| Mr Chia Guo Hui <br><br>Mrs Jayne Tan 	| Tuesday<br><br>Thursday<br><br>Friday 	| 3.00 – 5.00pm<br><br>3.00 – 5.00pm<br><br>4.00 – 6.00pm 	| [chia_guo_hui@moe.edu.sg](mailto:chia_guo_hui@moe.edu.sg) 	|
+| 7 	| Tennis 	| Mr Johari Khalil<br><br>Mrs Jiang Jing Hong<br><br>Mr Navin Kumar Rai 	| Tuesday<br><br>Thursday<br><br>Friday 	| 3.15 – 6.15pm<br><br>3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| [johari_khalil@moe.edu.sg](mailto:johari_khalil@moe.edu.sg) 	|
+| 8 	| Hockey 	| Mr Chia Guo Hui <br><br>Ms Anisha Johnson 	| Tuesday<br><br>Thursday<br><br>Friday 	| 3.00 – 5.00pm<br><br>3.00 – 5.00pm<br><br>4.00 – 6.00pm 	| [chia_guo_hui@moe.edu.sg](mailto:chia_guo_hui@moe.edu.sg) 	|
 
 
 
