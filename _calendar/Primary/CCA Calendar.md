@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Primary
 variant: markdown
 ---
-# **CCA Calendar Primary 2024**
+# **CCA Calendar Primary**
 
 ### RECREATIONAL
 
