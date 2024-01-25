@@ -1,0 +1,10 @@
+collections:
+  calendar:
+    output: true
+    order:
+      - Primary/CCA Calendar.md
+      - Primary/School Terms and Holidays.md
+      - Primary/.keep
+      - Secondary/CCA Calendar.md
+      - Secondary/School Terms and Holidays.md
+      - Secondary/.keep

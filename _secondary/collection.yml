@@ -1,0 +1,19 @@
+collections:
+  secondary:
+    output: true
+    order:
+      - Departments/.keep
+      - Departments/Aesthetics.md
+      - Departments/Character and Citizenship Education.md
+      - Departments/English Language.md
+      - Departments/Home Economics.md
+      - Departments/Humanities.md
+      - Departments/Mathematics.md
+      - Departments/Mother Tongue Languages.md
+      - Departments/Physical Education & CCA.md
+      - Departments/Science.md
+      - Joint Integrated Programme/.keep
+      - Joint Integrated Programme/Overview.md
+      - Joint Integrated Programme/World Readiness Programme.md
+      - Joint Integrated Programme/Passion Pursuit.md
+      - Learning Beyond Our Borders.md
