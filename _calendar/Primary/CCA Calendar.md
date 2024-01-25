@@ -11,7 +11,7 @@ variant: markdown
 
 | CCA/s 	| Day/s 	| Time/s 	| Teacher-In-Charge 	| Venue 	|
 |---	|---	|---	|---	|---	|
-| Badminton 	| Tuesday 	| 1345 – 1515 	| Miss Ko Guat Hua	| Alice Lee Hall 	|
+| Badminton 	| Monday 	| 1345 – 1515 	| Miss Ko Guat Hua	| Alice Lee Hall 	|
 | Artistic<br>Gymnastics 	| Monday<br>Friday 	| 1345 – 1515 	| Mrs Lee Xiang Jun 	| Secondary Division<br>Gymnasium 	|
 |  	| Wednesday 	| 1500 - 1630 	| Mrs Lee Xiang Jun 	| Secondary Division<br>Gymnasium 	|
 | Tennis	| Monday 	| 1500 - 1645 	| Miss Alice Sit 	| Tennis Courts 	|
