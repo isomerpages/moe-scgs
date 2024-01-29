@@ -13,7 +13,7 @@ based on students’ school examination results for the year. These scholarships
 are to encourage students to excel in their studies and reward&nbsp;their
 efforts. The school will select students for these yearly awards at the
 end of the school year. The value of these&nbsp;scholarships is $350</p>
-<p><strong>Edusave Entrance Scholarship for Independent Schools (EESIS)</strong>
+<p><strong>Edusave Entrance Scholarship for Independent Schools (EESIS)</strong> 
 <br>The Edusave Entrance Scholarships for Independent Schools (EESIS) are
 awarded to the top one-third of the total number of Secondary 1 students&nbsp;based
 on their PSLE results. Singaporean students with outstanding performance
@@ -22,7 +22,7 @@ in the PSLE will be invited to apply for the EESIS.</p>
 and standard miscellaneous fees paid by students in government/ government-aided
 secondary schools, whichever is lower, less any other subsidies provided
 by MOE or the School for Independent School fees.</p>
-<p><strong>Edusave Merit Bursary (EMB)</strong>
+<p><strong>Edusave Merit Bursary (EMB)</strong> 
 <br>All Singaporean students in Government and Government-aided schools, junior
 colleges/centralised institute, independent schools or institutions, specialised
 schools or Institute of Technical Education&nbsp; and Polytechnics who
@@ -38,7 +38,7 @@ of household members, does not exceed $1,725.</p>
 <br>$350 for Secondary 1 to 5
 <br>$400 for Pre-University 1 to 3
 <br>$500 for Institute of Technical Education | Specialised Schools | Polytechnics</p>
-<p><strong>Edusave Good Progress Awards (GPA)</strong>
+<p><strong>Edusave Good Progress Awards (GPA)</strong> 
 <br>All Singaporean students from primary 2 onwards in Government and Government-aided
 schools, junior colleges/centralised institute, independent schools or
 institutions, specialised schools or Institute of Technical Education and
@@ -54,7 +54,7 @@ results compared to the previous year.</p>
 <br>$250 for Pre-University 1 to 3
 <br>$400 for Institute of Technical Education | Specialised Schools | Polytechnics
 Year 2 – 3</p>
-<p><strong>Edusave Award for Achievement, Good Leadership and Service (EAGLES)</strong>
+<p><strong>Edusave Award for Achievement, Good Leadership and Service (EAGLES)</strong> 
 <br>Singaporean students who show leadership and excel in nonacademic areas
 are eligible for the Edusave Award for Achievement, Good Leadership and
 Service (EAGLES). The award is given based on the student’s achievement
@@ -67,7 +67,7 @@ award are as follows:</p>
 <br>$350 for Secondary 1 to 5
 <br>$400 for Pre-University 1 to 3
 <br>$500 for Institute of Technical Education | Specialised Schools</p>
-<p><strong>Edusave Character Award</strong>
+<p><strong>Edusave Character Award</strong> 
 <br>The ECHA is meant to recognise and affirm Singaporean student who demonstrated
 exemplary character and outstanding personal qualities through their behaviour
 and actions. The ECHA maximum quota for each school will be capped at 2%
@@ -177,7 +177,7 @@ all relevant documents to the school.</p>
 <br>There are several scholarships offered by large organisations and foundations.
 Students will be kept informed as and when applications are invited for
 scholarships.</p>
-<p><strong>Other Awards</strong>
+<p><strong>Other Awards</strong> 
 <br>There are several SCGS awards to reward excellence and significant accomplishment
 of students in both academic and non-academic performance. Eligible students
 will be nominated and students meeting the selection criteria will be informed
