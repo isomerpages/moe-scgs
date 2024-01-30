@@ -7,55 +7,9 @@ variant: markdown
 ---
 # **CCA Calendar Primary**
 
-### RECREATIONAL
-
 | CCA/s 	| Day/s 	| Time/s 	| Teacher-In-Charge 	| Venue 	|
 |---	|---	|---	|---	|---	|
-| Badminton 	| Monday 	| 1345 – 1515 	| Miss Ko Guat Hua	| Alice Lee Hall 	|
-| Artistic<br>Gymnastics 	| Monday<br>Friday 	| 1345 – 1515 	| Mrs Lee Xiang Jun 	| Secondary Division<br>Gymnasium 	|
-|  	| Wednesday 	| 1500 - 1630 	| Mrs Lee Xiang Jun 	| Secondary Division<br>Gymnasium 	|
-| Tennis	| Monday 	| 1500 - 1645 	| Miss Alice Sit 	| Tennis Courts 	|
-| Modular CCA (Sports) 	| Friday 	| 1400 – 1545 	| Mrs Eng Ke-Ying 	| Alice Lee Hall 	|
-| Modular CCA (VPA) 	| Friday 	| 1400 – 1530 	| Mrs Wong Xin Ying 	| PAL Rooms 	|
-
-
-### SCHOOL TEAMS &amp; DEVELOPMENTAL SQUADS
-
-
-| CCA/s 	| Day/s 	| Time/s 	| Teacher-In-<br>Charge 	| Venue 	|
-|---	|---	|---	|---	|---	|
-| **PHYSICAL SPORTS** 	|  	|  	|  	|  	|
-| Badminton<br>Developmental<br>– Junior 	| Monday 	| 1515 – 1645 	| Miss Ko Guat Hua 	|  Alice Lee Hall 	|
-| Badminton<br>School Team 	| Monday<br>Friday 	| 1345 – 1645 	| Miss Ko Guat Hua 	| Alice Lee Hall 	|
-| Gymnastics<br>Developmental 	| Monday<br>Friday 	| 1515 – 1645 	| Mrs Lee Xiang Jun 	| Secondary Division<br>Gymnasium 	|
-| Gymnastics<br>School Team 	| Monday<br>Friday 	| 1345 -1645 	| Mrs Lee Xiang Jun 	| Secondary Division<br>Gymnasium 	|
-| Tennis Developmental 	| Monday 	| 1500 – 1700 	| Miss Alice Sit 	| Tennis Court 	|
-| Tennis School Team 	| Wednesday<br>Friday 	| 1500 – 1645 	|          <!-- /\* Font Definitions \*/ @font-face {font-family:Latha; panose-1:2 0 4 0 0 0 0 0 0 0; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:1048579 0 0 0 1 0;} @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:3 0 0 0 1 0;} @font-face {font-family:DengXian; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-alt:等线; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:-1610612033 953122042 22 0 262159 0;} @font-face {font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-469750017 -1073732485 9 0 511 0;} @font-face {font-family:"\\@DengXian"; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:-1610612033 953122042 22 0 262159 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin-top:0in; margin-right:0in; margin-bottom:8.0pt; margin-left:0in; line-height:107%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:DengXian; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:Latha; mso-font-kerning:1.0pt; mso-ligatures:standardcontextual;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:DengXian; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:Latha; mso-bidi-theme-font:minor-bidi; mso-font-kerning:1.0pt; mso-ligatures:standardcontextual;} .MsoPapDefault {mso-style-type:export-only; margin-bottom:8.0pt; line-height:107%;} @page WordSection1 {size:8.5in 11.0in; margin:1.0in 1.0in 1.0in 1.0in; mso-header-margin:.5in; mso-footer-margin:.5in; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} --> Mdm Phua Ying-Li	| Tennis Court 	|
-|  	|  	|  	|  	|  	|
-| **VISUAL AND PERFORMING ARTS** 	|  	|  	|  	|  	|
-| Art and Crafts Club (P3 &amp; P4) 	| Monday 	| 1400 – 1600 	| Miss Valerie Ng 	| Art Rooms 	|
-| Art and Crafts Club (P5 &amp; P6) 	| Friday 	| 1400 – 1600 	| Miss Valerie Ng 	| Art Rooms 	|
-| Choir 	| Monday<br>Friday 	| 1400 – 1530 	| Mdm Tan Bee Yong 	| Halia 1 	|
-| Handbells Ensemble 	| Monday<br>Friday 	| 1400 – 1600<br>1400 – 1500 	| Mdm Jill Yip 	| Halia 2 	|
-| String Ensemble 	| Friday 	| 1400 – 1600 	| Mdm G Priyalatha 	| Halia 2 	|
-| Modern Dance (International Dance) 	| Monday 	| 1400 – 1730 	| Miss Leng Yip, Jean 	| Sec Div<br>Dance Studio 	|
-| Modern Dance (Chinese Dance)	| Monday 	| 1400 – 1700 	| Miss Leng Yip, Jean 	| Serai Room 	|
-| Chinese Culture and Language<br>Club 	| Wednesday 	| 1400 – 1600 	| Miss Chua Voon Siew 	| Music Rooms 	|
-| English Drama Club 	| Monday 	| 1400 – 1600 	| Ms Durrat Salleh 	| PAL Rooms 	|
-|  	|  	|  	|  	|  	|
 | **CLUB AND SOCIETIES** 	|  	|  	|  	|  	|
-| Infocomm Technology (Media Production) –<br>Robotics (Beginner) 	| Monday 	| 1400 – 1600 	| Miss Lee Lay Eng 	| Comp Lab 1 	|
-| Infocomm Technology (Media Production) –<br>Robotics (Intermediate) 	| Monday	| 1400 – 1600 	| Miss Lee Lay Eng 	| Comp Lab 1 	|
-| Infocomm Technology (Media Production) –<br>Videography 	| Monday 	| 1400 – 1600 	| Miss Lee Lay Eng	| Comp Lab 2 	|
-| Infocomm Technology (Media Production) –<br>Animation 	| Friday 	| 1400 – 1600 	| Miss Lee Lay Eng 	| Comp  Lab 2 	|
+| Media Production 	| Monday 	| 1400 – 1545 	| <b>Miss Melissa Sin</b><br>Mdm Priyalatha Ganaysan<br>Mrs Lau Ei Leen 	| 6G &amp; 6SE	|
+| Robotics 	| Monday	| 1400 – 1545 	| <b>Mdm Liu Ting Ting</b><br>Miss Loo Mee Lin 	| Comp Lab 2 &amp; 3 	|
 |  	|  	|  	|  	|  	|
-| **UNIFORMED GROUP** 	|  	|  	|  	|  	|
-| Girl Guides(Brownies) 	| Monday 	| 1400 – 1600 	| Miss Koh Yee Sung 	| Marigold Room 	|
-|  	|  	|  	|  	|  	|
-| **LEADERSHIP** 	|  	|  	|  	|  	|
-| Prefectorial Board 	| Thursday 	| 1545 – 1700 	| Mdm Prema Suresh 	| PAL Rooms 	|
-|  	|  	|  	|  	|  	|
-| **ENRICHMENT** 	|  	|  	|  	|  	|
-| E2K – SCIENCE 	| Tuesday 	| 1400 – 1600 	| Mrs Kristene Ong 	| Science Rooms 	|
-| E2K – MATH  	| Tuesday 	| 1400 – 1600 	| Miss Tan Mei Yin 	| Math Room 	|
-| Math Olympiad (Sem 1) 	| Tuesday 	| 1400 – 1600 	| Miss Tan Mei Yin 	| Math Room 	|
