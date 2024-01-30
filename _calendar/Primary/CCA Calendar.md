@@ -7,6 +7,7 @@ variant: markdown
 ---
 # **CCA Calendar Primary**
 
+
 | CCA/s 	| Day/s 	| Time/s 	| Teacher-In-Charge 	| Venue 	|
 |---	|---	|---	|---	|---	|
 | **CLUB AND SOCIETIES** 	|  	|  	|  	|  	|
