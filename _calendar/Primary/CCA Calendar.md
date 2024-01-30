@@ -7,4 +7,4 @@ variant: markdown
 ---
 # **CCA Calendar Primary**
 
-Please click [here](/files/scgs_primary_cca_schedule2024.pdf) to view the CCA Schedule.
+Please click [here](/files/scgs_primary_cca_schedule2024.pdf) to download the CCA Schedule.
