@@ -1,0 +1,71 @@
+---
+title: CCA Schedule
+permalink: /calendar/secondary/cca-schedule/
+description: ""
+third_nav_title: Secondary
+variant: markdown
+---
+# **CCA Calendar**
+
+### Sports
+
+
+
+|  	| SPORTS 	| Teacher-in-charge 	| Days 	| Time 	| Remarks / Email 	|
+|---	|---	|---	|---	|---	|---	|
+| 1 	| Badminton 	| **Miss Maryanty Mohtar**<br><br>Mr Liang Kok Ann<br><br>	| Tuesday<br><br>Thursday<br><br>Friday 	| 3.15 – 6.15pm<br><br>3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| [maryanty_mohtar@moe.edu.sg](mailto:maryanty_mohtar@moe.edu.sg) 	|
+| 2 	| Basketball 	| **Dora Fernandez**<br><br>Mr Samuel Lim 	<br><br>Ms Zhou Liang<br><br>| Tuesday<br><br>Thursday<br><br>Friday 	| 3.15 – 6.15pm<br><br>3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| [dora_maria_choo@moe.edu.sg](mailto:dora_maria_choo@moe.edu.sg) 	|
+| 3 	| Gymnastics 	| **Ms Lim Chan Ching**<br><br>Ms Vijayabharathy<br><br> 	| Tuesday<br><br>Thursday<br><br>Friday<br> 	| 3.15 – 6.15pm<br><br>3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| [lim_chan_ching@moe.edu.sg](mailto:lim_chan_ching@moe.edu.sg) 	|
+| 4 	| Netball 	| **Ms Teo Wen Fei**<br><br>Ms Lim Zhi Yi 	| Tuesday<br><br>Thursday<br><br>Friday 	| 3.15 – 6.15pm<br><br>3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| [teo_wen_fei@moe.edu.sg](mailto:teo_wen_fei@moe.edu.sg) 	|
+| 5 	| Squash 	| **Ms Mo Fengling**<br><br>Ms Johanna Chua<br><br> 	| Tuesday<br><br>Thursday<br><br>Friday 	| 3.15 – 6.15pm<br><br>3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| [mo_feng_ling@moe.edu.sg](mailto:mo_feng_ling@moe.edu.sg) 	|
+| 6 	| Tennis 	| Mr Johari Khalil<br><br>Mrs Jiang Jing Hong<br><br>Mr Navin Kumar Rai 	| Tuesday<br><br>Thursday<br><br>Friday 	| 3.15 – 6.15pm<br><br>3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| [johari_khalil@moe.edu.sg](mailto:johari_khalil@moe.edu.sg) 	|
+| 7 	| Hockey 	| Mr Chia Guo Hui <br><br>Ms Anisha Johnson 	| Tuesday<br><br>Thursday<br><br>Friday 	| 3.00 – 5.00pm<br><br>3.00 – 5.00pm<br><br>4.00 – 6.00pm 	| [chia_guo_hui@moe.edu.sg](mailto:chia_guo_hui@moe.edu.sg) 	|
+| 8 	| Girls Football Cluster CCA @ Yishun Secondary School 	| Coordinating teacher: **Mrs Linda Lee**<br><br> 	| Wednesday<br><br>Friday 	| 3.30 – 6.00pm<br><br>3.30 – 6.00pm 	| [khoo_beng_gek_linda@moe.edu.sg](mailto:khoo_beng_gek_linda@moe.edu.sg) 	|
+
+
+
+### Uniformed Groups
+
+
+|  	| UGs 	| Teacher-in-charge 	| Days 	| Time 	| Remarks / Email 	|
+|---	|---	|---	|---	|---	|---	|
+| 1 	| Girls’ Brigade 	| **Ms Davilia Koh**<br><br>Ms Cheyanne Koh<br><br>Ms Chang Wai Mun 	| Thursday 	| 3.15 – 6.15pm 	| [koh_cixian_davilia@moe.edu.sg](mailto:koh_cixian_davilia@moe.edu.sg) 	|
+| 2 	| Girl Guides 	| **Ms Lim Ai Hong**<br><br>Mrs Tan Mui Tiang<br><br>Ms Tan Si Ying <br><br>Ms Nurul Dini 	| Tuesday**<br><br>Thursday 	| 3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| [lim_ai_hong@moe.edu.sg](mailto:lim_ai_hong@moe.edu.sg) 	|
+| 3 	| NCC 	| **Miss Lee Jo Ann**<br><br>Mrs Doreen Lee 	| Tuesday**<br><br>Thursday 	| 3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| [lee_jo_ann@moe.edu.sg](mailto:lee_jo_ann@moe.edu.sg) 	|
+| 4 	| Red Cross 	| **Ms Grace Tang**<br><br>Mdm Tan Poey Siang<br><br>Ms Evelyn Ku<br> 	| Tuesday**<br><br>Thursday 	| 3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| [grace_tang@moe.edu.sg](mailto:grace_tang@moe.edu.sg) 	|
+
+** for competitions/events
+
+
+### Clubs/Societies
+
+|   	| Clubs/Societies 	| Teacher-in-charge 	| Days 	| Time 	| Remarks 	|
+|---	|---	|---	|---	|---	|---	|
+| 1 	| Art Club 	| **Mr Abdul Razak**<br><br>Ms Low Kok Lang 	| Tuesday 	| 3.15 – 6.15pm 	| [abdul_razak@moe.edu.sg](mailto:abdul_razak@moe.edu.sg) 	|
+| 2 	| Debating Society 	| **Mrs Swati Mukherji**<br><br>Ms Irfana Binte Begum 	| Tuesday<br><br>Thursday 	| 3.15 – 6.15pm (Sch team)<br><br>3.15 – 6.15pm (Joint) 	| [swati_mukherji@moe.edu.sg](mailto:swati_mukherji@moe.edu.sg) 	|
+| 3 	| Infocomm club<br><br>(Robotics/ Photography/ Animation) 	| Miss Kong Shiau Wei<br><br>Mr Lau Beng Hwee<br><br>Ms Rosziana Rossley 	| Tuesday<br><br>Thursday 	| 3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| [kong_shiau_wei@moe.edu.sg](mailto:kong_shiau_wei@moe.edu.sg) 	|
+| 4 	| Library Society 	| **Mrs Gloria Cheng**<br><br>Mdm Loo Shek Kien<br><br>	|Thurs 	| 3.15 – 6.15pm 	| [gloria_cheng@moe.edu.sg](mailto:gloria_cheng@moe.edu.sg) 	|
+| 5 	| Science and Environment Club 	| **Mrs Cha Wai Mun**<br><br>Mr Zeng Wei<br><br> 	| Tuesday<br><br>Thursday 	| 3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| [wong_wai_mun_a@moe.edu.sg](mailto:wong_wai_mun_a@moe.edu.sg) 	|
+
+
+
+
+### Performing Arts
+
+
+|  	| Performing Arts 	| Teacher-in-charge 	| Days 	| Time 	| Remarks / Email 	|
+|---	|---	|---	|---	|---	|---	|
+| 1 	| Band 	| **Mr Shaun Ho**<br><br>Miss Goh Lay Hoon<br><br>Mrs Wong Bee Ting<br><br>Ms Yeo Li Yong (Advisor)	| Tuesday<br><br>Thursday<br><br>Friday 	| 3.15 – 6.5pm<br><br>3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| [ho_tze_liang_shaun@moe.edu.sg](mailto:ho_tze_liang-shaun@moe.edu.sg) 	|
+| 2 	| Choir 	| **Ms Beh Mui Leng**<br><br>Mrs Vivian Tan<br><br>Mrs Angela Goh (Instructor) 	| Tuesday<br><br>Thursday<br><br>Friday* 	| 3.15 – 6.15pm<br><br>3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| [beh_mui_leng@moe.edu.sg](mailto:beh_mui_leng@moe.edu.sg)<br><br>*Concert /SYF season only 	|
+| 3 	| Dance 	| **Mrs Lim Siew Joo**<br><br>Ms Yea Jie'r<br><br>Mrs Jean Chan (advisor)<br><br>Kek Ai Kiew 	| Tuesday<br><br>Thursday<br><br>Friday 	| 3.15 – 6.15pm<br><br>3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| [heng_siew_joo@moe.edu.sg](mailto:heng_siew_joo@moe.edu.sg)<br><br>*Concert /SYF season only 	|
+| 4 	| Drama (CL) 	| **Miss Lee Li Qun**<br><br>Mdm Cui Hailan 	| Tuesday<br><br>Thursday<br><br>Friday* 	| 3.15 – 6.15m<br><br>3.15 – 6.15pm<br><br>3.15 – 6.15pm*<br> 	| [lee_li_qun@moe.edu.sg](mailto:lee_li_qun@moe.edu.sg)<br><br>*Concert /SYF season only 	|
+| 5 	| Drama (EL) 	| **Mrs Caruna Yogeeswaran**<br><br>Ms Agnes Goh 	| Tuesday<br><br>Thursday<br><br>Friday* 	| 3.15 – 6.15m<br><br>3.15 – 6.15pm<br><br>3.15 – 6.15pm* 	| [caruna_sothi@moe.edu.sg](mailto:caruna_sothi@moe.edu.sg)<br><br>*Concert /SYF season only 	|
+| 6 	| Handbell Ensemble 	| **Ms Rina Lio**<br><br>Mdm Phua Chia Ghee<br>  	| Tuesday<br><br>Thursday<br><br>Friday* 	| 3.15 – 6.15m<br><br>3.15 – 6.15pm<br><br>3.15 – 6.15pm* 	| [lio_su-mein_rina@moe.edu.sg](mailto:lio_su-mein_rina@moe.edu.sg)<br><br>*Concert /SYF season only 	|
+| 7 	| String Ensemble 	| **Ms Deborah Gan**<br><br>Mr Michael Chin 	| Tuesday<br><br>Thursday<br><br>Friday* 	| 3.15 – 6.15m<br><br>3.15 – 6.15pm<br><br>3.15 – 6.15pm* 	| [deborah_gan_li_chuen@moe.edu.sg](mailto:deborah_gan_li_chuen@moe.edu.sg)<br><br>*Concert /SYF season only 	|
+
+
+
+**Staff Overseeing CCA Development**
+
+*   HOD Aesthetics : [ho_tze_liang_shaun@moe.edu.sg](mailto:ho_tze_liang_shaun@moe.edu.sg)
+*   HOD CCA/ PE: [Khoo_beng_gek_linda@moe.edu.sg](mailto:Khoo_beng_gek_linda@moe.edu.sg)
