@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Secondary
 variant: markdown
 ---
-# **CCA Calendar**
+# **CCA Schedule**
 
 ### Sports
 
