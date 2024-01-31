@@ -3,6 +3,7 @@ title: Character and Citizenship Education
 permalink: /scgs-education/secondary/departments/character-and-citizenship-education/
 description: ""
 third_nav_title: Departments
+variant: markdown
 ---
 # **Character and Citizenship Education**
 
@@ -12,7 +13,7 @@ In SCGS, we believe in the holistic development of a child. We nurture students 
 
 ### Programmes:
 
-Our key programmes include Values In Action, Service Learning Carnival, Education and Career Guidance, Work Experience Programme, National Education, Outdoor Education Week, MOE-OBS Challenge Programme and [Sexuality Education](/files/Info_on_SEd_for_SCGS_website_Sec_2022.pdf). Through their involvement in Values in Action projects and the Service Learning Carnival, students develop knowledge and skills in in communicating with the public and in planning relevant and meaningful activities for the beneficiaries while developing empathy for others.  Our students also learn to understand situations from a wider perspective and play an active role in contributing to the society. A significant component of the school experience, which allows our students to benefit from and apply their learning from a values-driven education, is in their [Co-curricular Activities (CCA)](/scgs-education/secondary/secondary-division/physical-educationcca/).
+Our key programmes include Values In Action, Service Learning Carnival, Education and Career Guidance, Work Experience Programme, National Education, Outdoor Education Week, MOE-OBS Challenge Programme and [Sexuality Education](/files/2024_MOE_Sexuality_Education_in_SCGS_Information_to_Parents.pdf). Through their involvement in Values in Action projects and the Service Learning Carnival, students develop knowledge and skills in in communicating with the public and in planning relevant and meaningful activities for the beneficiaries while developing empathy for others.  Our students also learn to understand situations from a wider perspective and play an active role in contributing to the society. A significant component of the school experience, which allows our students to benefit from and apply their learning from a values-driven education, is in their [Co-curricular Activities (CCA)](/scgs-education/secondary/secondary-division/physical-educationcca/).
 
 Our Work Experience Programme provides an opportunity for Secondary 3 students to be attached to well-established private/ multinational companies or government statutory boards for a short work experience stint. The objectives of this programme are to instil the right work values in our students as they learn to demonstrate a strong work ethic, and to equip them with some knowledge of their selected industry or area of work.
 
