@@ -37,7 +37,7 @@ variant: tiptap
 <p>Badminton</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Miss Maryanty Mohtar</strong>
+<p><strong>Miss Maryanty Mohtar</strong> 
 <br>
 <br>Mr Liang Kok Ann
 <br>
@@ -71,7 +71,7 @@ variant: tiptap
 <p>Basketball</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Dora Fernandez</strong>
+<p><strong>Dora Fernandez</strong> 
 <br>
 <br>Mr Samuel Lim
 <br>
@@ -107,7 +107,7 @@ variant: tiptap
 <p>Gymnastics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Lim Chan Ching</strong>
+<p><strong>Ms Lim Chan Ching</strong> 
 <br>
 <br>Ms Vijayabharathy
 <br>
@@ -143,7 +143,7 @@ variant: tiptap
 <p>Netball</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Teo Wen Fei</strong>
+<p><strong>Ms Teo Wen Fei</strong> 
 <br>
 <br>Ms Lim Zhi Yi</p>
 </td>
@@ -174,7 +174,7 @@ variant: tiptap
 <p>Squash</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Mo Fengling</strong>
+<p><strong>Ms Mo Fengling</strong> 
 <br>
 <br>Ms Johanna Chua
 <br>
@@ -272,7 +272,7 @@ variant: tiptap
 <p>Girls Football Cluster CCA @ Yishun Secondary School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Coordinating teacher: <strong>Mrs Linda Lee</strong>
+<p>Coordinating teacher: <strong>Mrs Linda Lee</strong> 
 <br>
 <br>
 </p>
@@ -325,7 +325,7 @@ variant: tiptap
 <p>Girls’ Brigade</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Davilia Koh</strong>
+<p><strong>Ms Davilia Koh</strong> 
 <br>
 <br>Ms Cheyanne Koh
 <br>
@@ -350,7 +350,7 @@ variant: tiptap
 <p>Girl Guides</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Lim Ai Hong</strong>
+<p><strong>Ms Lim Ai Hong</strong> 
 <br>
 <br>Mrs Tan Mui Tiang
 <br>
@@ -381,7 +381,7 @@ variant: tiptap
 <p>NCC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Miss Lee Jo Ann</strong>
+<p><strong>Miss Lee Jo Ann</strong> 
 <br>
 <br>Mrs Doreen Lee</p>
 </td>
@@ -408,7 +408,7 @@ variant: tiptap
 <p>Red Cross</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Grace Tang</strong>
+<p><strong>Ms Grace Tang</strong> 
 <br>
 <br>Mdm Tan Poey Siang
 <br>
@@ -465,7 +465,7 @@ variant: tiptap
 <p>Art Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Abdul Razak</strong>
+<p><strong>Mr Abdul Razak</strong> 
 <br>
 <br>Ms Low Kok Lang</p>
 </td>
@@ -488,7 +488,7 @@ variant: tiptap
 <p>Debating Society</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Swati Mukherji</strong>
+<p><strong>Mrs Swati Mukherji</strong> 
 <br>
 <br>Ms Irfana Binte Begum</p>
 </td>
@@ -546,7 +546,7 @@ variant: tiptap
 <p>Library Society</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Gloria Cheng</strong>
+<p><strong>Mrs Gloria Cheng</strong> 
 <br>
 <br>Mdm Loo Shek Kien
 <br>
@@ -572,7 +572,7 @@ variant: tiptap
 <p>Science and Environment Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Cha Wai Mun</strong>
+<p><strong>Mrs Cha Wai Mun</strong> 
 <br>
 <br>Mr Zeng Wei
 <br>
@@ -627,7 +627,7 @@ variant: tiptap
 <p>Band</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Shaun Ho</strong>
+<p><strong>Mr Shaun Ho</strong> 
 <br>
 <br>Miss Goh Lay Hoon
 <br>
@@ -662,7 +662,7 @@ variant: tiptap
 <p>Choir</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Beh Mui Leng</strong>
+<p><strong>Ms Beh Mui Leng</strong> 
 <br>
 <br>Mrs Vivian Tan
 <br>
@@ -683,7 +683,7 @@ variant: tiptap
 <br>3.15 – 6.15pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:beh_mui_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">beh_mui_leng@moe.edu.sg</a>
+<p><a href="mailto:beh_mui_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">beh_mui_leng@moe.edu.sg</a> 
 <br>
 <br>*Concert /SYF season only</p>
 </td>
@@ -696,7 +696,7 @@ variant: tiptap
 <p>Dance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Lim Siew Joo</strong>
+<p><strong>Mrs Lim Siew Joo</strong> 
 <br>
 <br>Ms Yea Jie'r
 <br>
@@ -719,7 +719,7 @@ variant: tiptap
 <br>3.15 – 6.15pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:heng_siew_joo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">heng_siew_joo@moe.edu.sg</a>
+<p><a href="mailto:heng_siew_joo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">heng_siew_joo@moe.edu.sg</a> 
 <br>
 <br>*Concert /SYF season only</p>
 </td>
@@ -732,7 +732,7 @@ variant: tiptap
 <p>Drama (CL)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Miss Lee Li Qun</strong>
+<p><strong>Miss Lee Li Qun</strong> 
 <br>
 <br>Mdm Cui Hailan</p>
 </td>
@@ -753,7 +753,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_li_qun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_li_qun@moe.edu.sg</a>
+<p><a href="mailto:lee_li_qun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_li_qun@moe.edu.sg</a> 
 <br>
 <br>*Concert /SYF season only</p>
 </td>
@@ -766,7 +766,7 @@ variant: tiptap
 <p>Drama (EL)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Caruna Yogeeswaran</strong>
+<p><strong>Mrs Caruna Yogeeswaran</strong> 
 <br>
 <br>Ms Agnes Goh</p>
 </td>
@@ -785,7 +785,7 @@ variant: tiptap
 <br>3.15 – 6.15pm*</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:caruna_sothi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">caruna_sothi@moe.edu.sg</a>
+<p><a href="mailto:caruna_sothi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">caruna_sothi@moe.edu.sg</a> 
 <br>
 <br>*Concert /SYF season only</p>
 </td>
@@ -798,7 +798,7 @@ variant: tiptap
 <p>Handbell Ensemble</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Rina Lio</strong>
+<p><strong>Ms Rina Lio</strong> 
 <br>
 <br>Mdm Phua Chia Ghee
 <br>
@@ -819,7 +819,7 @@ variant: tiptap
 <br>3.15 – 6.15pm*</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lio_su-mein_rina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lio_su-mein_rina@moe.edu.sg</a>
+<p><a href="mailto:lio_su-mein_rina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lio_su-mein_rina@moe.edu.sg</a> 
 <br>
 <br>*Concert /SYF season only</p>
 </td>
@@ -832,7 +832,7 @@ variant: tiptap
 <p>String Ensemble</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Deborah Gan</strong>
+<p><strong>Ms Deborah Gan</strong> 
 <br>
 <br>Mr Michael Chin</p>
 </td>
@@ -851,7 +851,7 @@ variant: tiptap
 <br>3.15 – 6.15pm*</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:deborah_gan_li_chuen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">deborah_gan_li_chuen@moe.edu.sg</a>
+<p><a href="mailto:deborah_gan_li_chuen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">deborah_gan_li_chuen@moe.edu.sg</a> 
 <br>
 <br>*Concert /SYF season only</p>
 </td>
