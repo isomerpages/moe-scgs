@@ -3,69 +3,871 @@ title: CCA Schedule
 permalink: /calendar/secondary/cca-schedule/
 description: ""
 third_nav_title: Secondary
-variant: markdown
+variant: tiptap
 ---
-# **CCA Schedule**
-
-### Sports
-
-
-
-|  	| SPORTS 	| Teacher-in-charge 	| Days 	| Time 	| Remarks / Email 	|
-|---	|---	|---	|---	|---	|---	|
-| 1 	| Badminton 	| **Miss Maryanty Mohtar**<br><br>Mr Liang Kok Ann<br><br>	| Tuesday<br><br>Thursday<br><br>Friday 	| 3.15 – 6.15pm<br><br>3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| [maryanty_mohtar@moe.edu.sg](mailto:maryanty_mohtar@moe.edu.sg) 	|
-| 2 	| Basketball 	| **Dora Fernandez**<br><br>Mr Samuel Lim 	<br><br>Ms Zhou Liang<br><br>| Tuesday<br><br>Thursday<br><br>Friday 	| 3.15 – 6.15pm<br><br>3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| [dora_maria_choo@moe.edu.sg](mailto:dora_maria_choo@moe.edu.sg) 	|
-| 3 	| Gymnastics 	| **Ms Lim Chan Ching**<br><br>Ms Vijayabharathy<br><br> 	| Tuesday<br><br>Thursday<br><br>Friday<br> 	| 3.15 – 6.15pm<br><br>3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| [lim_chan_ching@moe.edu.sg](mailto:lim_chan_ching@moe.edu.sg) 	|
-| 4 	| Netball 	| **Ms Teo Wen Fei**<br><br>Ms Lim Zhi Yi 	| Tuesday<br><br>Thursday<br><br>Friday 	| 3.15 – 6.15pm<br><br>3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| [teo_wen_fei@moe.edu.sg](mailto:teo_wen_fei@moe.edu.sg) 	|
-| 5 	| Squash 	| **Ms Mo Fengling**<br><br>Ms Johanna Chua<br><br> 	| Tuesday<br><br>Thursday<br><br>Friday 	| 3.15 – 6.15pm<br><br>3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| [mo_feng_ling@moe.edu.sg](mailto:mo_feng_ling@moe.edu.sg) 	|
-| 6 	| Tennis 	| Mr Johari Khalil<br><br>Mrs Jiang Jing Hong<br><br>Mr Navin Kumar Rai 	| Tuesday<br><br>Thursday<br><br>Friday 	| 3.15 – 6.15pm<br><br>3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| [johari_khalil@moe.edu.sg](mailto:johari_khalil@moe.edu.sg) 	|
-| 7 	| Hockey 	| Mr Chia Guo Hui <br><br>Ms Anisha Johnson 	| Tuesday<br><br>Thursday<br><br>Friday 	| 3.00 – 5.00pm<br><br>3.00 – 5.00pm<br><br>4.00 – 6.00pm 	| [chia_guo_hui@moe.edu.sg](mailto:chia_guo_hui@moe.edu.sg) 	|
-| 8 	| Girls Football Cluster CCA @ Yishun Secondary School 	| Coordinating teacher: **Mrs Linda Lee**<br><br> 	| Wednesday<br><br>Friday 	| 3.30 – 6.00pm<br><br>3.30 – 6.00pm 	| [khoo_beng_gek_linda@moe.edu.sg](mailto:khoo_beng_gek_linda@moe.edu.sg) 	|
-
-
-
-### Uniformed Groups
-
-
-|  	| UGs 	| Teacher-in-charge 	| Days 	| Time 	| Remarks / Email 	|
-|---	|---	|---	|---	|---	|---	|
-| 1 	| Girls’ Brigade 	| **Ms Davilia Koh**<br><br>Ms Cheyanne Koh<br><br>Ms Chang Wai Mun 	| Thursday 	| 3.15 – 6.15pm 	| [koh_cixian_davilia@moe.edu.sg](mailto:koh_cixian_davilia@moe.edu.sg) 	|
-| 2 	| Girl Guides 	| **Ms Lim Ai Hong**<br><br>Mrs Tan Mui Tiang<br><br>Ms Tan Si Ying <br><br>Ms Nurul Dini 	| Tuesday**<br><br>Thursday 	| 3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| [lim_ai_hong@moe.edu.sg](mailto:lim_ai_hong@moe.edu.sg) 	|
-| 3 	| NCC 	| **Miss Lee Jo Ann**<br><br>Mrs Doreen Lee 	| Tuesday**<br><br>Thursday 	| 3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| [lee_jo_ann@moe.edu.sg](mailto:lee_jo_ann@moe.edu.sg) 	|
-| 4 	| Red Cross 	| **Ms Grace Tang**<br><br>Mdm Tan Poey Siang<br><br>Ms Evelyn Ku<br> 	| Tuesday**<br><br>Thursday 	| 3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| [grace_tang@moe.edu.sg](mailto:grace_tang@moe.edu.sg) 	|
-
-** for competitions/events
-
-
-### Clubs/Societies
-
-|   	| Clubs/Societies 	| Teacher-in-charge 	| Days 	| Time 	| Remarks 	|
-|---	|---	|---	|---	|---	|---	|
-| 1 	| Art Club 	| **Mr Abdul Razak**<br><br>Ms Low Kok Lang 	| Tuesday 	| 3.15 – 6.15pm 	| [abdul_razak@moe.edu.sg](mailto:abdul_razak@moe.edu.sg) 	|
-| 2 	| Debating Society 	| **Mrs Swati Mukherji**<br><br>Ms Irfana Binte Begum 	| Tuesday<br><br>Thursday 	| 3.15 – 6.15pm (Sch team)<br><br>3.15 – 6.15pm (Joint) 	| [swati_mukherji@moe.edu.sg](mailto:swati_mukherji@moe.edu.sg) 	|
-| 3 	| Infocomm club<br><br>(Robotics/ Photography/ Animation) 	| Miss Kong Shiau Wei<br><br>Mr Lau Beng Hwee<br><br>Ms Rosziana Rossley 	| Tuesday<br><br>Thursday 	| 3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| [kong_shiau_wei@moe.edu.sg](mailto:kong_shiau_wei@moe.edu.sg) 	|
-| 4 	| Library Society 	| **Mrs Gloria Cheng**<br><br>Mdm Loo Shek Kien<br><br>	|Thurs 	| 3.15 – 6.15pm 	| [gloria_cheng@moe.edu.sg](mailto:gloria_cheng@moe.edu.sg) 	|
-| 5 	| Science and Environment Club 	| **Mrs Cha Wai Mun**<br><br>Mr Zeng Wei<br><br> 	| Tuesday<br><br>Thursday 	| 3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| [wong_wai_mun_a@moe.edu.sg](mailto:wong_wai_mun_a@moe.edu.sg) 	|
-
-
-
-
-### Performing Arts
-
-
-|  	| Performing Arts 	| Teacher-in-charge 	| Days 	| Time 	| Remarks / Email 	|
-|---	|---	|---	|---	|---	|---	|
-| 1 	| Band 	| **Mr Shaun Ho**<br><br>Miss Goh Lay Hoon<br><br>Mrs Wong Bee Ting<br><br>Ms Yeo Li Yong (Advisor)	| Tuesday<br><br>Thursday<br><br>Friday 	| 3.15 – 6.5pm<br><br>3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| [ho_tze_liang_shaun@moe.edu.sg](mailto:ho_tze_liang-shaun@moe.edu.sg) 	|
-| 2 	| Choir 	| **Ms Beh Mui Leng**<br><br>Mrs Vivian Tan<br><br>Mrs Angela Goh (Instructor) 	| Tuesday<br><br>Thursday<br><br>Friday* 	| 3.15 – 6.15pm<br><br>3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| [beh_mui_leng@moe.edu.sg](mailto:beh_mui_leng@moe.edu.sg)<br><br>*Concert /SYF season only 	|
-| 3 	| Dance 	| **Mrs Lim Siew Joo**<br><br>Ms Yea Jie'r<br><br>Mrs Jean Chan (advisor)<br><br>Kek Ai Kiew 	| Tuesday<br><br>Thursday<br><br>Friday 	| 3.15 – 6.15pm<br><br>3.15 – 6.15pm<br><br>3.15 – 6.15pm 	| [heng_siew_joo@moe.edu.sg](mailto:heng_siew_joo@moe.edu.sg)<br><br>*Concert /SYF season only 	|
-| 4 	| Drama (CL) 	| **Miss Lee Li Qun**<br><br>Mdm Cui Hailan 	| Tuesday<br><br>Thursday<br><br>Friday* 	| 3.15 – 6.15m<br><br>3.15 – 6.15pm<br><br>3.15 – 6.15pm*<br> 	| [lee_li_qun@moe.edu.sg](mailto:lee_li_qun@moe.edu.sg)<br><br>*Concert /SYF season only 	|
-| 5 	| Drama (EL) 	| **Mrs Caruna Yogeeswaran**<br><br>Ms Agnes Goh 	| Tuesday<br><br>Thursday<br><br>Friday* 	| 3.15 – 6.15m<br><br>3.15 – 6.15pm<br><br>3.15 – 6.15pm* 	| [caruna_sothi@moe.edu.sg](mailto:caruna_sothi@moe.edu.sg)<br><br>*Concert /SYF season only 	|
-| 6 	| Handbell Ensemble 	| **Ms Rina Lio**<br><br>Mdm Phua Chia Ghee<br>  	| Tuesday<br><br>Thursday<br><br>Friday* 	| 3.15 – 6.15m<br><br>3.15 – 6.15pm<br><br>3.15 – 6.15pm* 	| [lio_su-mein_rina@moe.edu.sg](mailto:lio_su-mein_rina@moe.edu.sg)<br><br>*Concert /SYF season only 	|
-| 7 	| String Ensemble 	| **Ms Deborah Gan**<br><br>Mr Michael Chin 	| Tuesday<br><br>Thursday<br><br>Friday* 	| 3.15 – 6.15m<br><br>3.15 – 6.15pm<br><br>3.15 – 6.15pm* 	| [deborah_gan_li_chuen@moe.edu.sg](mailto:deborah_gan_li_chuen@moe.edu.sg)<br><br>*Concert /SYF season only 	|
-
-
-
-**Staff Overseeing CCA Development**
-
-*   HOD Aesthetics : [ho_tze_liang_shaun@moe.edu.sg](mailto:ho_tze_liang_shaun@moe.edu.sg)
-*   HOD CCA/ PE: [Khoo_beng_gek_linda@moe.edu.sg](mailto:Khoo_beng_gek_linda@moe.edu.sg)
+<h1><strong>CCA Schedule</strong></h1>
+<h3>Sports</h3>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p>SPORTS</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Teacher-in-charge</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Days</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Remarks / Email</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Badminton</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Miss Maryanty Mohtar</strong>
+<br>
+<br>Mr Liang Kok Ann
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesday
+<br>
+<br>Thursday
+<br>
+<br>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.15 – 6.15pm
+<br>
+<br>3.15 – 6.15pm
+<br>
+<br>3.15 – 6.15pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:maryanty_mohtar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">maryanty_mohtar@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Basketball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Dora Fernandez</strong>
+<br>
+<br>Mr Samuel Lim
+<br>
+<br>Ms Zhou Liang
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesday
+<br>
+<br>Thursday
+<br>
+<br>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.15 – 6.15pm
+<br>
+<br>3.15 – 6.15pm
+<br>
+<br>3.15 – 6.15pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:dora_maria_choo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dora_maria_choo@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gymnastics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Lim Chan Ching</strong>
+<br>
+<br>Ms Vijayabharathy
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesday
+<br>
+<br>Thursday
+<br>
+<br>Friday
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.15 – 6.15pm
+<br>
+<br>3.15 – 6.15pm
+<br>
+<br>3.15 – 6.15pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_chan_ching@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_chan_ching@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Netball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Teo Wen Fei</strong>
+<br>
+<br>Ms Lim Zhi Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesday
+<br>
+<br>Thursday
+<br>
+<br>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.15 – 6.15pm
+<br>
+<br>3.15 – 6.15pm
+<br>
+<br>3.15 – 6.15pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:teo_wen_fei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_wen_fei@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Squash</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Mo Fengling</strong>
+<br>
+<br>Ms Johanna Chua
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesday
+<br>
+<br>Thursday
+<br>
+<br>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.15 – 6.15pm
+<br>
+<br>3.15 – 6.15pm
+<br>
+<br>3.15 – 6.15pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:mo_feng_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mo_feng_ling@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tennis</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Johari Khalil
+<br>
+<br>Mrs Jiang Jing Hong
+<br>
+<br>Mr Navin Kumar Rai</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesday
+<br>
+<br>Thursday
+<br>
+<br>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.15 – 6.15pm
+<br>
+<br>3.15 – 6.15pm
+<br>
+<br>3.15 – 6.15pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:johari_khalil@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">johari_khalil@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hockey</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chia Guo Hui
+<br>
+<br>Ms Anisha Johnson</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesday
+<br>
+<br>Thursday
+<br>
+<br>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.00 – 5.00pm
+<br>
+<br>3.00 – 5.00pm
+<br>
+<br>4.00 – 6.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chia_guo_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chia_guo_hui@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Girls Football Cluster CCA @ Yishun Secondary School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Coordinating teacher: <strong>Mrs Linda Lee</strong>
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wednesday
+<br>
+<br>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.30 – 6.00pm
+<br>
+<br>3.30 – 6.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:khoo_beng_gek_linda@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">khoo_beng_gek_linda@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Uniformed Groups</h3>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p>UGs</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Teacher-in-charge</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Days</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Remarks / Email</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Girls’ Brigade</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Davilia Koh</strong>
+<br>
+<br>Ms Cheyanne Koh
+<br>
+<br>Ms Chang Wai Mun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thursday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.15 – 6.15pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:koh_cixian_davilia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_cixian_davilia@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Girl Guides</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Lim Ai Hong</strong>
+<br>
+<br>Mrs Tan Mui Tiang
+<br>
+<br>Ms Tan Si Ying
+<br>
+<br>Ms Nurul Dini</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesday**
+<br>
+<br>Thursday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.15 – 6.15pm
+<br>
+<br>3.15 – 6.15pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_ai_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_ai_hong@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NCC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Miss Lee Jo Ann</strong>
+<br>
+<br>Mrs Doreen Lee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesday**
+<br>
+<br>Thursday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.15 – 6.15pm
+<br>
+<br>3.15 – 6.15pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_jo_ann@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_jo_ann@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Red Cross</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Grace Tang</strong>
+<br>
+<br>Mdm Tan Poey Siang
+<br>
+<br>Ms Evelyn Ku
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesday**
+<br>
+<br>Thursday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.15 – 6.15pm
+<br>
+<br>3.15 – 6.15pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:grace_tang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">grace_tang@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>** for competitions/events</p>
+<h3>Clubs/Societies</h3>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Clubs/Societies</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Teacher-in-charge</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Days</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Remarks</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Art Club</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Abdul Razak</strong>
+<br>
+<br>Ms Low Kok Lang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.15 – 6.15pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:abdul_razak@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">abdul_razak@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Debating Society</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mrs Swati Mukherji</strong>
+<br>
+<br>Ms Irfana Binte Begum</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesday
+<br>
+<br>Thursday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.15 – 6.15pm (Sch team)
+<br>
+<br>3.15 – 6.15pm (Joint)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:swati_mukherji@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">swati_mukherji@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Infocomm club
+<br>
+<br>(Robotics/ Photography/ Animation)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Kong Shiau Wei
+<br>
+<br>Mr Lau Beng Hwee
+<br>
+<br>Ms Rosziana Rossley</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesday
+<br>
+<br>Thursday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.15 – 6.15pm
+<br>
+<br>3.15 – 6.15pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:kong_shiau_wei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kong_shiau_wei@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Library Society</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mrs Gloria Cheng</strong>
+<br>
+<br>Mdm Loo Shek Kien
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thurs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.15 – 6.15pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:gloria_cheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gloria_cheng@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Science and Environment Club</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mrs Cha Wai Mun</strong>
+<br>
+<br>Mr Zeng Wei
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesday
+<br>
+<br>Thursday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.15 – 6.15pm
+<br>
+<br>3.15 – 6.15pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wong_wai_mun_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_wai_mun_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Performing Arts</h3>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Performing Arts</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Teacher-in-charge</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Days</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Remarks / Email</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Band</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Shaun Ho</strong>
+<br>
+<br>Miss Goh Lay Hoon
+<br>
+<br>Mrs Wong Bee Ting
+<br>
+<br>Ms Yeo Li Yong (Advisor)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesday
+<br>
+<br>Thursday
+<br>
+<br>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.15 – 6.5pm
+<br>
+<br>3.15 – 6.15pm
+<br>
+<br>3.15 – 6.15pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ho_tze_liang-shaun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_tze_liang_shaun@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Choir</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Beh Mui Leng</strong>
+<br>
+<br>Mrs Vivian Tan
+<br>
+<br>Mrs Angela Goh (Instructor)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesday
+<br>
+<br>Thursday
+<br>
+<br>Friday*</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.15 – 6.15pm
+<br>
+<br>3.15 – 6.15pm
+<br>
+<br>3.15 – 6.15pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:beh_mui_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">beh_mui_leng@moe.edu.sg</a>
+<br>
+<br>*Concert /SYF season only</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mrs Lim Siew Joo</strong>
+<br>
+<br>Ms Yea Jie'r
+<br>
+<br>Mrs Jean Chan (advisor)
+<br>
+<br>Kek Ai Kiew</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesday
+<br>
+<br>Thursday
+<br>
+<br>Friday</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.15 – 6.15pm
+<br>
+<br>3.15 – 6.15pm
+<br>
+<br>3.15 – 6.15pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:heng_siew_joo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">heng_siew_joo@moe.edu.sg</a>
+<br>
+<br>*Concert /SYF season only</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Drama (CL)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Miss Lee Li Qun</strong>
+<br>
+<br>Mdm Cui Hailan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesday
+<br>
+<br>Thursday
+<br>
+<br>Friday*</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.15 – 6.15m
+<br>
+<br>3.15 – 6.15pm
+<br>
+<br>3.15 – 6.15pm*
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_li_qun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_li_qun@moe.edu.sg</a>
+<br>
+<br>*Concert /SYF season only</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Drama (EL)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mrs Caruna Yogeeswaran</strong>
+<br>
+<br>Ms Agnes Goh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesday
+<br>
+<br>Thursday
+<br>
+<br>Friday*</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.15 – 6.15m
+<br>
+<br>3.15 – 6.15pm
+<br>
+<br>3.15 – 6.15pm*</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:caruna_sothi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">caruna_sothi@moe.edu.sg</a>
+<br>
+<br>*Concert /SYF season only</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Handbell Ensemble</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Rina Lio</strong>
+<br>
+<br>Mdm Phua Chia Ghee
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesday
+<br>
+<br>Thursday
+<br>
+<br>Friday*</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.15 – 6.15m
+<br>
+<br>3.15 – 6.15pm
+<br>
+<br>3.15 – 6.15pm*</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lio_su-mein_rina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lio_su-mein_rina@moe.edu.sg</a>
+<br>
+<br>*Concert /SYF season only</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>String Ensemble</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Deborah Gan</strong>
+<br>
+<br>Mr Michael Chin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tuesday
+<br>
+<br>Thursday
+<br>
+<br>Friday*</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.15 – 6.15m
+<br>
+<br>3.15 – 6.15pm
+<br>
+<br>3.15 – 6.15pm*</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:deborah_gan_li_chuen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">deborah_gan_li_chuen@moe.edu.sg</a>
+<br>
+<br>*Concert /SYF season only</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Staff Overseeing CCA Development</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>HOD Aesthetics : <a href="mailto:ho_tze_liang_shaun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_tze_liang_shaun@moe.edu.sg</a>
+</p>
+</li>
+<li>
+<p>HOD CCA/ PE: <a href="mailto:Khoo_beng_gek_linda@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Khoo_beng_gek_linda@moe.edu.sg</a>
+</p>
+</li>
+</ul>
+<p></p>
