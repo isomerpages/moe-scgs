@@ -46,7 +46,7 @@ variant: markdown
 | **Primary 2** 	| Sincerity 	| [Mrs Siti Farid](mailto:siti_rakhmayati@moe.edu.sg) 	| [Mrs Doris Lim](mailto:chng_kim_leng_doris@moe.edu.sg) 	|
 |  	| Courage 	| [Mrs Nadiah Mounir](mailto:nur_nadiah_ahmad_jani@moe.edu.sg) 	| [Miss Jacqueline Tan](mailto:tan_shiow_yuen_jacqueline@moe.edu.sg) 	|
 |  	| Generosity 	| [Mdm Priyalatha d/o Ganaysan](mailto:priyalatha_ganaysan@moe.edu.sg) 	| [Miss Ko Guat Hua](mailto:ko_guat_hua@moe.edu.sg) 	|
-|  	| Service 	| [Mrs Lim Li-Lien](mailto:cho_li-lien@moe.edu.sg) 	| Ms Gu Xiaomei 	|
+|  	| Service 	| [Mrs Lim Li-Lien](mailto:cho_li-lien@moe.edu.sg) 	| [Ms Gu Xiaomei](mailto:gu_xiaomei@moe.edu.sg) 	|
 |  	| Prudence 	| [Miss Shannon Oon](mailto:oon_qian_yi_shannon@moe.edu.sg) 	| [Mdm Lai Huey Yuen](mailto:lai_huey_yuen@moe.edu.sg)	|
 |  	| Grace 	| [Mrs Ethel See](mailto:teh_hua_sim@moe.edu.sg)	| [Mdm Doreen Ting](mailto:ting_sye_ying_doreen@moe.edu.sg) 	|
 | **Primary 3** 	| Sincerity 	| [Miss Margaret Ee](mailto:ee_swee_keow_margaret@moe.edu.sg) 	| [Miss Yap Hui Jie](mailto:yap_hui_jie@moe.edu.sg)	|
