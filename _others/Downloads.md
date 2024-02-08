@@ -18,16 +18,7 @@ variant: markdown
 * [Sexuality Education Information (Primary)](/files/Sexuality_Education_Information_Primary.pdf)
 * [Sexuality Education Information (Secondary)](/files/2024_MOE_Sexuality_Education_in_SCGS_Information_to_Parents.pdf)
 
-### BOOKLIST – SECONDARY (Updated for Year 2024)
 
-* [Secondary 1 (O-Level) Booklist](/files/2024_S1_OLP.pdf)
-* [Secondary 1 (IP) Booklist](/files/2024_S1_IP.pdf)
-* [Secondary 2 (O-Level) Booklist](/files/2024_s2_olp.pdf)
-* [Secondary 2 (IP) Booklist](/files/2024_s2_ip.pdf)
-* [Secondary 3 (O-Level) Booklist](/files/2024_s3_olp.pdf)
-* [Secondary 3 (IP) Booklist](/files/2024_s3_ip.pdf)
-* [Secondary 4 (O-Level) Booklist](/files/2024_s4_olp.pdf)
-* [Secondary 4 (IP) Booklist](/files/2024_s4_ip.pdf)
 ### Booklist - Primary (Year 2024)
 
 * [Primary 1 Booklist](/files/SCGSP_BOOKLIST_2024_P1.pdf)
@@ -46,7 +37,6 @@ variant: markdown
 
 * [Primary](https://form.gov.sg/#!/61a0393fafd2800012425278)
 * [Secondary](https://form.gov.sg/#!/61a085e1a342eb00124cd2ee)
-* [Only applicable for Sec 1 2024](https://form.gov.sg/64d9bffc141a4600121b5572)
 
 ### Application for Parent Volunteer 
 
