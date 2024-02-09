@@ -4,7 +4,7 @@ permalink: /school-bus-service/
 description: ""
 variant: markdown
 ---
-**School Bus Operator and Bus Fare**
+**School Bus Operator**
 
 Revolving Transport Pte Ltd<br>
 141 Middle Road<br>
@@ -12,5 +12,4 @@ Revolving Transport Pte Ltd<br>
 Singapore 188976<br>
 Kindly contact Ms Jeccy at HP : 9090-9277 if you have queries.
 
-[Bus Fare](/files/school_bus_operator_and_nte_price.pdf)<br>
 [School Bus Service Request Form](/files/school_bus_services_request_form.pdf)<br>
