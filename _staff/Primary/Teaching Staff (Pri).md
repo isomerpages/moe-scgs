@@ -29,7 +29,13 @@ variant: markdown
 | **Year Head** 	|  [Mdm Shuhaila Sidik](mailto:shuhaila_sidik@moe.edu.sg)	| P5 &amp; P6 	|
 |  	| [Mrs Lee Meng Choo](mailto:lim_meng_choo_a@moe.edu.sg) 	| P4 	|
 |  	| [Mdm Norrizaliani Jahari](mailto:norrizaliani_jahari@moe.edu.sg) 	| P1, P2 &amp; P3 	|
+| **Learning Support<br>Co-ordinator** 	| [Mrs Marion Tan](mailto:marion_winings@moe.edu.sg) 	|  	|
+| **Counsellor** 	| [Ms Susan Yeow](mailto:yeow_mei_mei_susan@moe.edu.sg)<br><br>[Ms Lee Guat Keow](mailto:lee_guat_keow@moe.edu.sg) 	|  	| 
+| **SEN Officer** 	|  [Miss Tay Shi Li](mailto:tay_shi_li@moe.edu.sg)<br><br>[Miss Lim Jing Fen](mailto:lim_jing_fen@moe.edu.sg) |  	|
 
-| **Learning Support<br>Co-ordinator** 	|  	| [Mrs Marion Tan](mailto:marion_winings@moe.edu.sg) 	|  	|
-| **Counsellor** 	|  	| [Ms Susan Yeow](mailto:yeow_mei_mei_susan@moe.edu.sg)<br><br>[Ms Lee Guat Keow](mailto:lee_guat_keow@moe.edu.sg) 	|  	|
-| **SEN Officer** 	|  	| [Miss Tay Shi Li](mailto:tay_shi_li@moe.edu.sg)<br><br>[Miss Lim Jing Fen](mailto:lim_jing_fen@moe.edu.sg) 	|  	|
+
+
+
+
+
+
