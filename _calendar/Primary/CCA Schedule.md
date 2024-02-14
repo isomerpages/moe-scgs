@@ -93,7 +93,6 @@ variant: markdown
 <br>Mrs Lim Li-Lien
 <br>Miss Marina Saruwan
 <br>Miss Ng Poh Hoon
-<br>Miss Candice Kong
 <br>Mrs Ong - Lim Yen Leng
 </td>
     <td rowspan="5" style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Gymnasium</td>
