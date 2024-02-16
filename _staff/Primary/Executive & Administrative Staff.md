@@ -15,9 +15,6 @@ variant: markdown
 | **Administration Manager** 	| [Mdm Poh Lilin](mailto:poh_lilin@schools.gov.sg) 	|
 | **Operations Manager** 	| [Mr Rajanthran Jayaraman](mailto:rajanthran_jayaraman@moe.edu.sg) |
 | **ICT Manager** 	| Ms Linda Lim	|
-| **Administrative Executive** 	| [Mr Er Shun Lin ](mailto:er_shun_lin@moe.edu.sg)	|
-| **Management Support Officers** 	| Miss Chee Foong Sau<br>Mrs Judith Lee<br>Mrs Low Kay Mui<br>Mdm Indirani d/o Paspathy 	|
-| **Librarian** 	| Mdm Padmah Swaminathan 	|
-| **ICT Desktop Engineers** 	| Mdm Tan Xiao Ting 	|
-| **Teacher Aide**  	| Miss Visalatchi d/o Awani Paspathy 	|
-| **School Attendants**  	| Ms Lim Poh Choo<br>Mdm Sahida Bee d/o Mydin Pitchay<br>Mdm M Paulina d/o K Mariadass<br>Mdm Sandra Gilbert 	|
+
+
+
