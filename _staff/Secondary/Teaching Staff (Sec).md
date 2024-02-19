@@ -746,7 +746,7 @@ variant: tiptap
 <p>Grace</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chua_lyn_lyn_johanna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Johanna Chua</a>
+<p><a href="mailto:johanna_chua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Johanna Chua</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
