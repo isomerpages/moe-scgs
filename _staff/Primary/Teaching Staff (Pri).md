@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Primary
 variant: markdown
 ---
-# **Teaching Staff**
+# **Teachers and Allied Staff**
 
 | 	| 	|  	|
 |---	|---	|---	|
@@ -32,10 +32,3 @@ variant: markdown
 | **Learning Support<br>Co-ordinator** 	| [Mrs Marion Tan](mailto:marion_winings@moe.edu.sg) 	|  	|
 | **Counsellor** 	| [Ms Susan Yeow](mailto:yeow_mei_mei_susan@moe.edu.sg)<br><br>[Ms Lee Guat Keow](mailto:lee_guat_keow@moe.edu.sg) 	|  	| 
 | **SEN Officer** 	|  [Miss Tay Shi Li](mailto:tay_shi_li@moe.edu.sg)<br><br>[Miss Lim Jing Fen](mailto:lim_jing_fen@moe.edu.sg) |  	|
-
-
-
-
-
-
-
