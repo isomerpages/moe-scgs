@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Primary/Executive & Administrative Staff.md
-      - Primary/Teachers and Allied Staff.md
+      - Primary/Teachers and Allied Staff (Pri).md
       - Primary/.keep
       - Secondary/Executive & Administrative Staff.md
       - Secondary/Teaching Staff (Sec).md
