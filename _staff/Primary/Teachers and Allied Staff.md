@@ -18,9 +18,6 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -34,9 +31,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>English Language</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -48,9 +42,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mother Tongue Languages</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -64,9 +55,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Science</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -79,9 +67,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mathematics</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -93,9 +78,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Character and Citizenship Education</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -110,9 +92,6 @@ variant: tiptap
 <p>Information Technology /
 <br>Media Resource Library</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -125,9 +104,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Aesthetics</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -137,9 +113,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:jesmine_tan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Dr Jesmine Tan</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -157,9 +130,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>English Language</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -172,9 +142,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Science</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -186,9 +153,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -203,9 +167,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Chinese Languague</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -217,9 +178,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>SS &amp; NE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -233,9 +191,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Information Technology</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -247,9 +202,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>PE &amp; CCA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -263,9 +215,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Discipline</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -277,9 +226,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Special Projects</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -294,9 +240,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>P5 &amp; P6</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -309,9 +252,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>P4</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -323,9 +263,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>P1, P2 &amp; P3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -342,9 +279,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -352,12 +286,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yeow_mei_mei_susan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Susan Yeow</a>
+<p><a href="mailto:yeow_mei_mei_susan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Susan Yeow</a> 
 <br><a href="mailto:lee_guat_keow@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lee Guat Keow</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -369,12 +300,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tay_shi_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Tay Shi Li</a>
+<p><a href="mailto:tay_shi_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Tay Shi Li</a> 
 <br><a href="mailto:lim_jing_fen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Lim Jing Fen</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
