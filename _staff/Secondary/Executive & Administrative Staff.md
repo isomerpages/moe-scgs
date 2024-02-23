@@ -108,21 +108,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>ICT Manager</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:zheng_minghui_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Zheng Minghui</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Operations Manager</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ee_chwee_ming_elaine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Elaine Tan</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>ICT Manager</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:zheng_minghui_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Zheng Minghui</a>
 </p>
 </td>
 </tr>
