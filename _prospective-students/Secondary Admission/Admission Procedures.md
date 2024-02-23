@@ -79,7 +79,7 @@ The school does not accept new students for entry to Secondary 4.
 
 Students applying for admission will be assess on their English, Mathematics and Science. Do note that Physics, Chemistry and Biology will be tested for Science.
 
-Students seeking admission into SCGS need to complete and submit the **APPLICATION FOR ENTRY FOR SECONDARY SCHOOL** form which can be [downloaded](/files/3__Sch_Application_Form_2024_Edited.pdf) from this site. 
+Students seeking admission into SCGS need to complete and submit the **APPLICATION FOR ENTRY FOR SECONDARY SCHOOL** form which can be [downloaded](/files/3__Sch_Application_Form_2024_Edited_Updated_15_Feb_2024.pdf) from this site. 
 
 Important Note:
 
