@@ -82,6 +82,14 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:koh_bee_lian_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Koh Bee Lian</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Administration Manager (Finance)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:choo_teck_loong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ted Choo</a>
 </p>
 </td>
