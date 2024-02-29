@@ -38,8 +38,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Student</strong> 
 <br>
-<br><a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">Student iCON</a> 
 <br><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space (SLS)</a> 
+<br><a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">Student iCON</a> 
 <br><a href="https://www.brainpop.com/" rel="noopener noreferrer nofollow" target="_blank">BrainPOP Portal</a> 
 <br><a href="https://www.ezhishi.net/Contents/" rel="noopener noreferrer nofollow" target="_blank">eZhishi Portal</a> 
 <br><a href="https://member.koobits.com/" rel="noopener noreferrer nofollow" target="_blank">KooBits Math Portal</a> 
