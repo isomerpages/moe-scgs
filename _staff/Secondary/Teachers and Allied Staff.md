@@ -1,24 +1,13 @@
 ---
-title: Teaching Staff (Sec)
+title: Teachers and Allied Staff
 permalink: /our-people/staff/secondary/teaching-staffsec/
 description: ""
 third_nav_title: Secondary
 variant: tiptap
 ---
-<h1><strong>Teaching Staff</strong></h1>
+<h1><strong>Teachers and Allied Staff</strong></h1>
 <table>
 <tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Staff</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Department/Positition</p>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Deans</strong>
@@ -46,30 +35,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Heads of Department</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -164,31 +131,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>School Staff Developer</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:dora_maria_choo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Dora Fernandez</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School Staff Developer</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Subject Heads/Year Heads</strong>
+<p><strong>Subject Heads</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ho_tze_liang_shaun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Ho Tze Liang Shaun</a>
@@ -331,7 +288,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Year Heads</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yeoh_wah_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Jace Yeoh Wah Ping</a>
@@ -375,6 +333,35 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Year 4 Head</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>School Counsellor</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="tan_mao_ning_charissa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Charissa Tan</a>
+</p>
+<p></p>
+<p><a href="teo_bee_khim_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Teo Bee Khim</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Education and Career Guidance Counsellor</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="Tang_Lin_Yin_Karen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Karen Tang</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
