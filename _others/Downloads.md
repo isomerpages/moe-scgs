@@ -10,12 +10,9 @@ variant: markdown
 ### Scholarships/Bursary
 
 * [MOE Independent School Bursary (ISB) Scheme](/files/Appendix_B1___MOE_ISB_Application_Form_2024_final.pdf)
-* [SCGS Sports Scholarship Form](/files/2024_Sports_Scholarship_Application_Form_Editable.pdf)
-* [SCGS Sports Scholarship (Terms and Conditions)](/files/2024_Sports_Scholarship_Terms_Conditions.pdf)
+
 
 ### Sexuality Education
 
 * [Sexuality Education Information (Primary)](/files/Sexuality_Education_Information_Primary.pdf)
 * [Sexuality Education Information (Secondary)](/files/2024_MOE_Sexuality_Education_in_SCGS_Information_to_Parents.pdf)
-
-
