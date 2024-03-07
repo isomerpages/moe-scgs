@@ -32,6 +32,8 @@ variant: tiptap
 <br>
 <br><a href="/school-service-providers/" rel="noopener noreferrer nofollow" target="_blank">School Service Provider (Books, Uniform)</a>
 </p>
+<p><a href="/files/2024_MOE_Sexuality_Education_in_SCGS_Information_to_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Sexuality Education Information (Secondary)</a>
+</p>
 </td>
 </tr>
 <tr>
