@@ -2,7 +2,7 @@
 title: Secondary
 permalink: /about-scgs/achievements/secondary/
 description: ""
-third_nav_title: Achievements
+third_nav_title: Celebrations
 variant: markdown
 ---
 <h1><b>Achievements (Secondary)</b></h1>
