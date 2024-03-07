@@ -171,7 +171,7 @@ who qualify for 100% fee subsidy under the Independent School Bursary (ISB)</p>
 </li>
 </ol>
 <p>ISB recipients receiving 100% fee subsidy will be auto-awarded the UPLIFT
-Scholarship. To apply, please submit the completed&nbsp;<a href="/downloads" rel="noopener noreferrer nofollow" target="_blank">ISB application form</a>&nbsp;and
+Scholarship. To apply, please submit the completed <a href="/files/Appendix_B1___MOE_ISB_Application_Form_2024_final.pdf" rel="noopener noreferrer nofollow" target="_blank">ISB application form</a> and
 all relevant documents to the school.</p>
 <p><strong>Other Scholarships</strong>&nbsp;
 <br>There are several scholarships offered by large organisations and foundations.
