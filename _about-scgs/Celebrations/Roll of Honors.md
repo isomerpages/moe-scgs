@@ -11,19 +11,19 @@ variant: markdown
 
 | Name 	| Year 	|
 |---	|---	|
-| Lim Hoon Geok (Sec) 	| 1977 	|
-| Koh Cheng Kim Karen (Sec) 	| 1979 	|
-| Yu Chia Wen, Carmen (Sec) 	| 1979 	|
-| Kam Ming Li Ruth (Sec) 	| 1981 	|
-| Ang Bee Kiat (Sec) 	| 1983 	|
-| Ang Bee Leng (Sec) 	| 1985 	|
-| Chia Hui-Yong Marion Margaret (Sec) 	| 1987 	|
-| Thean Pik Yuen, Valerie (Sec) 	| 1988 	|
-| Yip Li-Yan Dawn (Sec) 	| 1990 	|
-| Quek Su Ying (Sec) 	| 1997 	|
-| Wong Huiwen Denise (Sec) 	| 2000 	|
-| Ko Qianwen Stephanie (Sec) 	| 2007 	|
 | Gan Su Yi (Sec) 	| 2009 	|
+| Koh Qianwen Stephanie (Sec) 	| 2007 	|
+| Wong Huiwen Denise (Sec) 	| 2000 	|
+| Quek Su Ying (Sec) 	| 1997 	|
+| Yip Li-Yan Dawn (Sec) 	| 1990 	|
+|Thean Pik Yuen, Valerie (Sec) 	| 1988 	|
+| Chia Hui-Yong Marion Margaret (Sec) 	| 1987 	|
+| Ang Bee Leng (Sec) 	| 1985 	|
+| Ang Bee Kiat (Sec) 	| 1983 	|
+| Kam Ming Li Ruth (Sec) 	| 1981 	|
+| Yu Chia Wen, Carmen (Sec) 	| 1979 	|
+| Koh Cheng Kim Karen (Sec) 	| 1979 	|
+| Lim Hoon Geok (Sec) 	| 1977 	|
 
 
 ### The Lee Kuan Yew Award for All-Round Excellence
