@@ -4,7 +4,6 @@ collections:
     order:
       - Primary Admission/.keep
       - Primary Admission/Admission Procedures.md
-      - Primary Admission/Primary 1 Registration Data.md
       - Primary Admission/Parent Volunteer.md
       - Secondary Admission/.keep
       - Secondary Admission/Admission Procedures.md
