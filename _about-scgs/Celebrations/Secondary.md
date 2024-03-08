@@ -30,21 +30,12 @@ and Alumni in supporting and nurturing them throughout this milestone journey.</
 <h2>Non-Academic (Secondary)</h2>
 <h4>2023</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2023_Achievement_1.png">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/2023_Achievement_1_1.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2023_Achievement_2.png">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/2023_Achievement_2.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023_Achievement_1_1.png">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/2023_Achievement_3.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023_Achievement_3.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023_Achievement_4.png">
-</div>
-<h5></h5>
-<h5></h5>
-<h5></h5>
 <p></p>
