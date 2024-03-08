@@ -29,11 +29,9 @@ appreciate the unwavering partnership of our parents, Board of Directors
 and Alumni in supporting and nurturing them throughout this milestone journey.</p>
 <h2>Non-Academic (Secondary)</h2>
 <h4>2023</h4>
-<h5></h5>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2023_Achievement_1.png">
 </div>
-<h5></h5>
 <h5></h5>
 <h5></h5>
 <h5></h5>
