@@ -38,4 +38,7 @@ and Alumni in supporting and nurturing them throughout this milestone journey.</
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/2023_Achievement_3.png">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/2023_Achievement_4.png">
+</div>
 <p></p>
