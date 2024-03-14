@@ -27,6 +27,9 @@ Clinic hours are as follows:</p>
 <p>Device Clinic Hours</p>
 </th>
 <th rowspan="1" colspan="1">
+<p>Terms</p>
+</th>
+<th rowspan="1" colspan="1">
 <p>Days</p>
 </th>
 </tr>
@@ -35,7 +38,21 @@ Clinic hours are as follows:</p>
 <p>10:40am to 12:20pm</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Terms 1 and 3</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Monday to Friday</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10:40am to 12:20pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Terms 2 and 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Monday, Wednesday, Friday</p>
 </td>
 </tr>
 </tbody>
