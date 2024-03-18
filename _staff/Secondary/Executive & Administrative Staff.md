@@ -50,16 +50,6 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Ho_Hui_Ping@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Ho&nbsp;Hui Ping</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Vice Principal</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:leong_kai_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Leong Kai Ling</a>
 </p>
 </td>
