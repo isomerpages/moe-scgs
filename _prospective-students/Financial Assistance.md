@@ -2,64 +2,64 @@
 title: Financial Assistance
 permalink: /prospective-students/financial-assistance/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-# **Financial Assistance**
-
-The Ministry of Education provides financial assistance to needy Singapore Citizen students in Government or Government-aided schools so that all Singaporeans, regardless of their financial background, can benefit from the best opportunities in education.
-
-**MOE FINANCIAL ASSISTANCE SCHEME&nbsp;(MOE FAS)**
-
-**Primary Division**
-
-Singapore Citizens in Government or Government-aided schools can apply for assistance under MOE FAS.
-
-**Income Limits**
-
-A student is eligible for MOE FAS if he or she meets either of the following criteria:
-
-Gross&nbsp;Household Income (GHI) not exceeding $3,000 per month.
-
-OR
-
-Per Capita Income (PCI) &nbsp;not exceeding $750 per month
-
-The introduction of PCI will enable students from larger families to benefit from financial assistance. PCI is computed by dividing the gross household income by the number of members in the household.
-
-**Benefits Under Scheme**
-
-Please refer to the Table below for the benefits under MOE FAS.
-
-
-
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#E6E6E6;border-color:#c0c0c0;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:700">ITEM</span></th><th style="background-color:#E6E6E6;border-color:#c0c0c0;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:700">Primary</span></th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:#c0c0c0;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">School Fees</td><td style="background-color:#FFF;border-color:#c0c0c0;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Not applicable</td></tr><tr><td style="background-color:#E6E6E6;border-color:#c0c0c0;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Standard Miscellaneous Fees</td><td style="background-color:#E6E6E6;border-color:#c0c0c0;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Full subsidy of $13 per month</td></tr><tr><td style="background-color:#FFF;border-color:#c0c0c0;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Textbooks</td><td style="background-color:#FFF;border-color:#c0c0c0;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Free textbooks</td></tr><tr><td style="background-color:#E6E6E6;border-color:#c0c0c0;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">School Attire</td><td style="background-color:#E6E6E6;border-color:#c0c0c0;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Free school attire</td></tr><tr><td style="background-color:#FFF;border-color:#c0c0c0;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Bursary</td><td style="background-color:#FFF;border-color:#c0c0c0;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Not applicable</td></tr><tr><td style="background-color:#E6E6E6;border-color:#c0c0c0;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Transport<br>Subsidy</td><td style="background-color:#E6E6E6;border-color:#c0c0c0;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">65% subsidy of monthly
-school bus fares for students taking school bus; or<br>$17 transport subsidy per month from the month of approval, up to a total of $204 transport subsidy per annum for students taking public transport</td></tr><tr><td style="background-color:#FFF;border-color:#c0c0c0;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">School Meal<br>Subsidy</td><td style="background-color:#FFF;border-color:#c0c0c0;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">10 meals per school week</td></tr></tbody></table>
-
-
-**How to Apply?**
-
-Students who wish to apply for this scheme can obtain the application form from the school or download a copy of the&nbsp;[MOE FAS Application Form](/files/2024_MOE_FAS_Application_Form.pdf). All applications forms must be submitted together with the relevant documents to the school directly.
-
-**MOE INDEPENDENT SCHOOL BURSARY SCHEME**
-
-**Secondary Division**
-
-The MOE Independent School Bursary (ISB) Scheme, with revised income criteria and benefits from 1 January 2023, is as follows:
-
-
-<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:inherit;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:700">Monthly Gross Household Income (GHI)</span></th><th style="background-color:#FFF;border-color:inherit;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:700">Monthly Gross Per Capita Income (PCI)</span></th><th style="background-color:#FFF;border-color:inherit;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:700">Benefits</span></th></tr></thead><tbody><tr><td style="background-color:#E6E6E6;border-color:inherit;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Not exceeding $3,000</td><td style="background-color:#E6E6E6;border-color:inherit;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Not exceeding $750</td><td style="background-color:#E6E6E6;border-color:inherit;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">– 100% school fees and miscellaneous fees subsidy<br><br>– Free textbooks and school attire<br>– Transport subsidy: $204 per annum (or $17 per month)<br>– Meals subsidy: $3.50 x 10 times per week</td></tr><tr><td style="background-color:#FFF;border-color:inherit;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">$3,001 – $4,400</td><td style="background-color:#FFF;border-color:inherit;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">$751 – $1,100</td><td style="background-color:#FFF;border-color:inherit;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">– Students will pay equivalent of Government/Government Aided school fees – $25.00<br>
-– w.e.f. Jan 2022, MOE fee base aid will fully cover remaining fee payable. Student will not need to pay any fees.
-</td></tr><tr><td style="background-color:#E6E6E6;border-color:inherit;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">$4,401 – $7,500</td><td style="background-color:#E6E6E6;border-color:inherit;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">$1,101 – $1,875</td><td style="background-color:#E6E6E6;border-color:inherit;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">– Students will pay equivalent of 1.5x Government / Government Aided school fees – $37.50</td></tr><tr><td style="background-color:#FFF;border-color:inherit;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">$7,501 – $10,000</td><td style="background-color:#FFF;border-color:inherit;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">$1,875- $2,500</td><td style="background-color:#FFF;border-color:inherit;border-style:solid;border-width:1px;color:#222;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">– 33% school fees and miscellaneous fees subsidy</td></tr></tbody></table>
-
-
-_Click&nbsp;[here](/files/Appendix_B1___MOE_ISB_Application_Form_2024_final.pdf)&nbsp;for details and application forms_
-
-**SCGS FINANCIAL ASSISTANCE SCHEME**
-
-**Primary Division**
-
-The Primary Division has a School-based Financial Assistance scheme for students who require help but are not eligible for MOE FAS. &nbsp;The assistance can take the form of miscellaneous fee and transport subsidies.
-
-**Secondary Division**&nbsp;
-
-The Secondary Division has a School-based Financial Assistance (SCGS Endowment Fund) for ISB recipients as well as students who require help but are not eligible. The assistance can take the form of school and miscellaneous fees, monthly allowance to provide for their pocket money, transport expenses, free textbooks, school attire, examination fees and compulsory enrichment.
+<h1><strong>Financial Assistance</strong></h1>
+<p>The Ministry of Education provides financial assistance to needy Singapore
+Citizen students in government, government-aided or independent schools
+so that all Singaporeans, regardless of their financial background, can
+benefit from the best opportunities in education.</p>
+<h4><strong>MOE FINANCIAL ASSISTANCE SCHEME (MOE FAS) and MOE Independent School Bursary (MOE ISB)</strong></h4>
+<p>Singapore Citizens students can apply for assistance under MOE FAS (For
+Primary Level) or MOE ISB (For Secondary Level) to receive financial help
+on school fees and other school expenses. You may use the <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">financial assistance eligibility checker</a> to
+find out whether your child is eligible for financial assistance.</p>
+<h4><strong>HOW TO APPLY</strong></h4>
+<p><strong>Primary Division – MOE FAS</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Submit the <a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank"><u>online application form</u></a>;
+or</p>
+</li>
+<li>
+<p>Download the&nbsp;<a href="https://www.moe.gov.sg/financial-matters/-/media/a2155de9879a4d1db7eef286a4451e2c.ashx" rel="noopener noreferrer nofollow" target="_blank">MOE FAS application form</a>&nbsp;and
+submit the completed form with relevant documents via email to <a href="mailto:scgps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">scgps@moe.edu.sg</a> or
+hardcopy to our General Office. You may also collect a copy of the application
+form at our General Office.</p>
+<p></p>
+</li>
+</ul>
+<p><strong>Secondary Division – MOE ISB</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Complete the <em><a href="https://www.scgs.moe.edu.sg/files/Appendix_B1___MOE_ISB_Application_Form_2024_final.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE ISB application form</a> </em>and
+submit the completed form with relevant documents via email to <a href="mailto:scgss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">scgss@moe.edu.sg</a> or
+hardcopy to our General Office. You may also collect a copy of the application
+form at our General Office.</p>
+</li>
+</ul>
+<h4><strong>SCGS FINANCIAL ASSISTANCE SCHEME</strong></h4>
+<p>For applicants who do not meet the eligibility for MOE FAS / ISB, SCGS
+offers our own financial assistance schemes. The same MOE FAS / ISB application
+form that is being submitted will be used to process for SCGS FAS, if applicable.
+&nbsp;</p>
+<p><strong>Primary Division</strong>
+</p>
+<p>The Primary Division has a School-based Financial Assistance scheme for
+students who require financial support but are not eligible for MOE FAS.
+&nbsp;The assistance can take the form of miscellaneous fee and transport
+subsidies.</p>
+<p><strong>Secondary Division</strong>&nbsp;</p>
+<p>The Secondary Division has a School-based Financial Assistance (SCGS Endowment
+Fund) for ISB recipients as well as students who require financial support
+but are not eligible. The assistance can take the form of school and miscellaneous
+fees, meal and transport subsidies.
+<br>
+<br><em>NOTE:</em>
+<br><em>Applications may be made throughout the year as exigencies of each family’s financial circumstances demand.&nbsp; However, approved financial assistance will take effect in the month the application is approved and will not be backdated to January. Each approval is valid till the end of the academic year. &nbsp;A fresh application will need to be submitted for each subsequent academic year.</em>
+</p>
+<p></p>
+<p></p>
+<p></p>
