@@ -57,7 +57,7 @@ Fund) for ISB recipients as well as students who require financial support
 but are not eligible. The assistance can take the form of school and miscellaneous
 fees, meal and transport subsidies.
 <br>
-<br><em>NOTE:</em>
+<br><em>NOTE:</em> 
 <br><em>Applications may be made throughout the year as exigencies of each family’s financial circumstances demand.&nbsp; However, approved financial assistance will take effect in the month the application is approved and will not be backdated to January. Each approval is valid till the end of the academic year. &nbsp;A fresh application will need to be submitted for each subsequent academic year.</em>
 </p>
 <p></p>
