@@ -75,9 +75,6 @@ foster creativity and a sense of camaraderie.</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
 <p>Click <a href="https://www.scgs.moe.edu.sg/files/CCA_Schedule_2024_updated.pdf" rel="noopener noreferrer nofollow" target="_blank">here </a>for
 CCA Schedule 2024
 <br>Click <a href="https://www.scgs.moe.edu.sg/files/leaps-2_School-website.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
