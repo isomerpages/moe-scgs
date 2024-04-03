@@ -2,7 +2,6 @@ collections:
   secondary:
     output: true
     order:
-      - Departments/Co Curricular Activities.md
       - Departments/.keep
       - Departments/Aesthetics.md
       - Departments/Character and Citizenship Education.md
@@ -12,6 +11,7 @@ collections:
       - Departments/Mathematics.md
       - Departments/Mother Tongue Languages.md
       - Departments/Physical Education & CCA.md
+      - Departments/Co Curricular Activities.md
       - Departments/Science.md
       - Joint Integrated Programme/.keep
       - Joint Integrated Programme/Overview.md
