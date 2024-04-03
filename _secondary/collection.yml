@@ -4,6 +4,7 @@ collections:
     order:
       - Departments/.keep
       - Departments/Aesthetics.md
+      - Departments/Co Curricular Activities.md
       - Departments/Character and Citizenship Education.md
       - Departments/English Language.md
       - Departments/Home Economics.md
@@ -11,7 +12,6 @@ collections:
       - Departments/Mathematics.md
       - Departments/Mother Tongue Languages.md
       - Departments/Physical Education & CCA.md
-      - Departments/Co Curricular Activities.md
       - Departments/Science.md
       - Joint Integrated Programme/.keep
       - Joint Integrated Programme/Overview.md
