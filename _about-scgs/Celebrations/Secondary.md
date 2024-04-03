@@ -6,7 +6,7 @@ third_nav_title: Celebrations
 variant: tiptap
 ---
 <h1><strong>Achievements (Secondary)</strong></h1>
-<h2>Academic Achievements – Secondary</h2>
+<h2>Academic Achievements</h2>
 <p>1. Our heartiest congratulations to the 2023 Secondary 4 cohort for their
 excellent performance in the GCE ‘O’ Level examinations!</p>
 <p>2. The Class of 2023 exemplified adaptability and resilience in the face
@@ -27,18 +27,12 @@ guided our Kim Geks. Our team of dedicated and committed teaching and non-teachi
 staff have guided and supported them with much care and love. We also deeply
 appreciate the unwavering partnership of our parents, Board of Directors
 and Alumni in supporting and nurturing them throughout this milestone journey.</p>
-<h2>Non-Academic (Secondary)</h2>
-<h4>2023</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/2023_Achievement_1_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023_In_SynC_Achievements_Website.png">
 </div>
+<h2>Non-Academic Achievements</h2>
+<h3>2023</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/2023_Achievement_2.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/2023_Achievement_3.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/2023_Achievement_4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023_In_SynC_Achievements_Website_2.png">
 </div>
 <p></p>
