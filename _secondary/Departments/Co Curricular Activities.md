@@ -18,8 +18,6 @@ and foster special talents such as leadership and offer enrichment opportunities
 foster creativity and a sense of camaraderie.</p>
 <p></p>
 <h4><strong>CCA Offerings in SCGS</strong></h4>
-<p><em>&lt;insert table of CCA offerings&gt;</em>
-</p>
 <table>
 <tbody>
 <tr>
@@ -32,116 +30,51 @@ foster creativity and a sense of camaraderie.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Badminton</p>
+<p>Badminton
+<br>Basketball
+<br>Gymnastics
+<br>Netball
+<br>Squash
+<br>Tennis
+<br>Hockey
+<br>Girls Football - Cluster CCA@ Yishun Secondary School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Band</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Basketball</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Choir</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Gymnastics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Dance</p>
+<p>Band
+<br>Choir
+<br>Dance
+<br>Drama (Chinese)
+<br>Drama (English)
+<br>Handbell Ensemble
+<br>String Ensemble</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Netball</p>
+<p><strong>Uniformed Groups</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Drama (Chinese)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Squash</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Drama (English)</p>
+<p><strong>Clubs and Societies</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tennis</p>
+<p>Girls' Brigade
+<br>Girl Guides
+<br>National Cadet Corps (NCC)
+<br>Red Cross</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Handbell Ensemble</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Hockey</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>String Ensemble</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Girls Football
-<br>Cluster CCA@ Yishun Secondary School</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Art Club
+<br>Debating Society
+<br>Infocomm Club (Robotics/Photography/Animation)
+<br>Science and Environment Club</p>
 </td>
 </tr>
 </tbody>
 </table>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Uniformed Groups</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Clubs and Societies</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Girls' Brigade</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Art Club</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Girl Guides</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Debating Society</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National Cadet Corps (NCC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Infocomm Club (Robotics/Photography/Animation)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Red Cross</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Science and Environment Club</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
 <p>
 <br>
 </p>
