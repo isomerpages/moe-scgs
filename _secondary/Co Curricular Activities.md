@@ -1,9 +1,8 @@
 ---
 title: Co Curricular Activities
-permalink: /co-curricular-activities/
+permalink: /scgs-education/secondary/co-curricular-activities/
 variant: tiptap
 description: ""
-third_nav_title: Departments
 ---
 <h2><strong>Co-curricular Activities (CCA) Programme</strong></h2>
 <p></p>
