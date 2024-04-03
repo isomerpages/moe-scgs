@@ -2,6 +2,7 @@ collections:
   secondary:
     output: true
     order:
+      - Co Curricular Activities.md
       - Departments/.keep
       - Departments/Aesthetics.md
       - Departments/Character and Citizenship Education.md
