@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Departments
 variant: markdown
 ---
-# **Physical Education & CCA**
+# **Physical Education**
 
 ![](/images/SCGS-PECCA-1.jpg)
 
