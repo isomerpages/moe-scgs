@@ -31,7 +31,7 @@ and Alumni in supporting and nurturing them throughout this milestone journey.</
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023_In_SynC_Achievements_Website.png">
 </div>
 <h2>Non-Academic Achievements</h2>
-<h3>2023</h3>
+<h4>2023</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023_In_SynC_Achievements_Website_2.png">
 </div>
