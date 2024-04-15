@@ -17,7 +17,7 @@ sections:
         - title: CONGRATULATIONS, CLASS OF 2023!
           description: GCE O-Level Examination
           url: https://scgs.moe.edu.sg/about-scgs/achievements/secondary/
-        - title: Honours Day 2024 - 8 April
-          description: Click here for livestream!
-          url: https://go.gov.sg/scgsshonoursday2024
+        - title: Direct School Admission 2024
+          description: (for entry into Sec 1 2025)
+          url: https://scgs.moe.edu.sg/prospective-students/secondary-admission/direct-school-admission/
 ---
