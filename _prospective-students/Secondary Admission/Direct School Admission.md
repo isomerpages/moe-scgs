@@ -7,8 +7,7 @@ variant: tiptap
 ---
 <p><strong>SCGS DIRECT SCHOOL ADMISSION EXERCISE 2024</strong> 
 <br>(For Admission into <u>Secondary 1 in Year 2025</u>)</p>
-<p><strong><u>DSA OPTIONS IN SCGS</u></strong>
-</p>
+<h4><strong><u>DSA OPTIONS IN SCGS</u></strong></h4>
 <p>Singapore Chinese Girls’ School is a dual-track school offering:</p>
 <ul>
 <li>
@@ -30,11 +29,9 @@ of our students. We offer admission through DSA into the following programmes:</
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/DSA_Talent_Areas.png">
 </div>
-<p><strong><u>OUR TALENT AREAS</u></strong>
-</p>
+<h4><strong><u>OUR TALENT AREAS</u></strong></h4>
 <p>We offer entry into SCGS through the following talents:&nbsp;</p>
-<p><strong>Leadership and Co-Curricular Activities</strong>
-</p>
+<h4><strong>Leadership and Co-Curricular Activities</strong></h4>
 <ol>
 <li>
 <p>Leadership</p>
@@ -79,8 +76,7 @@ of our students. We offer admission through DSA into the following programmes:</
 <p>Tennis</p>
 </li>
 </ol>
-<p><strong>Academic Talents</strong>
-</p>
+<h4><strong>Academic Talents</strong></h4>
 <ol start="15">
 <li>
 <p>Bilingualism</p>
