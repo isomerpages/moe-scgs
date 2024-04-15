@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Secondary Admission
 variant: tiptap
 ---
-<p><strong>SCGS DIRECT SCHOOL ADMISSION EXERCISE 2024</strong>
+<p><strong>SCGS DIRECT SCHOOL ADMISSION EXERCISE 2024</strong> 
 <br>(For Admission into <u>Secondary 1 in Year 2025</u>)</p>
 <p><strong><u>DSA OPTIONS IN SCGS</u></strong>
 </p>
