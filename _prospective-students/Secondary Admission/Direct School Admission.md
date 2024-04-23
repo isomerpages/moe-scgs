@@ -7,6 +7,12 @@ variant: tiptap
 ---
 <p><strong>SCGS DIRECT SCHOOL ADMISSION EXERCISE 2024</strong> 
 <br>(For Admission into <u>Secondary 1 in Year 2025</u>)</p>
+<h4><strong><u>DSA TALKS</u></strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_Talks_2024.jpg">
+</div>
+<p>Register for our DSA Talks here: <a href="https://go.gov.sg/2024dsaengagementregistration" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2024dsaengagementregistration</a>
+</p>
 <h4><strong><u>DSA OPTIONS IN SCGS</u></strong></h4>
 <p>Singapore Chinese Girls’ School is a dual-track school offering:</p>
 <ul>
