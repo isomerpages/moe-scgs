@@ -13,7 +13,7 @@ variant: tiptap
 </div>
 <p>Register for our DSA Talks here: <a href="https://go.gov.sg/2024dsaengagementregistration" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2024dsaengagementregistration</a>
 </p>
-<h4><br><strong><u>DSA OPTIONS IN SCGS</u></strong></h4>
+<h4><strong><u>DSA OPTIONS IN SCGS</u></strong></h4>
 <p>Singapore Chinese Girls’ School is a dual-track school offering:</p>
 <ul>
 <li>
