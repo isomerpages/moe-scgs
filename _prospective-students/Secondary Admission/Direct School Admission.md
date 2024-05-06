@@ -95,8 +95,8 @@ of our students. We offer admission through DSA into the following programmes:</
 </li>
 </ol>
 <h4><a href="https://sites.google.com/moe.edu.sg/scgs-dsa-talent-areas?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Visit our DSA Microsite!</a></h4>
-<h4><a href="/files/SCGS_DSA_Info_Sheet_2024__Final__.pdf" rel="noopener noreferrer nofollow" target="_blank">Download our Infosheet.</a></h4>
-<p></p>
+<h4><a href="/files/SCGS_DSA_Info_Sheet_2024__Final_v2_.pdf" rel="noopener noreferrer nofollow" target="_blank">Download our Infosheet</a></h4>
+<h4><a href="https://go.gov.sg/2024dsaengagementregistration" rel="noopener noreferrer nofollow" target="_blank">Register for our DSA Talks</a></h4>
 <p>
 <br>
 <br>
