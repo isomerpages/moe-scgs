@@ -17,7 +17,11 @@ and foster special talents such as leadership and offer enrichment opportunities
 foster creativity and a sense of camaraderie.</p>
 <p></p>
 <h4><strong>CCA Offerings in SCGS</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
