@@ -19,7 +19,7 @@ At SCGS, our Desired Outcomes of Education (DOE) inform the development of NDLP 
 ![](/images/Getting-our-Kim-Gek-future-ready.jpg)
 _Illustrations by Melissa Tan_
 
-![](/images/NDLP_Overview.jpg)
+![](/images/NDLP_Overview_2024.jpg)
 
 **Guidelines for Acceptable Use of Personal Learning Device (PLD) at SCGS**
 
