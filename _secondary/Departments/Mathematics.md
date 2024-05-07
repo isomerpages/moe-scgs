@@ -13,7 +13,7 @@ variant: markdown
 
 Mathematics, the language of nature, is a versatile tool that transcends different aspects of everyday life. Present in the environment around us, and employed in the study of various subjects such as economics, science and engineering, the learning of Mathematics involves an understanding of logical thinking and general problem solving strategies. It involves observing and investigating patterns and relationships in social and physical phenomena.
 
-<img src="/images/Sec_Mathematics_2.jpg" style="width:798px;height:600px;" align="center">
+<img src="/images/Sec_Mathematics_2.jpg" style="width:662px;height:498px;" align="center">
 
 ### Programme:
 
