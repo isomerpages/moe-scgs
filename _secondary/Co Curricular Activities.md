@@ -82,4 +82,5 @@ foster creativity and a sense of camaraderie.</p>
 CCA Schedule 2024
 <br>Click <a href="https://www.scgs.moe.edu.sg/files/leaps-2_School-website.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 view LEAPS 2.0 Grading System
-<br>Click here to view the DSA Offerings (Available in April 2024)</p>
+<br>Click <a href="https://www.scgs.moe.edu.sg/prospective-students/secondary-admission/direct-school-admission/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+view the DSA Offerings</p>
