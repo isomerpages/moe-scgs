@@ -18,7 +18,7 @@ of logical thinking and general problem solving strategies. It involves
 observing and investigating patterns and relationships in social and physical
 phenomena.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec_Mathematics_2.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Sec_Mathematics_2.jpg">
 </div>
 <h3>Programme:</h3>
 <p>SCGS values Mathematics as not only an essential academic subject, but
