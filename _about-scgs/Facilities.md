@@ -2,6 +2,7 @@
 title: Facilities
 permalink: /about-scgs/facilities/
 description: ""
+variant: markdown
 ---
 # **Facilities**
 
@@ -17,7 +18,7 @@ For booking enquiries, please email to [scgss@moe.edu.sg](mailto:scgss@moe.edu.
 
 **Lecture Theatre**
 
-![](/images/20201023_070014.jpg)
+![Lecture Theatre](/images/Lecture_Theatre_web.jpg)
 
 The intellectual cousin to the Shaw Hall Grand Dame, the Lecture Theatre is an excellent choice venue to engage your audience. With his efficacious design, the Lecture Theatre’s pitched floor maximises this instruction space for all. With a maximum capacity of 300 pax, the elevated seating is finished with carpeted flooring. Acoustically treated with beautiful panels on the walls and ceiling, this learning space provides optimum sound to draw your audience.
 
