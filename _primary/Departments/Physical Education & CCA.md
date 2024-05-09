@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Departments
 variant: markdown
 ---
-# **Physical Education &amp; CCA**
+# **Physical Education **
 
 ![](/images/0042%20(1).jpg)
 
@@ -40,4 +40,3 @@ Through Physical Sports, the&nbsp;students develop&nbsp;resilience, fair play an
 
 **CCA Schedule**&nbsp;<br>
 Click [here](https://www.scgs.moe.edu.sg/files/2024_scgs_primary_cca_schedule.pdf) for more information.
-
