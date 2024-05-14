@@ -12,10 +12,14 @@ variant: markdown
 
 ### Philosophy:
 
-SCGS believes in helping our students develop healthy habits for life. We recognise the value of Physical Education in a well-rounded education – we aim to impart knowledge on health and fitness, and to develop mental acuity through a better appreciation and understanding of games. Our Physical Education Programme is also focused on developing teamwork amongst the students.
+Physical Education is an integral component of Singapore’s school curriculum to develop students holistically. By emphasising the importance of movement, and an individual’s interaction with the environment, it seeks to develop the whole child to bring about a nation of physically competent and confident individuals who enjoy a lifetime of active and healthy living safely and responsibly.
 
 ### Programme:
 
-We advocate a holistic and inter-disciplinary approach to learning. This is achieved through our broad-based P.E. curriculum which caters to students of different abilities and interests. Our lessons educate the students on healthy living and sports and expose them to a wide selection of fundamental movement, modified games, as well as ballet, Chinese dance and Jazz.
+SCGS advocates a holistic and inter-disciplinary approach to learning. This is achieved through our broad-based PE curriculum which caters to students of different abilities and interests. Our lessons educate the students on developing movement competencies which facilitates participating in physical activities through which the individual discovers the joy of movement, learns about themselves and their bodies, and develops the physical, cognitive and affective competencies that will contribute to their lifelong well-being.
 
-Cultivating a strong sense of camaraderie has always been the focus of Physical Education in SCGS. Inter-class games and friendly competitions serve to foster strong bonds among the students. Through P.E. at SCGS, students are not only developed physically but also learn to lead and support the people around them.
+Meaningful and authentic learning experiences in school prepare the individual to contribute to the community and adapt to different life contexts. The Physical Education syllabus recognises the importance of providing students with real-life contexts through interaction with the environment that strengthen their learning and enable them to apply the skills, knowledge, practices and values to lead an active and healthy lifestyle.
+
+We also aim to instill core values to our students through our programme where students make informed and responsible decisions with regard to personal behaviour and social interactions based on sound values-based judgements.
+
+       
