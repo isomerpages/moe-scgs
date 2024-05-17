@@ -11,7 +11,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_Talks_2024.jpg">
 </div>
-<p>Register for our DSA Talks here: <a href="https://go.gov.sg/2024dsaengagementregistration" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2024dsaengagementregistration</a>
+<p>Register for our DSA Talks via Zoom here: <a href="https://go.gov.sg/2024dsaengagementregistration" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2024dsaengagementregistration</a>
 </p>
 <h4><strong><u>DSA OPTIONS IN SCGS</u></strong></h4>
 <p>Singapore Chinese Girls’ School is a dual-track school offering:</p>
