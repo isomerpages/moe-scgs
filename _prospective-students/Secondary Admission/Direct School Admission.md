@@ -11,7 +11,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_Talks_2024.jpg">
 </div>
-<p>Register for our DSA Talks via Zoom here: <a href="https://go.gov.sg/2024dsaengagementregistration" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2024dsaengagementregistration</a>
+<p>Register for our DSA Talks via Zoom here: <a href="https://go.gov.sg/2024dsaengagementregistration" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2024dsaengagementregistration</a> 
 <br>
 <br>Topic: SCGS DSA Talk - 9am
 <br>Time: May 18, 2024 09:00 AM Singapore
