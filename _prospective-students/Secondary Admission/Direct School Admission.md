@@ -12,7 +12,20 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_Talks_2024.jpg">
 </div>
 <p>Register for our DSA Talks via Zoom here: <a href="https://go.gov.sg/2024dsaengagementregistration" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2024dsaengagementregistration</a>
-</p>
+<br>
+<br>Topic: SCGS DSA Talk - 9am
+<br>Time: May 18, 2024 09:00 AM Singapore
+<br>Join Zoom Meeting
+<br><a href="https://www.google.com/url?q=https://moe-singapore.zoom.us/j/81808066678&amp;amp;sa=D&amp;amp;source=editors&amp;amp;ust=1715994914861134&amp;amp;usg=AOvVaw3RzaxG6PCWxlSeBaFhsb21" rel="noopener noreferrer nofollow" target="_blank">https://moe-singapore.zoom.us/j/81808066678<br>Meeting</a> ID:
+818 0806 6678
+<br>Passcode: SCGS2024
+<br>
+<br>Topic: SCGS DSA Talk - 11.15am
+<br>Time: May 18, 2024 11:15 AM Singapore
+<br>Join Zoom Meeting
+<br><a href="https://www.google.com/url?q=https://moe-singapore.zoom.us/j/81808066678&amp;amp;sa=D&amp;amp;source=editors&amp;amp;ust=1715994914861134&amp;amp;usg=AOvVaw3RzaxG6PCWxlSeBaFhsb21" rel="noopener noreferrer nofollow" target="_blank">https://moe-singapore.zoom.us/j/89707145813<br>Meeting</a> ID:
+897 0714 5813
+<br>Passcode: SCGS2024</p>
 <h4><strong><u>DSA OPTIONS IN SCGS</u></strong></h4>
 <p>Singapore Chinese Girls’ School is a dual-track school offering:</p>
 <ul>
