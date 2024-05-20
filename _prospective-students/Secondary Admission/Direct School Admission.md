@@ -7,25 +7,6 @@ variant: tiptap
 ---
 <p><strong>SCGS DIRECT SCHOOL ADMISSION EXERCISE 2024</strong> 
 <br>(For Admission into <u>Secondary 1 in Year 2025</u>)</p>
-<h4><strong><u>DSA TALKS</u></strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_Talks_2024.jpg">
-</div>
-<p>Register for our DSA Talks via Zoom here: <a href="https://go.gov.sg/2024dsaengagementregistration" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2024dsaengagementregistration</a> 
-<br>
-<br>Topic: SCGS DSA Talk - 9am
-<br>Time: May 18, 2024 09:00 AM Singapore
-<br>Join Zoom Meeting
-<br><a href="https://www.google.com/url?q=https://moe-singapore.zoom.us/j/81808066678&amp;amp;sa=D&amp;amp;source=editors&amp;amp;ust=1715994914861134&amp;amp;usg=AOvVaw3RzaxG6PCWxlSeBaFhsb21" rel="noopener noreferrer nofollow" target="_blank">https://moe-singapore.zoom.us/j/81808066678<br>Meeting</a> ID:
-818 0806 6678
-<br>Passcode: SCGS2024
-<br>
-<br>Topic: SCGS DSA Talk - 11.15am
-<br>Time: May 18, 2024 11:15 AM Singapore
-<br>Join Zoom Meeting
-<br><a href="https://www.google.com/url?q=https://moe-singapore.zoom.us/j/81808066678&amp;amp;sa=D&amp;amp;source=editors&amp;amp;ust=1715994914861134&amp;amp;usg=AOvVaw3RzaxG6PCWxlSeBaFhsb21" rel="noopener noreferrer nofollow" target="_blank">https://moe-singapore.zoom.us/j/89707145813<br>Meeting</a> ID:
-897 0714 5813
-<br>Passcode: SCGS2024</p>
 <h4><strong><u>DSA OPTIONS IN SCGS</u></strong></h4>
 <p>Singapore Chinese Girls’ School is a dual-track school offering:</p>
 <ul>
@@ -108,11 +89,6 @@ of our students. We offer admission through DSA into the following programmes:</
 </li>
 </ol>
 <h4><a href="https://sites.google.com/moe.edu.sg/scgs-dsa-talent-areas?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Visit our DSA Microsite!</a></h4>
-<h4><a href="/files/SCGS_DSA_Info_Sheet_2024__Final_v2_.pdf" rel="noopener noreferrer nofollow" target="_blank">Download our Infosheet</a></h4>
-<h4><a href="https://go.gov.sg/2024dsaengagementregistration" rel="noopener noreferrer nofollow" target="_blank">Register for our DSA Talks</a></h4>
-<p>
-<br>
-<br>
-</p>
+<h4><a href="/files/SCGS_DSA_Info_Sheet_2024__Final_v2_.pdf" rel="noopener noreferrer nofollow" target="_blank">Download our Infosheet</a><br><br></h4>
 <h3><br></h3>
 <p></p>
