@@ -124,18 +124,6 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:woon_li_rong_cindy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Cindy Liao</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English Language</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:tan_cailing_corinna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Corinna Tan</a>
 </p>
 </td>
