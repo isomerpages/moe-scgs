@@ -6,7 +6,11 @@ third_nav_title: Primary
 variant: tiptap
 ---
 <h1><strong>Executive &amp; Administrative Staff</strong></h1>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -63,7 +67,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:rajanthran_jayaraman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Rajanthran Jayaraman</a>
+<p><a href="mailto:zailani_ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Zailani</a>
 </p>
 </td>
 </tr>
