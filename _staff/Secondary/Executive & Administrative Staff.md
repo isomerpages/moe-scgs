@@ -5,7 +5,11 @@ description: ""
 third_nav_title: Secondary
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -70,8 +74,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:koh_bee_lian_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Koh Bee Lian</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -90,8 +93,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ee_chwee_ming_elaine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Elaine Tan</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
