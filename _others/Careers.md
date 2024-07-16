@@ -12,7 +12,8 @@ and relevance. We offer both GCE O-Level and Integrated Programmes.</p>
 </blockquote>
 <p>We are currently looking for Education Officers to fill up the Mathematics
 Teacher position in the Mathematics Department.</p>
-<p>Key Areas of Responsibilities</p>
+<p><strong><u>Key Areas of Responsibilities</u></strong>
+</p>
 <p>• Plan for and conduct Mathematics lessons</p>
 <p>• Form Teachership and CCA duties</p>
 <p>• Monitor and evaluate the progress and overall development of the students</p>
@@ -39,6 +40,35 @@ and team spirit</p>
 shall commensurate with qualification and experience.</p>
 <p>Interested candidates are invited to email your resume to <a href="mailto:Rachel_lim_hui_tin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Rachel_lim_hui_tin@moe.edu.sg</a>.
 Only shortlisted candidates will be notified.</p>
+<p></p>
+<p>We are currently looking for Education Officers to fill up the Science
+Teacher position in the Science Department.</p>
+<p><strong><u>Key Responsibilities</u></strong>
+</p>
+<p>• Plan and conduct lessons</p>
+<p>• Monitor and evaluate the progress and overall development of the students</p>
+<p>• Keep up with the developments of the subject area, new resources, pedagogies
+and assessment</p>
+<p>• Teach, inspire and motivate students according to their individual pace
+and aspirations to their fullest potential</p>
+<p>• Develop strong moral fibre and integrity among our students</p>
+<p><strong><u>Requirements</u></strong>
+</p>
+<p>• Recognised Degree or professional qualification in the chosen or related
+discipline</p>
+<p>• Formal teaching qualifications such as NIE Diploma will be an advantage</p>
+<p>• At least 3 years of teaching experience at the Secondary level</p>
+<p>• Strong passion for helping students develop as confident and purposeful
+individuals</p>
+<p>• Strong sense of integrity, personal drive and initiative, commitment
+and team spirit</p>
+<p>• Caring, responsible, driven and innovative</p>
+<p>Successful candidates will be offered contract employment. Remuneration
+shall commensurate with qualification and experience.</p>
+<p></p>
+<p>Interested candidates are invited to email your resume to <a href="mailto:Rachel_lim_hui_tin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Rachel_lim_hui_tin@moe.edu.sg</a>.
+Only shortlisted candidates will be notified.</p>
+<p></p>
 <p></p>
 <p></p>
 <blockquote>
