@@ -71,8 +71,3 @@ Only shortlisted candidates will be notified.</p>
 <p></p>
 <p></p>
 <p></p>
-<blockquote>
-<p>*Please email your resume to : <a href="mailto:recruitment@scgs.edu.sg" rel="noopener noreferrer nofollow" target="_blank">recruitment@scgs.edu.sg</a>
-</p>
-</blockquote>
-<p></p>
