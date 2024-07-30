@@ -74,7 +74,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:chew_chee_young_christopher@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Christopher Chew</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -93,7 +94,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:kelvin_tan_chin_wee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Kelvin Tan</a>
+</p>
 </td>
 </tr>
 <tr>
