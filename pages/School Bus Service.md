@@ -13,3 +13,4 @@ Singapore 188976<br>
 Kindly contact Ms Jeccy at HP : 9090-9277 if you have queries.
 
 [School Bus Service Request Form](/files/school_bus_services_request_form.pdf)<br>
+[School Bus Fare (Up to 6km)](/files/school_bus_operator_and_nte_price.pdf)<br><br>
