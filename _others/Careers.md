@@ -38,7 +38,7 @@ and team spirit</p>
 <p>• Caring, responsible, driven and innovative</p>
 <p></p>
 <p></p>
-<p><strong><u>We are currently looking for Education Officers to fill up the Science Teacher position in the Science Department.</u></strong>
+<p><strong><u>We are currently looking for Education Officers to fill up the Science Chemistry Teacher position in the Science Department.</u></strong>
 </p>
 <p><strong>Key Responsibilities</strong>
 </p>
@@ -75,7 +75,7 @@ to their fullest potential</p>
 <p>• Develop strong moral fibre and integrity among our students</p>
 <p>• Take on roles in form teachership, co-curricular activity and committee
 as assigned by the school.</p>
-<p><strong>Requirements </strong>
+<p><strong>Requirements</strong>
 </p>
 <p>• Recognised Degree or professional qualification in the chosen or related
 discipline</p>
