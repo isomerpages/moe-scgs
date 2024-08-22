@@ -38,7 +38,7 @@ and team spirit</p>
 <p>• Caring, responsible, driven and innovative</p>
 <p></p>
 <p></p>
-<p><strong><u>We are currently looking for Education Officers to fill up the Science Chemistry Teacher position in the Science Department.</u></strong>
+<p><strong><u>We are currently looking for Education Officers to fill up the Chemistry Teacher position in the Science Department.</u></strong>
 </p>
 <p><strong>Key Responsibilities</strong>
 </p>
