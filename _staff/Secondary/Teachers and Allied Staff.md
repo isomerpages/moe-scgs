@@ -6,7 +6,12 @@ third_nav_title: Secondary
 variant: tiptap
 ---
 <h1><strong>Teachers and Allied Staff</strong></h1>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -292,7 +297,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yeoh_wah_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Jace Yeoh Wah Ping</a>
+<p><a href="mailto:jace_yeoh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Jace Yeoh Wah Ping</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
