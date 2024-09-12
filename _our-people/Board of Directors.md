@@ -2,6 +2,7 @@
 title: Board of Directors
 permalink: /our-people/board-of-directors/
 description: ""
+variant: markdown
 ---
 # **Board of Directors**
 
@@ -18,4 +19,4 @@ description: ""
 ### **Members:**
 
 ![](/images/bod-1%20copy.jpg)
-![](/images/BOD-2.jpg)
+![](/images/BOD_2_copy.jpg)
