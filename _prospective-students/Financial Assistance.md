@@ -34,7 +34,7 @@ form at our General Office.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Complete the <em><a href="https://www.scgs.moe.edu.sg/files/Appendix_B1___MOE_ISB_Application_Form_2024_final.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE ISB application form</a> </em>and
+<p>Complete the<em> </em><a href="/files/Appendix_B1___MOE_ISB_Application_Form_2025.pdf" rel="noopener nofollow" target="_blank">MOE ISB application form</a> and
 submit the completed form with relevant documents via email to <a href="mailto:scgss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">scgss@moe.edu.sg</a> or
 hardcopy to our General Office. You may also collect a copy of the application
 form at our General Office.</p>
