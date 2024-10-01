@@ -2,6 +2,6 @@ collections:
   others:
     output: true
     order:
-      - School Canteen Advertisement.md
       - Careers.md
+      - School Canteen Advertisement.md
       - Useful Links.md
