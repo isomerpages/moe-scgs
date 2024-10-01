@@ -128,7 +128,7 @@ Programme (HMSP)” guidelines (see&nbsp;<a href="https://www.hpb.gov.sg/schools
 <ul data-tight="true" class="tight">
 <li>
 <p>Successful applicant and stall assistant(s) must possess the WSQ Food
-Safety Course (FSC) Level 1Certificate.</p>
+Safety Course (FSC) Level 1 Certificate.</p>
 </li>
 <li>
 <p>Possess catering experience or experience operating in a school environment.</p>
