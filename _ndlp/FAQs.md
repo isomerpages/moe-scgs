@@ -34,7 +34,7 @@ To identify your iPad Model, Go to Settings > General > About. To the right of M
 
 **Q2. Will my child/ward need to purchase software for their devices? If so, can these be paid for with Edusave?**
 
-To support the development of digital literacy, MOE has rolled out the following applications in the Personal Learning Devices in 2021: Google Suite for Education, Microsoft Office productivity suite which includes Word, Excel, Powerpoint, OneNote & Publisher, and Zoom. Students do not have to pay for these. As part of the on-boarding process, students will be guided on how to access these systems.
+To support the development of digital literacy, MOE has rolled out the following applications in the Personal Learning Devices in 2021: Google Suite for Education, Microsoft Office productivity suite which includes Word, Excel, Powerpoint, OneNote and Publisher. Students do not have to pay for these. As part of the on-boarding process, students will be guided on how to access these systems.
 
 **Q3.** **Can my child/ward share one device with her sibling/s who is/are also from SCGS?** 
 
