@@ -11,11 +11,11 @@ variant: markdown
 Every student is required to have a device for teaching and learning purposes and is encouraged to purchase one through the school via MOE’s bulk tender. Students are encouraged to use the device model prescribed by the school, as the uniformity of systems and software would ensure a smooth learning experience for everyone. The device purchased through the school will come with the necessary warranty and insurance as well.
 
 The following devices are recommended for NDLP:
-*   12.9-inch iPad Pro (4th generation) and later
-*   11-inch iPad Pro (2nd generation) and later
-*   iPad (8th generation) and later
-*   iPad mini (6th generation) and later
-*   iPad Air (5th generation) and later
+*   12.9-inch iPad Pro (5th generation) and later
+*   11-inch iPad Pro (3rd generation) and later
+*   iPad (9th generation) and later
+*   iPad mini (7th generation) and later
+*   iPad Air (6th generation) and later
 
 If a student has an existing device from the above list of compatible iPad Devices, please bring the device to school and let the school ascertain its compatibility with the DMA and Apple Pencil (1st Gen and above). Please note that the device will need to be dedicated for learning and will be installed with a Device Application Management (DMA) software to manage the student’s access and usage. The device will need to be fully erased and activation lock removed before the DMA software can be installed.
 
@@ -24,12 +24,12 @@ To identify your iPad Model, Go to Settings > General > About. To the right of M
 ![About Page](/images/WhatsApp_Image_2024_01_11_at_4_40_06_PM.jpeg)
 
 &#42; Note that whilst the following iPad models are still compatible with the DMA, they may no longer be compatible in the near future (2025 onwards). Hence, we do not recommend using the following models even though they are currently compatible with the DMA:
-*   iPad Pro 12.9-inch (2nd generation) (2017)
-*   iPad Pro 9.7-inch (2016)
-*   iPad Pro 10.5-inch (2017)
-*   iPad Pro 12.9-inch (3rd generation) (2018)
-*   iPad Air (3rd generation) (2019)
-*   iPad (7th generation) (2019)
+*   iPad Pro 12.9-inch (3rd generation) (2017)
+*   iPad Pro 9.7-inch (2017)
+*   iPad Pro 10.5-inch (2018)
+*   iPad Pro 12.9-inch (4th generation) (2020)
+*   iPad Air (4th generation) (2020)
+*   iPad (8th generation) (2020)
 
 
 **Q2. Will my child/ward need to purchase software for their devices? If so, can these be paid for with Edusave?**
@@ -102,4 +102,4 @@ The school will uninstall the device management applications (DMA) from the devi
 
 **For more information please email us at [scgss@moe.edu.sg](mailto:scgss@moe.edu.sg)**
 
-Updated as of 12 January 2024
+Updated as of 28 October 2024
