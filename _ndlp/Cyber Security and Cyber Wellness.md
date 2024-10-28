@@ -22,8 +22,11 @@ The DMA has a variety of functions that will support the use of the PLD in the c
 *   Restrict apps and websites accessible
 *   Manage screen time
 
-Notwithstanding the benefits of the security software, there are some parents who have asked for some flexibilities in the implementation, including to disable the software after school hours. MOE’s objectives are focused on the school environment, and on ensuring good teaching and learning outcomes in school. Hence, we will exercise flexibility, and give parents and students greater say on how they wish to use the software after school hours. This will include options to customise their own settings at home, or to turn off the software if they so prefer. MOE will provide more details on these arrangements as we progressively roll out the PLDs across all secondary schools.
+With a DMA, our students can be better supported in their use of technology to enhance their learning in a safe and effective digital learning environment, both in school and at home. 
 
+While the DMA helps manage students’ use of PLDs and promotes cyber wellness, schools and parents need to continue working together in teaching our students’ good digital habits and develop self-regulation skills to ensure devices are used safely and responsibly both during school and after- school hours.
+
+[Resources to Support Parents](/files/Resources_to_Support_Parents.pdf)
 
 ### **Cyber Wellness Education** 
 
