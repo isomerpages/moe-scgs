@@ -27,9 +27,6 @@ guided our Kim Geks. Our team of dedicated and committed teaching and non-teachi
 staff have guided and supported them with much care and love. We also deeply
 appreciate the unwavering partnership of our parents, Board of Directors
 and Alumni in supporting and nurturing them throughout this milestone journey.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023_In_SynC_Achievements_Website.png">
-</div>
 <h2>Non-Academic Achievements</h2>
 <h4>2024</h4>
 <div class="isomer-image-wrapper">
