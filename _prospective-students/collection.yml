@@ -2,6 +2,7 @@ collections:
   prospective-students:
     output: true
     order:
+      - Open House 2024.md
       - Primary Admission/.keep
       - Primary Admission/Admission Procedures.md
       - Primary Admission/Parent Volunteer.md
