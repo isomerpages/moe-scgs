@@ -13,4 +13,10 @@ sections:
       background: /images/scgs.gif
       button: Contact Us
       url: /contact-us/
+  - infobar:
+      title: Open House 2024
+      id: infobar
+      description: 16 November, 9am to 1pm
+      button: Click for more info
+      url: /open-house-2024/
 ---

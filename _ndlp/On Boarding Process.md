@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h1><strong>On-Boarding Process</strong></h1>
-<p>As part of NDLP, the school will be making arrangements for 2024 Secondary
+<p>As part of NDLP, the school will be making arrangements for 2025 Secondary
 One students to purchase their Personal Learning Device (PLD) by the first
 Semester.</p>
 <p></p>
