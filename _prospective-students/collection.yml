@@ -2,7 +2,6 @@ collections:
   prospective-students:
     output: true
     order:
-      - Open House 2024.md
       - Primary Admission/.keep
       - Primary Admission/Admission Procedures.md
       - Primary Admission/Parent Volunteer.md
@@ -12,3 +11,4 @@ collections:
       - Fees.md
       - Scholarships.md
       - Financial Assistance.md
+      - Open House 2024.md
