@@ -17,7 +17,7 @@ Admission into SCGS can be gained through:
 
 **1. Admission through the Secondary One Posting Exercise**
 
-For 2024 admission, eligible students who have sat for the PSLE in 2023 will receive a Secondary 1 Option Form during the collection of PSLE Results. Our school codes are:
+For 2025 admission, eligible students who have sat for the PSLE in 2024 will receive a Secondary 1 Option Form during the collection of PSLE Results. Our school codes are:
 
 Integrated Programme: 9132
 
@@ -57,7 +57,7 @@ If you have accepted an offer from SCGS, you will receive a registration link on
 
 **3\. Admission Tests**
 
-These are usually conducted in November of the year prior to admission for entry in January. Special arrangements may be made for Returning Singaporeans on a case by case basis.
+These are usually conducted in November of the year prior to admission for entry in January. 
 
 **ADMISSION TESTS FOR 2024 JANUARY ENROLMENT**
 
@@ -66,12 +66,12 @@ We wish to announce the start of Applications for Admission Tests 2024 for admis
 |  	|  	|
 |---	|---	|
 | Closing Date: 	| Friday 11 October 2024, 5.00pm 	|
-| Date of Test: 	| TBC	|
-| Time of Test: 	| TBC	|
+| Date of Test: 	| Monday 4 November	|
+| Time of Test: 	| 8am - 2pm	|
 
 This admission exercise is only open to the following levels and Programmes:
 
-*   2025 Secondary 1 (O-Level Programme or Integrated Programme)\* (\*Only Returning Singaporeans who did not take the PSLE are eligible for admission into Secondary 1 through these tests.)
+*   2025 Secondary 1 (SEC Programme)\* (\*Only Returning Singaporeans who did not take the PSLE are eligible for admission into Secondary 1 through these tests.)
 *   2025 Secondary 2 (O-Level Programme)
 *   2025 Secondary 3 (O-Level Programme or Integrated Programme)
 
@@ -80,16 +80,6 @@ The school does not accept new students for entry to Secondary 4.
 Students applying for admission will be assess on their English, Mathematics and Science. Do note that Physics, Chemistry and Biology will be tested for Science.
 
 Students seeking admission into SCGS need to complete and submit the **APPLICATION FOR ENTRY FOR SECONDARY SCHOOL** form which can be [downloaded](/files/3__Sch_Application_Form_2024_Edited_Updated_15_Feb_2024.pdf) from this site. 
-
-Important Note:
-
-Students admitted to schools through the DSA-Sec Exercise and International Students admitted to local schools through AEIS are not eligible for entry through this Admission Test.
-
-Students who are interested in seeking admission are to send their completed forms and supporting documents to the school by Friday 11 October 2024, 5.00pm.
-
-The date for the Admission Tests will be confirmed at a later date.
-
-Details regarding the admission test and test fees will be advised through a separate email.
 
 **Secondary 1**
 
