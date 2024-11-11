@@ -10,6 +10,10 @@ variant: markdown
 <div class="isomer-image-wrapper">
 <img style="width:225px;height:300px;margin-left:15px;" height="auto" width="100%" src="/images/Student-3-225x300.jpg">
 </div>
+
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Sec_Mathematics_2.jpg">
+</div>
 <p>Mathematics, the language of nature, is a versatile tool that transcends
 different aspects of everyday life. Present in the environment around us,
 and employed in the study of various subjects such as economics, science
@@ -17,9 +21,7 @@ and engineering, the learning of Mathematics involves an understanding
 of logical thinking and general problem solving strategies. It involves
 observing and investigating patterns and relationships in social and physical
 phenomena.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Sec_Mathematics_2.jpg">
-</div>
+
 <h3>Programme:</h3>
 <p>SCGS values Mathematics as not only an essential academic subject, but
 also an important vehicle through which the mind can be stretched, and
