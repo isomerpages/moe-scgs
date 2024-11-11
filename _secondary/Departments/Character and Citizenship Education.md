@@ -13,11 +13,11 @@ In SCGS, we believe in the holistic development of a child. We nurture students 
 
 ### Programmes:
 
-Our key programmes include Values In Action, Overseas Learning Journey (Beyond Borders), Education and Career Guidance, Work Experience Programme, National Education, Outdoor Education Week, MOE-OBS Challenge Programme and [Sexuality Education](/files/2024_MOE_Sexuality_Education_in_SCGS_Information_to_Parents.pdf). Through their involvement in Values in Action projects and the Overseas Learning Journey, students develop knowledge, cultural intelligence and skills in in communicating with the public, interacting with people in different cultural contexts, and planning relevant and meaningful activities for the beneficiaries while developing empathy for others. Our students also learn to understand situations from a wider perspective and play an active role in contributing to society. A significant component of the school experience, which allows our students to benefit from and apply their learning from a values-driven education, is in their [Co-curricular Activities (CCA)](/scgs-education/secondary/secondary-division/physical-educationcca/).
+Our key programmes include Values In Action, Overseas Learning Journey (Beyond Borders), Education and Career Guidance, Work Experience Programme, National Education, Outdoor Education Week, MOE-OBS Challenge Programme and&nbsp;[Sexuality Education](/files/2024_MOE_Sexuality_Education_in_SCGS_Information_to_Parents.pdf). Through their involvement in Values in Action projects and the Overseas Learning Journey, students develop knowledge, cultural intelligence and skills in in communicating with the public, interacting with people in different cultural contexts, and planning relevant and meaningful activities for the beneficiaries while developing empathy for others. Our students also learn to understand situations from a wider perspective and play an active role in contributing to society. A significant component of the school experience, which allows our students to benefit from and apply their learning from a values-driven education, is in their&nbsp;[Co-curricular Activities (CCA)](/scgs-education/secondary/secondary-division/physical-educationcca/).
 
 Our Work Experience Programme provides an opportunity for Secondary 3 students to be attached to well-established private/ multinational companies or government statutory boards for a short work experience stint. The objectives of this programme are to instill the right work values in our students as they learn to demonstrate a strong work ethic, and to equip them with some knowledge of their selected industry or area of work.
 
-National Education focuses on the understanding of our roles as citizens of a country and the demonstration of a commitment to the Total Defence of Singapore.  Speakers are invited to share their perspectives on current issues in order to raise our students’ awareness of global issues and the need to make responsible decisions that contribute to Singapore’s wellbeing and security.
+National Education focuses on the understanding of our roles as citizens of a country and the demonstration of a commitment to the Total Defence of Singapore.&nbsp; Speakers are invited to share their perspectives on current issues in order to raise our students’ awareness of global issues and the need to make responsible decisions that contribute to Singapore’s wellbeing and security.
 
 Through the Overseas Learning Journey (Beyond Borders), we hope our students will develop a regional outlook by connecting with the history and culture of our ASEAN neighbours, while also strengthening their adaptive thinking, problem-solving skills and resilience.
 
@@ -27,9 +27,7 @@ A school programme which our students look forward to every year is the Outdoor 
 | 	| Secondary 1 	| Secondary 2 	| Secondary 3 	| Secondary 4 	|
 |---	|---	|---	|---	|---	|
 | CCE Outcome 	| Confident Kim Gek who demonstrates pride in her identity 	| Concerned Kim Gek who demonstrates empathy towards her community 	| Self-directed Kim Gek who demonstrates responsible decision making for the community 	| Active Kim Gek who serves and contributes to the nation 	|
-| Programme 	| Sec 1 Camp 	| Battlefield Study Tour 	| Leadership Course
-Class- initiated Values in Action 	| Self-Management Course
-Class- initiated Values in Action 	|
+| Programme 	| Sec 1 Camp 	| Battlefield Study Tour 	| Leadership Course <br> Class- initiated Values in Action 	| Self-Management Course <br> Class- initiated Values in Action 	|
 
 
 -------------------------------------------------------------------------
@@ -53,7 +51,7 @@ Class- initiated Values in Action 	|
 
 -------------------------------------------------------------------------
 
-**Outdoor Education Week** 
+**Outdoor Education Week**&nbsp;
 
 Secondary 1 Camp
 
