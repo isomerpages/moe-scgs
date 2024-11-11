@@ -49,8 +49,7 @@ Class- initiated Values in Action 	|
 
 **Overseas Learning Journey (Beyond Borders)**
 
-![](/images/CCE-3.jpg)
-
+![](/images/Overseas_Learning_Journey.jpg)
 
 -------------------------------------------------------------------------
 
@@ -58,13 +57,13 @@ Class- initiated Values in Action 	|
 
 Secondary 1 Camp
 
-![](/images/CCE-4.jpg)
+![](/images/Sec_1_camp_CCE.jpg)
 
 -------------------------------------------------------------------------
 
 Secondary 2 Battlefield Study Tour
 
-![](/images/CCE-5.jpg)
+![](/images/Sec_2_battlefield_CCE.jpg)
 
 -------------------------------------------------------------------------
 
