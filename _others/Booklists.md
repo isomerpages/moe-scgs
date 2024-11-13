@@ -7,10 +7,10 @@ description: ""
 <h3>BOOKLIST – SECONDARY (Updated for Year 2025)</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Secondary 1 (IP) Booklist</p>
+<p>Secondary 1 (IP) Booklist*</p>
 </li>
 <li>
-<p>Secondary 1 (SEC) Booklist</p>
+<p>Secondary 1 (SEC) Booklist*</p>
 </li>
 <li>
 <p><a href="/files/Booklists/2025_Booklist_S2__IP_.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 (IP) Booklist</a>
