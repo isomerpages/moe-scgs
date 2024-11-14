@@ -7,28 +7,22 @@ description: ""
 <h3>BOOKLIST – PRIMARY (Updated for Year 2025)</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Booklists/2025_Booklist_S2__IP_.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 1 Booklist</a>
-</p>
+<p>Primary 1 Booklist</p>
 </li>
 <li>
-<p><a href="/files/Booklists/2025_Booklist_S2__IP_.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 2 Booklist</a>
-</p>
+<p>Primary 2 Booklist</p>
 </li>
 <li>
-<p><a href="/files/Booklists/2025_Booklist_S2__IP_.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 3 Booklist</a>
-</p>
+<p>Primary 3 Booklist</p>
 </li>
 <li>
-<p><a href="/files/Booklists/2025_Booklist_S2__IP_.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 4 Booklist</a>
-</p>
+<p>Primary 4 Booklist</p>
 </li>
 <li>
-<p><a href="/files/Booklists/2025_Booklist_S2__IP_.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5 Booklist</a>
-</p>
+<p>Primary 5 Booklist</p>
 </li>
 <li>
-<p><a href="/files/Booklists/2025_Booklist_S2__IP_.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 6 Booklist</a>
-</p>
+<p>Primary 6 Booklist</p>
 </li>
 </ul>
 <p></p>
