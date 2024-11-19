@@ -4,32 +4,6 @@ permalink: /open-house-2024/
 variant: tiptap
 description: ""
 ---
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SCGS_2023_SCHEDULE__latest_.png">
-</div>
-<p>We warmly invite Primary 5 and 6 girls and parents to explore the vibrant
-community at Singapore Chinese Girls' School (SCGS) during our Open House
-Day. This is an excellent opportunity to discover the distinctive education
-that our secondary school has to offer.</p>
-<p>Come…</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Engage with Our Community: Meet teachers and students who will share their
-experiences and insights about life at SCGS.</p>
-</li>
-<li>
-<p>Explore Our Facilities: Tour our campus, which is designed to support
-both academic excellence and personal growth.</p>
-</li>
-<li>
-<p>Discover Our Programmes: Learn about our curriculum that emphasises critical
-thinking, creativity, and character development.</p>
-</li>
-</ul>
-<p>As you consider the next steps in your child's educational journey, remember
-that choosing a secondary school is about finding the right fit for their
-strengths and passions. Our Open House is a perfect starting point for
-this important decision-making process.</p>
-<p></p>
-<p>We look forward to welcoming you on 16 November, 9am to 1pm!</p>
+<p>Thank you for your interest in SCGS. We have concluded our Open House
+2024. Sec 1 Registration information will be posted on our school website
+after the release of Posting Results.</p>
