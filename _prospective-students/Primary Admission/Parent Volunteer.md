@@ -15,7 +15,7 @@ If your child is born between 2 Jan 2020 and 1 Jan 2021 (both dates inclusive), 
 
 | TIMELINE 	| APPLICATION PROCEDURES 	|
 |---	|---	|
-| By 15 Nov 2024 	| Complete an online application form.   | 
+| By 15 Nov 2024 	| Complete an online application form.  You will receive an immediate acknowledgement email upon successful submission of your application.  | 
 | By End Feb 2025 	| Only shortlisted applicants will be contacted for an interview.<br><br>You may consider your application to be unsuccessful if you do not hear from us by then.  	|
 | Between Jul 2025<br>to Jun 2026 	| Parent Volunteers will commence their services of minimally 40 hours to the school. 	|
 | By Mid Jul 2026 	| An acknowledgement letter will be issued upon satisfactory completion of Parent Volunteer services. 	|
