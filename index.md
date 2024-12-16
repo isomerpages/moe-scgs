@@ -14,9 +14,9 @@ sections:
       button: Contact Us
       url: /contact-us/
   - infobar:
-      title: Open House 2024
+      title: Sec 1 2025 Registration Day
       id: infobar
-      description: 16 November, 9am to 1pm
+      description: 19th December 2024
       button: Click for more info
-      url: /open-house-2024/
+      url: /registration-for-sec-1-2025/
 ---
