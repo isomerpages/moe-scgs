@@ -29,10 +29,10 @@ description: ""
 <h3>BOOKLIST – SECONDARY (Updated for Year 2025)</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Secondary 1 (IP) Booklist*</p>
+<p><a href="/files/Booklists/2025_Booklist_S1__IP_.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 (IP) Booklist</a></p>
 </li>
 <li>
-<p>Secondary 1 (SEC) Booklist*</p>
+<p><a href="/files/Booklists/2025_Booklist_S1__SEC_.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 (SEC) Booklist</a></p>
 </li>
 <li>
 <p><a href="/files/Booklists/2025_Booklist_S2__IP_.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 (IP) Booklist</a>
@@ -59,6 +59,3 @@ description: ""
 </p>
 </li>
 </ul>
-<p>* Secondary 1 booklists will be uploaded at a later date.
-<br>
-</p>
