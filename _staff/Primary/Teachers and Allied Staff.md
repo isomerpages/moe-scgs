@@ -234,7 +234,7 @@ variant: markdown
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-
+<p><a href="mailto:yang_wen_tirng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Ng Wen Tirng</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
