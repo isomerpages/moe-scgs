@@ -9,9 +9,9 @@ variant: markdown
 
 ## **Academic Achievements**
 
-### 2023 PSLE Results
+### 2024 PSLE Results
 
-This has been an unprecedented year and our&nbsp;_kim geks_&nbsp;made us proud by presenting their grit and resilience in this year’s Primary School Leaving Examination (PSLE).&nbsp; We are pleased to share that our Primary 6 cohort of 2023 has performed well in their Primary School Leaving Examinations.&nbsp;  We congratulate our&nbsp;_kim geks_&nbsp;and their parents for the excellent results!
+This has been an unprecedented year and our&nbsp;_kim geks_&nbsp;made us proud by presenting their grit and resilience in this year’s Primary School Leaving Examination (PSLE).&nbsp; We are pleased to share that our Primary 6 cohort of 2024 has performed well in their Primary School Leaving Examinations.&nbsp;  We congratulate our&nbsp;_kim geks_&nbsp;and their parents for the excellent results!
 
 ## **Non-Academic Achievements**
 
@@ -187,6 +187,3 @@ Classification - 2nd, League 1 - 4th
 </tr>
 </tbody>
 </table>
-
-
-
