@@ -14,9 +14,8 @@ sections:
       button: Contact Us
       url: /contact-us/
   - infobar:
-      title: Sec 1 2025 Registration Day
+      title: Sec 1 Registration Day 2025
       id: infobar
-      description: 19th December 2024
       button: Click for more info
       url: /registration-for-sec-1-2025/
 ---
