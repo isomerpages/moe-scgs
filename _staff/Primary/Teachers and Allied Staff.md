@@ -85,7 +85,7 @@ variant: markdown
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_meng_choo_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Lee Meng Choo</a>
+<p><a href="mailto:wong_see_wan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Wong See Wan</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -98,7 +98,7 @@ variant: markdown
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yang_wen_tirng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Ng Wen Tirng</a>
+<p><a href="mailto:lee_bee_ping_germaine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Germaine Lee</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -234,11 +234,11 @@ variant: markdown
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_meng_choo_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Lee Meng Choo</a>
+<p><a href="mailto:yang_wen_tirng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Ng Wen Tirng</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P4</p>
+<p>P3 &amp; P4</p>
 </td>
 </tr>
 <tr>
@@ -250,7 +250,7 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>P1, P2 &amp; P3</p>
+<p>P1 &amp; P2</p>
 </td>
 </tr>
 <tr>
@@ -273,7 +273,7 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yeow_mei_mei_susan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Susan Yeow</a> 
+<p><a href="mailto:anusuya_doraisingham@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Anusuya Doraisingham</a> 
 <br><a href="mailto:lee_guat_keow@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lee Guat Keow</a>
 </p>
 </td>
