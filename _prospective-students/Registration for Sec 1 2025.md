@@ -31,22 +31,16 @@ successful in application)</p>
 <p>The PG message will also contain a registration package that contains
 essential information pertaining to your daughters first days in school.
 <br>
-<br>SCGS Booklist information:
-<br><a href="https://www.scgs.moe.edu.sg/booklists/" rel="noopener noreferrer nofollow" target="_blank">https://www.scgs.moe.edu.sg/booklists/</a>
-<br>
-<br>For purchase of school uniforms:
-<br>The school uniforms and PE attires are available from the school bookshop
-(during school terms) and online at <a href="http://www.khuniform.com" rel="noopener noreferrer nofollow" target="_blank">www.khuniform.com</a>
-</p>
-<p><strong>KH Uniform Pte Ltd</strong>
-<br>115A, Commonwealth Drive, #02-28 Singapore 149596
-<br>Telephone: 64796811 Email: <a href="mailto:sales@khuniform.com" rel="noopener noreferrer nofollow" target="_blank">sales@khuniform.com</a>
-</p>
-<p><strong>Operating Hours:</strong>
-<br>Monday – Friday. Closed on Saturday, Sunday and Public Holidays.
-<br>9am to 12pm / 1pm to 5pm
-<br>Please call or email for further enquiries.</p>
-<p>Note: An additional charge is payable for uniforms that are made-to-measure.
-<br>
 </p>
 <p>Please refer to this website for updates after Posting Day.</p>
+<p></p>
+<p>
+<br>For purchase of school uniforms and textbooks:</p>
+<p><a href="https://www.scgs.moe.edu.sg/booklists/" rel="noopener noreferrer nofollow" target="_blank">https://www.scgs.moe.edu.sg/booklists/</a>
+</p>
+<p>
+<br>For application of Parent ID Pass and Car Decal 2025:</p>
+<p><a href="https://form.gov.sg/675fba285b66be741cc3a710" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/675fba285b66be741cc3a710</a>
+<br>
+<br>
+</p>
