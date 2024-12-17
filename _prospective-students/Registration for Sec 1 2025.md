@@ -29,18 +29,35 @@ successful in application)</p>
 </li>
 </ol>
 <p>The PG message will also contain a registration package that contains
-essential information pertaining to your daughters first days in school.
-<br>
-</p>
-<p>Please refer to this website for updates after Posting Day.</p>
+essential information pertaining to your daughters first days in school.</p>
 <p></p>
-<p>
-<br>For purchase of school uniforms and textbooks:</p>
-<p><a href="https://www.scgs.moe.edu.sg/booklists/" rel="noopener noreferrer nofollow" target="_blank">https://www.scgs.moe.edu.sg/booklists/</a>
+<p>For purchase of school uniforms and textbooks:
+<br><a href="https://www.scgs.moe.edu.sg/booklists/" rel="noopener noreferrer nofollow" target="_blank">https://www.scgs.moe.edu.sg/booklists/</a>
 </p>
+<p>For application of Parent ID Pass and Car Decal 2025:
+<br><a href="https://form.gov.sg/675fba285b66be741cc3a710" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/675fba285b66be741cc3a710</a>
+</p>
+<h2>Appeals</h2>
+<p>Our cut-off AL for Sec 1 2025 admission are:</p>
+<p>SEC Track:
+<br>IP Track:</p>
+<p>Subject to vacancies, appeals will only be considered if you meet our
+cut-off AL.</p>
+<p>Online Appeal Form: <a href="https://go.gov.sg/2025s1appeal" rel="noopener nofollow" target="_blank">https://go.gov.sg/2025s1appeal</a>
+</p>
+<p>Prepare ONE PDF/JPG comprising the following for submission:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>PSLE Results slip reflecting AL,</p>
+</li>
+<li>
+<p>Option List and</p>
+</li>
+<li>
+<p>P5 and P6 End-of-Year results (non SCGPS students).</p>
+</li>
+</ol>
 <p>
-<br>For application of Parent ID Pass and Car Decal 2025:</p>
-<p><a href="https://form.gov.sg/675fba285b66be741cc3a710" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/675fba285b66be741cc3a710</a>
 <br>
 <br>
 </p>
