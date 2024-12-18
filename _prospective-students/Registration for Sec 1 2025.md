@@ -39,8 +39,8 @@ essential information pertaining to your daughters first days in school.</p>
 </p>
 <h2>Appeals</h2>
 <p>Our cut-off AL for Sec 1 2025 admission are:</p>
-<p>SEC Track: 7
-<br>IP Track: 8</p>
+<p>SEC Track: 8
+<br>IP Track: 7</p>
 <p>Subject to vacancies, appeals will only be considered if you meet our
 cut-off AL.</p>
 <p>Online Appeal Form: <a href="https://go.gov.sg/2025s1appeal" rel="noopener nofollow" target="_blank">https://go.gov.sg/2025s1appeal</a>
