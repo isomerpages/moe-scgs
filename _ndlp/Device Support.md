@@ -20,7 +20,12 @@ at the Device Clinic daily.</p>
 </ul>
 <p>Students are required to book a slot prior to attending the clinic. Device
 Clinic hours are as follows:</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -41,7 +46,7 @@ Clinic hours are as follows:</p>
 <p>Terms 1 and 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Monday to Friday</p>
+<p>Monday, Wednesday, Friday</p>
 </td>
 </tr>
 <tr>
@@ -52,7 +57,7 @@ Clinic hours are as follows:</p>
 <p>Terms 2 and 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Monday, Wednesday, Friday</p>
+<p>Tuesday, Thursday</p>
 </td>
 </tr>
 </tbody>
@@ -72,7 +77,14 @@ course of action.</p>
 <a href="https://getsupport.apple.com/" rel="noopener noreferrer nofollow" target="_blank">https://getsupport.apple.com</a>.</p>
 <p>Below is the list of Apple Authorised Service Centres that you may visit
 if you need to send the device for immediate repairs.</p>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -186,5 +198,5 @@ The contact details are as seen below:</p>
 pertaining to their PDLP devices procured from the PDLP device bulk tender
 <br>
 </p>
-<p>Updated as of 12 January 2024</p>
+<p>Updated as of 20 December 2024.</p>
 <p></p>
