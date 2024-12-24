@@ -197,11 +197,11 @@ variant: markdown
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:prema_suresh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Prema Suresh</a>
+<p><a href="mailto:koo_lu-ming_sheralyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Sheralyn Lim</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Discipline</p>
+<p>Discipline Teacher-in-Charge’</p>
 </td>
 </tr>
 <tr>
