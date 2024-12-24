@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Celebrations
 variant: markdown
 ---
-# **Roll of Honor**
+# **Roll of Honour**
 
 ### President’s Scholars
 
