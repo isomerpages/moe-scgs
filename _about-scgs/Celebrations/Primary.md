@@ -5,17 +5,13 @@ description: ""
 third_nav_title: Celebrations
 variant: markdown
 ---
-# **Achievements (Primary)**
-
-## **Academic Achievements**
+# **Celebrating Our Achievements (Primary)**
 
 ### 2024 PSLE Results
 
 This has been an unprecedented year and our&nbsp;_kim geks_&nbsp;made us proud by presenting their grit and resilience in this year’s Primary School Leaving Examination (PSLE).&nbsp; We are pleased to share that our Primary 6 cohort of 2024 has performed well in their Primary School Leaving Examinations.&nbsp;  We congratulate our&nbsp;_kim geks_&nbsp;and their parents for the excellent results!
 
-## **Non-Academic Achievements**
-
-#### 2023
+### 2023
 <table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 581px">
 <colgroup>
 <col style="width: 220px">

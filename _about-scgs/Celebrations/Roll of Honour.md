@@ -1,11 +1,11 @@
 ---
-title: Roll of Honors
+title: Roll of Honour
 permalink: /about-scgs/achievements/roll-of-honor/
 description: ""
 third_nav_title: Celebrations
 variant: markdown
 ---
-# **Roll of Honor**
+# **Roll of Honour**
 
 ### President’s Scholars
 
