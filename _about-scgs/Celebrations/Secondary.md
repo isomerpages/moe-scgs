@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Celebrations
 variant: tiptap
 ---
-<h1><strong>Achievements (Secondary)</strong></h1>
+<h1><strong>Celebrating Our Achievements (Secondary)</strong></h1>
 <h2>Academic Achievements</h2>
 <p>1. Our heartiest congratulations to the 2023 Secondary 4 cohort for their
 excellent performance in the GCE ‘O’ Level examinations!</p>
