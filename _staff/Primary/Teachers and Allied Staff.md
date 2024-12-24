@@ -201,7 +201,7 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Discipline Teacher-in-Charge’</p>
+<p>Discipline Teacher-in-Charge</p>
 </td>
 </tr>
 <tr>
