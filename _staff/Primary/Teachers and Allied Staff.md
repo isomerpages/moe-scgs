@@ -197,18 +197,6 @@ variant: markdown
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:koo_lu-ming_sheralyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Sheralyn Lim</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Discipline Teacher-in-Charge</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:wong_see_wan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Wong See Wan</a>
 </p>
 </td>
@@ -254,6 +242,17 @@ variant: markdown
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+	<p><strong>Discipline Teacher-in-Charge</strong></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:koo_lu-ming_sheralyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Sheralyn Lim</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr><tr>
 <td rowspan="1" colspan="1">
 <p><strong>Learning Support<br>Co-ordinator</strong>
 </p>
