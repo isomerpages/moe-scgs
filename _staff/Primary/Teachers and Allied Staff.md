@@ -85,7 +85,7 @@ variant: markdown
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wong_see_wan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Wong See Wan</a>(Covering)
+<p><a href="mailto:wong_see_wan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Wong See Wan (Covering)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
