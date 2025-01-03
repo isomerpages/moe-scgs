@@ -243,6 +243,17 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+	<p><strong>Assistant Year Head</strong></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:koo_lu-ming_sheralyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Sandy Lim</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5</p>
+</td>
+</tr><tr>
+<td rowspan="1" colspan="1">
 	<p><strong>Discipline Teacher-in-Charge</strong></p>
 </td>
 <td rowspan="1" colspan="1">
