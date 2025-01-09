@@ -299,7 +299,7 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tay_shi_li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Tay Shi Li</a> 
 <br><a href="mailto:lim_jing_fen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Lim Jing Fen</a>
-</p>
+<br><a href="mailto:yap_yee_ning_elaine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Elaine Yap</a></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
