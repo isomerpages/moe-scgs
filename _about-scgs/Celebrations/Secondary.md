@@ -7,25 +7,26 @@ variant: tiptap
 ---
 <h1><strong>Celebrating Our Achievements (Secondary)</strong></h1>
 <h2>Academic Achievements</h2>
-<p>1. Our heartiest congratulations to the 2023 Secondary 4 cohort for their
+<p>Our heartiest congratulations to the 2024 Secondary 4 cohort for their
 excellent performance in the GCE ‘O’ Level examinations!</p>
-<p>2. The Class of 2023 exemplified adaptability and resilience in the face
-of an unprecedented Covid-19 pandemic, which first struck early in their
-secondary education four years ago. Together with their teachers, this
-cohort of Kim Geks adapted quickly to new ways of learning as well as connecting
-and collaborating with one another through online modes. They exercised
-independence and perseverance to continue their journey of growth with
-positivity amidst changes due to safe management measures. In the process,
-they also showed care and kindness to one another. Over the years, the
-cohort seized opportunities to enjoy school life fully through experiences
-such as Sports Festival, SC Rave and self-initiated interclass games facilitated
-by student leaders. With their resolute and courageous spirit, we believe
-the class of 2023 will be in good stead as they move on to the next phase
-of their educational journey.</p>
-<p>3. We would like to express our special appreciation to everyone who has
-guided our Kim Geks. Our team of dedicated and committed teaching and non-teaching
-staff have guided and supported them with much care and love. We also deeply
-appreciate the unwavering partnership of our parents, Board of Directors
+<p></p>
+<p>Under the guidance and care of their teachers, the Class of 2024 exemplified
+adaptability, determination and enthusiasm. In the SC125 Celebrations,
+they played an instrumental role in rallying the school to contribute,
+ensuring the success of the various events and leaving a lasting impression
+on the school and community partners. Their leadership and dedication underscored
+their outstanding ability to inspire and further strengthen the school
+spirit. While&nbsp;juggling various roles and responsibilities, they persevered
+with a strong sense of purpose and an unwavering will to achieve their
+goals, whether personal or collective. This steadfast determination reflects
+their commitment to growth and their aspiration to make a meaningful impact
+on those around them. We are confident that the Class of 2024 is well-prepared
+to thrive in the next phase of their educational journey.</p>
+<p></p>
+<p>We would like to express our appreciation to everyone who has guided our&nbsp;<em>Kim Geks</em>.
+Our team of dedicated teaching and non-teaching staff who fostered a caring
+and empowering environment for the students to learn and grow.&nbsp; We
+also appreciate the unwavering partnership of our parents, Board of Directors
 and Alumni in supporting and nurturing them throughout this milestone journey.</p>
 <h2>Non-Academic Achievements</h2>
 <h4>2024</h4>
