@@ -74,7 +74,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chew_chee_young_christopher@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Christopher Chew</a>
+<p><a href="mailto:christopher_chew@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Christopher Chew</a>
 </p>
 </td>
 </tr>
