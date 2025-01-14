@@ -12,8 +12,8 @@ Every student is required to have a device for teaching and learning purposes an
 
 The following devices are recommended for NDLP:
 *   12.9-inch iPad Pro (5th generation) and later
-*   11-inch iPad Pro (3rd generation) and later
-*   iPad (9th generation) and later
+*   11-inch iPad Pro (4th generation) and later
+*   iPad (10th generation) and later
 *   iPad mini (7th generation) and later
 *   iPad Air (6th generation) and later
 
@@ -24,12 +24,11 @@ To identify your iPad Model, Go to Settings > General > About. To the right of M
 ![About Page](/images/WhatsApp_Image_2024_01_11_at_4_40_06_PM.jpeg)
 
 &#42; Note that whilst the following iPad models are still compatible with the DMA, they may no longer be compatible in the near future (2025 onwards). Hence, we do not recommend using the following models even though they are currently compatible with the DMA:
-*   iPad Pro 12.9-inch (3rd generation) (2017)
-*   iPad Pro 9.7-inch (2017)
-*   iPad Pro 10.5-inch (2018)
+*   iPad Pro 11-inch (3rd generation) (2021)
 *   iPad Pro 12.9-inch (4th generation) (2020)
 *   iPad Air (4th generation) (2020)
-*   iPad (8th generation) (2020)
+*   iPad (9th generation) (2021)
+*   iPad Mini (6th generation) (2021)
 
 
 **Q2. Will my child/ward need to purchase software for their devices? If so, can these be paid for with Edusave?**
