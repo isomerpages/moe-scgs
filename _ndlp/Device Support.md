@@ -198,5 +198,5 @@ The contact details are as seen below:</p>
 pertaining to their PDLP devices procured from the PDLP device bulk tender
 <br>
 </p>
-<p>Updated as of 20 December 2024.</p>
+<p>Updated as of 20 January 2025.</p>
 <p></p>
