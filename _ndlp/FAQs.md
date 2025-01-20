@@ -101,4 +101,4 @@ The school will uninstall the device management applications (DMA) from the devi
 
 **For more information please email us at [scgss@moe.edu.sg](mailto:scgss@moe.edu.sg)**
 
-Updated as of 28 October 2024
+Updated as of 20 January 2025
