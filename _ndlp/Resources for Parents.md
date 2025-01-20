@@ -2,6 +2,7 @@
 title: Resources for Parents
 permalink: /ndlp/resources-for-parents/
 description: ""
+variant: markdown
 ---
 # **Resources for Parents**
 
@@ -10,7 +11,7 @@ To support you in keeping your child safe online, you may refer to these additio
 
 | Resource 	| Attachment / Link 	|
 |---	|---	|
-| **Parent Handbook (I) and (II) on Learning with a Personal Learning Device (PLD)**<br><br>For more digital parenting tips to help your child navigate the digital environment, please download and refer to the following handbooks. 	| [Parent Handbook (I)](/files/IP2-Parent-Handbook-I-on-Learning-with-a-PLD_8-Dec-21.pdf)<br><br>[Parent Handbook (II)](/files/IP3%20-%20Parent%20Handbook%20(II)%20on%20Learning%20with%20a%20PLD_8%20Dec%2021.pdf)	|
+| **Parent Handbook (I) and (II) on Learning with a Personal Learning Device (PLD)**<br><br>For more digital parenting tips to help your child navigate the digital environment, please download and refer to the following handbooks. 	| [Parent Handbook (I)](/files/IP2___Parent_Handbook__I__2025.pdf) <br> [Parent Handbook (II)](/files/IP3___Parent_Handbook__II__2025.pdf)	|
 | **Infographic on the Personal Learning Devices (PLD) initiative and the DMA Options**<br><br>This infographic provides an overview of the PLD Initiative and a breakdown of the After-School DMA Parent Options. 	| [Click Here](/files/Infographic-on-the-PLD-Initiative-and-DMA-Parent-Options_Mar-2022.pdf) 	|
 | **What Do Parents Think About Personal Learning Devices (PLDs)?**<br> <br>The video features five parents whose children are enrolled in schools that utilise PLDs. The parents share their personal experiences on how their child is learning differently with PLDs. 	| [Part 1](https://go.gov.sg/parent-voxpop-1)<br>[Part 2](https://go.gov.sg/parent-voxpop-2) 	|
 | **Parent Kit on Cyber Wellness for Your Child**<br><br>Living in a digital world has transformed the way we live, work, and play. <br>This Parent Kit issue on Raising a Digitally Smart Child shares tips and resources on practising appropriate device usage, managing over-reliance on devices and ways to handle cyber-bullying.	|  [Click Here](https://go.gov.sg/moe-raising-a-digitally-smart-child) 	|
