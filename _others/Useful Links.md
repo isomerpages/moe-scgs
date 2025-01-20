@@ -5,7 +5,11 @@ description: ""
 variant: tiptap
 ---
 <h1><strong>Useful Links</strong></h1>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -55,7 +59,7 @@ variant: tiptap
 <br><a href="https://workspace.google.com" rel="noopener noreferrer nofollow" target="_blank">Student iCON</a> 
 <br><a href="https://scgs.schoolhub.sg/" rel="noopener noreferrer nofollow" target="_blank">Project Work/ Sabbaticals Portal</a> 
 <br><a href="https://schoolibrary.moe.edu.sg/singaporechinesegirlssec/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" rel="noopener noreferrer nofollow" target="_blank">Spydus</a> 
-<br>
+<br><a href="/files/VIA_Form_2024_updated_28_May.pdf" rel="noopener noreferrer nofollow" target="_blank">VIA Form</a>
 </p>
 </td>
 </tr>
