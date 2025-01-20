@@ -8,7 +8,8 @@ variant: tiptap
 <blockquote>
 <p>Singapore Chinese Girls’ School is an independent school with a vision
 to be an asset to the country by developing capable women of character
-and relevance. We offer both GCE O-Level and Integrated Programmes.</p>
+and relevance. We offer both the Integrated Programme and the Singapore-Cambridge
+Secondary Education Certificate.</p>
 </blockquote>
 <p></p>
 <p><strong><u>We are currently looking for Education Officers to fill up the Mathematics Teacher position in the Mathematics Department.</u></strong>
