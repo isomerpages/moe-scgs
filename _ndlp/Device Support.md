@@ -193,10 +193,10 @@ The contact details are as seen below:</p>
 <img style="width:50%" height="auto" width="100%" src="/images/Insurer-300x113.jpg">
 </div>
 <h3><strong>Student Device Information Kit</strong></h3>
-<p><a href="/files/Student%20Device%20Information%20Kit_28%20Dec%2022.pdf" rel="noopener noreferrer nofollow" target="_blank">Click Here</a> 
+<p><a href="/files/Student_Device_Information_Kit_2025.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
 <br>This information kit contains useful information meant for parents/students
 pertaining to their PDLP devices procured from the PDLP device bulk tender
 <br>
 </p>
-<p>Updated as of 20 December 2024.</p>
+<p>Updated as of 20 January 2025.</p>
 <p></p>
