@@ -59,10 +59,7 @@ account for Secondary School students.</p>
 subsidies for the PLD purchase. The school will confirm again with students
 should they need to reapply for financial assistance. More information
 will be shared by the school at a later date.</p>
-<h3>Timeline</h3>
-<p>The timeline for 2025 Sec One students and returning Singaporeans will
-be shared in January 2025.</p>
 <p></p>
-<p>Updated as of 28 October 2024</p>
+<p>Updated as of 20 January 2025</p>
 <p></p>
 <p></p>
