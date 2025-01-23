@@ -26,13 +26,13 @@ variant: tiptap
 will receive a Secondary 1 Option Form during the collection of PSLE Results.
 Our school codes are:</p>
 <p>Integrated Programme: 9132</p>
-<p>O-Level Programme: 7014</p>
+<p>SEC Programme: 7014</p>
 <p>Details of the Option Exercise can also be found at the following link.
 <a href="https://www.moe.gov.sg/secondary/s1-posting" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/secondary/s1-posting</a>
 </p>
 <p><strong><em>For SCGS Primary Six Students – Affiliation</em></strong>
 </p>
-<p>Affiliation benefit for admission into SCGS is valid for the O-Level Programme
+<p>Affiliation benefit for admission into SCGS is valid for the SEC Programme
 only.</p>
 <p>The eligibility criteria are as follows:</p>
 <ul data-tight="true" class="tight">
@@ -40,14 +40,14 @@ only.</p>
 <p>Attained a minimum PSLE AL of 17 and</p>
 </li>
 <li>
-<p>Apply for SCGS O-Level Programme as your first choice</p>
+<p>Apply for SCGS SEC Programme as your first choice</p>
 </li>
 </ul>
-<p>Successful admission into affiliated SCGS (O-Level Programme) is further
-subject to the demand on the vacancies by our SCGS Primary students.</p>
+<p>Successful admission into affiliated SCGS (SEC Programme) is further subject
+to the demand on the vacancies by our SCGS Primary students.</p>
 <p>Students who opt for SCGS (Integrated Programme) as their first choice
-must select SCGS (O-Level Programme) as their second choice, if they still
-wish to enjoy priority for admission to affiliated SCGS (O-Level Programme).</p>
+must select SCGS (SEC Programme) as their second choice, if they still
+wish to enjoy priority for admission to affiliated SCGS (SEC Programme).</p>
 <p><strong><em>Unsuccessful Applicants</em></strong>
 </p>
 <p>Students who are unsuccessful in the posting exercise may appeal for entry
