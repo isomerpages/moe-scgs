@@ -327,7 +327,7 @@ variant: tiptap
 <p><a href="mailto:tan_mao_ning_charissa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Charissa Tan</a>
 </p>
 <p></p>
-<p><a href="mailto:sharmaine_koh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Sharmaine Koh</a>
+<p><a href="mailto:sharmaine_koh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Sharmaine Yang</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
