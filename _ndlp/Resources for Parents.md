@@ -29,7 +29,7 @@ additional resources and kits:</p>
 environment, please download and refer to the following handbooks.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/IP2___Parent_Handbook__I__2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (I)</a> 
+<p><a href="/files/IP2___Parent_Handbook__I__2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (I)</a>
 </p>
 <p>
 <br><a href="/files/IP3___Parent_Handbook__II__2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (II)</a>
@@ -56,17 +56,13 @@ of the After-School DMA Parent Options.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/DMA_Parent_Guide_for_Default_Option.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Guide for Default Option</a>
-</p>
-<p><a href="/files/DMA_Parent_Guide_for_Option_A.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Guide for Option A</a>
-</p>
-<p><a href="/files/DMA_Parent_Guide_for_Option_B.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Guide for Option B</a>
+<p><a href="https://go.gov.sg/dmaparentguide-ipad" rel="noopener nofollow" target="_blank">DMA Parent Guides</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p> <strong>What Do Parents Think About Personal Learning Devices (PLDs)?</strong>
+<p><strong>What Do Parents Think About Personal Learning Devices (PLDs)?</strong>
 </p>
 <p></p>
 <p>The video features five parents whose children are enrolled in schools
@@ -77,7 +73,7 @@ their child is learning differently with PLDs.</p>
 <p><a href="https://go.gov.sg/parent-voxpop-1" rel="noopener noreferrer nofollow" target="_blank">Part 1</a>
 </p>
 <p>
-<br><a href="https://go.gov.sg/parent-voxpop-2" rel="noopener noreferrer nofollow" target="_blank">Part 2</a> 
+<br><a href="https://go.gov.sg/parent-voxpop-2" rel="noopener noreferrer nofollow" target="_blank">Part 2</a>
 </p>
 </td>
 </tr>

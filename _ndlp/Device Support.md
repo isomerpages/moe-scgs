@@ -184,7 +184,7 @@ school’s service desk.&nbsp;</p>
 <p>Should you have any queries about the device and warranty, you may contact
 the device contractor directly.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot-2021-08-20-1024x520.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Asiapac_Contact_Info.png">
 </div>
 <p>For insurance claim, please contact the Insurer B&nbsp;for the insurance
 form and cc <a href="mailto:pdlpapple@asiapac.com.sg" rel="noopener noreferrer nofollow" target="_blank">pdlpapple@asiapac.com.sg</a>.
