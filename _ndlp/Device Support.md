@@ -43,7 +43,7 @@ Clinic hours are as follows:</p>
 <p>10:40am to 12:20pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Terms 1 and 3</p>
+<p>Terms 1 and 2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Monday, Wednesday, Friday</p>
@@ -54,7 +54,7 @@ Clinic hours are as follows:</p>
 <p>10:40am to 12:20pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Terms 2 and 4</p>
+<p>Terms 3 and 4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tuesday, Thursday</p>
