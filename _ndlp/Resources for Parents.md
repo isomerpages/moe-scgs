@@ -34,18 +34,7 @@ environment, please download and refer to the following handbooks.</p>
 <p>
 <br><a href="/files/IP3___Parent_Handbook__II__2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (II)</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Infographic on the Personal Learning Devices (PLD) initiative and the DMA Options</strong>
-<br>
-<br>This infographic provides an overview of the PLD Initiative and a breakdown
-of the After-School DMA Parent Options.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Infographic-on-the-PLD-Initiative-and-DMA-Parent-Options_Mar-2022.pdf" rel="noopener noreferrer nofollow" target="_blank">Click Here</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
