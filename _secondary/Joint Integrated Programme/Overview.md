@@ -3,6 +3,7 @@ title: Overview
 permalink: /scgs-education/secondary/integrated-programme/overview/
 description: ""
 third_nav_title: Joint Integrated Programme
+variant: markdown
 ---
 ![](/images/IP-overview.jpg)
 # **Overview**
@@ -38,6 +39,6 @@ JIP students from Catholic High School (CHS), CHIJ St Nicholas Girls’ School (
 
 
 
-Students who are applying to the Joint Integrated Programme may wish to note that they will spend their first four years in SCGS before progressing to&nbsp;[Eunoia Junior College](http://eunoiajc.moe.edu.sg/)&nbsp; to complete their six-year IP course.&nbsp;The JC will also admit O-Level applicants through the Joint Admission Exercise leading to the&nbsp;[GCE A-Level Examinations](https://eunoiajc.moe.edu.sg/2021-results/).
+Students who are applying to the Joint Integrated Programme may wish to note that they will spend their first four years in SCGS before progressing to&nbsp;[Eunoia Junior College](http://eunoiajc.moe.edu.sg/)&nbsp; to complete their six-year IP course.&nbsp;The JC will also admit Singapore-Cambridge GCE O-Level applicants through the Joint Admission Exercise leading to the Singapore-Cambridge GCE A-Level Examinations.
 
-Click&nbsp;[here](https://issuu.com/scgss/docs/jip_prospectus_4th_edition_single_page)&nbsp;to download a copy of the Joint Integrated Programme Prospectus.
+Click&nbsp;[here](https://online.fliphtml5.com/lbpjj/skcv/)&nbsp;to view a copy of the Joint Integrated Programme Prospectus.
