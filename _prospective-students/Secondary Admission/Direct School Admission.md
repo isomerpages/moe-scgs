@@ -27,7 +27,7 @@ years 1-4.</p>
 <p>We seek to promote a culture of excellence in the holistic development
 of our students. We offer the following DSA Talent Areas across both tracks:</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Website_DSA.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Website_DSA2025.png">
 </div>
 <h4><a href="https://sites.google.com/moe.edu.sg/scgs-dsa-talent-areas?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Visit our DSA Microsite!</a></h4>
 <h4><a href="/files/SCGS_DSA_Info_Sheet_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Download our Infosheet</a><br><br></h4>
