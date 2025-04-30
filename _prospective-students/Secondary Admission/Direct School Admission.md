@@ -5,8 +5,8 @@ description: ""
 third_nav_title: Secondary Admission
 variant: tiptap
 ---
-<p><strong>SCGS DIRECT SCHOOL ADMISSION EXERCISE 2024</strong> 
-<br>(For Admission into <u>Secondary 1 in Year 2025</u>)</p>
+<p><strong>SCGS DIRECT SCHOOL ADMISSION EXERCISE 2025</strong> 
+<br>(For Admission into <u>Secondary 1 in Year 2026</u>)</p>
 <h4><strong><u>DSA OPTIONS IN SCGS</u></strong></h4>
 <p>Singapore Chinese Girls’ School is a dual-track school offering:</p>
 <ul>
