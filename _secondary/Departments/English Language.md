@@ -3,8 +3,8 @@ title: English Language
 permalink: /scgs-education/secondary/departments/english-languague/
 description: ""
 third_nav_title: Departments
+variant: markdown
 ---
-
 # **English Language**
 
 ![](/images/2017-EL-DEPT-WEBPAGE-BANNER-e1494228709781.jpg)
@@ -16,8 +16,6 @@ At SCGS, we imbue our girls with a deep appreciation of the beauty of the Englis
 ### Programme:
 
 Through the study of a wide selection of literary texts such as novels, plays and poetry, we nurture our girls to cultivate a keen sensitivity to the written word. In the Lower Secondary, our students enjoy the Language Arts Programme – a fusion of Language and Literature. The approach to teaching and learning is multimodal, through both print and non-print media.  At the Upper Secondary, English Language and Literature are taught as separate subjects in preparation for the GCE O-Level and the Integrated Programme Examinations. An SCGS girl will either offer Literature in English as a full subject or as an elective (in combination with Social Studies) for the O-Level track.
-
-Our programmes aim to develop our students’ abilities to communicate effectively with others, and their appreciation of language, drama and the arts. We believe in the importance of providing opportunities for exposure to literary forms beyond the classroom, such as visits to the theatre, enrichment workshops and overseas trips such as the Literature Study Trip to the United Kingdom which exposes our students to literary history and a wide range of theatre experiences.
 
 As part of the accelerated curriculum of the SCGS Talent Programme, we offer enhanced language programmes and activities to prepare students to be future ready through the World Readiness Programme – Current Affairs modules where they learn about pertinent national and world-wide issues and concerns, become aware of solutions that would make a positive difference to the society, be advocates for a cause, and to communicate ideas and solutions with confidence and conviction. We also prepare our students to be confident and well-informed communicators through the Sec 1 Oral Communication Course where they are poised and ready to take on national and international platforms of expression.
 
