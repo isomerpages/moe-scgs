@@ -12,7 +12,7 @@ variant: tiptap
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/DSA_QRCode.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/DSA_QRCode.png">
 </div>
 <h4><strong><u>DSA OPTIONS IN SCGS</u></strong></h4>
 <p>Singapore Chinese Girls’ School is a dual-track school offering:</p>
