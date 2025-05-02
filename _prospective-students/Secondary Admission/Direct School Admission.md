@@ -12,7 +12,7 @@ variant: tiptap
 <ul>
 <li>
 <p>the 4-year Singapore-Cambridge Secondary Education Certificate (SEC, also
-formerly known as GCE O-Level) Programme, and&nbsp;</p>
+formerly known as GCE O-Level) Programme, and</p>
 </li>
 <li>
 <p>the 6-year Integrated Programme (IP) in partnership with Eunoia Junior
