@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h1><strong>Device Support</strong></h1>
 <p>Students can approach IT staff for technical support during recess times
-at the Device Clinic daily.</p>
+at the Device Clinic.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Troubleshooting of device issues</p>
@@ -20,9 +20,8 @@ at the Device Clinic daily.</p>
 </ul>
 <p>Students are required to book a slot prior to attending the clinic. Device
 Clinic hours are as follows:</p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -30,9 +29,6 @@ Clinic hours are as follows:</p>
 <tr>
 <th rowspan="1" colspan="1">
 <p>Device Clinic Hours</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Terms</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Days</p>
@@ -43,28 +39,14 @@ Clinic hours are as follows:</p>
 <p>10:40am to 12:20pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Terms 1 and 2</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Monday, Wednesday, Friday</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>10:40am to 12:20pm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Terms 3 and 4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tuesday, Thursday</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p>The Device Clinic hours will be reviewed and revised termly.</p>
-<p>Should students need help outside device clinic hours for password resets
-or other matters, please log a ticket via Freshdesk.</p>
+<p>Should students need help outside of device clinic hours for password
+resets or other matters, please log a ticket via Freshdesk.</p>
 <h3><strong>Apple Authorized Service Centres</strong>&nbsp;</h3>
 <p>There will be a fortnightly collection of faulty devices that will be
 sent via courier to Apple Authorised Service Centres for repairs. The devices
