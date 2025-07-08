@@ -51,5 +51,10 @@ individuals</p>
 and team spirit</p>
 <p>• Caring, responsible, driven and innovative</p>
 <p></p>
+<p>If you are keen, please send your email to <a href="mailto:rachel_lim_hui_tin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rachel_lim_hui_tin@moe.edu.sg</a>
+</p>
+<p>Successful candidates will be offered contract employment. Remuneration
+shall commensurate with qualification and experience.</p>
+<p>Only shortlisted candidates will be notified.</p>
 <p></p>
 <p></p>
