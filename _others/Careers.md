@@ -27,7 +27,7 @@ in any of the above subjects, we would love to hear from you.</p>
 you are applying to teach.</p>
 <p>We look forward to discovering how you can contribute to nurturing and
 inspiring our students.</p>
-<p><strong>Key Responsibilities </strong>
+<p><strong>Key Responsibilities</strong>
 </p>
 <p>• Plan for and conduct lessons</p>
 <p>• Form Teachership and CCA duties</p>
@@ -45,19 +45,11 @@ and aspirations to their fullest potential</p>
 discipline</p>
 <p>• Formal teaching qualifications such as NIE PGDE Diploma</p>
 <p>• At least 3 years of teaching experience at the Secondary level</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Strong passion for helping students develop as confident and purposeful
+<p>• Strong passion for helping students develop as confident and purposeful
 individuals</p>
-</li>
-<li>
-<p>Strong sense of integrity, personal drive and initiative, commitment and
-team spirit</p>
-</li>
-<li>
-<p>Caring, responsible, driven and innovative</p>
-</li>
-</ul>
+<p>• Strong sense of integrity, personal drive and initiative, commitment
+and team spirit</p>
+<p>• Caring, responsible, driven and innovative</p>
 <p></p>
 <p></p>
 <p></p>
