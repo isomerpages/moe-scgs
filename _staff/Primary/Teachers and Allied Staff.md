@@ -161,18 +161,6 @@ variant: markdown
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:katherine_chai_kui_yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Katherine Chai</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SS &amp; NE</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto:sin_yue_ting_melissa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Melissa Sin</a>
 </p>
 </td>
