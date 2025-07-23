@@ -25,7 +25,7 @@ for the SEC track or 6 years for the Integrated Programme) and participate
 in the activities related to the talent area they are selected for from
 years 1-4.</p>
 <p></p>
-<p><strong>You will receive notification from the school by 1 Aug 2025 if your child has been shortlisted to undergo Direct School Admission (DSA) selection. All applicants will receive their application outcomes between 25 Aug and 4 Sep 2025.</strong>
+<p><strong>You will receive notification from the school by <u>1 Aug 2025</u> if your child has been shortlisted to undergo Direct School Admission (DSA) selection. All applicants will receive their application outcomes between <u>25 Aug and 4 Sep 2025</u>.</strong>
 </p>
 <p></p>
 <p>We seek to promote a culture of excellence in the holistic development
