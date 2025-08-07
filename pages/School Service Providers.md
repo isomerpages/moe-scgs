@@ -18,7 +18,7 @@ variant: tiptap
 </p>
 <h3>Uniform</h3>
 <p>The school uniforms and PE attires are available from the school bookshop
-(during school terms) and online at <a href="www.khuniform.com" rel="noopener noreferrer nofollow" target="_blank">www.khuniform.com</a>
+(during school terms) and online at <a href="https://www.khuniform.com" rel="noopener noreferrer nofollow" target="_blank">www.khuniform.com</a>
 </p>
 <p><strong>KH Uniform Pte Ltd</strong>
 <br>8 Boon Lay Way
