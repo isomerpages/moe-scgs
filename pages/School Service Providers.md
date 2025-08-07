@@ -2,6 +2,7 @@
 title: School Service Providers
 permalink: /school-service-providers/
 description: ""
+variant: markdown
 ---
 # **School Service Providers**
 
@@ -21,11 +22,12 @@ Eshop Website: [www.pacificeshop.com](http://www.pacificeshop.com/)
 
 ### Uniform
 
-The school uniforms and PE attires are available from the school bookshop (during school terms) and online at www.khuniform.com
+The school uniforms and PE attires are available from the school bookshop (during school terms) and online at [www.khuniform.com](www.khuniform.com)
 
 **KH Uniform Pte Ltd**  
-115A, Commonwealth Drive, #02-28
-Singapore 149596  
+8 Boon Lay Way
+8 @Tradehub 21 #03-14 
+Singapore 609964
 Telephone: 64796811
 Email: sales@khuniform.com
 
@@ -35,4 +37,3 @@ Monday – Friday. Closed on Saturday, Sunday and Public Holidays.
 Please call or email for further enquiries.  
 
 Note: An additional charge is payable for uniforms that are made-to-measure.
-
