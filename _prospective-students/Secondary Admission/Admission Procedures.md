@@ -74,8 +74,12 @@ for entry in January.</p>
 <p><strong>ADMISSION TESTS FOR 2026 JANUARY ENROLMENT</strong>
 </p>
 <p>Registration for Admission tests will start in September 2025. Tests will
-be conducted in early November. Please return to the page to register in
-September.</p>
+be conducted in early November.</p>
+<p><strong>Admission Tests for 2026 Enrolment.&nbsp;</strong>
+</p>
+<p><a href="https://go.gov.sg/scgsadmission2026" rel="noopener nofollow" target="_blank">Please click here to register </a>
+<a href="https://go.gov.sg/scgsadmission2026" rel="noopener noreferrer nofollow" target="_blank">(https://go.gov.sg/scgsadmission2026)</a>
+</p>
 <p>This admission exercise is only open to the following levels and Programmes:</p>
 <ul data-tight="true" class="tight">
 <li>
