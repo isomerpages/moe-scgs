@@ -98,8 +98,7 @@ tests.)</p>
 <p>Students applying for admission will be assess on their English, Mathematics
 and Science. Do note that Physics, Chemistry and Biology will be tested
 for Science.</p>
-<p>Students seeking admission into SCGS need to complete and submit the&nbsp;<strong>APPLICATION FOR ENTRY FOR SECONDARY SCHOOL</strong> form
-which can be downloaded from this site from 1st September 2025 onwards.</p>
+<p></p>
 <p><strong>Secondary 1</strong>
 </p>
 <p>Students will be required to sit admission tests conducted by the school
