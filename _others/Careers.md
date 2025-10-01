@@ -15,7 +15,6 @@ Secondary Education Certificate.</p>
 <p>We are inviting passionate and dedicated educators to join our school
 community. We have vacancies for teachers trained and qualified to teach
 the following subjects:</p>
-<p>• Art</p>
 <p>• Music</p>
 <p>• Physical Education (PE)</p>
 <p>• Chemistry</p>
