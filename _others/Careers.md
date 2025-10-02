@@ -16,7 +16,6 @@ Secondary Education Certificate.</p>
 community. We have vacancies for teachers trained and qualified to teach
 the following subjects:</p>
 <p>• Music</p>
-<p>• Physical Education (PE)</p>
 <p>• Chemistry</p>
 <p>• Biology</p>
 <p>• Literature</p>
