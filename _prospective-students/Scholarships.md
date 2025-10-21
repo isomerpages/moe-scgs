@@ -75,7 +75,11 @@ of the enrolment of Singaporean sudents.</p>
 <p>Similar to the practice for other Edusave awards, the ECHA awardees will
 receive a certificate and an award voucher.&nbsp; The ECHA award quanta
 are as follows, depending on the level of study:</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -141,11 +145,11 @@ will be renewed yearly to allow the scholar to complete four years of study
 in the Secondary School.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/2024_Sports_Scholarship_Application_Form_Editable.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Sports Scholarship Form</a>
+<p><a href="https://form.gov.sg/68f4a752a63d6d2f9f24327a" rel="noopener nofollow" target="_blank">SCGS Sports Scholarship Application Form</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2024_Sports_Scholarship_Terms_Conditions.pdf" rel="noopener noreferrer nofollow" target="_blank">SCGS Sports Scholarship Terms and Conditions</a>
+<p><a href="/files/2026_Sports_Scholarship_Terms_Conditions.pdf" rel="noopener nofollow" target="_blank">SCGS Sports Scholarship Terms and Conditions</a>
 </p>
 </li>
 </ul>
@@ -183,6 +187,6 @@ of students in both academic and non-academic performance. Eligible students
 will be nominated and students meeting the selection criteria will be informed
 of the awards.</p>
 <p>
-<br>Updated: January 2024</p>
+<br>Updated: October 2025</p>
 <p></p>
 <p></p>
