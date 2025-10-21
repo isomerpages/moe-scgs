@@ -187,6 +187,6 @@ of students in both academic and non-academic performance. Eligible students
 will be nominated and students meeting the selection criteria will be informed
 of the awards.</p>
 <p>
-<br>Updated: January 2024</p>
+<br>Updated: October 2025</p>
 <p></p>
 <p></p>
