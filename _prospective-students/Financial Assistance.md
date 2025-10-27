@@ -34,28 +34,23 @@ form at our General Office.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Complete the<em> </em><a href="/files/Appendix_B1___MOE_ISB_Application_Form_2025.pdf" rel="noopener nofollow" target="_blank">MOE ISB application form</a> and
-submit the completed form with relevant documents via email to <a href="mailto:scgss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">scgss@moe.edu.sg</a> or
-hardcopy to our General Office. You may also collect a copy of the application
-form at our General Office.</p>
+<p>To apply for MOE ISB, please submit an online application through the
+<a href="https://go.gov.sg/moe-efasis" rel="noopener noreferrer nofollow" target="_blank">FormSG</a>(to login using SingPass). You can also submit your application
+via Parents Gateway (PG &gt; Services &gt; Financial assistance).</p>
+<p>&nbsp;</p>
+<p>MOE has onboarded the Household Means Eligibility System (HOMES) for the
+2026 application cycle, making the process more convenient as most parents
+will no longer need to submit supporting documents if you only have employment
+and/or trade income.</p>
 </li>
 </ul>
 <h4><strong>SCGS FINANCIAL ASSISTANCE SCHEME</strong></h4>
-<p>For applicants who do not meet the eligibility for MOE FAS / ISB, SCGS
-offers our own financial assistance schemes. The same MOE FAS / ISB application
-form that is being submitted will be used to process for SCGS FAS, if applicable.
-&nbsp;</p>
-<p><strong>Primary Division</strong>
+<p>For applicants who do not meet the eligibility for MOE FAS/ISB, SCGS offers
+our own financial assistance schemes. Please email the school if you need
+any assistance.</p>
+<p>Primary Division: <a href="mailto:scgsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">scgsps@moe.edu.sg</a> 
 </p>
-<p>The Primary Division has a School-based Financial Assistance scheme for
-students who require financial support but are not eligible for MOE FAS.
-&nbsp;The assistance can take the form of miscellaneous fee and transport
-subsidies.</p>
-<p><strong>Secondary Division</strong>&nbsp;</p>
-<p>The Secondary Division has a School-based Financial Assistance (SCGS Endowment
-Fund) for ISB recipients as well as students who require financial support
-but are not eligible. The assistance can take the form of school and miscellaneous
-fees, meal and transport subsidies.
+<p>Secondary Division: <a href="mailto:scgss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">scgss@moe.edu.sg</a> 
 <br>
 <br><em>NOTE:</em> 
 <br><em>Applications may be made throughout the year as exigencies of each family’s financial circumstances demand.&nbsp; However, approved financial assistance will take effect in the month the application is approved and will not be backdated to January. Each approval is valid till the end of the academic year. &nbsp;A fresh application will need to be submitted for each subsequent academic year.</em>
