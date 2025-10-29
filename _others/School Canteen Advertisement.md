@@ -42,7 +42,11 @@ description: ""
 <p><strong>&nbsp;Application Procedure</strong>
 </p>
 <p>1. Download and complete the application form. You may also request for
-a hardcopy from the School’s General Office.</p>
+a hardcopy from the School’s General Office.
+<br>
+<br><a href="/files/Application_for_Canteen_Stall_FormBF7.pdf" rel="noopener nofollow" target="_blank">Application for Canteen Stall-FormBF7</a>
+<br>
+</p>
 <p>&nbsp;2. Attach the following documents together with the application
 form:</p>
 <ul data-tight="true" class="tight">
