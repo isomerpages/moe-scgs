@@ -67,7 +67,7 @@ date via email OR to the School’s General Office.</p>
 <p>Contact No:&nbsp;+65 6252 7966</p>
 </li>
 <li>
-<p>Email:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">scgss@moe.edu.sg</a>
+<p>Email:&nbsp;<a href="mailto:scgss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">scgss@moe.edu.sg</a>
 </p>
 </li>
 <li>
