@@ -14,6 +14,11 @@ sections:
       button: Contact Us
       url: /contact-us/
   - infobar:
+      title: Open House 2025
+      id: infobar
+      button: More Info
+      url: https://scgs.moe.edu.sg/open-house-2025/
+  - infobar:
       title: DSA Exercise 2025
       id: infobar
       button: More info
