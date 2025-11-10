@@ -59,8 +59,7 @@ variant: tiptap
 <br><a href="https://workspace.google.com" rel="noopener noreferrer nofollow" target="_blank">Student iCON</a> 
 <br><a href="https://scgs.schoolhub.sg/" rel="noopener noreferrer nofollow" target="_blank">Project Work/ Sabbaticals Portal</a> 
 <br><a href="https://schoolibrary.moe.edu.sg/singaporechinesegirlssec/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME" rel="noopener noreferrer nofollow" target="_blank">Spydus</a>
-</p>
-<p><a href="/files/VIA_Form_2025_updated_15_Nov.pdf" rel="noopener nofollow" target="_blank">VIA Form</a>
+<br><a href="/files/VIA_Form_2025_updated_15_Nov.pdf" rel="noopener nofollow" target="_blank">VIA Form</a>
 </p>
 </td>
 </tr>
