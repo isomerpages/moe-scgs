@@ -34,7 +34,7 @@ description: ""
 <p>Open</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>12 November 2025</p>
+<p>28 November 2025</p>
 </td>
 </tr>
 </tbody>
