@@ -11,6 +11,8 @@ Parents of prospective students are welcome to apply and join SCGS as Parent Vol
 
 **Parent Volunteers Application**
 
+(The application has closed wef 16 Nov 2025)
+
 If your child is born between 2 Jan 2021 and 1 Jan 2022 (both dates inclusive), you may apply for Parent Volunteer online from mid-Jun 2025.  You may refer to the following timeline to understand the procedural flow for Parent Volunteers.
 
 | TIMELINE 	| APPLICATION PROCEDURES 	|
