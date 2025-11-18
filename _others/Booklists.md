@@ -5,6 +5,18 @@ variant: tiptap
 description: ""
 ---
 <h2>2026 Booklists</h2>
+<p><a href="/files/SCGSP_BOOKLIST_2026_P1.pdf" rel="noopener nofollow" target="_blank">Pri 1 Booklist</a>
+</p>
+<p><a href="/files/SCGSP_BOOKLIST_2026_P2.pdf" rel="noopener nofollow" target="_blank">Pri 2 Booklist</a>
+</p>
+<p><a href="/files/SCGSP_BOOKLIST_2026_P3.pdf" rel="noopener nofollow" target="_blank">Pri 3 Booklist</a>
+</p>
+<p><a href="/files/SCGSP_BOOKLIST_2026_P4.pdf" rel="noopener nofollow" target="_blank">Pri 4 Booklist</a>
+</p>
+<p><a href="/files/SCGSP_BOOKLIST_2026_P5.pdf" rel="noopener nofollow" target="_blank">Pri 5 Booklist</a>
+</p>
+<p><a href="/files/SCGSP_BOOKLIST_2026_P6.pdf" rel="noopener nofollow" target="_blank">Pri 6 Booklist</a>
+</p>
 <p>Sec 1 Booklist (SEC) - Will be available after school posting results
 are released.</p>
 <p>Sec 1 Booklist (IP) - Will be available after school posting results are
