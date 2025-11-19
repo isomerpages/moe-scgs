@@ -18,9 +18,4 @@ sections:
       id: infobar
       button: More Info
       url: https://scgs.moe.edu.sg/open-house-2025/
-  - infobar:
-      title: DSA Exercise 2025
-      id: infobar
-      button: More info
-      url: https://www.scgs.moe.edu.sg/prospective-students/secondary-admission/direct-school-admission/
 ---
