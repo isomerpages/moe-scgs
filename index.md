@@ -14,8 +14,8 @@ sections:
       button: Contact Us
       url: /contact-us/
   - infobar:
-      title: Open House 2025
+      title: Sec 1 Students 2026
       id: infobar
       button: More Info
-      url: https://scgs.moe.edu.sg/open-house-2025/
+      url: https://scgs.moe.edu.sg/sec-1-students-2026/
 ---
