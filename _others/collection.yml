@@ -2,6 +2,7 @@ collections:
   others:
     output: true
     order:
+      - Sec 1 Students 2026.md
       - Booklists.md
       - Careers.md
       - Useful Links.md
