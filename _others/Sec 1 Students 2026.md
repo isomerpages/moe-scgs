@@ -19,7 +19,7 @@ released. Click the link and complete the online form to confirm the acceptance
 of your place in SCGS.</p>
 <p></p>
 <h3><strong>2. Registration for Secondary 1 2026 after Posting Day (December)</strong></h3>
-<p><strong>Mode of Registration &amp; Notification: </strong> Parents' Gateway
+<p><strong>Mode of Registration &amp; Notification: </strong>Parents' Gateway
 <br><strong>Platform for Registration:</strong> Online Form Registration Link
 sent via Parents’ Gateway.
 <br>
