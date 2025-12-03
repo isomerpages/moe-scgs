@@ -104,7 +104,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:zheng_minghui_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Zheng Minghui</a>
+<p><a href="mailto:zheng_minghui_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Zheng</a>
 </p>
 </td>
 </tr>
