@@ -89,8 +89,7 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Information Technology /
-<br>Media Resource Library</p>
+<p>Information Technology</p>
 </td>
 </tr>
 <tr>
@@ -271,8 +270,7 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:anusuya_doraisingham@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Anusuya Doraisingham</a> 
-<br><a href="mailto:lee_guat_keow@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lee Guat Keow</a>
+<p><a href="mailto:anusuya_doraisingham@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Anusuya Doraisingham</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
