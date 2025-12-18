@@ -54,5 +54,16 @@ appeals due to limited or no vacancies following S1 Posting.</p>
 <p>Our COP for 2026 Admission:</p>
 <p>SEC: to be announced after 9am on 19<sup> </sup>December</p>
 <p>IP: to be announced after 9am on 19<sup> </sup>December</p>
+<p>Students who wish to appeal for admission <strong>must meet our actual COP for this year’s S1 Posting</strong>.
+School transfers will be subject to available vacancies and meeting the
+school’s admission criteria. SCGS will need time to process the appeals,
+and the outcome may only be available from mid-January. While schools have
+the discretion to consider appeal requests, they may not be able to accept
+appeals due to limited or no vacancies following S1 Posting.</p>
+<p>Our COP for 2026 Admission:</p>
+<p>SEC: to be announced after 9am on 19<sup> </sup>December</p>
+<p>IP: to be announced after 9am on 19<sup> </sup>December</p>
+<p>Online appeal for Entry: <a href="https://go.gov.sg/sec1appealsforadmission2026" rel="noopener nofollow" target="_blank">sec1appealsforadmission2026</a>
+</p>
 <p></p>
 <p></p>
