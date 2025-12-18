@@ -4,33 +4,55 @@ permalink: /sec-1-students-2026/
 variant: tiptap
 description: ""
 ---
-<h4><strong>1. DSA 2025 Exercise Successful Candidates&nbsp;</strong></h4>
-<p>DSA students who have accepted Confirmed Offers and Waiting List Offers
-will not receive PAE (Primary School Admission Exercise) Documents. You
-will be posted to the school preferences indicated in your DSA options
-subject to availability of places.</p>
-<p>You do not need to make any options for Schools.</p>
-<p>However, check your documents to determine if you are eligible to study
-a Third Language. You must indicate your interest in taking up a Third
-Language should you be eligible to do so. All submissions must be done
-through your Primary School.</p>
-<p>You will receive a link in December the day after Posting Results are
-released. Click the link and complete the online form to confirm the acceptance
-of your place in SCGS.</p>
-<p></p>
-<h3><strong>2. Registration for Secondary 1 2026 after Posting Day (December)</strong></h3>
-<p><strong>Mode of Registration &amp; Notification: </strong>Parents' Gateway
-<br><strong>Platform for Registration:</strong> Online Form Registration Link
-sent via Parents’ Gateway.
-<br>
-<br><strong>Registration</strong>
+<h4><strong>1. Registration for Secondary 1 2026</strong></h4>
+<p><strong>Mode of Registration &amp; Notification:</strong> Parents Gateway</p>
+<p><strong>Platform for Registration:</strong> Online Form Registration</p>
+<p><strong><u>Registration</u></strong>
 </p>
-<p>2025 Sec 1 students will <u>not</u> need to report physically to school
-after receiving their posting.</p>
-<p>Parents will receive a message via Parents’ Gateway (PG) to register with
-the school and confirm acceptance or rejection of their daughter’s posting
-to SCGS.</p>
+<p>ALL 2026 Sec 1 students will be required to register online.</p>
+<p><strong>Timeline:</strong>
+</p>
+<p><strong>19 Dec:</strong> Sec 1 Posting results</p>
+<p><strong>22 Dec:</strong> Registration Link sent via Parents’ Gateway by
+12pm. Parents will receive a message via Parents’ Gateway (PG) to register
+with the school and confirm acceptance of their daughter’s posting to SCGS.</p>
+<p><strong>26 Dec:</strong> Parents to complete registration.</p>
 <p>Please ensure that you have registered and updated your password for access
-to PG.</p>
+to PG. (Singpass)</p>
+<p>This message will contain:</p>
+<p>1. A unique link* for registration and acceptance of the offer of a place
+in SCGS.</p>
+<p>2. Documents giving general information about the school (School Hours)</p>
+<p>3. Information about the First Day of School and Orientation.</p>
+<p>4. Administrative Instructions (eg: Application for Car Decal &amp; ID
+passes etc..)</p>
+<p>5. SCGS Parent Support Group (PSG) Information and registration.</p>
+<p>[* <em>This </em><strong><em><u>unique link</u></em></strong><em> to a registration form will be sent to you. Each link contains information relevant only to your daughter. (eg: Eligibility for Third Language, Higher Mother Tongue etc .. )</em>]
+Please <strong><u>DO NOT SHARE</u></strong> this link in your chat groups
+as students will receive different options.</p>
+<p>Parents will receive notifications <strong><u>at different times</u></strong> as
+the options for students are different.</p>
+<p>Parents will starting receiving notifications via PG from 9am on <strong>Monday 22 December.</strong> Contact
+the School only if you have not received this registration link by 4.30pm.</p>
+<p>Complete your registration by 5pm on <strong>Friday 26 December.</strong>
+</p>
+<h3><strong>2. Students Eligible for Third Language</strong></h3>
+<p>Students must confirm the acceptance of the offer and complete the online
+registration at:</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moelc.moe.edu.sg/</a>
+</p>
+<p>From Friday, 26 December 2025 to Wednesday, 7 January 2026.</p>
+<p>Student who wish to register for Chinese as a Special Programme (CSP)or
+Malay as a Special Programme (MSP), must approach the school for details.</p>
+<h3><strong>3. Appeals for Entry</strong></h3>
+<p>Students who wish to appeal for admission <strong>must meet our actual COP for this year’s S1 Posting</strong>.
+School transfers will be subject to available vacancies and meeting the
+school’s admission criteria. SCGS will need time to process the appeals,
+and the outcome may only be available from mid-January. While schools have
+the discretion to consider appeal requests, they may not be able to accept
+appeals due to limited or no vacancies following S1 Posting.</p>
+<p>Our COP for 2026 Admission:</p>
+<p>SEC: to be announced after 9am on 19<sup> </sup>December</p>
+<p>IP: to be announced after 9am on 19<sup> </sup>December</p>
 <p></p>
 <p></p>

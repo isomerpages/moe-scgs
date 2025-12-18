@@ -89,8 +89,7 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Information Technology /
-<br>Media Resource Library</p>
+<p>Information Technology</p>
 </td>
 </tr>
 <tr>
@@ -124,18 +123,6 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_cailing_corinna@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Corinna Tan</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Science</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="tan_mei_yin_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Sree-Tan Mei Yin</a>
 </p>
 </td>
@@ -166,18 +153,6 @@ variant: markdown
 </td>
 <td rowspan="1" colspan="1">
 <p>Information Technology</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:phua_ying-li@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mdm Phua Ying-Li</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>PE &amp; CCA</p>
 </td>
 </tr>
 <tr>
@@ -241,7 +216,20 @@ variant: markdown
 <p>P5</p>
 </td>
 </tr><tr>
+	</tr><tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Leong_KAI_YUN@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Leong Kai Yun</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P4</p>
+</td>
+</tr>
+
+<tr><td rowspan="1" colspan="1">
 	<p><strong>Discipline Teacher-in-Charge</strong></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -271,8 +259,7 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:anusuya_doraisingham@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Anusuya Doraisingham</a> 
-<br><a href="mailto:lee_guat_keow@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lee Guat Keow</a>
+<p><a href="mailto:anusuya_doraisingham@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Anusuya Doraisingham</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
