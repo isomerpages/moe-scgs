@@ -36,17 +36,14 @@ the options for students are different.</p>
 the School only if you have not received this registration link by 4.30pm.</p>
 <p>Complete your registration by 5pm on <strong>Friday 26 December.</strong>
 </p>
-<p></p>
 <h3><strong>2. Students Eligible for Third Language</strong></h3>
 <p>Students must confirm the acceptance of the offer and complete the online
 registration at:</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moelc.moe.edu.sg/</a>
 </p>
 <p>From Friday, 26 December 2025 to Wednesday, 7 January 2026.</p>
-<p>&nbsp;</p>
 <p>Student who wish to register for Chinese as a Special Programme (CSP)or
 Malay as a Special Programme (MSP), must approach the school for details.</p>
-<p></p>
 <h3><strong>3. Appeals for Entry</strong></h3>
 <p>Students who wish to appeal for admission <strong>must meet our actual COP for this year’s S1 Posting</strong>.
 School transfers will be subject to available vacancies and meeting the
