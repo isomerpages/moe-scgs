@@ -17,10 +17,10 @@ description: ""
 </p>
 <p><a href="/files/SCGSP_BOOKLIST_2026_P6.pdf" rel="noopener nofollow" target="_blank">Pri 6 Booklist</a>
 </p>
-<p>Sec 1 Booklist (SEC) - Will be available after school posting results
-are released.</p>
-<p>Sec 1 Booklist (IP) - Will be available after school posting results are
-released.</p>
+<p><a href="/files/Booklists/2026_Booklist_S1_SEC.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Booklist (SEC)</a>
+</p>
+<p><a href="/files/Booklists/2026_Booklist_S1_IP.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Booklist (IP)</a>
+</p>
 <p><a href="/files/Booklists/2026_Booklist_S2_SEC.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Booklist (SEC)</a>
 </p>
 <p><a href="/files/Booklists/2026_Booklist_S2_IP.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Booklist (IP)</a>
