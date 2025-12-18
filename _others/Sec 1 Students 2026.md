@@ -18,7 +18,7 @@ description: ""
 with the school and confirm acceptance of their daughter’s posting to SCGS.</p>
 <p><strong>26 Dec:</strong> Parents to complete registration.</p>
 <p>Please ensure that you have registered and updated your password for access
-to PG. (SIngpass)</p>
+to PG. (Singpass)</p>
 <p>This message will contain:</p>
 <p>1. A unique link* for registration and acceptance of the offer of a place
 in SCGS.</p>
