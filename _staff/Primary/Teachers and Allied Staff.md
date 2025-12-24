@@ -37,7 +37,7 @@ variant: markdown
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ming_loh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Ming Loh</a>
+<p><a href="mailto:tan_hong_peng_shirley@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Shirley Tan (Acting)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -61,7 +61,7 @@ variant: markdown
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_kim_neo_annie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Annie Tan</a>
+<p><a href="mailto:Tan_hui_ling_valerie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Valerie Tan</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -106,6 +106,18 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_simon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Simon Lee</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>School Staff Developer</strong>
 </p>
 </td>
@@ -134,18 +146,6 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p><strong>Subject Head</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_hong_peng_shirley@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Tan Hong Peng Shirley</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chinese Languague</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sin_yue_ting_melissa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Melissa Sin</a>
