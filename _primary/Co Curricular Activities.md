@@ -21,4 +21,4 @@ Through Physical Sports, the&nbsp;students develop&nbsp;resilience, fair play an
 **The Uniformed Groups**&nbsp;aim to make a good citizen of the student by inculcating in her self-reliance, discipline, resilience and servitude to the community.
 
 **CCA Schedule**&nbsp;<br>
-Click [here](https://www.scgs.moe.edu.sg/files/2025_scgs_primary_cca_schedule.pdf) for more information.
+Click [here](https://www.scgs.moe.edu.sg/files/2026_scgps_cca_schedule.pdf) for more information.
