@@ -275,7 +275,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:teh_pei_shan@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Tan Pei Shan</a>
+<p><a href="mailto:jace_yeoh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Jace Yeoh</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -287,7 +287,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:jace_yeoh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Jace Yeoh</a>
+<p><a href="mailto:teh_pei_shan@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Tan Pei Shan</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -299,7 +299,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Nurul_Dini_Abdul_Rahim@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Nurul Dini Abdul Rahim</a>
+<p><a href="mailto:ong_puay_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Lee Puay Leng</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -311,7 +311,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ong_puay_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Lee Puay Leng</a>
+<p><a href="mailto:Nurul_Dini_Abdul_Rahim@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Nurul Dini Abdul Rahim</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
