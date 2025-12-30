@@ -157,18 +157,6 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:wong_see_wan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Wong See Wan</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Special Projects</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Year Head</strong>
 </p>
 </td>
