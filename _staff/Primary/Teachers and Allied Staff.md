@@ -197,7 +197,7 @@ variant: markdown
 	<p><strong>Assistant Year Head</strong></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:koo_lu-ming_sheralyn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Sandy Lim</a>
+<p><a href="mailto:lim_xue_li_sandy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Miss Sandy Lim</a> (Acting)
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -209,7 +209,7 @@ variant: markdown
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Leong_KAI_YUN@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Leong Kai Yun</a>
+<p><a href="mailto:Leong_KAI_YUN@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Leong Kai Yun</a> (Acting)
 </p>
 </td>
 <td rowspan="1" colspan="1">
