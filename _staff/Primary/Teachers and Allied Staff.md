@@ -135,7 +135,7 @@ variant: markdown
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="tan_mei_yin_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Sree-Tan Mei Yin</a>
+<p><a href="mailto:tan_mei_yin_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Sree-Tan Mei Yin</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
