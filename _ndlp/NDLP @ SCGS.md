@@ -36,4 +36,4 @@ There are four sections in the Guidelines: 
 
 As part of the NDLP, we will be encouraging our _kim geks_ to follow this set of guidelines on the safe and responsible practices of PLD use, to support daily teaching and learning in school. 
 
-Updated as of 12 January 2024
+Updated as of 9 January 2026
