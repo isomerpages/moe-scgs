@@ -45,7 +45,7 @@ environment, please download and refer to the following handbooks.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/dmaparentguide-ipad" rel="noopener nofollow" target="_blank">DMA Parent Guides</a>
+<p><a href="https://for.edu.sg/dmaparentguide-scgs" rel="noopener nofollow" target="_blank">DMA Parent Guides</a>
 </p>
 </td>
 </tr>
