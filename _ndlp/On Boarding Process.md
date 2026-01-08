@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h1><strong>On-Boarding Process</strong></h1>
-<p>As part of NDLP, the school will be making arrangements for 2025 Secondary
+<p>As part of NDLP, the school will be making arrangements for 2026 Secondary
 One students to purchase their Personal Learning Device (PLD) by the first
 Semester.</p>
 <p></p>
@@ -18,7 +18,7 @@ Semester.</p>
 <p>Apple iPad (Wi-Fi)</p>
 </li>
 <li>
-<p>3 years warranty and insurance</p>
+<p>4 years warranty and insurance</p>
 </li>
 <li>
 <p>Device Management Application (DMA)</p>
@@ -60,6 +60,6 @@ subsidies for the PLD purchase. The school will confirm again with students
 should they need to reapply for financial assistance. More information
 will be shared by the school at a later date.</p>
 <p></p>
-<p>Updated as of 20 January 2025</p>
+<p>Updated as of 9 January 2026</p>
 <p></p>
 <p></p>
