@@ -26,7 +26,7 @@ With a DMA, our students can be better supported in their use of technology to e
 
 While the DMA helps manage students’ use of PLDs and promotes cyber wellness, schools and parents need to continue working together in teaching our students’ good digital habits and develop self-regulation skills to ensure devices are used safely and responsibly both during school and after- school hours.
 
-[DMA Parent Guides](https://go.gov.sg/dmaparentguide-ipad)
+[DMA Parent Guides](https://for.edu.sg/dmaparentguide-scgs)
 
 ### **Cyber Wellness Education** 
 
