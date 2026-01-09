@@ -34,4 +34,4 @@ In SCGS, we believe in the holistic development of a child. We nurture students 
 
 The Cyber Wellness lessons in CCE focus on the positive physical and psychological well-being of students as they navigate the cyber world. It involves the understanding of the norms of responsible behaviour regarding technology use as well as knowledge, skills, values and attitudes on how to protect oneself and other users in the cyber world. 
 
-Updated as of 28 October 2024.
+Updated as of 9 January 2026.
