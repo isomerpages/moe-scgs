@@ -73,7 +73,7 @@ Technical support will be provided to students through a service-desk set up in 
 
 Should the devices need more extensive repairs, students with existing Apple iPad PLDs would need to send the devices to the service centre on their own. These devices are not covered under MOE and hence not entitled to the warranty and insurance coverage.
 
-In the event that the device is damaged after your child graduates from the school, as long as the device was bought through the school and is still within the 3 year warranty and insurance period, the device can be brought directly to the Apple Service centre for repairs. 
+In the event that the device is damaged after your child graduates from the school, as long as the device was bought through the school and is still within the 4 year warranty and insurance period, the device can be brought directly to the Apple Service centre for repairs. 
 
 **Q10. Do the devices come with antivirus software preinstalled?**
 
