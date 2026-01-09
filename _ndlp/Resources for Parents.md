@@ -29,12 +29,11 @@ additional resources and kits:</p>
 environment, please download and refer to the following handbooks.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/IP2___Parent_Handbook__I__2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (I)</a>
-</p>
-<p>
-<br><a href="/files/IP3___Parent_Handbook__II__2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (II)</a>
+<p><a href="/files/NDLP Files/parent_handbook_i_2026.pdf" rel="noopener nofollow" target="_blank">Parent Handbook (I)</a>
 </p>
 <p></p>
+<p><a href="/files/NDLP Files/parent_handbook_ii_2026.pdf" rel="noopener nofollow" target="_blank">Parent Handbook (II)</a>
+</p>
 </td>
 </tr>
 <tr>
