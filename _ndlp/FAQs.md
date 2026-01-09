@@ -41,13 +41,11 @@ For a smooth learning experience, it is strongly encouraged that each student ha
 
 **Q4. What is the insurance coverage for the iPad?**
 
-Under the enhanced bundle, the iPads will have 3-year warranty and 3-year insurance. This will include 2 repairs or 1 replacement claim. Once insurance is claimed for a replacement device, the insurance coverage will cease. The replacement device will not be covered by insurance.  
+Under the enhanced bundle, the iPads will have 4-year warranty and 4-year insurance. This will include 2 repairs or 1 replacement claim. Once insurance is claimed for a replacement device, the insurance coverage will cease. The replacement device will not be covered by insurance.  
 
 The insurance will cover fire, lightning, power surges, accidental cause e.g. water spillage, drop etc., theft due to forcible entry and robbery. Accidental loss however, will not be covered by insurance. The insurance coverage is only applicable to situations of damages and loss where the student has taken precautions to safeguard the device. 
 
-In the event that the device is damaged after your child graduates from the school, as long as the device was bought through the school and is still within the 3 year warranty and insurance period, the device can be brought directly to the Apple Service centre for repairs. 
-
-Insurance coverage is for the main device only and does not cover accessories e.g. stylus, keyboard, etc.
+In the event that the device is damaged after your child graduates from the school, as long as the device was bought through the school and is still within the 4 year warranty and insurance period, the device can be brought directly to the Apple Service centre for repairs. 
 
 **Q5. What do I do if my device is lost? Does the insurance cover it?**
 
@@ -101,4 +99,4 @@ The school will uninstall the device management applications (DMA) from the devi
 
 **For more information please email us at [scgss@moe.edu.sg](mailto:scgss@moe.edu.sg)**
 
-Updated as of 20 January 2025
+Updated as of 9 January 2026

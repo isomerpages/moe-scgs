@@ -26,7 +26,7 @@ With a DMA, our students can be better supported in their use of technology to e
 
 While the DMA helps manage students’ use of PLDs and promotes cyber wellness, schools and parents need to continue working together in teaching our students’ good digital habits and develop self-regulation skills to ensure devices are used safely and responsibly both during school and after- school hours.
 
-[DMA Parent Guides](https://go.gov.sg/dmaparentguide-ipad)
+[DMA Parent Guides](https://for.edu.sg/dmaparentguide-scgs)
 
 ### **Cyber Wellness Education** 
 
@@ -34,4 +34,4 @@ In SCGS, we believe in the holistic development of a child. We nurture students 
 
 The Cyber Wellness lessons in CCE focus on the positive physical and psychological well-being of students as they navigate the cyber world. It involves the understanding of the norms of responsible behaviour regarding technology use as well as knowledge, skills, values and attitudes on how to protect oneself and other users in the cyber world. 
 
-Updated as of 28 October 2024.
+Updated as of 9 January 2026.
