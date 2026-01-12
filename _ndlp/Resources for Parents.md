@@ -174,6 +174,19 @@ understand and manage your mental health.</p>
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Parenting for Wellness<br><br></strong>Explore practical strategies
+from HealthHub to support your child’s mental and emotional health while
+helping you navigate the challenges of parenting in the digital age.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.healthhub.sg/programmes/parent-hub/parentingforwellness" rel="noopener nofollow" target="_blank">Click Here</a>
+<br>
+<br><a href="https://file.go.gov.sg/pfw-toolbox-for-parents.pdf" rel="noopener nofollow" target="_blank">Digital Toolbox for Parents</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
