@@ -38,6 +38,8 @@ variant: tiptap
 </p>
 <p><a href="/files/2026_Info_on_SEd_for_SCGS.pdf" rel="noopener nofollow" target="_blank">Sexuality Education Information (Secondary)</a>
 </p>
+<p><a href="/apply-for-egiro-secondary/" rel="noopener nofollow" target="_blank">Apply for eGIRO (Secondary)</a>
+</p>
 </td>
 </tr>
 <tr>
