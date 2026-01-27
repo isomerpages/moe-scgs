@@ -76,7 +76,7 @@ In the Secondary School, the monthly fees are as follows:
 
 In SCGS, we strongly believe that no deserving student should be deprived of an education. We have in place a comprehensive school-based Financial Assistance scheme to support our students. Application forms for financial assistance are available from&nbsp;[SCGS website](/prospective-students/financial-assistance/)&nbsp;and General Office.
 
-School fees and miscellaneous fees are due and payable quarterly in advance and deducted through GIRO.
+Secondary School fees and miscellaneous fees are due and payable quarterly in advance and deducted through GIRO. Please click here for E-GIRO Application for Secondary School Fee.
 
 Fees, once paid or deducted, will not be refunded.
 
