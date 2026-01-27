@@ -22,7 +22,8 @@ through this page:</p>
 <p>Note: You will be redirected to a website hosted by Taidii Pte. Ltd.,
 the service provider for eGIRO with the school.</p>
 <p>Please avoid submitting duplicate applications for the same request.</p>
-<p>Refer to the user guide for the steps to sign up.</p>
+<p>Refer to the <a href="/files/SCGS_E_GIRO_APPLICATION_USER_GUIDE.pdf" rel="noopener noreferrer nofollow" target="_blank">user guide</a> for
+the steps to sign up.</p>
 <p>View GIRO related questions:</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
