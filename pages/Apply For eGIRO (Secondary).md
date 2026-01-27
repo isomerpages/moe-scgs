@@ -12,10 +12,10 @@ fees, where applicable.</p>
 <p>Account holders from the following banks can sign up for the GIRO scheme
 through this page:</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/eGIROBANK1.png">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/eGIROBANK1.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/eGIROBANK2.png">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/eGIROBANK2.png">
 </div>
 <p><strong>You cannot use the Child Development Account (CDA) to sign up for the GIRO scheme.</strong>
 </p><a class="isomer-image-wrapper" href="https://for.edu.sg/scgssegiro"><img style="width: 18%;" height="auto" width="100%" alt="" src="/images/APPLYeGIRO.png"></a>
