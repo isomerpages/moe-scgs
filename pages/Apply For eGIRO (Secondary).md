@@ -20,3 +20,7 @@ through this page:</p>
 <p><strong>You cannot use the Child Development Account (CDA) to sign up for the GIRO scheme.</strong>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/APPLYeGIRO.png">
+</div>
+<p></p>
