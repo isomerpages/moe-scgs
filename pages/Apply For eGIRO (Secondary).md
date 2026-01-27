@@ -50,9 +50,33 @@ for your child individually.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary>3. Why am I being redirected to a Taidii Ptd. Ltd website?</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>You will be redirected to a website hosted by Taidii Ptd. Ltd., the service
+provider for eGIRO with the school.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>4. Can I use the Child Development Account (Baby Bonus Scheme) for eGIRO
+Application?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Child Development Account (Baby Bonus Scheme) cannot be used for payment
+of school fees in schools as schools are not Approved Institutions (AI)
+under the Baby Bonus Scheme.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>5. My company can pay for my child's fee through GIRO. Can I use the portal
+to sign up for eGIRO?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>eGIRO is only for individual bank accounts.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>6. How do I terminate my child's existing GIRO arrangement?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Account holders can login to their respective banks' online banking portals
+to terminate the existing GIRO.</p>
 </div>
 </details>
 </div>
