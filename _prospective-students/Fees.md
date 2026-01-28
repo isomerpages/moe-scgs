@@ -80,4 +80,4 @@ Secondary School fees and miscellaneous fees are due and payable quarterly in ad
 
 Fees, once paid or deducted, will not be refunded.
 
-(As at 16 September 2024)
+(As at 28 January 2026)
