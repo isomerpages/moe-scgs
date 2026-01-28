@@ -2,7 +2,7 @@
 title: Useful Links
 permalink: /useful-links/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <h1><strong>Useful Links</strong></h1>
 <table style="minWidth: 50px">
@@ -35,8 +35,8 @@ variant: tiptap
 <p><strong>Parents</strong> 
 <br>
 <br><a href="/school-service-providers/" rel="noopener noreferrer nofollow" target="_blank">School Service Provider (Books, Uniform)</a>
-</p>
-<p><a href="/files/2026_Info_on_SEd_for_SCGS.pdf" rel="noopener nofollow" target="_blank">Sexuality Education Information (Secondary)</a>
+<br><a href="/files/2026_Info_on_SEd_for_SCGS.pdf" rel="noopener nofollow" target="_blank">Sexuality Education Information (Secondary)</a>
+<br><a href="/apply-for-egiro-secondary/" rel="noopener nofollow" target="_blank">Apply for eGIRO (Secondary)</a>
 </p>
 </td>
 </tr>
