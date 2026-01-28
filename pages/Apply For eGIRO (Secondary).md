@@ -78,4 +78,4 @@ to terminate the existing GIRO.</p>
 </div>
 </details>
 </div>
-<p></p>
+<p>(As at 28 January 2026)</p>
