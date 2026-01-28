@@ -77,5 +77,12 @@ to sign up for eGIRO?</summary>
 to terminate the existing GIRO.</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary>7. How do I set my GIRO deduction limit?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Please ensure that your GIRO deduction limit is set to at least the amount
+of your quarterly school fees and miscellaneous fees.</p>
+</div>
+</details>
 </div>
 <p>(As at 28 January 2026)</p>
