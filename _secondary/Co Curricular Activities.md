@@ -39,8 +39,8 @@ foster creativity and a sense of camaraderie.</p>
 <br>Netball
 <br>Squash
 <br>Tennis
-<br>Hockey
-<br>Girls Football - Cluster CCA@ Yishun Secondary School</p>
+<br>Hockey (Combined CCA with Queensway Secondary School)
+<br>CCA@ Yishun Secondary School</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Band
@@ -66,7 +66,7 @@ foster creativity and a sense of camaraderie.</p>
 <td rowspan="1" colspan="1">
 <p>Girls' Brigade
 <br>Girl Guides
-<br>National Cadet Corps (NCC)
+<br>National Cadet Corps (Land)
 <br>Red Cross</p>
 </td>
 <td rowspan="1" colspan="1">
