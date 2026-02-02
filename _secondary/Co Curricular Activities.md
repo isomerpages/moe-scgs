@@ -39,8 +39,7 @@ foster creativity and a sense of camaraderie.</p>
 <br>Netball
 <br>Squash
 <br>Tennis
-<br>Hockey (Combined CCA with Queensway Secondary School)
-<br>CCA@ Yishun Secondary School</p>
+<br>Hockey (Combined CCA with Queensway Secondary School)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Band
