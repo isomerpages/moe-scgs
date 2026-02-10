@@ -27,7 +27,7 @@ variant: markdown
 <br>
 <br><a href="/school-service-providers/" rel="noopener noreferrer nofollow" target="_blank">School Service Provider (Books, Uniform)</a> 
 <br><a href="/school-bus-service/" rel="noopener noreferrer nofollow" target="_blank">School Bus Services</a> 
-<br><a href="/files/Sexuality_Education_Information_Primary.pdf" rel="noopener noreferrer nofollow" target="_blank">Sexuality Education Information (Primary)</a> 
+<br><a href="/files/Sexuality_Education_Information_Primary_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Sexuality Education Information (Primary)</a> 
 <br>
 </p>
 </td>
