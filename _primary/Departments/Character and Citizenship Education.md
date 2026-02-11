@@ -17,7 +17,7 @@ Character and Citizenship Education (CCE) is integral to the holistic developmen
 
 Our key programmes include CCE (FTGP), CCE (MTL) lessons, Key Student Development Experiences and  School-based initiatives.
 
-These lessons include CCE Form Teacher Guidance Period (FTGP), CCE Mother Tongue Languages (MTL), Lifeskills and Programme for Active Learning (PAL) provide the time for teachers to engage  and build relationships with their students through discussions and effective classroom strategies.  Some key features of the CCE(MTL) and CCE(FTGP) lessons include  Family Education, Mental Health and [Sexuality Education](https://www.scgs.moe.edu.sg/files/Sexuality_Education_Information_Primary.pdf).
+These lessons include CCE Form Teacher Guidance Period (FTGP), CCE Mother Tongue Languages (MTL), Lifeskills and Programme for Active Learning (PAL) provide the time for teachers to engage  and build relationships with their students through discussions and effective classroom strategies.  Some key features of the CCE(MTL) and CCE(FTGP) lessons include  Family Education, Mental Health and [Sexuality Education](https://www.scgs.moe.edu.sg/files/Sexuality_Education_Information_Primary_2026.pdf).
 
 Key Student Development Experiences (SDEs) include Co-curricular Activities (CCA), Cohort Learning  Journeys (LJs), Education and Career Guidance (ECG) Experiences, National Education (NE)  Commemorative Days, Outdoor Adventure Learning (OAL) Cohort camps, Student Leadership  Development (SLD) Programmes and Values in Action (VIA), including everyday responsibilities. These  meaningful experiences enrich our students’ learning in school.
 
