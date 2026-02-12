@@ -33,6 +33,12 @@ of our students. We offer the following DSA Talent Areas across both tracks:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Website_DSA2025.png">
 </div>
-<h4><br></h4>
+<p><a href="/files/Annex_A_SCGS_DSA_Info_Sheet_2025_Final__7_May_.pdf" rel="noopener noreferrer nofollow" target="_blank">DSA 2025 Infosheet </a>valid
+for Sec 1 2026 Entry only. This valid for the DSA 2025 Exercise only. It
+is NOT BINDING for the DSA 2026 Exercise.</p>
+<p>Updated DSA 2026 Information will be posted after the official press release
+is made in May 2026.
+<br>
+</p>
 <h3><br></h3>
 <p></p>
