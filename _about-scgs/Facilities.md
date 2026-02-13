@@ -12,7 +12,7 @@ Seated at the prime location of [190 Dunearn Road](https://www.google.com/maps/
 
 Home to our students, our _kim geks_ (‘gold’ and ‘jade’ in Hokkien), we welcome you to this precious space – replete with its refurbished facilities to provide a safe, comfortable and aesthetically pleasing experience!
 
-For all booking requests, please email the  [Facility Booking Enquiry Form](/files/2025_Facility_Application_Form_Public.pdf) (including [Annex A](https://docs.google.com/spreadsheets/d/18EOvyepwzH4hzRO9hvdf6rbcbZmDcfRP/edit?usp=sharing&ouid=109580819555347129152&rtpof=true&sd=true) for sports facilities) to [scgss@moe.edu.sg](mailto:scgss@moe.edu.sg). We regret that phone enquiries or emails without these forms cannot be entertained.
+For all booking requests, please email the  [Facility Booking Enquiry Form](/files/2025_Facility_Application_Form_Public.pdf) (including [Annex A](https://drive.google.com/file/d/18EOvyepwzH4hzRO9hvdf6rbcbZmDcfRP/view) for sports facilities) to [scgss@moe.edu.sg](mailto:scgss@moe.edu.sg). We regret that phone enquiries or emails without these forms cannot be entertained.
 
 ### Learning Hub
 
