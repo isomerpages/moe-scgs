@@ -66,8 +66,7 @@ variant: markdown
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Others</strong> 
-<br>
+<p><strong>Others</strong>
 <br>Canteen stall advertisement
 </p>
 </td>
