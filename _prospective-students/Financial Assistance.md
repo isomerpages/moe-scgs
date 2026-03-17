@@ -23,10 +23,11 @@ find out whether your child is eligible for financial assistance.</p>
 or</p>
 </li>
 <li>
-<p>Download the&nbsp;<a href="https://www.moe.gov.sg/financial-matters/-/media/a2155de9879a4d1db7eef286a4451e2c.ashx" rel="noopener noreferrer nofollow" target="_blank">MOE FAS application form</a>&nbsp;and
-submit the completed form with relevant documents via email to <a href="mailto:scgps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">scgps@moe.edu.sg</a> or
-hardcopy to our General Office. You may also collect a copy of the application
-form at our General Office.</p>
+<p>You can also submit your application via Parents Gateway (PG&gt;Services&gt;Financial
+assistance).</p>
+</li>
+<li>
+<p>If you have further queries, please email to <a href="mailto:scgps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">scgps@moe.edu.sg</a>.</p>
 <p></p>
 </li>
 </ul>
@@ -48,7 +49,7 @@ and/or trade income.</p>
 <p>For applicants who do not meet the eligibility for MOE FAS/ISB, SCGS offers
 our own financial assistance schemes. Please email the school if you need
 any assistance.</p>
-<p>Primary Division: <a href="mailto:scgsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">scgsps@moe.edu.sg</a> 
+<p>Primary Division: <a href="mailto:scgsps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">scgsps@moe.edu.sg</a>
 </p>
 <p>Secondary Division: <a href="mailto:scgss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">scgss@moe.edu.sg</a> 
 <br>
