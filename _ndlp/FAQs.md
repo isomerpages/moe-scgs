@@ -32,7 +32,7 @@ To identify your iPad Model, Go to Settings > General > About. To the right of M
 *   iPad (9th generation) (2021)
 *   iPad Mini (6th generation) (2021)
 
-**Q2: Does the iPad replace all hardcopy notes and textbooks?**
+**Q2. Does the iPad replace all hardcopy notes and textbooks?**
 
 Both digital and hard copy materials are in use. Teachers may decide to distribute some worksheets digitally through Google Classroom and then ask students to submit them digitally for feedback. Secondary 1 students learn file management on their iPad during computer studies lessons as part of the technology skills curriculum.
 
