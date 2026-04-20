@@ -5,18 +5,24 @@ description: ""
 third_nav_title: Secondary Admission
 variant: tiptap
 ---
-<p><strong>SCGS DIRECT SCHOOL ADMISSION EXERCISE 2025</strong> 
-<br>(For Admission into <u>Secondary 1 in Year 2026</u>)</p>
-<h4><strong><u>DSA OPTIONS IN SCGS</u></strong></h4>
-<p>Singapore Chinese Girls’ School is a dual-track school offering:</p>
+<p><strong>SCGS DIRECT SCHOOL ADMISSION (DSA) EXERCISE 2026</strong> 
+<br>(For Admission into <u>Secondary 1 in Year 2027</u>)</p>
+<p><strong>CONTENTS</strong>
+</p>
+<p>A. DSA in SCGS</p>
+<p>B. Timeline for DSA Exercise</p>
+<p>C. Criteria for Talent Areas</p>
+<p>D. Curriculum Subjects Offered</p>
+<h4><strong><u>A. DSA OPTIONS IN SCGS</u></strong></h4>
+<p>Singapore Chinese Girls’ School is a <strong>dual-track school</strong> offering:</p>
 <ul>
 <li>
-<p>the 4-year Singapore-Cambridge Secondary Education Certificate (SEC, also
-formerly known as GCE O-Level) Programme, and</p>
+<p>the 6-year Integrated Programme (IP) leading to GCE ‘A’ Level Certificate,
+in partnership with Eunoia Junior College (EJC), and</p>
 </li>
 <li>
-<p>the 6-year Integrated Programme (IP) in partnership with Eunoia Junior
-College.</p>
+<p>the 4-year Secondary Education Certificate (SEC) Programme that leads
+to the Singapore-Cambridge Secondary Education Certificate.</p>
 </li>
 </ul>
 <p>Students who are successfully admitted to the school via DSA are expected
