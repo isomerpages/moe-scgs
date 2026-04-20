@@ -14,8 +14,8 @@ sections:
       button: Contact Us
       url: /contact-us/
   - infobar:
-      title: Sec 1 Students 2026
+      title: DSA Exercise 2026
       id: infobar
       button: More Info
-      url: https://scgs.moe.edu.sg/sec-1-students-2026/
+      url: https://https://www.scgs.moe.edu.sg/prospective-students/secondary-admission/direct-school-admission/
 ---

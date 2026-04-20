@@ -5,39 +5,32 @@ description: ""
 third_nav_title: Secondary Admission
 variant: tiptap
 ---
-<p><strong>SCGS DIRECT SCHOOL ADMISSION EXERCISE 2025</strong> 
-<br>(For Admission into <u>Secondary 1 in Year 2026</u>)</p>
-<h4><strong><u>DSA OPTIONS IN SCGS</u></strong></h4>
-<p>Singapore Chinese Girls’ School is a dual-track school offering:</p>
+<p><strong>SCGS DIRECT SCHOOL ADMISSION (DSA) EXERCISE 2026</strong> 
+<br>(For Admission into <u>Secondary 1 in Year 2027</u>)</p>
+<p><strong>CONTENTS</strong>
+</p>
+<p>A. DSA in SCGS</p>
+<p>B. Timeline for DSA Exercise</p>
+<p>C. Criteria for Talent Areas</p>
+<p>D. Curriculum Subjects Offered</p>
+<h4><strong><u>A. DSA OPTIONS IN SCGS</u></strong></h4>
+<p>Singapore Chinese Girls’ School is a <strong>dual-track school</strong> offering:</p>
 <ul>
 <li>
-<p>the 4-year Singapore-Cambridge Secondary Education Certificate (SEC, also
-formerly known as GCE O-Level) Programme, and</p>
+<p>the 6-year Integrated Programme (IP) leading to GCE ‘A’ Level Certificate,
+in partnership with Eunoia Junior College (EJC), and</p>
 </li>
 <li>
-<p>the 6-year Integrated Programme (IP) in partnership with Eunoia Junior
-College.</p>
+<p>the 4-year Secondary Education Certificate (SEC) Programme that leads
+to the Singapore-Cambridge Secondary Education Certificate.</p>
 </li>
 </ul>
-<p>Students who are successfully admitted to the school via DSA are expected
-to honour their commitment to the school and academic programme (4 years
-for the SEC track or 6 years for the Integrated Programme) and participate
-in the activities related to the talent area they are selected for from
-years 1-4.</p>
-<p></p>
-<p><strong>You will receive notification from the school by <u>1 Aug 2025</u> if your child has been shortlisted to undergo Direct School Admission (DSA) selection. All applicants will receive their application outcomes between <u>25 Aug and 4 Sep 2025</u>.</strong>
-</p>
-<p></p>
-<p>We seek to promote a culture of excellence in the holistic development
-of our students. We offer the following DSA Talent Areas across both tracks:</p>
+<p><a href="/files/SCGS_DSA_Info_Sheet_2026__Final_.pdf" rel="noopener noreferrer nofollow" target="_blank">Download the 2026 DSA Infosheet</a> here.</p>
+<p>We offer the following DSA Talent Areas across both tracks:</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Website_DSA2025.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_2027.png">
 </div>
-<p><a href="/files/Annex_A_SCGS_DSA_Info_Sheet_2025_Final__7_May_.pdf" rel="noopener noreferrer nofollow" target="_blank">DSA 2025 Infosheet </a>valid
-for Sec 1 2026 Entry only. This valid for the DSA 2025 Exercise only. It
-is NOT BINDING for the DSA 2026 Exercise.</p>
-<p>Updated DSA 2026 Information will be posted after the official press release
-is made in May 2026.
+<p>Read about <a href="https://www.moe.gov.sg/schoolfinder/schooldetail/singapore-chinese-girls-school" rel="noopener nofollow" target="_blank">SCGS on MOE School Finder here.</a>
 <br>
 </p>
 <h3><br></h3>
