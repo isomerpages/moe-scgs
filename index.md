@@ -17,5 +17,5 @@ sections:
       title: DSA Exercise 2026
       id: infobar
       button: More Info
-      url: https://https://www.scgs.moe.edu.sg/prospective-students/secondary-admission/direct-school-admission/
+      url: https://www.scgs.moe.edu.sg/prospective-students/secondary-admission/direct-school-admission/
 ---
