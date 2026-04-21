@@ -7,13 +7,6 @@ variant: tiptap
 ---
 <p><strong>SCGS DIRECT SCHOOL ADMISSION (DSA) EXERCISE 2026</strong> 
 <br>(For Admission into <u>Secondary 1 in Year 2027</u>)</p>
-<p><strong>CONTENTS</strong>
-</p>
-<p>A. DSA in SCGS</p>
-<p>B. Timeline for DSA Exercise</p>
-<p>C. Criteria for Talent Areas</p>
-<p>D. Curriculum Subjects Offered</p>
-<h4><strong><u>A. DSA OPTIONS IN SCGS</u></strong></h4>
 <p>Singapore Chinese Girls’ School is a <strong>dual-track school</strong> offering:</p>
 <ul>
 <li>
