@@ -70,16 +70,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Administration Manager</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:christopher_chew@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Christopher Chew</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Finance Manager</strong>
 </p>
 </td>
