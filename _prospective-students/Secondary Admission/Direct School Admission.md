@@ -24,7 +24,12 @@ to the Singapore-Cambridge Secondary Education Certificate.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_2027.png">
 </div>
 <p>Read about <a href="https://www.moe.gov.sg/schoolfinder/schooldetail/singapore-chinese-girls-school" rel="noopener nofollow" target="_blank">SCGS on MOE School Finder here.</a>
-<br>
 </p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_Talk_Postcard_16_May_2026.png">
+</div>
+<p></p><a class="isomer-image-wrapper" href="https://for.edu.sg/scgsdsatalk"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Join_your_Teams_meeting.png"></a>
 <h3><br></h3>
 <p></p>
