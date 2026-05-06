@@ -19,6 +19,8 @@ to the Singapore-Cambridge Secondary Education Certificate.</p>
 </li>
 </ul>
 <p><a href="/files/SCGS_DSA_Info_Sheet_2026__Final_.pdf" rel="noopener noreferrer nofollow" target="_blank">Download the 2026 DSA Infosheet</a> here.</p>
+<p><a href="https://sites.google.com/moe.edu.sg/scgs-dsa-talent-areas/home" rel="noopener nofollow" target="_blank">Visit our DSA Microsite.</a>
+</p>
 <p>We offer the following DSA Talent Areas across both tracks:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_2027.png">
