@@ -30,5 +30,5 @@ to the Singapore-Cambridge Secondary Education Certificate.</p>
 <p></p>
 <p></p><a class="isomer-image-wrapper" href="https://for.edu.sg/scgsdsatalk"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_Talk_Postcard_16_May_2026.png"></a>
 <p></p><a class="isomer-image-wrapper" href="https://for.edu.sg/scgsdsatalk"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Join_your_Teams_meeting.png"></a>
-<h3><br></h3>
+<h3>u<br></h3>
 <p></p>
