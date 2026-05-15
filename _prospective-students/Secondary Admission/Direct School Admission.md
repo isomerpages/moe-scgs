@@ -43,15 +43,8 @@ to the Singapore-Cambridge Secondary Education Certificate.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teams meeting</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Link</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>DSA TALK 2026</p>
+<p><strong>DSA TALK</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="https://for.edu.sg/scgsdsatalk" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/scgsdsatalk</a></strong>
@@ -60,18 +53,41 @@ to the Singapore-Cambridge Secondary Education Certificate.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>ACADEMIC TALENTS</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="https://for.edu.sg/scgsacad" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/scgsacad</a></strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>DSA SPORTS</p>
+<p><strong>LEADERSHIP</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://for.edu.sg/dsasports" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/dsasports</a></strong>
+<p><strong><a href="https://for.edu.sg/scgssports" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/scgssports</a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>PERFORMING ARTS</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://for.edu.sg/scgsarts" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/scgsarts</a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SPORTS</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://for.edu.sg/scgssports" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/scgssports</a></strong>
 </p>
 </td>
 </tr>
