@@ -29,6 +29,75 @@ to the Singapore-Cambridge Secondary Education Certificate.</p>
 </p>
 <p></p>
 <p></p><a class="isomer-image-wrapper" href="https://for.edu.sg/scgsdsatalk"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_Talk_Postcard_16_May_2026.png"></a>
-<p></p><a class="isomer-image-wrapper" href="https://for.edu.sg/scgsdsatalk"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Join_your_Teams_meeting.png"></a>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<h4><strong>Join your meeting</strong></h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>DSA TALK - 9am</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://for.edu.sg/scgsdsatalk" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/scgsdsatalk</a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>BREAKOUT ROOMS AFTER THE DSA TALK</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>ACADEMIC TALENTS</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://for.edu.sg/scgsleadership" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/scgsacad</a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>LEADERSHIP</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://for.edu.sg/scgsleadership" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/scgsleadership</a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>PERFORMING ARTS</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://for.edu.sg/scgsarts" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/scgsarts</a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SPORTS</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://for.edu.sg/scgssports" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/scgssports</a></strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3><br></h3>
 <p></p>
