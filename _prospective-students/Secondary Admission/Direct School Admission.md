@@ -29,6 +29,93 @@ to the Singapore-Cambridge Secondary Education Certificate.</p>
 </p>
 <p></p>
 <p></p><a class="isomer-image-wrapper" href="https://for.edu.sg/scgsdsatalk"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_Talk_Postcard_16_May_2026.png"></a>
-<p></p><a class="isomer-image-wrapper" href="https://for.edu.sg/scgsdsatalk"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Join_your_Teams_meeting.png"></a>
+<p></p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="3">
+<h4><strong>                          Join your Team meeting</strong></h4>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teams meeting</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Time</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Link</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>DSA TALK 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9.00am</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://for.edu.sg/scgsdsatalk" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/scgsdsatalk</a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Join_your_Teams_meeting.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Join_your_Teams_meeting.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Join_your_Teams_meeting.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Join_your_Teams_meeting.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <h3><br></h3>
 <p></p>
