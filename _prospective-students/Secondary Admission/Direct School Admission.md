@@ -43,7 +43,7 @@ to the Singapore-Cambridge Secondary Education Certificate.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>DSA TALK</strong>
+<p><strong>DSA TALK - 9am</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -57,7 +57,7 @@ to the Singapore-Cambridge Secondary Education Certificate.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://for.edu.sg/scgsacad" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/scgsacad</a></strong>
+<p><strong><a href="https://for.edu.sg/scgsleadership" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/scgsacad</a></strong>
 </p>
 </td>
 </tr>
@@ -67,7 +67,7 @@ to the Singapore-Cambridge Secondary Education Certificate.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://for.edu.sg/scgssports" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/scgssports</a></strong>
+<p><strong><a href="https://for.edu.sg/scgsleadership" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/scgsleadership</a></strong>
 </p>
 </td>
 </tr>
