@@ -52,6 +52,12 @@ to the Singapore-Cambridge Secondary Education Certificate.</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="2">
+<p><strong>BREAKOUT ROOMS AFTER THE DSA TALK</strong>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><strong>ACADEMIC TALENTS</strong>
 </p>
