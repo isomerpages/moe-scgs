@@ -63,7 +63,7 @@ to the Singapore-Cambridge Secondary Education Certificate.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://for.edu.sg/scgsleadership" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/scgsacad</a></strong>
+<p><strong><a href="https://for.edu.sg/scgsacadtalent" rel="noopener noreferrer nofollow" target="_blank">https://for.edu.sg/scgsacadtalent</a></strong>
 </p>
 </td>
 </tr>
