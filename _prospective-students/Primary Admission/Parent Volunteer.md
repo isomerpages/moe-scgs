@@ -11,14 +11,12 @@ Parents of prospective students are welcome to apply and join SCGS as Parent Vol
 
 **Parent Volunteers Application**
 
-(The application has closed wef 16 Nov 2025)
-
-If your child is born between 2 Jan 2021 and 1 Jan 2022 (both dates inclusive), you may apply for Parent Volunteer online from mid-Jun 2025.  You may refer to the following timeline to understand the procedural flow for Parent Volunteers.
+If your child is born between 2 Jan 2022 and 1 Jan 2023 (both dates inclusive), you may apply for Parent Volunteer online from mid-Jun 2026.  You may refer to the following timeline to understand the procedural flow for Parent Volunteers.
 
 | TIMELINE 	| APPLICATION PROCEDURES 	|
 |---	|---	|
-| By 15 Nov 2025 	| Complete an online application form via this [link](https://form.gov.sg/67ad859f6e2262c858291d68).  <br><br>You will receive an immediate acknowledgement email upon successful submission of your application.  | 
-| By End Feb 2026 	| Only shortlisted applicants will be contacted for an interview.<br><br>If you do not hear from us by end Feb 2026, you may consider your application to be unsuccessful.  	|
-| Between Jul 2026<br>to Jun 2027 	| Parent Volunteers will commence their services of minimally 40 hours to the school. 	|
-| By Mid Jul 2027 	| An acknowledgement letter will be issued upon satisfactory completion of Parent Volunteer services. 	|
+| By 15 Nov 2026 	| Complete an online application form via this [link](https://form.gov.sg/67ad859f6e2262c858291d68).  <br><br>You will receive an immediate acknowledgement email upon successful submission of your application.  | 
+| By End Feb 2027 	| Only shortlisted applicants will be contacted for an interview.<br><br>If you do not hear from us by end Feb 2027, you may consider your application to be unsuccessful.  	|
+| Between Jul 2027<br>to Jun 2028 	| Parent Volunteers will commence their services of minimally 40 hours to the school. 	|
+| By Mid Jul 2028 	| An acknowledgement letter will be issued upon satisfactory completion of Parent Volunteer services. 	|
 |  	|  	|
