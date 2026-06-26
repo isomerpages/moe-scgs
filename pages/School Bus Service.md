@@ -17,4 +17,4 @@ Kindly contact Ms Jeccy at HP : 9090-9277 if you have queries.
 
 **School Bus Fare (July - August 2026)**
 <br>[Notice of School Bus Fare Review](/files/Bus_Transport_2026_notice.pdf)<br>
-[School Bus Fare](/files/Price_effextive_July2026.pdf)<br>
+[School Bus Fare](/files/Price_effective_July2026.pdf)<br>
