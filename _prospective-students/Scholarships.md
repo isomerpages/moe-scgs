@@ -145,11 +145,12 @@ will be renewed yearly to allow the scholar to complete four years of study
 in the Secondary School.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://form.gov.sg/68f4a752a63d6d2f9f24327a" rel="noopener nofollow" target="_blank">SCGS Sports Scholarship Application Form</a>
+<p><a href="https://form.gov.sg/6a7d1f70ea13898a8e934063" rel="noopener nofollow" target="_blank">SCGS Sports Scholarship Application Form</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2026_Sports_Scholarship_Terms_Conditions.pdf" rel="noopener nofollow" target="_blank">SCGS Sports Scholarship Terms and Conditions</a>
+<p><a href="/files/2026_Sports_Scholarship_Terms_Conditions.pdf" rel="noopener nofollow" target="_blank">SCGS Sports Scholarship Terms and</a>
+<a href="/files/2027_Sports_Scholarship_Terms_Conditions.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/2026_Sports_Scholarship_Terms_Conditions.pdf" rel="noopener nofollow" target="_blank"> Conditions</a>
 </p>
 </li>
 </ul>
