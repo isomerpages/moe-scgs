@@ -149,8 +149,7 @@ in the Secondary School.</p>
 </p>
 </li>
 <li>
-<p><a href="/files/2026_Sports_Scholarship_Terms_Conditions.pdf" rel="noopener nofollow" target="_blank">SCGS Sports Scholarship Terms and</a>
-<a href="/files/2027_Sports_Scholarship_Terms_Conditions.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/2026_Sports_Scholarship_Terms_Conditions.pdf" rel="noopener nofollow" target="_blank"> Conditions</a>
+<p><a href="/files/2027_Sports_Scholarship_Terms_Conditions.pdf" rel="noopener nofollow" target="_blank">SCGS Sports Scholarship Terms and Conditions</a>
 </p>
 </li>
 </ul>
