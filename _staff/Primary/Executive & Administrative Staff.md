@@ -77,8 +77,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_yoke_chen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Linda Lim</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
